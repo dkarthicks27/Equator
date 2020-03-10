@@ -1,2 +1,1 @@
-# Equator
-ML DATABASE
+# Machine Learning
