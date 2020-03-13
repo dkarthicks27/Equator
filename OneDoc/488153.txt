@@ -1,0 +1,22 @@
+﻿From:           George Robinson </o=cw-test/ou=first administrative group/cn=recipients/cn=george.robinson>
+Sent:           Fri Aug 17 2001 15:58:00 GMT
+To:             Larry Campbell <larry.campbell@cw-test.com>
+CC:             Rich Johnson <rich.johnson@cw-test.com>;Earl Chanley </o=cw-test/ou=first administrative group/cn=recipients/cn=earl.chanley>;Amy Villasenor </o=cw-test/ou=first administrative group/cn=recipients/cn=amy.villasenor>;Cutty Cunningham </o=cw-test/ou=first administrative group/cn=recipients/cn=cutty.cunningham>
+Subject:        Remediation Projects - Current Estimate
+Attachments:    0000000087806833F7E4D611827800065B5E7B8904AA2000.#1.TWCST01b.doc
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+The attached file contains the current estimate for remediation projects.
+
+
+
+
+
+George C. Robinson, PE
+Contract Environmental Engineer
+Cypress Engineering
+ENRON Office: (713) 646-7327
+ENRON email: george.robinson@enron.com

@@ -1,0 +1,6 @@
+From: Michael Taylor [/o=teneo-test/ou=first administrative group/cn=recipients/cn=taylor_michael]
+Subject: research san joquin and rule changes for trading
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None

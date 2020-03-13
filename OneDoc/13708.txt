@@ -1,0 +1,15 @@
+From: Ted Noble [/o=cw-test/ou=first administrative group/cn=recipients/cn=ted.noble]
+To: Susan Scott
+Subject: Load two
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+Hey Shorty,
+
+How is your day going?  Hopefully, it is going well.  Let me know when you 
+think you will be free tonight to go home, relax and then be ready to head 
+out.  I will make the reservations accordingly.  I'll talk to you later.
+
+Ted

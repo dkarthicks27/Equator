@@ -1,0 +1,506 @@
+V41967.5
+AIG Commodity Arbitrage Fund LP
+ECT
+mheard
+5
+Microsoft Word 9.0
+8
+8/15/2001 19:05:00
+8/14/2001 22:04:00
+8/15/2001 19:05:00
+1
+8465
+48254
+0
+Enron
+402
+96
+59259
+no
+no
+8/14/2001 17:04:00
+8/15/2001 14:05:00
+8/15/2001 14:05:00
+
+Deal No. V41967.5
+
+Exhibit 1
+Page 
+		
+
+
+Enron North America Corp.
+P.O. Box 4428
+Houston TX 77210-4428
+(713) 853-3300
+Fax (713) 646-4816
+ 
+
+
+CONFIRMATION 
+(SWAP)
+
+Date:				April 18, 2001
+To:				AIG Commodity Arbitrage Fund L.P. (“Counterparty”)
+Attention:			Document Department
+Fax No.:			203-861-3001
+From:				Enron North America Corp. (“ENA”)
+Re:				Commodity Swap V41967.5
+
+Dear Sirs:
+
+The purpose of this document is to confirm the terms and conditions of the transaction entered into between AIG Commodity Arbitrage Fund L.P. (“Counterparty”) and Enron North America Corp. (“ENA”) on April 18, 2001 (the “Transaction”).  This document constitutes a “Confirmation” as referred to in the ISDA Agreement specified below and the transaction described above constitutes a “Transaction” as referred to in such ISDA Agreement.  This is a Confirmation of the following Transaction entered into between us on April 18, 2001 between the parties.
+
+1.	The definitions and provisions contained in the 2000 ISDA Definitions and the 1993 ISDA Commodity Derivatives Definitions (as supplemented by the 2000 Supplement), as such definitions may be amended, supplemented, replaced or modified from time to time (the “Definitions”), each as published by the International Swaps and Derivatives Association, Inc. (“ISDA”), are incorporated into this Confirmation.  In the event of any inconsistency between the Definitions and this Confirmation, this Confirmation will prevail.  In the event of any inconsistency between the 2000 ISDA Definitions and the 1993 ISDA Commodity Derivatives Definitions, the 1993 ISDA Commodity Derivatives Definitions will prevail.
+
+2.	Terms of Transaction.  The terms of the particular Transaction to which this Confirmation relates are as follows:
+
+General Terms:
+
+Notional Quantity per
+Calculation Period:
+
+5,000 Barrels per month
+
+
+
+
+Commodity:	
+New York Residual #6 (1%) Fuel Oil
+
+
+
+
+Commodity Unit:
+Barrels (BBL) ( 42 U. S. Gallons ) 
+
+
+
+
+Trade Date:
+April 18, 2001
+
+
+
+
+Effective Date:	
+January 01, 2002
+
+
+
+
+Termination Date:
+December 31, 2002
+
+
+
+
+Calculation Period(s):
+Each calendar month beginning with January 01, 2002 and ending on December 31, 2002.
+
+
+Payment Date(s):
+The fifth (5th) Business Day following the date on which the Floating Price is determinable
+
+
+Fixed Amount Details:
+
+	Fixed Price Payor:			ENA
+	
+Fixed Price:
+US Dollars $22.57000 per Barrel
+
+	
+Floating Amount Details:
+
+	Floating Price Payor:			Counterparty
+
+Floating Price:
+The arithmetic average of the mean of the daily quotations for No. 6, 1% S Max appearing under the heading “New York/Boston Cargo” in the section entitled “Product Price Assessments” for those issues of Platt’s Oilgram Price Reports published for the applicable Calculation Period
+
+            
+ 
+
+Each payment will be made in the Contractual Currency (specified in this Confirmation, or if not specified, in U.S. Dollars).
+
+3.            Account Details.
+
+
+
+
+
+	Payments to ENA:
+
+
+
+
+
+
+Pay  
+:	Bank of America, N.A.
+
+
+
+
+For the Account of
+:	Enron North America Corp.
+
+
+
+
+Account Number/
+CHIPS UID
+
+:	3750494727
+
+
+
+
+Fed. ABA No.
+:	111000012
+
+
+
+
+	Payments to Counterparty:
+
+
+
+
+
+Pay  
+:
+
+
+
+
+For the Account of
+:
+
+
+
+
+Account Number/
+CHIPS UID
+
+:
+
+
+
+
+Fed. ABA No.
+:
+
+
+
+
+	Attn:  
+
+
+
+
+
+
+4.	General.  The Transaction is subject to the terms and conditions of the 1992 Master Agreement (Multicurrency-Cross Border) (the “ISDA Agreement”) published by ISDA, as modified by this Confirmation.  This Transaction and any future Transactions between the parties are entered into on reliance on that fact that this Confirmation and any future Confirmations form a single agreement between the parties, and the parties would not otherwise enter into any Transaction(s).  Capitalized terms used herein and not otherwise defined herein shall have the meanings given to such terms in the ISDA Agreement.  Each party acknowledges that it has a copy of the ISDA Agreement and it has read and understands the terms and conditions thereof.  In the event of any inconsistency among or between the ISDA Agreement, the Definitions, and this Confirmation, this Confirmation will govern.  This Confirmation evidences a complete and binding memorialization of our agreement as to the terms of the Transaction to which this Confirmation relates.  In addition, ENA and Counterparty agree to promptly negotiate in good faith and enter into a master agreement as soon as reasonably possible in the form of the ISDA Agreement and a separate Credit Support Annex, if applicable, with such modifications as ENA and Counterparty shall in good faith agree (the “Agreement”).  Upon execution of such Agreement, this Confirmation will supplement, form part of, and be subject to that Agreement.  All provisions contained in the Agreement will govern this Confirmation except as expressly stated herein.  If an Agreement is not executed, the Transaction shall be governed by the terms and conditions of the ISDA Agreement as modified by this Confirmation.
+
+Each party will make each payment specified in this Confirmation as being payable by it, not later than the due date for value on that date in the place of the account specified above, in freely transferable funds and in the manner customary for payments in the required currency. If the Payment Dates for two or more swap, swaption or option agreements or other derivative transactions between the parties fall on the same day, if each party is required to make a payment to the other on such Payment Date, such amounts with respect to each party shall be aggregated, and the party owing the greater aggregate amount shall pay to the other party the difference between the amounts owed.
+
+5.		Representations.  To induce the other to enter into the Transaction, each party represents and warrants to the other that: (a) Authority:  (i) the execution, delivery and performance of this Confirmation have been duly authorized by all necessary corporate or other organization action on its part, (ii) this Confirmation is its legally valid and binding obligation, enforceable against it in accordance with its terms; and (b) Eligibility:  (i) It constitutes an “eligible contract participant” as such term is defined in the Commodity Exchange Act, as amended 7 U.S.C. §1a(12) and (ii) it constitutes an “eligible commercial entity” as such term is defined in the Commodity Exchange Act, as amended 7 U.S.C. §1a(11) and (c) No Reliance and No Advisory Status:  (i) the other party to this Confirmation (1) is not acting as a fiduciary or financial, investment or commodity trading advisor for it, and (2) has not given to it (directly or indirectly through any other person) any assurance, guaranty or representation whatsoever as to the merits (either legal, regulatory, tax, financial, accounting or otherwise) of this Confirmation or the expected performance or result of this Confirmation; and (ii) in connection with the negotiation and execution of this Confirmation, (1) it is acting as a principal (and not as an agent or in any other capacity, fiduciary or otherwise), (2) it is not relying upon any advice, counsel or representations (whether written or oral) of the other party other than the representations expressly set forth in this Confirmation, (3) it has made and will make its own decisions regarding the entering into of this Confirmation based upon its own judgment and upon the advice from such professional advisors as it deemed, or will deem, necessary to consult, (4) all of its decisions regarding this Confirmation have been the result of arm’s length negotiations between the parties, and (5) it has a full understanding of all the terms, conditions and risks (economic and otherwise) of this Confirmation, and it is capable of assuming and willing to assume (financially and otherwise) those risks; and (e) Tax Representations and Covenants:  for purposes of Section 3(e) and 3(f) of the ISDA Agreement, each of the parties makes the representations applicable to it as set forth in Sections I(a) and (b) of Annex A to this Confirmation as of the Trade Date and as of the date of this Confirmation and in the case of the representations given for purposes of Section 3(f) of the ISDA Agreement (which representations are set forth in Section I(b) of Annex A), at all times until termination of the Transaction.  In addition, each party covenants and agrees that it will deliver to the other party the Tax forms, documents or certificates as required pursuant to Section II(a) of Annex A.
+
+6.	Early Termination.  For purposes of Section 6(e) of the ISDA Agreement, the Second Method and Loss shall apply.
+
+7.	Governing Law/Jurisdiction.  This Confirmation and the ISDA Agreement will be governed by and construed in accordance with the laws of the State of New York (without reference to choice of law doctrine).  Section 13(b) of the ISDA Agreement is replaced with the following:  “(b)  Jurisdiction.  Any dispute relating to this Confirmation shall be resolved by binding arbitration governed by the Federal Arbitration Act (“FAA”), and conducted in accordance with the Commercial Arbitration Rules of the American Arbitration Association (“AAA”).  Each party shall select one arbitrator within 30 days of a notice for arbitration and the two arbitrators shall select a third neutral arbitrator with at least 8 years professional experience in over-the-counter derivative transactions.  Only damages allowed pursuant to this Confirmation and the ISDA Agreement may be awarded and the arbitrators shall have no authority to award treble, exemplary or punitive damages of any kind under any circumstances regardless of whether such damages may be available under the governing law for this Confirmation and/or the FAA or AAA.  The arbitration shall be conducted in New York, New York, and such arbitration, and any related award shall be confidential.”
+
+8.	Confidentiality.  The contents of this Confirmation, the Transactions hereunder and all other documents relating to thereto (hereinafter collectively referred to as “this Agreement”), and any information made available by one party to the other party with respect to this Agreement is confidential and shall not be disclosed to any third party (nor shall any public announcement relating to this Agreement be made by either party), except for such information (i) as may become generally available to the public, (ii) as may be required or appropriate in response to any summons, subpoena, or otherwise in connection with any litigation or to comply with any applicable law, order, regulation, ruling, or accounting disclosure rule or standard, (iii) as may be obtained from a non-confidential source that disclosed such information in a manner that did not violate its obligations to the non-disclosing party in making such disclosure, or (iv) as may be furnished to the disclosing party’s Affiliates, and to each such person’s auditors, attorneys, advisors or lenders which are required to keep the information that is disclosed in confidence.
+
+9.	Calculation Agent.  The Calculation Agent shall be ENA.
+
+10.	Limitation of Liability.   No party shall be required to pay SPECIAL, EXEMPLARY, PUNITIVE, incidental, consequential or indirect damages (WHETHER OR NOT ARISING FROM A PARTY'S NEGLIGENCE) to the other party, except to the extent that the payments required to be made pursuant to thIS Confirmation AND THE ISDA AGREEMENT are deemed to be such damages.  If and to the extent any payment made pursuant to thIS Confirmation AND THE ISDA AGREEMENT is deemed to constitute liquidated damages, the parties acknowledge and agree that damages are difficult or impossible to determine and that such payment constitutes a reasonable AND GENUINE PRE-ESTIMATE AND approximation of the amount of such damages, and not a penalty.  
+
+11.	Setoff.  (a) Upon the designation or deemed designation of an Early Termination Date the Non-defaulting Party or the non-Affected Party (in either case, “X”) may, at its option and in its discretion, setoff, against any amounts owed to the Defaulting Party or Affected Party (in either case, “Y”) in Dollars or any other currency by X or any Affiliate of X under this Confirmation and the ISDA Agreement or otherwise, any amounts owed in Dollars or any other currency by Y to X or any of its Affiliates (irrespective of place of payment or booking office of the obligation) under this Confirmation and the ISDA Agreement or otherwise.  The obligations of Y and X under this Confirmation and the ISDA Agreement in respect of such amounts shall be deemed satisfied and discharged to the extent of any such setoff.  For this purpose, the amounts subject to the setoff to the extent necessary may be converted by X into the Termination Currency at the rate of exchange at which X, acting in a reasonable manner and in good faith, would be able to purchase the relevant amount of the currency being converted.  X will give Y notice of any setoff effected under this section as soon as practicable after the setoff is effected provided that failure to give such notice shall not affect the validity of the setoff.  If an obligation is unascertained, X may in good faith estimate that obligation and set-off in respect of the estimate, subject to the relevant party accounting to the other when the obligation is ascertained.  Nothing herein shall be effective to create a charge or other security interest.  This setoff provision shall be without prejudice and in addition to any right of setoff, combination of accounts, lien or other right to which any party is at any time otherwise entitled (whether by operation of law, contract or otherwise).
+
+(b)  Notwithstanding any provision to the contrary contained in this Confirmation and the ISDA Agreement, the Non-defaulting Party or non-Affected Party, as the case may be, shall not be required to pay to the Defaulting Party or Affected Party any amount under Section 6(e) of the ISDA Agreement until the Non-defaulting Party or non-Affected Party receives confirmation satisfactory to it in its reasonable discretion (which may include an opinion of its counsel) that all other obligations of any kind whatsoever (whether pursuant to Specified Indebtedness as defined in the ISDA Agreement or otherwise) of the Defaulting Party or Affected Party to make any payments to the Non-defaulting Party or non-Affected Party or any of its Affiliates under this Confirmation and the ISDA Agreement or otherwise which are due and payable as of the Early Termination Date hereof have been fully and finally performed.
+
+12.	Termination Currency.  The Termination Currency shall be U.S. Dollars.
+
+
+
+13.	Miscellaneous.
+
+a) Additional Representations. For the purpose of Section 3 of the ISDA Agreement, Counterparty further represents and warrants to ENA (which representations will be deemed repeated by Counterparty at all times until the termination of the Transaction) that:
+
+this Agreement and any Transaction hereunder do not constitute any kind of investment by Party B that is proscribed by any Investment Policy, limitation or restriction to which Party B is subject; and
+
+(ii)	it is not any employee benefit plan subject to the Employee Retirement Income Security Act of 1974 (“ERISA”), is not acting on behalf of an employee benefit plan subject to ERISA, and is not using assets which are or which are deemed under ERISA to be assets of an employee benefit.
+
+b) Authorization. For the purpose of Section 4(a) of the ISDA Agreement, upon execution of this Confirmation, Counterparty agrees to deliver to ENA: (A) a certified resolution of its board of directors or other governing body (i) authorizing this Confirmation and the Transaction contemplated hereby and (ii) authorizing a specified person(s) to execute and deliver on its behalf this Confirmation; and (B) copies of its certificate of limited partnership and partnership agreement or other constituent documents as well as its prospectus; and (C) a letter from its Manager in form and substance satisfactory to ENA.
+
+14.	Offices.
+
+	(a)	The office of Enron North America Corp. is and copies of any notices should be delivered to 1400 Smith Street, Houston, Texas  77002, Attention:  Director, Documentation Department, Facsimile No. (713) 646-4816; and to Attention: Assistant General Counsel, Trading Group - ENA, Facsimile No. (713) 646-4818, at the above address; and
+
+	(b)	The office of Counterparty is and copies of any notices should be delivered to: 1281 East Main Street, Stamford, Connecticut  06902, Attention:  Legal Department, Facsimile No. (203) 324-8488.
+
+15.	Credit or Other Special Provisions.
+
+	The credit or other special provisions contained in Annex B and Annex B-1 hereto and made a part hereof apply and are incorporated herein by reference, such that the term “Confirmation” as used herein and in the Annex attached hereto, shall refer to and mean, this Confirmation, together with all of the Annexes attached hereto.
+
+Please promptly confirm that the foregoing correctly sets forth the terms of the Transaction entered into between us by executing the copy of this Confirmation and returning it to us within one Business Day of receipt hereof via Facsimile to (713) 646-4816, Attention:  Director, Documentation Dept.  A copy of the originally executed Confirmation should be sent to us by overnight delivery for receipt within two Business Days of receipt hereof.
+
+
+
+
+Enron North America Corp. is pleased to have entered into this Transaction with you.
+
+Yours sincerely,
+
+ENRON NORTH AMERICA CORP.
+
+By:	_____________________________
+Name:	_____________________________
+Title:	_____________________________
+
+Confirmed as of the Trade Date:
+
+AIG COMMODITY ARBITRAGE FUND L.P.
+
+By:	_____________________________
+Name:	_____________________________
+Title:	_____________________________
+
+	
+	
+
+
+
+ANNEX A
+
+U.S. WITHHOLDING TAX
+
+Party A: Enron North America Corp.
+Party B:  AIG Commodity Arbitrage Fund  L.P.
+I.	Tax Representations.
+(a)	Payer Representations.  For the purpose of Section 3(e) of the ISDA Agreement, Party A and Party B make the following representation:
+It is not required by any applicable law, as modified by the practice of any relevant governmental revenue authority, of any Relevant Jurisdiction to make any deduction or withholding for or on account of any Tax from any payment (other than interest under Section 2(e), 6(d)(ii), or 6(e) of the ISDA Agreement) to be made by it to the other party under this Confirmation and the ISDA Agreement.  In making this representation, it may rely on (i) the accuracy of any representations made by the other party pursuant to Section 3(f) of the ISDA Agreement, (ii) the satisfaction of the agreement contained in Section 4(a)(i) or 4(a)(iii) of the ISDA Agreement and the accuracy and effectiveness of any document provided by the other party pursuant to Section 4(a)(i) or 4(a)(iii) of the ISDA Agreement, and (iii) the satisfaction of the agreement of the other party contained in Section 4(d) of the ISDA Agreement, provided that it shall not be a breach of this representation where reliance is placed on Clause (ii) and the other party does not deliver a form or document under Section 4(a)(iii) of the ISDA Agreement by reason of material prejudice to its legal or commercial position.
+(b)	Payee Representations.  For the purpose of Section 3(f) of the ISDA Agreement, Party A and Party B make the following representations:
+(i)	The following representation applies to Party A:
+Party A is a corporation organized under the law of the State of Delaware.
+(ii)	The following representation applies to Party B:
+Party B is a limited partnership organized under the law of the State of Delaware.
+
+II.	Agreement to Deliver Documents
+For the purpose of Section 4(a) of the ISDA Agreement, the Tax forms, documents, or certificates to be delivered are:
+(a)	Party B agrees to complete (accurately and in a manner reasonably satisfactory to Party A), execute, and deliver to Party A a United States Internal Revenue Form W-9, or any successor form, (i) as of the date of this Confirmation and the ISDA Agreement, (ii) promptly upon reasonable demand by Party A, and (iii) promptly upon learning that any such form previously provided by Party B has become obsolete or incorrect.
+
+III.	Definitions.   Capitalized terms not otherwise defined in this Annex A shall have the meaning set forth in this Confirmation or the ISDA Agreement.
+
+DEEMED ISDA
+
+ANNEX B
+
+CREDIT AND OTHER SPECIAL PROVISIONS
+
+
+	This Annex B supplements, forms part of, and is incorporated into the Confirmation to which this Annex B is attached.  Until an ISDA Master Agreement is executed by the parties, this Annex B will set forth the credit and other special provisions governing all Transactions between the parties except as otherwise specified in a Confirmation to a Transaction.
+1.	Additional Termination Events. The following will constitute Additional Termination Events for purposes of Section 5(b) of the ISDA Agreement.  For purposes of the Termination Event set forth in clause (ix) below, the Defaulting Party shall be the Affected Party and for purposes of the Termination Events set forth in clauses (x) through (xv) below (the “Counterparty Additional Termination Events”), Counterparty shall be the Affected Party:
+
+(i)	The following Additional Termination Events are added to Section 5(b) of the ISDA Agreement:
+
+"(ix)	the Defaulting Party fails to establish, maintain, renew, substitute or increase the Performance Assurance, including without limitation, any Additional Amount applicable to it, in accordance with the terms and provisions of Annex B-1 and the failure continues for two (2) Business Days after notice from the other party; or
+
+(x)	if in any twelve (12) month period the Net Asset Value of Counterparty declines by more than 50 %; or
+if the ratio of Counterparty’s Liabilities to Net Asset Value is more than 3 to 1; or
+(xii)	if Counterparty’s Net Asset Value falls below U.S. $30,000,000; or
+(xiii)	(y) in the event that Counterparty has only one Manager, if such Manager resigns, is terminated or is otherwise incapacitated for a period exceeding one month or (z) in the event that Counterparty has more than one Manager, if all such Managers resign, are terminated or are otherwise incapacitated for a period exceeding one month; or
+(xiv)	if Counterparty’s Management Agreement is terminated by either the Manager or Counterparty (including breach of the Management Agreement or the Investment Policy); or”
+(xv)	if Counterparty’s Manager ceases to be either Joseph Kleinman, Simon Glover or another Person acceptable to ENA.”
+
+	(ii)	Cross Default:
+
+The “Cross Default provisions of Section 5(a)(vi) of the ISDA Agreement will apply to Counterparty; and will apply to ENA and ENA’s Credit Support Provider.  Specified Indebtedness will have the meaning specified in Section 14 of the ISDA Agreement.  Threshold Amount means: with respect to ENA, U.S. $150,000,000 (or its equivalent in another currency); with respect to ENA's Credit Support Provider, U.S. $150,000,000 (or its equivalent in another currency); and with respect to Party B, U.S. $2,500,000 (or its equivalent in another currency); provided, that, such Threshold Amount shall apply individually and not collectively with respect to each entity set forth above notwithstanding anything to the contrary set forth in Section 5(a)(vi) of the Master Agreement.
+
+2.	Additional General Definitions.  The following definitions are hereby added to Section 14 of the ISDA Agreement:
+
+"Credit Support Provider" means, with respect to ENA only, Enron Corp.
+“Investment Policy” means Counterparty’s investment objectives, restrictions and guidelines as set forth in Counterparty’s prospectus, which incorporates the use of derivative products, including swaps, options and other Transactions. 
+“Liabilities” means all liabilities of Counterparty, including, but not limited to, accrued expenses, amounts due to brokers, redemptions payable, commodity options written, and all fees and commissions payable.
+“Management Agreement” means that certain Portfolio Management Agreement dated October 15, 1997 between Counterparty, AIG International Management Company, Inc., as the General Manager for the fund and Finagra Management L.L.C., as the Trading Advisor for the fund for managing the operations and affairs of Counterparty.
+“Manager” means any Person with ultimate authority to direct the investments of Counterparty which as of the date hereof shall be Joseph Kleinman and Simon Glover.
+
+ “Net Asset Value” means, as of the relevant date of determination, an amount (expressed in U.S. Dollars) equal to the sum of Counterparty’s total assets minus Counterparty’s total liabilities.
+
+3.	Credit Support Documents.  The following Sections are hereby added to Paragraph 14 of the Confirmation:
+
+"Credit Support Documents - Collateral Annex and Performance Assurance.  Counterparty has delivered to ENA Performance Assurance in the amount of $10,000 (the "Additional Amount") which Additional Amount shall be maintained in favor of ENA in accordance with the terms of Annex B-1.  In addition, Counterparty and ENA shall establish, maintain, renew, substitute and increase Performance Assurance as (and only to the extent) required by Annex B-1, which shall be a Credit Support Document."
+
+"Credit Support Documents - Guaranty.  Within ten (10) Business Days of the date of this Confirmation, ENA shall cause to be delivered to Counterparty the duly executed guaranty ("Guaranty") from its Credit Support Provider in favor of Counterparty in the form attached as Annex B-2, which shall be a Credit Support Document."
+
+4.	Financial Information.
+
+	The following documents are hereby required to be delivered pursuant to Section 4(a) of the ISDA Agreement:
+
+"(iv)	Upon written request, each party shall deliver to the other (i) as soon as available and in any event within 120 days after the end of its (or in the case of ENA, Enron Corp.'s) fiscal year a copy of its (or in the case of ENA, Enron Corp.'s) annual consolidated financial statements for such fiscal year (and the annual report, if any, and notes thereto) certified by independent certified public accountants and prepared in accordance with generally accepted accounting principles, consistently applied ("GAAP"), and further with respect to ENA, only if Enron Corp.’s annual consolidated financial statements are not available on “EDGAR” or Enron Corp.’s home page on the World Wide Web at www.enron.com;  (ii) as soon as available and in any event within sixty (60) days after the end of each of its (or in the case of ENA, Enron Corp.'s) first three fiscal quarters of each fiscal year, copies of its (or in the case of ENA, Enron Corp.'s) quarterly reports containing unaudited consolidated financial statements for such fiscal quarter prepared in accordance with GAAP, and further with respect to ENA, only if Enron Corp.'s quarterly unaudited consolidated financial statements are not available on “EDGAR” or Enron Corp.’s home page on the World Wide Web at www.enron.com; (iii) such other publicly available financial information as the other party may reasonably request; and (iv) promptly following demand by ENA, but in no event later than twenty (20) days after the end of each month, monthly account statements detailing, at a minimum, the Net Income of Counterparty for the relevant month, with detail on the change, if any, in the Net Asset Value; such detail should include the Net Asset Value at the start of each month, the Net Asset Value at the end of each month, redemptions, additional investments, distributions, and all other specific items of information required to calculate the Net Asset Value at the end of the month from the Net Asset Value at the beginning of the month.”
+
+ANNEX B-1
+COLLATERAL AND EXPOSURE PROVISIONS
+
+	This Annex B-1 supplements, forms part of, and is incorporated into the Confirmation to which it is attached.  Capitalized terms used in this Annex but not defined herein shall have the meanings given to them in the Confirmation or the ISDA Agreement (including all Annexes); provided upon execution of the ISDA Agreement by the parties (i) all Additional Amounts shall automatically become Independent Amounts under, and as defined in, the ISDA Agreement, and (ii) all Performance Assurance held by a party pursuant to the terms hereof shall automatically become Posted Credit Support under, and as defined in, the ISDA Agreement.
+
+
+	1.  Certain Definitions.  As used herein:
+
+	(a)	"Additional Amount" shall mean, with respect to ENA, the amount specified as such for ENA in each Confirmation, or if no amount is specified, zero and means with respect to Counterparty, the amount specified as such for ENA in a Confirmation, which amount may be increased or decreased from time to time by ENA in a Confirmation and which amount, as so modified, shall be the Additional Amount applicable for all outstanding Swaps, provided, however, that in no event shall Counterparty’s Additional Amount be less than $10,000 if there are any outstanding Swaps.
+
+	(b)	“Business Day” shall mean a day on which commercial banks are open for business in New York, New York, Houston, Texas and in the cities where the parties’ addresses are specified in the Confirmation. 
+ 
+	(c)	The "Collateral Requirement" for a Non-Exposed Party shall mean the excess, if any, of (i) (x) the Exposed Party’s Net Exposure plus (y) the aggregate of all Additional Amounts applicable to the Non-Exposed Party minus (ii) the Non-Exposed Party’s Exposure Threshold; plus the sum of (y) any Cash previously delivered to the Exposed Party and not returned pursuant to Section 2(b) of this Annex and any Interest Amount that has not been delivered to the Non-Exposed Party; and (z) any Cash held by the Exposed Party pursuant to Section 5 of this Annex.
+		
+(d)	"Credit Rating" means, with respect to a party (or its Credit Support Provider, as the case may be) or entity, on any date of determination, the respective rating then assigned to such party's (or its Credit Support Provider's, as the case may be) or entity's unsecured and senior long-term debt or deposit obligations (not supported by third party credit enhancement) by S&P, Moody's or the specified rating agency or agencies.
+
+	
+	(e)	The "Current Value" of a Swap at any time shall mean the amount, as calculated by the Exposed Party in good faith and in a commercially reasonable manner, which a party would pay to or receive from a third party in an arm's-length swap, as consideration for entering into a new Swap at that time in which such party holds the same position as in the outstanding Swap, assuming that the term of such Swap encompasses only incomplete Calculation Periods and that such Swap is in all other respects identical to the outstanding Swap.
+
+	(f)	"Exposure" for a Swap shall mean (1) if a payment amount under the Confirmation (or a payment amount under any other Swap) has been determined and is due but not yet paid, the amount of such payment, with the party due and owed such amount having Exposure to the other party in such amount; and (2) the Current Value of the Swap, with the party that would be due and owed such amount from the other party having Exposure to the other party in such amount.  All calculations of Exposure shall be done by the Exposed Party in good faith and in a commercially reasonable manner.
+
+To the extent that a Swap is covered in part by clause (1) and (2), such Swap shall be treated as separate Swaps for purposes of these calculations, to the extent covered by each such clause.
+
+(g)	"Exposure Threshold" shall mean, with respect to (i) ENA, $0 and (ii) Counterparty, $0.  The Exposure Threshold assigned to a party shall be the threshold applied to such party for all Swaps in the aggregate.
+
+	(h)	"Exposure Amount" for each party shall be calculated for all Swaps by calculating each party's Exposure to the other party in respect of all Swaps.  The party having the greater Exposure Amount at any time (the "Exposed Party") shall be deemed to have a "Net Exposure" to the other party (the "Non-Exposed Party") equal to the difference between its Exposure Amount and the other party's Exposure Amount.
+
+	(i)	"Interest Amount" shall mean with respect to an "Interest Period" (as defined herein), the aggregate sum of the amounts of interest calculated for each day in that Interest Period on the principal amount of Cash held by the Exposed Party on that day, determined by the Exposed Party for each such day as follows: (x) the amount of Cash held by the Exposed Party on that day; multiplied by (y) the Interest Rate (as defined herein) for that day: divided by (z) 360.  "Interest Period" means the period from (and including) the last Business Day on which an Interest Amount was Transferred (or if no Interest Amount has yet been Transferred, the Business Day on which Cash was Transferred to the Exposed Party) to (but excluding) the Business Day on which the current Interest Amount is to be Transferred.  "Interest Rate" shall be the Federal Funds Overnight Rate as from time to time in effect.  "Federal Funds Overnight Rate" means the rate for that day opposite the caption "Federal Funds (Effective)" as set forth in the weekly statistical release designated as H.15(519), or any successor publication, published by the Board of Governors of the Federal Reserve System.
+
+(j)	"Material Adverse Change" means (a) with respect to ENA, its Credit Support Provider's Credit Rating is below "BBB-" by S&P or, if it has no Credit Rating from S&P, its Credit Support Provider's Credit Rating is below "Baa3" by Moody's or its Credit Support Provider fails to have a Credit Rating from either S&P or Moody’s, or (b) with respect to Counterparty, a Counterparty Additional Termination Event occurs.  
+
+(k)	"Moody's" means Moody's Investors Service, Inc. or its successor.
+
+
+(l)	"Performance Assurance" means (i) all Cash that has been Transferred to or received by the Exposed Party and not Transferred to the Non-Exposed Party pursuant to Section 2(b) of this Annex or released by the Exposed Party; (ii) any Interest Amount or portion thereof that has not been Transferred pursuant to Section 3(b) of this Annex and any Cash received by the Exposed Party pursuant to Section 5 of this Annex; and (iii) all proceeds of all of the foregoing property that have been Transferred to or received by the Exposed Party hereunder.
+
+(m)	“S&P" means the Standard & Poor's Rating Group (a division of McGraw-Hill, Inc.) or its successor.
+
+ (n)	"Swaps" shall mean (i) any outstanding swap, option or other financially-settled derivative transaction entered into between Counterparty and ENA prior to, on or after the date hereof, other than the Confirmation to which this Annex is attached and (ii) the swap, option or other financially-settled derivative transaction under the Confirmation to which this Annex is attached.  "Swap" shall mean any of the Swaps.
+(o)	"Transfer" shall mean, with respect to any Performance Assurance or Interest Amount, and in accordance with the instructions of ENA or Counterparty, as applicable, payment or delivery by wire transfer into one or more bank accounts specified by the recipient.
+
+	(p)	Defined terms used but not defined herein shall have the meanings given such terms in the Confirmation to which this Annex is attached.
+
+	2.  Performance Assurance.
+
+(a)	On any Business Day, the Exposed Party may demand in writing that the Non-Exposed Party establish and maintain (subject to increase as provided below) (1) Performance Assurance for the benefit of the Exposed Party equal to the Non-Exposed Party’s Collateral Requirement, rounded up to the next higher integral multiple of $100,000, or (2) increase the amount of any outstanding Performance Assurance so that after such increase the Collateral Requirement has been fully satisfied.  The Non-Exposed Party shall either establish such Performance Assurance or increase any outstanding Performance Assurance, in each case by delivering Cash to the Exposed Party.  Unless otherwise agreed in writing by the parties, Performance Assurance demanded of the Non-Exposed Party by 10:00 a.m., New York time, on a Business Day shall be provided by the close of business on the next succeeding Business Day.
+(b)	On any Business Day (but no more frequently than weekly), a party (the “Requesting Party”) that has provided Performance Assurance to the other party (the “Non-Requesting Party”) may request a reduction in the amount of Performance Assurance previously provided by it, provided that, after the requested reduction in Performance Assurance, (i) the Requesting Party shall then have a Collateral Requirement of zero; (ii) if at such time there are outstanding Swaps between the parties or unsatisfied obligations from the Requesting Party to the Non-Requesting Party exist with respect to any Swaps, the Non-Requesting Party shall either be holding Performance Assurance or shall have had Performance Assurance issued for its benefit in an amount equal to the aggregate of any Additional Amounts applicable to the Requesting Party; (iii) no Event of Default, Potential Event of Default or Termination Event with respect to the Requesting Party shall have occurred and be continuing; and (iv) no Early Termination Date for which any unsatisfied payment obligations of the Requesting Party exist has occurred or been designated as a result of an Event of Default or Termination Event with respect to the Requesting Party.  A permitted reduction in Performance Assurance shall be effected by the Transfer of Cash to the Requesting Party.  The Non-Requesting Party shall have two (2) Business Days to effect a permitted reduction in Performance Assurance.  In all cases, the cost and expense of reducing Performance Assurance (including but not limited to the reasonable costs, expenses, and attorneys' fees of the Non-Requesting Party) shall be borne by the Requesting Party.
+
+3.  Cash Collateral.  Performance Assurance in the form of United States Dollars (“Cash”) shall be subject to the following provisions:
+
+(a)	Unless otherwise agreed in writing by the parties, Cash shall be delivered in accordance with this Annex and to such account specified by the Exposed Party in the demand sent to the Non-Exposed Party pursuant to Section 2 of this Annex. 
+
+(b)		So long as no Event of Default or Termination Event with respect to the Non-Exposed Party has occurred and is continuing, and no Early Termination Date for which any unsatisfied payment obligations of the Non-Exposed Party exist has occurred or been designated as the result of an Event of Default or Termination Event with respect to the Non-Exposed Party and to the extent that an obligation to deliver Performance Assurance would not be created or increased by the Transfer, the Exposed Party will Transfer to the Non-Exposed Party, in lieu of any interest, dividends or other amounts paid or deemed to have been paid with respect to the Cash (all of which may be retained by the Exposed Party), the Interest Amount (as defined above) on the last Business Day of each calendar month.  On or after the occurrence of an Event of Default or Termination Event with respect to the Non-Exposed Party or an Early Termination Date as a result of an Event of Default or Termination Event with respect to the Non-Exposed Party, the Exposed Party shall retain any such Interest Amount as additional Cash hereunder until the obligations of the Exposed Party under the Confirmation have been satisfied.
+(c)	Without limiting the Exposed Party’s rights under Section 8(d) of this Annex, the Exposed Party will exercise reasonable care to assure the safe custody of all Cash to the extent required by applicable law, and in any event the Exposed Party will be deemed to have exercised reasonable care if it exercises at least the same degree of care as it would exercise with respect to its own property.  Except as specified in the preceding sentence, the Exposed Party will have no duty with respect to Cash.
+
+(d)	ENA will be entitled to hold Performance Assurance; provided that the following conditions applicable to it are satisfied:  (1) ENA is not a Defaulting Party and a Material Adverse Change has not occurred with respect to ENA.  In addition, Performance Assurance may be held only in the United States.
+
+(e)	Counterparty will be entitled to hold Performance Assurance; provided that the following conditions applicable to it are satisfied:  (1) Counterparty is not a Defaulting Party and a Material Adverse Change has not occurred with respect to Counterparty.  In addition, Performance Assurance may be held only in the United States.
+
+(f)	If a party is not eligible to hold Performance Assurance pursuant to this Section, then it shall be considered a “Downgraded Party” (as defined below) and Performance Assurance shall be maintained in accordance with the following provisions.   The provisions of Section 7(d) of this Annex will apply to the parties; provided, however, that if a party is not eligible to hold Performance Assurance pursuant to Section 3(d) or (e) of this Annex (the event that caused it to be ineligible to hold Performance Assurance shall be a “Credit Rating Event” and such party shall be the “Downgraded Party”), then:
+
+(1)  the provisions of Section 7(d) of this Annex will not apply with respect to the Downgraded Party as the Secured Party (as defined below) for so long as it remains a Downgraded Party.
+
+(2)  the Downgraded Party shall be required to deliver not later than the close of business on the second Business Day following such Credit Rating Event all Performance Assurance in its possession or held on its behalf to a commercial bank or trust company organized under the law of the United States or a political subdivision thereof, with a Credit Rating of at least “A-” in the case of S&P or “A3” in the case of Moody’s (“Qualified Institution”), approved by the non-Downgraded Party (which approval shall not be unreasonably withheld) to a segregated, safekeeping or custody account (“Collateral Account”) within such Qualified Institution with the title of the Collateral Account indicating that the property contained therein is being held as Performance Assurance for the Downgraded Party.  The Qualified Institution shall serve as Custodian with respect to the Performance Assurance in the Collateral Account, and shall hold such Performance Assurance in accordance with the terms of this Annex and for the security interest of the Downgraded Party and, subject to such security interest, for the ownership of the non-Downgraded Party.
+
+(3)   So long as the provisions of Section 7(d) of this Annex do not apply, the Qualified Institution holding the Performance Assurance will invest and reinvest or procure the investment and reinvestment of the Performance Assurance in accordance with the written instructions of the party posting the Performance Assurance (the “Pledgor”), subject to the approval of such instructions by the other party (the “Secured Party”) (which approval shall not be unreasonably withheld), provided that the Qualified Institution shall not be required to so invest or reinvest or procure such investment or reinvestment if an Event of Default with respect to the Pledgor shall have occurred and be continuing.  The Secured Party shall have no responsibility for any losses resulting from any investment or reinvestment effected in accordance with the Pledgor’s instructions
+
+
+	4.  Additional Representation.  Each party continuously represents and warrants to the other party that (a) it has the power and authority under the law of the jurisdiction of its organization or incorporation and under its organizational and constituent documents to grant to the other party, a valid, enforceable, first-priority security interest in, and lien on, all Performance Assurance that it provides as the Non-Exposed Party to the other party hereunder and has taken all necessary actions to authorize the granting of that security interest and lien; (b) as of each date on which it, as the Non-Exposed Party, delivers Performance Assurance to the Exposed Party or to any agent of the Exposed Party for the benefit of the Exposed Party (or, in the case of after-acquired Cash, at the time the Exposed Party or its agent acquires rights therein), it will have title to and will be the sole owner of such Performance Assurance, free and clear of any security interest, lien, pledge, charge, encumbrance, or other interests or restrictions other than the security interest granted to the Exposed Party hereby; (c) the Exposed Party will have a valid and perfected first-priority security interest in, and lien on, all Performance Assurance upon receipt thereof; and (d) the performance by it of its obligations under this Annex will not result in the creation of any security interest, lien or other encumbrance on any property other than the security interest and lien granted pursuant to this Annex. 
+		5.  Exposed Party’s Rights and Remedies.    If at any time (i) an Event of Default or Termination Event with respect to the Non-Exposed Party has occurred and is continuing or (ii) an Early Termination Date has occurred or been designated as a result of an Event of Default or Termination Event with respect to the Non-Exposed Party, then the Exposed Party may do one or both of the following: (x) exercise any of the rights and remedies of a secured party with respect to the Performance Assurance provided by the Non-Exposed Party to it hereunder, including any such rights and remedies under law then in effect or (y) exercise its rights of setoff against any and all property of the Non-Exposed Party in the possession of the Exposed Party or its agent.  The Exposed Party shall either (y) apply the proceeds of the Performance Assurance realized upon the exercise of any such rights or remedies to reduce the Non-Exposed Party’s obligations under the Confirmation and all outstanding Swaps (the Non-Exposed Party remaining liable for any amounts owing to the Exposed Party after such application), subject to the Exposed Party’s obligation to return any surplus proceeds remaining after such obligations are satisfied in full or (z) hold such proceeds as collateral security for the Non-Exposed Party’s obligations to the Exposed Party under the Confirmation and all outstanding Swaps.
+		6.  Security Interest.  To secure its obligations under the Confirmation and all outstanding Swaps, the Non-Exposed Party hereby grants to the Exposed Party a present and continuing first-priority security interest in, and lien on (and right of setoff against), all Performance Assurance and any and all proceeds, to the extent not otherwise Transferred to the Exposed Party, resulting from such Performance Assurance, whether now or hereafter held by, on behalf of, or for the benefit of, the Exposed Party, and the Non-Exposed Party agrees to take such action as the Exposed Party reasonably requires in order to perfect the Exposed Party’s first-priority continuing security interest in, and lien on (and right of setoff against), such Performance Assurance and any and all proceeds resulting from such Performance Assurance.
+7.  General.
+(a) 	Except as expressly set forth in this Annex or the Confirmation, each party will pay its own costs and expenses in connection with performing its obligations under this Annex and neither party will be liable for any costs or expenses incurred by the other party in connection herewith.
+(b)	The Exposed Party will promptly pay when due all taxes, assessments or charges of any nature that are imposed with respect to Performance Assurance held by the Exposed Party upon becoming aware of the same, regardless of whether any portion of that Performance Assurance is subsequently disposed of under Section 6 of this Annex, except for those taxes, assessments and charges that result from the exercise of the Exposed Party’s rights under Section 8(d) of this Annex.
+(c)	All reasonable costs and expenses incurred by or on behalf of the Exposed Party in connection with the liquidation and/or application of any Performance Assurance under Section 6 of this Annex will be payable on demand and pursuant to the Confirmation and this Annex by the Non-Exposed Party.
+(d)	So long as the Exposed Party is not a Defaulting Party and no Early Termination Date has occurred or been designated as a result of an Event of Default or Termination Event with respect to the Exposed Party, then the Exposed Party shall have the right to sell, pledge, rehypothecate, assign, invest, use, commingle or otherwise dispose of, or otherwise use in its business, any Cash it holds, free from any claim or right of any nature whatsoever of the Non-Exposed Party, including any equity or right of redemption by the Non-Exposed Party.
+
+
+
+ANNEX B-2
+
+ENRON CORP.
+
+Guaranty
+
+This Guaranty (this “Guaranty”), dated effective as of April __, 2001 (the “Effective Date”), is made and entered into by Enron Corp., an Oregon corporation (“Guarantor”).
+W I T N E S S E T H:
+
+WHEREAS, AIG COMMODITY ARBITRAGE FUND L.P., a Delaware limited partnership (“Counterparty”), and ENRON NORTH AMERICA CORP. (“Enron”), a wholly owned subsidiary of Guarantor, are contemplating entering into, or have entered into, one or more swap, option or other financially-settled derivative transactions, which transactions will be evidenced by one or more swap agreements, confirmations and/or master agreements, (all such swap, option or other financially-settled derivative transactions and the agreements evidencing same, whether entered into prior to, on or after the date hereof, as the same may from time to time be modified, amended and supplemented, shall be referred to herein collectively as the “Contract”); and 
+
+WHEREAS, Guarantor will directly or indirectly benefit from the transactions to be entered into between Enron and Counterparty;
+
+NOW THEREFORE, in consideration of Counterparty entering into the Contract, Guarantor hereby covenants and agrees as follows:
+
+1.  GUARANTY.  Subject to the provisions hereof, Guarantor hereby irrevocably and unconditionally guarantees the timely payment when due of the obligations of Enron (the “Obligations”) to Counterparty under the Contract.  This Guaranty shall constitute a guarantee of payment and not of collection.  The liability of Guarantor under this Guaranty shall be subject to the following:
+(a)  Guarantor’s liability hereunder shall be and is specifically limited to payments expressly required to be made under the Contract (even if such payments are deemed to be damages) and, except to the extent specifically provided in the Contract, in no event shall Guarantor be subject hereunder to consequential, exemplary, equitable, loss of profits, punitive, tort, or any other damages, costs, or attorney’s fees.
+(b)  The aggregate amount covered by this Guaranty shall not exceed U.S. $5,000,000.
+
+2.  DEMANDS AND NOTICE.  Upon the occurrence and during the continuance of an Event of Default, if Enron fails or refuses to pay any Obligations and Counterparty has elected to exercise its rights under this Guaranty, Counterparty shall make a demand upon Guarantor (hereinafter referred to as a “Payment Demand”).  A Payment Demand shall be in writing and shall reasonably and briefly specify in what manner and what amount Enron has failed to pay and an explanation of why such payment is due, with a specific statement that Counterparty is calling upon Guarantor to pay under this Guaranty. A Payment Demand satisfying the foregoing requirements shall be required with respect to Obligations before Guarantor is required to pay such Obligations hereunder and shall be deemed sufficient notice to Guarantor that it must pay the Obligations within five (5) Business Days after its receipt of the Payment Demand. A single written Payment Demand shall be effective as to any specific default during the continuance of such default, until Enron or Guarantor has cured such default, and additional written demands concerning such default shall not be required until such default is cured.  As used herein, the term “Business Day” shall mean a day on which commercial banks or financial institutions are open for business in Houston, Texas and New York, New York.
+
+3.  REPRESENTATIONS AND WARRANTIES.  Guarantor represents and warrants that:
+(a)  it is a corporation duly organized and validly existing under the laws of the State of Oregon and has the corporate power and authority to execute, deliver and carry out the terms and provisions of the Guaranty; 
+(b)  no authorization, approval, consent or order of, or registration or filing with, any court or other governmental body having jurisdiction over Guarantor is required on the part of Guarantor for the execution and delivery of this Guaranty; and
+(c)  this Guaranty, when executed and delivered, will constitute a valid and legally binding agreement of Guarantor, except as the enforceability of this Guaranty may be limited by the effect of any applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors' rights generally and by general principles of equity.
+
+4.  SETOFFS AND COUNTERCLAIMS.  Without limiting Guarantor’s own defenses and rights hereunder, Guarantor reserves to itself all rights, setoffs, counterclaims and other defenses to which Enron or any other affiliate of Guarantor is or may be entitled to arising from or out of the Contract or otherwise, except for defenses arising out of the bankruptcy, insolvency, dissolution or liquidation of Enron.
+
+5.  AMENDMENT OF GUARANTY.  No term or provision of this Guaranty shall be amended, modified, altered, waived or supplemented except in a writing signed by Guarantor and Counterparty.
+
+6.  WAIVERS.  Except as required in Section 2 above, Guarantor hereby waives (a) notice of acceptance of this Guaranty; (b) presentment and demand concerning the liabilities of Guarantor; and (c) any right to require that any action or proceeding be brought against Enron or any other person, or to require that Counterparty seek enforcement of any performance against Enron or any other person, prior to any action against Guarantor under the terms hereof.
+
+Except as to applicable statutes of limitation, no delay of Counterparty in the exercise of, or failure to exercise, any rights hereunder shall operate as a waiver of such rights, a waiver of any other rights or a release of Guarantor from any obligations hereunder.
+
+Guarantor consents to the renewal, compromise, extension, acceleration or other changes in the time of payment of or other changes in the terms of the Obligations, or any part thereof or any changes or modifications to the terms of the Contract.
+
+Guarantor may terminate this Guaranty by providing written notice of such termination to Counterparty and upon the effectiveness of such termination, Guarantor shall have no further liability hereunder, except as provided in the last sentence of this paragraph.  No such termination shall be effective until five (5) Business Days after receipt by Counterparty of such termination notice.  No such termination shall affect Guarantor's liability with respect to any Transaction (as defined in the Contract) entered into prior to the time the termination is effective, which Transaction shall remain guaranteed pursuant to the terms of this Guaranty.
+
+7.  NOTICE.  Any Payment Demand, notice, request, instruction, correspondence or other document to be given hereunder by any party to another (herein collectively called “Notice”) shall be in writing and delivered personally or mailed by certified mail, postage prepaid and return receipt requested, or by telegram or telecopier, as follows:
+
+To Counterparty:
+AIG Commodity Arbitrage Fund L.P.
+To Guarantor:
+Enron Corp.
+
+
+	
+
+1400 Smith Street
+
+
+	
+
+Houston, Texas 77002
+
+
+Attn.:  	
+
+
+Attn.:  Vice President, Finance and Treasurer
+
+
+Fax No.:  	
+
+Fax No.:  (713) 646-3422
+
+
+A copy of any Notice sent to Guarantor pursuant hereto must also be sent to the above address to:  (i) Enron Corp., Attention: Corporate Secretary, Fax No. (713) 853-2534, and (ii) Enron North America Corp., Attention:  Assistant General Counsel, Trading Group, Fax No. (713) 646-4818.
+
+Notice given by personal delivery or mail shall be effective upon actual receipt. Notice given by telegram or telecopier shall be effective upon actual receipt if received during the recipient's normal business hours, or at the beginning of the recipient's next business day after receipt if not received during the recipient's normal business hours.  All Notices by telegram or telecopier shall be confirmed promptly after transmission in writing by certified mail or personal delivery.  Any party may change any address to which Notice is to be given to it by giving notice as provided above of such change of address.
+
+8.  MISCELLANEOUS.  This Guaranty shall in all respects be governed by, and construed in accordance with, the law of the State of Texas, without regard to principles of conflicts of laws.  This Guaranty shall be binding upon Guarantor, its successors and assigns and inure to the benefit of and be enforceable by Counterparty, its successors and assigns.  This Guaranty embodies the entire agreement and understanding between Guarantor and Counterparty and supersedes all prior agreements and understandings relating to the subject matter hereof.  The headings in this Guaranty are for purposes of reference only, and shall not affect the meaning hereof.
+
+IN WITNESS WHEREOF, the Guarantor has executed this Guaranty on 		, 2001, but it is effective as of the Effective Date.
+
+ENRON CORP.
+
+
+By:  					
+Name:  					
+Title:  					
+
+
+

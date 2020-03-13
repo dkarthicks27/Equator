@@ -1,0 +1,103 @@
+D:20010823071935-04'00'
+Adobe Illustrator 9.0
+Adobe PDF library 4.800
+BiddersCatalogPg2.pdf
+D:20010823092912-04'00'
+
+Bidders Catalog
+Open Season for Tenders Begins September 10, 2001
+September 24:     Comments due from bidders on TSR / transmission contracts
+October 8 :           Neptune finalizes TSR / Transmission contracts
+October 22:          Firm bids due for Phase I
+October 31:          Indicative bids due for Phases II, III, IV
+November 16:      Neptune Announces any changes to Phases II, III, IV
+November 21:      Phase I winners notified
+December 14:      Firm bids due for Phases II, II, IV
+January 14:         Winners notified for Phases II, II, IV
+Page 1                                                                                     www.neptunerts.com
+Goldborough, Novia Scotia
+Southwestern  Nova Scotia Colson Cove,  New Brunswick
+Maine Yankee  SwitchYard,  Maine
+K St. Station, Boston,  Massachusetts
+Kingston St.
+ Station, Boston,  Massachusetts
+New Haven,  Connecticut
+Norwalk,  Connecticut
+Levittown,  Long Island, New York
+Melville,  Long Island,  New York
+W. 49th Street, New York City, New York
+Farragut Stn.,  New York City, New York
+Linden,  New Jersey
+Sayreville,  New Jersey
+Page 2                                                                                     www.neptunerts.com
+Introduction
+On September 10, 2001, the Neptune Regional Transmission System™ (Neptune RTS™)  will initiate an Open Season for the sale of Transmission Scheduling Rights ("TSRs") on a  20 year basis. TSRs represent the right to schedule transmission on the Neptune RTS™  HVDC undersea transmission system. Neptune RTS™ will construct its system in four phases: New Jersey, New York City and Long Island (Phase 1); New  Brunswick—New York City (Phase 2); Nova Scotia—Boston (Phase 3), and  Maine—Connecticut (Phase 4). This Open Season includes the sale of TSRs for all four  phases.
+Neptune RTS™ provides bidders the ability to move more than 4800MW of power  among the system’s 14 nodes that will interconnect with the existing land-based utility  network (see specific interconnection sites on the next page). Bidders are asked to bid for TSRs from any node of the system to any other node or combination of nodes of the  system (see summary in the table on page 3; a detailed bid form is also provided in the  bidders package).
+The term of the TSRs being sold in this open season is 20 years and any bids for a shorter  term may be rejected. However, Neptune RTS™ reserves the right at its sole discretion to  accept bids for TSRs of a shorter duration on a nondiscriminatory basis.
+Because the Neptune RTS™ is a multi-terminal system, it will de-ploy an optimization  model to determine the combination of bids that provide the highest net present value to  the system as a whole. The Discount Rate to be used in evaluating bids is 11%. The opti-mization process may result in some instances in which bids with higher net present  values on specific legs are rejected because other bids provide higher net present values  for the system as a whole.
+
+Page 4                                                                                     www.neptunerts.com
+The Neptune Advantage for Generators
+Neptune RTS™ provides breakthrough opportunities for generators to overcome  the constraints of the existing AC system and capture sales opportunities  previously unavailable. Generators connected to Neptune will have the  unparalleled capability to sell into a portfolio of premium priced markets— downtown Boston, New York City, Long Island, and southwest Connecticut. This  opportunity comes at a time when generators in Maine are likely to see prices  decline because of location based marginal pricing and when off peak market conditions in New Jersey have been particularly difficult with base load power  having little value.
+Fuel Cost Advantage          
+Capital Cost                        
+Avoided LDC Charges         
+Difference in Local             
+Transmission Charges 
+  
+    
+                                            
+Summer Derating                
+Emission Credits                
+Neptune RTS will connect generators with a variety of fuel and        generation cost advantages compared with urban        generators. The Neptune RTS source areas include        generators with surplus hydro, coal, and nuclear        capacity. In the gas-fired cohort of generators, Nova        Scotia  plants will pay no M&NP tariff; NB plants a        US$0.40/MMBTU gas tariff.
+Generators built in-city are likely to have as much as a 20%        capital cost disadvantage compared with generators        built in other Neptune areas. In-city generators are likely to have to pay incremental gas tariffs            (up to US$0.20/MMBTU) to get gas from the hub (eg,                            Transco Zone 6) to the plant.
+ 
+In-city generators are likely to have to pay interconnection costs.        These can range from a few million to more than $100        million.
+De-ratings in NYPP and Nepool are typically 15% of winter        capacity and reduce the output of operation during the most        valuable season.  U.S. emissions penalties will significantly impact the cost of        operating in-city power plants.
+Total Potential  Cost Advantage
+Major Drivers Of Value Of Neptune RTS Transmission Contracts: Cost Advantages In $/mwH
+TM
+$10
+$2
+$2
+$2
+$4
+$2
+$10
+$10 Generators located in New York City, Long Island, Boston, and      Southwest Connecticut may have to pay a variety of       supplemental tariffs (such as NYPP's Transmission Usage      Charges) and/or must buy Transmission Congestion       Contracts  (using NYPP terminology) to establish point-to-     point service to the desired point in an urban market.       Neptune will connect directly to congested urban zones.
+Avoided In-City Interconnect    
+Page 5                                                                                     www.neptunerts.com
+(Advantage for Generators Cont.)
+Neptune-connected generators in Canada have a variety of other unique advantages:  lower gas fuel costs (due to lower gas tariffs), access to other fuels or generation  resources; winter peaking instead of summer peaking, avoidance of summer derating, and  avoidance of US in- city emissions costs.
+PSE&G,New York City, and Boston prices are poorly correlated, and a portfolio  containing exposures to two or more markets has a higher expected value than a portfolio  with exposure to just one market.
+For generators in areas with low price volatility, Neptune makes it possible to sell power  into volatile markets. In general, the higher the volatility, the higher the option value of  generation. Taken together, Neptune’s cost advantages and price opportunities add up to a  unique and valuable opportunity to enhance and diversify the usual risks inherent in  building a power facility.
+"Urban Premium” in higher priced  Neptune load  areas
+Portfolio value- ability to sell  into multiple  Neptune markets
+CAP and in-city  generation
+Volatility value-   ability to sell energy options  forward in a  hypervolatile market
+Total Potential Price Advantage
+Major Drivers Of Value Of Neptune RTS Transmission Contracts: Revenue Advantages In $/mwH
+TM
+Difference in marginal cost clearing price due to maintenance       of more inefficient peaking units in urban markets than in source       markets.
+Power price volatility in urban markets raises value of call options
+Neptune connected gencos are likely to qualify for NYC and LI in-city      generation as well as NYPP and Nepool ICAP market participation.
+Value to buyers and sellers of ability to sell/buy power into/from an      array of markets instead of into a single market.
+$10
+$5
+$10
+$5
+$30
+Page 6                                                                                     www.neptunerts.com
+THE NEPTUNE ADVANTAGE FOR THE FOR POWER MARKETERS POWER MARKETERS
+As illustrated in the chart below, which presents a distribution of hourly price spreads  between New York City and the load zone at the Jersey shore, Neptune connects markets  with large price spreads.
+Neptune transmission services are likely to have a substantial effect on power price  relationships ranging from LBMP differences in real-time markets to forward curves in  each of the interconnected markets.  Power marketers in the Northeast are already  accounting for Neptune’s impacts in New York and Boston.
+To facilitate participation by traders and marketers in the Neptune network, a series of  open seasons will be conducted, beginning with the September-November 2001 sale of  long- term (20 year) transmission scheduling rights (TSRs)
+Neptune will sell the capacity not sold on a long- term basis in a series of monthly,  weekly, and daily sales. The exact nature and timing of these sales will be determined by  Neptune, in conjunction with the host RTO.
+Page 7                                                                                     www.neptunerts.com
+The Neptune Advantage for Consumers and Utilities 
+Three years of power market experience and an abundance of technical studies clearly  indicate that the cities of the Northeast need additional power resources, yet they remain  among the most difficult areas of the world in which to increase AC transmission or build  a power plant.
+Neptune makes it possible for New York City, Long Island, Boston, and suburban  southwest Connecticut to have all the benefits of a robust competitive market without  trying to fit big new power plants or AC transmission lines into their crowded  neighborhoods.
+For each of these city markets, Neptune provides competitive power sourced from a  diverse array of generators using a variety of fuels and power sources, including gas,  hydro, coal, Orimulsion™ and nuclear power. For all interconnected nodes, Neptune will  increase competition, decrease power price volatility, reduce the amount of needed  installed capacity, and provide significant enhancements to electric power reliability.
+And, Neptune can make a significant contribution to air quality in the cities of the  Northeast. Much of the power flowing through Neptune will be generated to the north  and east of major US and Canadian metropolitan areas. Neptune power will be generated  with low emissions in the source areas, and is likely to displace heavily polluting power  generation in the cities.
+Urban power consumers will expect their state and local governments and their load  service entities, to connect them to the Neptune system as it emerges.
+

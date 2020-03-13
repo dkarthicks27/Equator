@@ -1,0 +1,140 @@
+Patrick Hénaff
+henaffp
+P. Henaff
+5
+Microsoft Word 9.0
+15
+8/8/2001 15:24:00
+8/8/2001 16:21:00
+8/21/2001 14:29:00
+1
+730
+4161
+0
+koch
+23552
+34
+8
+5110
+no
+no
+8/8/2001 09:21:00
+8/21/2001 07:29:00
+8/8/2001 08:24:00
+
+
+
+Patrick Hénaff
+2826, Wroxton Road
+Houston, TX 77005
+
+Tel:  (713) 838 0773
+Fax: (713) 838 2052
+Patrick.Henaff@pdq.net
+Objective
+
+A position of responsibility as leader of a quantitative research group or a risk management unit in a trading entity. I am particularly interested in opportunities to develop trading strategies around generation and storage assets. 
+Professional Experience
+
+Since 
+6/00
+President and co-founder, Aspect, LP, an Application Service Provider that offers a software solution for complying with regulation FAS 133. Directly responsible for the design and development of all analytics related to FAS133. The software combines a very innovative user interface and a flexible calculation engine, to provide a complete deal capture, position keeping and mark-to-market system, in addition to features specific to FAS133. 
+
+
+1/98
+6/00
+Managing Director, Koch Energy Trading. In charge of quantitative research for the Natural Gas and Power Divisions. Major projects included:
+Creation of a suite of models for valuing storage facilities, and for trading the real options embedded in storage assets.
+Introduction of a portfolio-based approach to trading, which optimises the risk/return trade-off of proprietary positions.
+Supervised the development of proprietary models, which provide accurate pricing and hedging of exotic options on natural gas by accurately modelling the seasonal term structure of volatility.
+
+
+7/96
+ 12/97
+Managing Director and member of the Board of Dresdner Kleinwort Benson (Marchés) (ex BIP)  in Paris, an arbitrage bank. Co-head of quantitative research in the Global Markets division of Dresdner Kleinwort Benson AG. In charge of research and front-office decision-support systems for 2 business units (52 analysts) within the Global Markets Division:
+- Fixed-Income Arbitrage
+- Equity Derivatives
+
+
+
+
+Patrick Hénaff
+
+1/90
+7/96
+Head of the Research Department of BIP. Development of arbitrage strategies using fixed-income instruments and derivative products.
+I managed the design and implementation of a comprehensive decision-support system for the pricing and risk management of arbitrage strategies, using object-oriented technology.
+In charge of 15 quantitative analysts and computer scientists. Annual operating budget:  $1.5 million.
+
+
+ 1/89 - 1/90
+Crédit Lyonnais, Paris. In charge of financial engineering in the asset securitisation group that structured the first French asset-backed instrument (CL-BS 90-1). I was also responsible for the design of the primary servicing system.
+
+
+1/87 - 1/89
+Goldman, Sachs, New York. Associate, Fixed Income Research and Mortgage Research Departments. Development of a method for optimising the settlement of TBAs. The system saved $1 million in settlement cost in the first 4 months of operations.
+
+
+Education
+
+7/85 - 1/87
+Post-doctoral Associate, Massachusetts Institute of Technology, Boston. 
+
+
+1985	Ph.D. in Operations Research, University of Texas at Austin. 
+
+1981	M.A. in Applied Mathematics, University of Maryland at College Park. 
+
+1976	Diplôme H.E.C., a business school located in Paris. Major in Finance.
+
+Languages
+
+	Bilingual English - French
+
+Teaching Experience
+
+Fall 93
+Ecole des Hautes Etudes Commerciales, France. Course on Asset-Liability Management for Financial Institutions.
+
+
+Spring 94 & 95
+Adjunct Professor, University of Nantes, France. Taught Monetary Economics, and a graduate seminar on optimisation methods in Finance.
+
+
+
+Patrick Hénaff
+
+Computer skills
+
+	Extensive experience of software development in C/C++, Java and Matlab,  and in the object-oriented modelling of financial instruments. Experience in the management of all phases of a software development project.
+
+Publications
+
+"A Newton's Algorithm for Solving Multicountry Econometric Models," Journal of Economic Dynamics and Control 13 (1989) 41-54.
+
+"Hedging Exotic Options with Stochastic Optimisation," Journal of Economic Dynamics and Control 8-9 (1998) 1453-1466.
+
+Supervised Theses
+
+"Static Portfolio Strategies”, University Paris VI, 1998.
+
+"Calibration of the Heath-Jarrow-Morton Model", Ecole Polytechnique, 1996.
+
+"Monte-Carlo Simulations of Investment Strategies on a Farm of Unix Workstations with PVM", Université de Technologie de Compiègne, 1995.
+
+"Parallel Implementation of a Monte-Carlo Simulation System", Université de Technologie de Compiègne, 1994.
+
+"The Pricing of Barrier Options,"  Ecole Polytechnique, 1993.
+
+"Evaluation and Hedging of Interest-rate Risk in Long-dated Ratchet Options," Ecole Centrale, 1992.
+
+"A Stochastic Optimization Model for Index Replication," University of Paris, 1992.
+
+"Stochastic Optimization of Speculative Strategies," University of Paris, 1992.
+
+"Application of Spectral Analysis to the Identification of Spreading Strategies on the CAC 40," Ecole Centrale, 1991.
+
+"Estimation of a Zero-Coupon Yield Curve Using Exponential Splines,"  Ecole Centrale, 1991.
+
+"Object-Oriented Modelling of Financial Market Data,"  Institut d'Informatique d'Entreprise, 1991.
+

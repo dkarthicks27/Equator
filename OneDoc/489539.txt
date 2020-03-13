@@ -1,0 +1,6 @@
+From: Tammie Schoppe [/o=teneo-test/ou=first administrative group/cn=recipients/cn=schoppe_tammie]
+Subject: Tammie will be on vacation
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None

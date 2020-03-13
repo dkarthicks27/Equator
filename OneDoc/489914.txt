@@ -1,0 +1,6 @@
+From: Maureen McVicker [/o=teneo-test/ou=first administrative group/cn=recipients/cn=mcvicker_maureen]
+Subject: HOLD OPEN - trip to Amelia Island, FL for conference (per Marchris)
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None

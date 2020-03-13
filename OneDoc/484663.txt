@@ -1,0 +1,448 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+Esther Chin
+Esther Chin
+4
+Microsoft Word for Windows 95
+5
+8/17/2001 22:30:00
+8/17/2001 22:18:00
+8/17/2001 22:31:00
+12
+2928
+16690
+0
+ 
+49152
+139
+33
+no
+no
+
+
+
+
+-  -
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+
+
+Application of SOUTHERN CALIFORNIA EDISON (U388-E) for Authority to Institute a Rate Stabilization Plan With a Rate Increase and End of Freeze Tariffs
+
+Application 00-11-038
+(Filed November 16, 2000)
+(Amended on December 20, 2000)
+
+
+Emergency Application of Pacific Gas And Electric Company To Adopt A Rate Stabilization Plan.
+
+(U 39 E)
+
+
+Application 00-11-056
+(Filed November 22, 2000)
+
+
+Petition of THE UTILITY REFORM NETWORK for Modification of Resolution E-3527
+
+
+Application 00-10-028
+(Filed October 17, 2000)
+
+
+
+
+PACIFIC GAS AND ELECTRIC COMPANY’S
+REAL-TIME PRICING PROPOSAL, SUBMITTED IN COMPLIANCE WITH ORDERING PARAGRAPH 3 OF DECISION 01-08-021
+
+CHRISTOPHER J. WARNER
+ANDREW L. NIVEN
+GAIL L. SLOCUM
+
+Law Department
+Pacific Gas and Electric Company
+Post Office Box 7442
+San Francisco, CA  94120
+Telephone: (415) 973-6583
+Facsimile: (415) 973-0516
+E-mail:  glsg@pge.com
+
+Attorneys for
+PACIFIC GAS AND ELECTRIC COMPANY
+
+August 17, 2001
+
+
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+
+
+Application of SOUTHERN CALIFORNIA EDISON (U388-E) for Authority to Institute a Rate Stabilization Plan With a Rate Increase and End of Freeze Tariffs
+
+Application 00-11-038
+(Filed November 16, 2000)
+(Amended on December 20, 2000)
+
+
+Emergency Application of Pacific Gas And Electric Company To Adopt A Rate Stabilization Plan.
+
+(U 39 E)
+
+
+Application 00-11-056
+(Filed November 22, 2000)
+
+
+Petition of THE UTILITY REFORM NETWORK for Modification of Resolution E-3527
+
+
+Application 00-10-028
+(Filed October 17, 2000)
+
+
+
+
+PACIFIC GAS AND ELECTRIC COMPANY’S
+REAL-TIME PRICING PROPOSAL, SUBMITTED IN COMPLIANCE WITH ORDERING PARAGRAPH 3 OF DECISION 01-08-021
+
+I.  	INTRODUCTION
+Pacific Gas and Electric Company (PG&E) hereby submits its proposal for implementing a real-time pricing (RTP) program for its larger commercial and industrial electric customers, in compliance with Ordering Paragraph (O.P.) 3 of Decision (D.) 01-08-021, issued on August 2, 2001.  In general, PG&E understands O.P. 3 of D. 01-08-021 to require submission of utility RTP proposals meeting six basic criteria.  Specifically, the Commission directed that today’s utility RTP proposals should:  
+provide customers with effective ways to manage and reduce their energy bills;
+be transparent to customers, in that they know in advance how the prices will be calculated;
+accurately mimic the actual movement in energy prices over different time periods;
+be designed to achieve real load reductions and load shifting;
+meet revenue requirements, including the California Department of Water Resources’ (CDWR) revenue requirement, avoid major rate shock to customers, and be equitable in terms of avoiding cross subsidies among customer classes; and
+be administratively simple and easy for customers to understand.
+PG&E cautions that no one proposal could fully satisfy all six of these criteria under today’s unsettled market conditions.  For example, criteria (b) and (c) could conflict both with each other and also with criterion (f), to the extent that the “actual movement” in energy prices will probably never be known with sufficient advance notice to communicate “true” RTP prices on an ex ante basis.1 	It is not clear to PG&E whether criterion (b) should be interpreted as requiring that customers know in advance what the prices will be (e.g., ex ante pricing), or only that they understand how the prices will be set. 
+1  Similarly, criterion (c) would necessarily conflict with criterion (e) over any time period during which a rate freeze, rate caps, or similar rate stabilization plan is in effect.2 	In Phase 2 of last year’s Post-Transmission Ratemaking (PTR) proceeding, the Commission found that “all customers with hourly interval meters [should be billed for hourly energy procurement costs] using hourly data after the rate freeze ends.”  (D. 00-06-034, mimeo at pp. 81-83.)  However, this finding was predicated on the principle that all post-transition electric procurement costs would be recovered contemporaneously, to be passed through directly to all customers on each rate schedule, with averaging by TOU period or by billing cycle to be used only for those smaller customers served on rate schedules where adequate interval metering capabilities might not be available. (Id., at pp. 76-80 and 83-86.)  This principle is clearly inapposite under today’s conditions, and may also continue to be difficult to apply for some time to come.
+2  PG&E also continues to be concerned that adequate information about hourly energy prices may never be available under current conditions (even on an ex post basis), and that forward-looking market information needed for revenue neutral RTP rate design is certainly not available now. 3 	PG&E first raised this concern in its cross-examination of state agency witnesses during the rate design hearings that preceded D. 01-05-064.  Nearly four months later, there is still great uncertainty as to any regular publication of real-time hourly market prices by the ISO, CDWR, or any other responsible entity.  Moreover, in a conference call with the CEC and the two other respondent utilities on August 2, 2001, PG&E learned from the CEC that CDWR had withdrawn RTP from its pending Rate Agreement with the CPUC, and also suspended any continued discussion of making data sources available for RTP implementation.
+3 
+	Based on the considerations described in the preceding paragraph, PG&E submits here a proposed framework that it believes would make it possible for the Commission to advance RTP now, by: (1) striking a reasonable and practical balance where there is conflict between the specific ratemaking objectives prescribed by D. 01-08-021; and (2) using reasonable economic and engineering judgment to define a fixed “menu” of applicable daily pricing profiles as a substitute for necessary forward-looking hourly market price information that is not currently available.4 	In the RTP proposal that it filed on June 21, 2001 as a petition to modify D. 01-05-064, the CEC described certain additional considerations that it recommended be used to establish hourly RTP prices, such as the potential value to be afforded statewide through the reduced risk of rotating outages that might be achieved via the demand reductions of new RTP participants.  While PG&E believes that it might well be reasonable for this Commission to weigh certain of these factors in establishing administratively determined pricing profiles for a day-ahead RTP program, it notes that such an approach would add even greater complexity and subjective data requirements to the administration of any RTP rate with daily varying prices. 
+4  PG&E anticipates that the Commission will wish to solicit public comments on today’s concurrently filed RTP proposals.  Following a reasonable comment period, if the Commission chooses PG&E’s recommended framework as a desirable avenue for proceeding with RTP implementation, PG&E would be ready to work with Commission staff and all interested parties to develop a detailed plan based on this framework.  PG&E believes that a reasonable target date for starting a new RTP program based on its preferred framework would allow for the new program to begin operation on or about January 1, 2002.
+II.	PG&E’S RTP PROPOSAL
+PG&E’s proposed framework for a new RTP program would: (1) be reasonably simple to understand and explain to customers; (2) encourage reduction of peak demand when the potential for high spot market prices and rotating outages is greatest; (3) encourage customers to elect RTP; (4) provide reasonable assurance of revenue neutrality relative to each participant’s otherwise-applicable tariff; (5) be possible to implement using data sources that are already known and readily available; and (6) not expose non-participants or the host utilities to any unreasonable risk of new cost shifting.  These objectives are consistent with those stated under O.P. 3 of D. 01-08-021 except that PG&E recommends that the RTP prices be selected from a fixed menu of administratively determined 24-hour price profiles.  Detailed hourly market price information is not currently available, may not be available for some time to come, and would be quite difficult to use (either ex ante or even ex post) while still preserving revenue neutrality relative to the standard tariffs.
+PG&E recommends implementing the new RTP program using a one-part tariff that would apply only to the “three-cent surcharge” portion of each customer’s rates that are billed under Section 2 of Schedule E-EPS.5 	These are the surcharge rates that were adopted in D. 01-05-064, which result in a system average rate of approximately 3.5 cents per kWh.  D. 01-05-064 assigned 4.13 cents per kWh to the “industrial” tariffs (Schedules E-19 and E-20), and 4.55 cents per kWh to the “commercial” tariffs (including Schedule A-10).
+5  The basic framework of PG&E’s proposal is as follows:
+Prices should be assigned on a day-ahead basis by selecting from a fixed menu of pre-established 24-hour price profiles.  PG&E recommends that four such price profiles be established initially, one that would apply to all weekend and holiday usage, together with three separately defined “low,” “middle,” and “high” price profiles to be selected based upon anticipated supply and demand conditions for the upcoming day.  
+Fixed guidelines should be used to determine the number of times each pricing profile will be used during each calendar quarter.  For example, in a given 90-day calendar quarter, the weekend pricing profile might be designed for application to all 25 weekend and holiday days; the "low price” profile for those 35 weekdays when spot market prices are expected to be lowest and supply shortages unlikely; the “medium price” profile for 20 more “second tier” operating days when spot market prices are expected to be somewhat higher but there is still little likelihood of rotating outages; and the “high price” profile for those 10 operating days during the quarter when spot market prices are expected to be at their highest levels and there may be the greatest likelihood of actual supply shortages.
+PG&E recommends that revenue neutrality for the voluntary RTP tariff be accomplished by establishing a combined menu of pricing profiles and assigned numbers of operating days for each profile so as to ensure that those participants who use energy according to the class-average load profile would pay the same total energy procurement surcharge over the entire calendar quarter under RTP as they would have paid under the existing provisions of Section 2 of Schedule E-EPS.6 	PG&E has used a similar approach for the last several years to recover certain capacity-related costs under its experimental real-time pricing tariff, Schedule A-RTP.   A dynamic programming algorithm is used to identify as nearly as is practical the 25 warmest days each summer and the 25 coldest days each winter (because the winter peak is driven by cold weather).  Special tiered capacity-based price adders are applicable to usage only on these days.  The dispatch decision for this element of the Schedule A-RTP tariff is made using well-established temperature forecast thresholds.  For example, at the beginning of the summer, the temperature threshold is set at approximately 80 degrees and the tiered capacity price signal is only applied to usage on those days when weighted average system-wide temperatures are expected to exceed this threshold.   The threshold is then ratcheted up (or down) over the course of the summer depending on how rapidly the assigned 25 available price signal days are being used up.
+6  Participants would continue to pay all ordinarily applicable customer, demand, and energy charges under their regularly applicable rate schedule (e.g., Schedule A-10, E-19, or E-20).  An example rate design based on this framework is shown in PG&E’s attached Table 1.
+	PG&E’s proposed framework for a one-part RTP tariff is reasonably straightforward and could be readily communicated to customers once the basic design parameters for the program have been established (e.g., specific pricing profiles and operating guidelines for the dispatch of these pricing profiles).  Adopting this approach would eliminate the vagaries of determining customer baseline loads (CBL) that are required for a two-part tariff, and would not require
+customers to compare their usage to that during a prior period in order to determine how to save money.  Instead, participants would have the opportunity to save money through incremental load reductions offered in near real-time on those days when the highest price profiles are in effect, while also enjoying new opportunities to pay lower surcharge amounts for their electricity consumption on those days when the lower of the price profiles are applied.  PG&E’s proposal would not expose customers to the risks of “full” real-time pricing, under unknown "real-time" market prices, but would still place a substantial component of their bills (approximately 30-45 percent of the eligible participants’ current total rates) into market-responsive price signals.  The portion of these customers’ total bills that would be determined using this RTP-based alternative to the standard energy procurement surcharge is very nearly comparable to the current relationship between utility "net short" positions and total statewide electric load.  PG&E believes that it would be appropriate to maintain this approximate relationship between the RTP-based charges and participants’ total electric bills for the duration of whatever period some form of rate freeze, rate caps, or similar electric rate stabilization plan continues to be used for electric ratemaking.
+	The example RTP energy procurement surcharge rate design presented in PG&E’s attached Table 1 is illustrative rather than prescriptive.7 	The illustrative rate design provided in Table 1 is focused on revenue recovery at the time of the summer peak, and so would be appropriate only for use during a July 1 - September 30 calendar quarter.  Revenue-neutral RTP energy procurement surcharges for the January 1 - March 31 calendar quarter would be significantly lower than those shown in Table 1, because the “standard” TOU surcharges adopted in D. 01-05-064 are significantly lower during the winter billing months than those that apply during the winter.  Also, electric loads tend to vary over a somewhat narrower range during the winter, so it is possible that a two-tier structure for the weekday RTP price profiles would be more appropriate during the winter season.  
+7  PG&E recommends that this Commission establish the final basic design parameters for the program (e.g., specific pricing profiles and operating guidelines for the dispatch of these pricing profiles) in consultation with the CEC and CDWR.  The initial pricing profiles and operating guidelines would need to be determined administratively, given the near-total lack of current forward-looking hourly market price information.  These determinations should be made in such a way as to encourage reduction of peak demand when the potential for high spot market prices and rotating outages is greatest, while seeking to avoid the adoption of those artificially inflated price signals (for the highest price profile) that might create unreasonable new risks revenue shifting for non-participants, the host utilities, or CDWR.8 	For example, PG&E’s recommended framework could be used – if taken to the absolute extreme – to set a revenue-neutral annual rate design with a single price signal of $200 per kWh to be applied for just one hour, at or near the time of the most extreme summer peak.  (This rate design would meet the revenue neutrality standard, because each kW of coincident peak commercial and industrial electric demand corresponds to approximately 5000 kWh of total annual electric usage, and D. 01-05-064 assigns approximately $200 of annual energy procurement surcharge revenue responsibility to each 5000 kWh of large commercial and industrial electric consumption.)  While such a design would certainly create tremendous new rewards for demand reductions during that one hour, this would come at the risk of shifting up to $1 billion in costs (if customers accounting for 5000 MW of coincident on-peak load were to avoid paying any energy procurement surcharges for the whole year, by avoiding usage just during the single hour with the $200 per kWh RTP price), with no likelihood of commensurate CDWR cost savings.  The administratively determined price profiles and operating guidelines should be designed to strike a reasonable middle ground between the fixed TOU surcharges adopted in D. 01-05-064 (which allow for no daily pricing distinctions other than those between weekday versus weekend electric usage) and that extreme level of on-peak cost assignment where the revenue losses from on-peak demand reductions would exceed any reasonable expectation of concomitant avoided CDWR power purchase and/or supply shortage costs. 
+8  As more complete forward-looking hourly market price information becomes available, it could be used as one of the inputs for subsequent updates to the basic program design parameters. 
+III.	PROCEDURAL CONSIDERATIONS
+	As explained in the preceding section, the RTP proposal PG&E is submitting today is illustrative rather than prescriptive.  PG&E anticipates that the Commission will provide a schedule for comments from interested parties on today’s concurrent RTP proposals.  If the Commission chooses PG&E’s recommended framework as a desirable avenue for proceeding with RTP implementation, PG&E will be ready to work together with Commission staff and interested parties to develop a detailed implementation plan.
+PG&E also urges the Commission to seek active participation from CDWR in this process.  Unfortunately, CDWR has been noticeably absent from all of the last several months’ public discussion of RTP ratemaking.  However, any avoided power purchase costs that are obtained via RTP participant demand reductions would accrue to CDWR rather than to the host utilities.  This means that, to avoid putting either non-participants or the host utilities at any new risk of additional cost shifting, there will need to be some well-defined mechanism to ensure that RTP participants’ bill savings are properly captured through adjustments to the revenue stream that is to be made available to CDWR.9 	For example, if RTP participants were to realize $10 million of bill savings during a given calendar quarter by shifting 4000 MWH of on-peak electric usage away from the highest-priced operating days while continuing to use that same quantity of energy during the on-peak period on lower-priced operating days, then PG&E should be entitled to decrement the revenue to be transferred to CDWR by that same $10 million.
+9
+Additional consideration will need to be given to the interaction between RTP and other CPUC or state agency sponsored demand reduction programs.  The nature of this interaction can only be appropriately determined after the Commission has made final program design decisions for RTP.  At a minimum, PG&E believes that interruptible rate program participants, demand bidding program customers, and scheduled load reduction program participants should be precluded from simultaneous enrollment under RTP, in order to avoid double payments (and/or energy bill savings) for the same demand reductions offered under multiple programs.
+The basic program design may also need to be revisited as necessary to reflect any changes required for post-freeze electric ratemaking (on or before April 1, 2002), or intervening changes to PG&E’s regular filed tariffs and energy procurement surcharges that might be needed to distinguish between Utility Retained Generation (URG) and CDWR revenue requirements.  In short, any RTP program that is implemented now will need to be designed with sufficient flexibility so as to accommodate ready adaptation to account for other significant rate changes that must be anticipated during the next six to twelve months. 
+IV.	CONCLUSION
+PG&E requests that the Commission invite timely comments from interested parties on today’s concurrent RTP submissions.10 	D. 01-08-021 provides no formal schedule for comments on today’s rate proposals. 
+10  After receiving these comments, PG&E recommends the Commission convene a technical workshop for the purpose of selecting from among the most feasible alternatives for implementing preliminary RTP programs.  PG&E believes that a reasonable target date for program implementation would be to begin operating the new program on or about January 1, 2002.
+
+Respectfully submitted,
+
+CHRISTOPHER J. WARNER
+ANDREW L. NIVEN
+GAIL L. SLOCUM
+
+
+By ___________________________________
+	GAIL L. SLOCUM
+
+Attorneys for
+PACIFIC GAS AND ELECTRIC COMPANY
+Post Office Box 7442
+San Francisco, CA  94120
+Telephone: (415) 973-36583
+Facsimile:  (415) 973-0516
+E-mail:  glsg@pge.com
+
+Dated:  August 17, 2001
+
+
+
+
+
+
+
+
+
+ATTACHMENT
+
+
+Summary of PG&E RTP Rate Proposal and 
+Illustrative Revenue Neutral RTP Rate Design
+
+
+
+Pacific Gas and Electric Company
+Preliminary Real-Time Pricing Proposal
+August 17, 2001 Compliance Filing
+
+Objective:  Establish an optional real-time pricing (RTP) program for implementation beginning on or about January 1, 2002.  The program would: (1) be reasonably simple to understand and explain to customers; (2) encourage reduction of peak demand when the potential for high spot market prices and rotating outages is greatest; (3) encourage customers to elect RTP; (4) be based on a one-part tariff that applies only to the portion of the customer’s bill that is billed under Schedule E-EPS; (5) provide reasonable assurance of revenue neutrality (using class-average load profile assumptions) with the otherwise-applicable charges that would ordinarily be billed under Schedule E-EPS; (6) be possible to implement using data sources that are already known and readily available; and (7) not expose non-participants or the host utilities to unreasonable risk of new cost shifting.
+
+Proposal:
+
+Apply hourly pricing to energy procurement surcharge revenue only, making RTP a rate option that can be readily applied to customers served on any existing rate schedule, provided the customer installs adequate metering
+Assign prices on a day-ahead basis from a fixed menu of pre-established pricing profiles (e.g., “low price,” “medium price,” and “high price” - see attached example in Table 1) 
+Develop fixed guidelines to determine the number of times each pricing profile will be used during each month, calendar quarter, or billing season (e.g., in a 90-day calendar quarter the “green light” prices will be applied 60 times, the “yellow alert” 25 times, and “code red” will be limited to a maximum of five occurrences)
+Revenue-neutrality to be enforced by setting combined menu of pricing profiles and allocated operating days for each profile to ensure that customers using energy according to the class-average load profile pay same total energy procurement surcharge (over an entire month, calendar quarter, or billing season) under either RTP or Schedule E-EPS
+
+Advantages:
+
+Straightforward
+Eliminates vagaries of determining customer baseline loads (CBL)
+Does not require the customer to compare to a previous period usage to determine how to save money – rewards relative to the standard tariff are based on current prices and loads and do not require instantaneous comparison to past usage
+Participants would have opportunity to save money through incremental load reductions offered in near real-time on the “medium price” and “high price” operating days, while also enjoying opportunity to pay lower surcharges for electricity consumption under “low price” operating conditions
+Does not expose customers to full real-time pricing, under unknown “real-time” market prices that will most likely not be readily available given the current market structure, but does place a substantial component of bills (approximately 35-50% of customers’ current total rates) in play as to how each customer responds to the new price signals
+Does not create significant administrative burdens
+Is responsive to customer groups who urged the Commission to approve high peak prices for energy procurement surcharge rate design as an alternative to around-the-clock off-peak surcharge rates of several cents per kWh
+Reflects approximate current relationship between utility “net short” positions and total statewide electric load
+
+The above-described framework could be readily implemented within the context of PG&E’s currently applicable standard tariffs and energy procurement surcharge rate designs.  However, the basic design would need to be revisited for post-freeze ratemaking, or when new rates are implemented to distinguish between URG and DWR revenue requirements (whichever occurs first).  Any RTP system that is implemented now will need to be flexible enough to accommodate ready adaptation to upcoming rate changes over the next six to twelve months.
+
+
+
+
+
+
+
+
+Table 1
+
+Illustrative Revenue Neutral RTP Rate Design - One 90-Day Calendar Quarter 
+[Summer Rates - Three Weekday Pricing Tiers]
+
+
+
+Price Profiles and Day Counts
+
+Nominal Load by TOU
+
+Price
+
+Avg RTP Prices by TOU
+
+RTP Profile
+Day Type
+No.
+
+On-Pk
+Pt-Pk
+Off-Pk
+
+Ratio
+
+On-Pk
+Pt-Pk
+Off-Pk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+High Price
+WkDay
+10
+
+1.19
+1.07
+0.91
+
+3.66
+
+33.4
+15.1
+11.5
+
+Mid-Price
+WkDay
+20
+
+1.12
+1.00
+0.85
+
+0.75
+
+6.85
+3.10
+2.35
+
+Low-Price
+WkDay
+35
+
+1.09
+0.98
+0.83
+
+0.50
+
+4.57
+2.07
+1.57
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weekends
+WkEnd
+25
+
+N/A
+N/A
+0.80
+
+0.50
+
+N/A
+N/A
+N/A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weekdays
+Total
+65
+
+1.12
+1.00
+0.85
+
+1.00
+
+9.13
+4.13
+3.13
+
+Weekends
+Total
+25
+
+N/A
+N/A
+0.80
+
+1.00
+
+N/A
+N/A
+N/A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notes:
+
+Nominal loads by TOU period are measures of average load during each TOU period relative to average load during the summer part-peak TOU period.  These measures would be established using class load profile information.
+Rate level for the “high-price” profile is determined residually, and would increase if (a) fewer “high-price” days are selected as a program design parameter; or (b) lower rate levels are specified for the mid-price, low-price, or weekend operating days.
+The illustrative set of revenue neutral price profiles shown here describes average RTP prices by TOU period (cents per kWh) for each day type.  Class load profile data can be used to extend these results to complete 24-hour price profiles if target pricing relationships are supplied by CDWR.
+Current fixed energy procurement surcharges by TOU period for Schedule E-19 (as adopted in D. 01-05-064) are shown for comparison purposes and appear in last two rows of this table.
+

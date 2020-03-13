@@ -1,0 +1,14 @@
+From: Monika Causholli [/o=teneo-test/ou=first administrative group/cn=recipients/cn=causholli_monika]
+To: Danilo Juvane
+Subject: null
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+help
+
+Can you find yesterday's closing stock price for Sappi?
+
+thanks,
+Monika

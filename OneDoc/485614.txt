@@ -1,0 +1,101 @@
+CONSENT AND AMENDMENT AGREEMENT
+mtaylo1
+sdickso
+7
+Microsoft Word 9.0
+57
+6/27/2001 13:02:00
+8/15/2001 17:36:00
+8/15/2001 18:42:00
+1
+682
+3891
+0
+Enron Corp
+32
+7
+4778
+no
+no
+8/15/2001 12:36:00
+8/15/2001 13:42:00
+6/27/2001 08:02:00
+
+DRAFT; 7/15/01
+
+O:\legal\jhmoore\2000\EOL Consent&Amendment\AEP.doc
+CONSENT AND AMENDMENT AGREEMENT
+
+
+	This CONSENT AND AMENDMENT AGREEMENT (this “Amendment”) is entered into by and among Enron North America Corp. (“ENA”) and Texaco Energy Marketing, L.P. (“TEM”), Texaco Natural Gas Inc. (“TNGI”) and Texaco Inc. (“Texaco”) (TEM, TNGI and Texaco, collectively “Counterparty”) effective as of August ____, 2001 (the “Effective Date”).  
+
+WHEREAS, ENA and ______ have entered into that certain ISDA Master Agreement (the “ISDA Master”) dated effective as of ________________________, and ENA and TEM have entered into that certain Base Contract for the Short-Term Sale and Purchase of Natural Gas dated effective as of January 1, 2000 and ENA and TNGI have entered into that certain Base Contract for the Short-Term Sale and Purchase of Natural Gas dated effective as of May 13, 1996 (collectively the “Gas Master”).  The ISDA Master and the Gas Master are hereinafter referred to individually as a “Governing Agreement” and collectively as the “Governing Agreements”; and
+
+WHEREAS, Counterparty has entered into, and expects to enter into in the future, transactions from time to time using the EnronOnline trading system (“EOL”), each of which transactions is governed by one of the Governing Agreements (each an “EOL Transaction” and collectively the “EOL Transactions”); and
+
+WHEREAS, ENA and Counterparty now desire to amend the Governing Agreements to provide that it is not necessary to confirm the EOL Transactions in writing and in certain other respects:
+
+NOW THEREFORE, in consideration of the mutual consents and agreements contained herein and for other good and valuable consideration, the sufficiency of which is hereby acknowledged, ENA and Counterparty agree as follows:
+
+Each Governing Agreement is hereby amended in such a manner and to the extent necessary to provide that when entering into an EOL Transaction:
+
+neither party is required to send to the other a confirmation of any EOL Transaction, and failure to send a confirmation of an EOL Transaction shall not constitute a default or have any other ramification under the Governing Agreements;
+EOL Transactions shall be binding on the parties to the applicable Governing Agreement and shall be governed by all other provisions of the applicable Governing Agreement to the same extent as if confirmations had been sent by one party and executed and returned by the other, and
+the electronic records of EOL Transactions available on EOL shall supplement, form a part of and be subject to the terms of the applicable Governing Agreement.
+this Amendment shall not apply to any EOL Transaction entered into and documented in a confirmation executed and delivered by both parties, during the period between the Effective Date and the Execution Date.
+
+The Governing Agreements are further amended as provided in the Annexes attached hereto.  
+
+
+
+ENA and Counterparty consent to the introduction into evidence of the records of the EOL Transactions maintained on EOL and waives any right to object to such records as not being in writing or constituting a writing.  Electronic EOL records, if introduced in evidence in any judicial, arbitration, mediation or administrative proceedings, will be admissible as between the parties to the same extent and under the same conditions as other business records originated and maintained in documentary form.  No party shall object to the admissibility of such EOL records on the basis that such were not originated or maintained in documentary form under either the hearsay rule, the best evidence rule or other rule of evidence.
+
+Except as expressly provided herein, the Governing Agreements are not otherwise modified or amended.  In particular, the confirmation process, if any, with respect to transactions other than EOL Transactions remains unchanged.
+
+This Amendment shall be governed by and construed in accordance with the law specified as governing the Governing Agreement in question and shall be binding on and inure to the benefit of the parties and their respective successors and permitted assigns.
+
+
+
+
+
+IN WITNESS WHEREOF, the parties have executed this Amendment on       , 2001 (the Effective Date”) but effective as of the date first above written.
+
+ENRON NORTH AMERICA CORP.
+
+
+
+By:____________________________
+Name:__________________________
+Title:___________________________
+
+TEXACO ENERGY MARKETING, L.P.
+
+By:____________________________
+Name:__________________________
+Title:___________________________
+
+
+TEXACO NATURAL GAS INC. 
+By:____________________________
+Name:__________________________
+Title:___________________________
+
+
+TEXACO INC. 
+By:____________________________
+Name:__________________________
+Title:___________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+

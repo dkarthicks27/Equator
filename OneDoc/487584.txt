@@ -1,0 +1,121 @@
+96 FERC &  63, 021
+Van Ness Feldman
+Van Ness Feldman
+2
+Microsoft Word 8.0
+8/16/2001 20:49:00
+8/16/2001 20:49:00
+7
+2318
+12290
+0
+VanNess Feldman
+307
+132
+16232
+no
+no
+8/16/2001 16:49:00
+8/16/2001 16:49:00
+
+96 FERC &  63, 021
+UNITED STATES OF AMERICA
+FEDERAL ENERGY REGULATORY COMMISSION
+
+San Diego Gas & Electric Company,
+Complainant,
+
+v.						Docket No. EL00-95-045
+
+Sellers of Energy and Ancillary Service Into
+Markets Operated by the California
+Independent System Operator Corporation
+and the California Power Exchange,
+Respondents.
+
+Investigation of Practices of the California		Docket No. EL00-98-042
+Independent System Operator and the
+California Power Exchange
+
+Order and Report to the Commission on Granting Late Interventions and                                               Adoption of Trial Schedule
+(Issued August 14, 2001)
+
+TO THE COMMISSION:
+
+Under the Commission's order of July 25, 2001, Order Establishing Evidentiary Hearing Procedures, Granting Rehearing in Part, and Denying Rehearing in Part, 95 FERC ___ (2001), a prehearing conference was convened on August 13, 2001 at 10:00 A.M. and concluded at 5:30 P.M.  
+
+I granted and this order confirms my granting of the uncontested petitions for interventions out of time filed by Public Utility District No. 1. of Chelan County, Washington, Public Utility District No. 2 of Grant County Washington, Exelon Corporation, on behalf of Exelon Generation Company, LLC, Peck Energy Company, and Commonwealth Edison Company to add Exelon Generation Company as a company on whose behalf Exelon Corporation appears, TransCanada Energy Ltd., and the City of Oakland, California/Port of Oakland.  I also granted the uncontested oral petition for intervention out of time filed by Trans Alta Energy Marketing Inc., the appearance of which is listed at Transcript (Tr.) page 43.          
+
+
+
+Docket No. EL00-95-045
+
+I adopted the following trial schedule which is a hybrid of the proposals discussed below and  which I ruled, on balance, places all participants on a level playing field. Id. at 210-214, 220.
+
+August 17, 2001                ISO data related to issues under (2) below and Status Report                                               on Limited Groupings of Participants, Order of Appearance,                                                and Order of Cross-examination 
+
+August 22, 2001                If necessary, further status report on participant groupings
+
+September 5, 2001            If necessary, prehearing conference at 10:00 A.M. to address                                               participants groupings
+
+September 7, 2001            Final ISO data
+
+September 14, 2001          Participants simultaneous responsive testimony on issues                                           related to (1) and (2) below, and narrative summaries of                                            material points, including page and line references thereto 
+
+September 21, 2001          PX data related to issues under (3) below
+
+September 28, 2001          Participants simultaneous responsive testimony on issues                                                     related to  (1),(2), and (3) below and narrative summaries of                                                material points, including page and line references thereto 
+
+October 9, 2001               Joint Narrative Stipulation of Issues, Joint Exhibits, and                                                      Proposed Trial Stipulations; motions to strike, and Oral                                                       Argument to Show Cause why Protective Order should                                                        continue to apply to the hearing and on motions to strike
+
+October 10 , 2001             Commencement of Hearing
+
+October 16, 2001               Conclusion of Hearing
+
+October 19, 2001               Initial Briefs in the form of Proposed Findings of Fact and                                                   underlying evidentiary support and justification
+
+October 22, 2001               Reply Briefs in the form of objections to October 19 Proposed                                 Findings of Fact and underlying evidentiary support and                                           justification
+
+November 5, 2001             ALJ's Certification of Proposed Findings of Fact and record
+
+
+
+The Commission's July 25, 2001 order found that despite the voluminous record in the proceeding, material issues of fact were present which prevented the Commission for ordering refunds at this time.  Consequently, it ordered an orderly and expeditious evidentiary hearing to develop the factual record to complement  the refund methodology delineated in the July 25 order.  The Commission made it clear that the scope of the hearing was limited to the collection of data needed to apply its refund methodology and that I was not to entertain any arguments relating to the methodology or the scope of transactions subject to refunds except as indicated in the July 25 order.   (Mimeo at 42) Several of my rulings related to the scope of the trial schedule discussed below were made in light of and consistent with this direction.
+
+To develop an appropriate factual record, the Commission directed the California Independent System Operator (ISO) to provide me within 15 days of July 25 with a re-creation of mitigated prices that resulted from use of the order's prescribed methodology for every hour from October 2, 2001 through June 20, 2001.  The ISO and the California Power Exchange Corporation (PX) also were required to rerun their settlement/billing process and provide me with that data.  Id.   (Emphasis Added)   
+
+The inclusion in the record of the hearing of this ISO and PX data is inextricably linked to the Commission's further direction that "no longer than 45 days after the date the ISO provides this data", the Presiding Judge shall certify to the Commission, based upon the evidentiary presentations of the participants, findings of fact on "(1) the mitigated price in each hour of the refund period; (2) the amount of refunds owed by each supplier according to the prescribed methodology; and (3) the amount currently owed  to each supplier (with separate quantities due from each entity) by the ISO, the investor owned utilities, and the State of California."  See id. and Ordering Paragraph (C).
+
+The July 25 order anticipated that the ISO would be able to provide all essential data by August 9, 2001 ("within 15 days of the date this order is issued.") Id. at 42.  Based upon the express language of the July 25 order referenced above and the extensive views of the participants at the prehearing conference, I ruled that the ISO and PX data was an essential premise for and predicate of the participants evidentiary presentations under the trial schedule. 
+
+The ISO filed a status report on August 9, 2001 and concurrently submitted recalculated mitigated market clearing price data which is said to comply with the Commission's requirement under (1) above for "the mitigated price in each hour of the refund period".  The ISO's status report, my inquiries at the conference and those of various participants addressed the amount of additional time that the ISO required to provide the data under (2) above and which, in turn, is the basis for the required calculations by the ISO and PX and the provision of required data under (3) above.  
+
+My inquiries of the ISO and those of the participants at the conference established that the earliest date that the ISO could provide the remaining required data was September 7, 2001.  This data consists of "transaction details or billable quantities for every transaction, for every generating unit, including real-time energy transactions for every 10-minute interval (and every bid segment within an interval) during the Refund Period and calculation of refund amounts based upon these the transaction details.  See the ISO Status report at 3.                
+
+The ISO's report and the conference record further established that the ISO required additional time and until September 17, 2001 to allocate the refunds to purchases.  This additional time period was needed by the ISO to rerun the settlements process for the entire Refund Period.  See the ISO Status Report at 3-4 and Tr. at 112.  One participant observed, "this is really critical data, and we don't dispute how must time it may take them to do it.  But once it's completed, that's when things ought to start.  Otherwise it is impossible to do it in 45 days based on the scenario they've laid out."  Tr. at 98; also, see id. at 119.  
+
+The PX filed a letter on August 10, 2001, which, among other things, pointed out that with regard to required data under (3) above, once it receives necessary ISO data, it would take approximately three to six weeks depending upon the specifics provided by the ISO.  See the PX letter at 3 and comments on "SC Data".  At the conference, the PX elaborated upon these concerns and the time needed to provide the data under (3) above.  Id. at 151-52.  Ultimately, the ISO determined that it could expedite the provision of data needed by the PX and provide the PX with data under (3) above on a day-by-day basis.  The PX concluded that it could provide the required data by September 21, a date that reflects two weeks to provide its required data, rather than 3-week period it had suggested in its letter.  Id. at 179-80.
+
+As one of several participants stressed, "I think our critical concern is when you make your findings, that the findings be on all three parts and that they all be lumped together at the Commission.  We think that's what the Commission ordered in this case." Id. at 108; and see id. at 119,123, and 145.  In this respect, I ruled that the ISO and PX data related to (3) above, was inextricably linked to the my proposed findings of fact under (1), (2), and (3) above, and that the initial evidentiary presentations of the participants should be preceded by the provision of the ISO and PX data. Id. at 146-47
+
+An extended discussion, including required discussions during an extended luncheon recess, ensued with regard to the appropriate trial schedule format.   To paraphrase the bard, to phase or not to phase, that was the question. 
+
+
+On the one hand, the "California government" participants, that included the investor owned utilities, the California Public Utilities Commission, the Attorney General of the State of California, and the California Electricity Oversight Board initially proposed a two-stage schedule which contemplated within 45 days of the provision of the ISO and PX data, evidentiary presentations and cross-examination with regard to the data and issues under (1) and (2) above; and a further round of evidentiary presentations and cross-examination with regard to the data and issues under (3) above, bearing in mind the ISO data related to issues under (1) and (2) above would be available by September 7, and the final ISO data and PX data related to issues under  (3) above would not be available until September 21, 2001.  Id. at 114, 156-59, 162-64.  On the other hand , the "Generator group" and others proposed a trial schedule format which would "let the data production by the ISO [and the PX] reach its conclusion...avoiding the multiple submission of piecemeal testimony and other evidentiary submission by the parties starting with doing it in segments. . .In essence, I think efficiency would be fostered if we do not phase and keep this all together."  Id. at 109-110, 176-78; and see id. at 126-28 (like view of a non-jurisdictional seller).
+
+As noted, the trial schedule which I established is a hybrid version of these proposals which also requires the parties to consult and establish a limited number of groups that will support evidentiary presentations by expert witnesses whose opinions will be  subject to scrutiny through the crucible of cross-examination.  
+
+
+Various participants expressed different views with regard to whether the $150 breakpoint issue as it concerns the month of January 2001, see the PX letter at page 3 and  Tr. at 194, is beyond the scope of the limited issues set for hearing.  The PX noted that if these calculations were required to be made as part of the evidentiary hearing process, it would require three to six months to perform them.  The PX and several other participants believed that the issue was not addressed by the July 25 order and that the Commission's prescribed mitigation pricing methodology superseded the $150 breakpoint requirement.  Id. at 188, 190-95.  A generator participant believed that the issue could be addressed through a trial stipulation  which would not preclude any interested participant from raising the issue on rehearing of the July 25 order.  Id. at 198.  Counsel for PG&E stated his belief that the issue need not be addressed in the evidentiary hearing process and could be addressed through a compliance filing.  Id. at 184-86.   The PX disagreed and termed that suggestion "ludicrous" and overly simplistic.  Id. at 186-87.   Counsel for a nonjurisdictional seller believed that the July 25 order did not require calculations relative to the $150 breakpoint as part of the evidentiary hearing process.  Id. at 196-98.  Bearing in mind the Commission's admonition that the Presiding Judge not entertain any arguments relating to methodology or the scope of transactions subject to refund and the silence of the July 25 order on this matter, I concluded that the matter was beyond the scope of the issues set for hearing and that the parties were free to address this issue on rehearing before the Commission. Id. at 199-201.
+
+The Commission's letter order of August 10, 2001, left "the issue of APX's [Automated Power Exchange] role in the hearing established in our July 25 Order, including APX's liability, if any, for refunds and APX's obligation, if any to provide data, to the presiding administrative law judge in the first instance." 96 FERC & 61,199.  I required APX to comply with the discovery process as is the case with all parties to the proceeding. I also suggested that I did not need to determine whether APX was liable for refunds, having recalled the Commission's July 25 admonition to not stray beyond the issues set for hearing.  As to the latter, on reflection and further consideration, I note that APX's rationale in its pleadings for not being subject to liability for refunds is conclusory and is based solely on the premise that it is an agent for sellers and not a principal and that it's principals, and not APX, should be liable for refunds.  APX cites to no order of the Commission, or any Commission policy or precedent.  The issue as framed by APX appears to be a legal issue and not a genuine issue of material fact.  In the circumstances, if APX believes that it is not liable for refunds of revenue for electricity sold in the California markets during the governing time period, it shall file an initial brief on October 19, 2001 which justifies its requested relief and any interested participant shall have the opportunity to file a reply brief on October 22, 2001.
+
+The above matters bearing on the adoption of the trial schedule and the issues set for hearing are provided to the Commission for information.
+
+
+
+
+
+Bruce L. Birchman
+Presiding Administrative Law Judge
+

@@ -1,0 +1,11 @@
+From: Robert Bruce [/o=cw-test/ou=first administrative group/cn=recipients/cn=robert.bruce]
+To: Tana Jones
+Subject: Load two
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+Hi, Tana.  Do you think we could schedule my swaps training to start tomorrow 
+(8/1)?  I am open all day and will work around your schedule.  Let me know.  
+thanks -- Bob

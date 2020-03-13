@@ -1,0 +1,107 @@
+CONSENT AND AMENDMENT AGREEMENT
+mtaylo1
+Theresa Zucha
+2
+Microsoft Word 9.0
+2
+7/26/2001 19:59:00
+7/26/2001 20:01:00
+7/26/2001 20:01:00
+1
+856
+4884
+0
+Enron Corp
+40
+9
+5997
+no
+no
+7/26/2001 15:01:00
+7/26/2001 15:01:00
+7/26/2001 14:59:00
+
+DRAFT;  07/26/01
+O:\Legal\Jhmoore\2000\EOL Consent & Amendment\MirantEOLConsent.doc
+
+CONSENT AND AMENDMENT AGREEMENT
+
+
+	This CONSENT AND AMENDMENT AGREEMENT (this “Amendment”) is entered into by and among Enron North America Corp. (“ENA”), Enron Power Marketing, Inc. (“EPMI”) and Mirant Americas Energy Marketing, L.P. (formerly known as the Southern Energy Trading and Marketing, Inc., and also formerly known as Southern Company Energy Marketing, L.P.) (“Counterparty”) effective as of July ____, 2001.  
+
+WHEREAS, ENA and Counterparty have entered into that certain ISDA Master Agreement (the “ISDA Master”) dated effective as of ________________________, and ENA and Counterparty have entered into that certain Base Contract for the Sale and Purchase of Natural Gas dated effective as of January 1, 1998 and the certain Master Firm Purchase/Sale Agreement dated effective as of November 1, 1992 as amended from time to time (collectively the “Gas Master”) and EPMI and Counterparty have entered into that certain Master Energy Purchase and Sale Agreement dated as of April 1, 1997, and that certain letter agreement dated August 16, 2000 with respect to confirmation procedures (collectively, the “Power Master”).  The ISDA Master, the Gas Master and the Power Master are hereinafter referred to individually as a “Governing Agreement” and collectively as the “Governing Agreements;” and
+
+WHEREAS, Counterparty has entered into, and expects to enter into in the future, transactions from time to time using the EnronOnline trading system (“EOL”), each of which transactions is governed by one of the Governing Agreements (each an “EOL Transaction” and collectively the “EOL Transactions”); and
+
+WHEREAS, ENA, EPMI and Counterparty now desire to amend the Governing Agreements to provide that it is not necessary to confirm the EOL Transactions in writing and in certain other respects:
+
+NOW THEREFORE, in consideration of the mutual consents and agreements contained herein and for other good and valuable consideration, the sufficiency of which is hereby acknowledged, ENA, EPMI and Counterparty agree as follows:
+
+Each Governing Agreement is hereby amended in such a manner and to the extent necessary to provide that when entering into an EOL Transaction:
+
+neither party is required to send to the other a confirmation of any EOL Transaction, and failure to send a confirmation of an EOL Transaction shall not constitute a default or have any other ramification under the Governing Agreements;
+EOL Transactions shall be binding on the parties to the applicable Governing Agreement and shall be governed by all other provisions of the applicable Governing Agreement to the same extent as if confirmations had been sent by one party and executed and returned by the other, and
+the electronic records of EOL Transactions available on EOL shall supplement, form a part of and be subject to the terms of the applicable Governing Agreement.
+
+The Governing Agreements are further amended as provided in the Annexes attached hereto.  To the extent that EPMI and Counterparty supersede the Power Master by entering into a new Master Purchase and Sale Agreement using the form supplied by the Edison Electric Institute (“EEI Master”), such EEI Master shall become a Governing Agreement for purposes of this Amendment, provided, however, that Annex A shall not apply to any EOL Transactions under the EEI Master.
+
+Each of ENA, EPMI and Counterparty consents to the introduction into evidence of the records of the EOL Transactions maintained on EOL and waives any right to object to such records as not being in writing or constituting a writing.  Electronic EOL records, if introduced in evidence in any judicial, arbitration, mediation or administrative proceedings, will be admissible as between the parties to the same extent and under the same conditions as other business records originated and maintained in documentary form.  No party shall object to the admissibility of such EOL records on the basis that such were not originated or maintained in documentary form under either the hearsay rule, the best evidence rule or other rule of evidence.
+
+Except as expressly provided herein, the Governing Agreements are not otherwise modified or amended.  In particular, the confirmation process, if any, with respect to transactions other than EOL Transactions remains unchanged.
+
+This Amendment shall be governed by and construed in accordance with the law specified as governing the Governing Agreement in question and shall be binding on and inure to the benefit of the parties and their respective successors and permitted assigns.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties have executed this Amendment effective as of the date first above written.
+
+ENRON NORTH AMERICA CORP.
+
+
+
+By:____________________________
+Name:__________________________
+Title:___________________________
+
+ENRON POWER MARKETING, INC.
+
+
+
+By:____________________________
+Name:__________________________
+Title:___________________________
+
+MIRANT AMERICAS ENERGY MARKETING, L.P.
+
+
+
+By:____________________________
+Name:__________________________
+Title:___________________________
+
+
+ANNEX A
+
+With respect to EOL Transactions under the Power Master, the following shall apply:
+
+Confidentiality.  Neither Party shall disclosure the terms of any Transaction to a third party (other than the Party’s and its affiliates’ employees, lenders, counsel, or accountants who have agreed to keep such terms confidential) except in order to comply with any applicable law, order, regulation or exchange rule; provided, each Party shall notify the other Party of any proceeding of which it is aware which may result in disclosure and use reasonable efforts to prevent or limit the disclosure.  The Parties shall be entitled to all remedies available at law or in equity to enforce, or seek relief in connection with, this confidentiality obligation; provided, all monetary damages shall be limited as set forth in the referenced Agreement.
+
+

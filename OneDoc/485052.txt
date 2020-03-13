@@ -1,0 +1,6 @@
+From: Rosalee Fleming [/o=teneo-test/ou=first administrative group/cn=recipients/cn=fleming_rosalee]
+Subject: Lunch with Linda and Ann
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None

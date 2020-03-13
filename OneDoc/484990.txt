@@ -1,0 +1,167 @@
+740295.01
+EOL#
+mmurphy
+2
+Microsoft Word 9.0
+1
+11/9/1998 22:42:00
+8/21/2001 19:17:00
+8/21/2001 19:17:00
+2
+634
+3615
+0
+Enron
+26112
+30
+7
+4439
+no
+no
+8/21/2001 14:17:00
+8/21/2001 14:17:00
+
+		Deal No. 740295.01
+
+	
+
+
+Enron North America Corp.
+1400 Smith St
+Houston, TX 77002-7327
+Fax (713) 646-2491
+
+
+CONFIRMATION
+(SWAP)
+
+Date:		August 20, 2001
+To:		PSEG Energy Resources & Trade LLC ("Party B")
+Attention:	Documentation Department
+Fax No.:	(973) 623-1554
+From:		Enron North America Corp. ("Party A")
+Re:		Commodity Swap 740295.01
+
+This Transaction was entered into between the parties via EnronOnline.
+EnronOnline Deal No: 1730335
+
+	The purpose of this letter is to confirm the terms and conditions of the Transaction entered into between us on the Trade Date specified below (the "Transaction").  This letter constitutes a "Confirmation" as referred to in the ISDA Master Agreement specified below.
+
+	1.  This Confirmation supplements, forms part of, and is subject to, the ISDA Master Agreement dated as of November 29, 1999, as amended and supplemented from time to time (the "Agreement"), between you and us.  All provisions contained in the Agreement govern this Confirmation except as expressly modified below.
+
+	2.  The terms of the particular Transaction to which this Confirmation relates are as follows:
+
+General Terms:
+
+Notional Quantity per
+Calculation Period:
+
+50 MWs per hour for each On-Peak Hour during the Calculation Period.
+
+
+
+
+Commodity:
+Electricity/MWh
+
+
+
+
+Commodity Unit:
+MWh (Megawatt hours)
+
+
+
+
+Trade Date:
+August 20, 2001
+
+
+
+
+Effective Date:
+August 22, 2001
+
+
+
+
+Termination Date:
+August 22, 2001
+
+
+
+
+Calculation Period(s):
+August 22, 2001 
+
+
+Payment Date(s):
+The fifth (5th) Business Day following the last day of the month that includes the Calculation Period.
+
+
+
+
+Fixed Amount Details:	
+
+
+
+
+
+Fixed Price Payer:
+Party A
+
+
+
+
+Fixed Price:
+US Dollars $44.75/MWh.
+
+
+Floating Amount Details:	
+
+
+
+
+
+Floating Price Payer:
+Party B
+
+
+
+
+Floating Price and
+Pricing Date(s):
+
+The average of the hourly day-ahead prices as published by the New York Independent System Operator (the “NYISO”) on the last day of the month that includes the applicable Calculation Period on the NYISO’s official web site currently located at http://mis.nyiso.com/public/index.html, or any successor thereto, under the headings “Day Ahead Market LBMP - Zonal; Zonal Prices; West (61752) (Zone A)” for electricity during “On-Peak Hours” for the applicable Calculation Period.
+
+“On-Peak Hours” means the hours commencing HE 0800 through HE 2300 Eastern Prevailing Time, Monday through Friday (excluding holidays of the North American Electric Reliability Council)
+
+
+
+
+For the purposes of the calculation of the Floating Price(s), all numbers shall be rounded to three (3) decimal places. If the fourth (4th) decimal number is five (5) or greater, then the third (3rd) decimal number shall be increased by one (1), and if the fourth (4th) decimal number is less than five (5), then the third (3rd) decimal number shall remain unchanged.
+
+
+In accordance with the procedures set forth in the Agreement, please confirm that the foregoing correctly sets forth the terms of our agreement by executing the copy of this Confirmation enclosed for that purpose and returning it to us or by sending to us a letter substantially similar to this letter, which letter sets forth the material terms of the Transaction to which this Confirmation relates and indicates agreement to those terms.
+
+Yours sincerely,
+
+Enron North America Corp.
+
+					
+By:        
+
+Name:   M.D. Davis, Jr.
+Title:     Vice President
+Deal No. 740295.01 
+Confirmed as of the date first above written:
+
+PSEG Energy Resources & Trade LLC
+
+
+By:  						
+Name:  					
+Title:  					
+
+
+

@@ -1,0 +1,488 @@
+DRAFT: 7/8/00
+V&E
+Vinson & Elkins L.L.P.
+2
+Microsoft Word 8.0
+7
+7/11/2000 09:31:00
+7/11/2000 09:38:00
+7/11/2000 09:38:00
+1
+11668
+63008
+0
+Vinson & Elkins L.L.P.
+1211
+207
+81677
+no
+no
+7/11/2000 04:38:00
+7/11/2000 04:38:00
+7/11/2000 04:31:00
+
+Houston:265022 v 1
+
+
+DRAFT: 7/11/00	CONFIDENTIAL
+SUMMER
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	REPRESENTATIONS AND WARRANTIES
+
+	FOR
+
+
+	OPERATING COMPANIES
+
+
+
+
+				CONFIDENTIAL
+
+Disclosures are required under the following Representations and Warranties.  Please ensure proper disclosures are made for each Operating Company in your region, along with each respective Subject Company (the upstream holding company being sold) and such Subject Companies' subsidiaries and holding companies.  Please develop the disclosure schedule information according to each of the reps and warranties made below.  Please pay special attention to developing the Schedules which have been highlighted in bold in the text below.  Attached to the back of this document are the "Definitions".  Included in this e-mail distribution is the Parent's Disclosure Letter with forms of Disclosure Schedules to be completed for each Business.  Please use these forms as a guide when creating new disclosure schedules.
+
+ARTICLE V
+
+REPRESENTATIONS AND WARRANTIES 
+REGARDING SUBJECT COMPANIES
+
+
+Each of the representations and warranties set forth in this Article V with respect to a Unconsolidated Entity is qualified as being given only to the Knowledge of the Parent.  Each of the representations and warranties set forth in this Article V with respect to any matter relating to a Subject Company [the Subject Companies for each Business being transferred are listed on the A/B/C "Asset Transfer Matrix" provided in this e-mail distribution] or any Subsidiary of a Subject Company that was not directly or indirectly organized by the Parent is qualified, insofar as such matter is attributable to the period of time prior to the date on which the Parent acquired its direct or indirect ownership of the Equity Securities in that Subject Company or Subsidiary of the Subject Company, as being given only to the Knowledge of the Parent.  Subject to the preceding provisions of this Article V, to the matters set forth in the Parent=s Disclosure Letter and to the limitations prescribed by Article XII, the Parent represents and warrants to the Acquiror that:
+
+Section 5.01.  Organization; Subsidiaries:  Each Subject Company, each Subsidiary of such Subject Company and each Operating Company included in a Subject Company Group are legal entities duly organized, validly existing and in good standing (in those jurisdictions in which the concept of good standing is applicable) under the Laws of their respective jurisdictions of incorporation or organization and have all requisite organizational power and authority to own, lease and operate their respective properties and to carry on their businesses as they are now being conducted, other than any matters that could not reasonably be expected to have a Material Adverse Effect.  Schedule 5.01 of the Parent=s Disclosure Letter sets forth with respect to each Business a true and complete list of each Subject Company and all the Subsidiaries and Operating Companies included in the related Subject Company Group, together with (a) a specification of the nature of the legal organization of each such Subject Company, Subsidiary and Operating Company, (b) the jurisdiction of incorporation or other organization of each such Subject Company, Subsidiary and Operating Company and (c) the magnitude (expressed as a percentage of the aggregate ordinary voting power of all outstanding Equity Securities of such legal entity) of the direct or indirect equity investment of the Parent in each Subject Company, Subsidiary and Operating Company. [Please list each company, the type of legal entity, the jurisdiction of its organization, and the percentage of Enron ownership in each company.]
+
+Section 5.02.  Organizational Documents:  The Parent has heretofore marked for identification and delivered to the Acquiror complete and correct copies of the certificate of incorporation and bylaws or other organizational documents, in each case as amended or restated to the date hereof, of each Subject Company.  No Subject Company is in any Significant violation of any of the provisions of its certificate of incorporation or bylaws or other organizational documents. [Please develop a list of current organizational documents for each company.  Additionally, please provide copies of all organizational documents on the list.]
+
+Section 5.03.  Capitalization
+
+(a)	The authorized Equity Securities of each Subject Company, the total outstanding Equity Securities of each Subject Company and the outstanding Securities of each Subject Company owned directly or indirectly by the Parent, in each case as of the date of this Agreement, are as set forth in Schedule 5.03(a) of the Parent=s Disclosure Letter. [Please develop schedule according to the Subject Companies listed on the ABC "Asset Transfer Matrix" provided in this e-mail distribution.]
+
+(b)	No Equity Securities of any Subject Company are reserved for issuance, and there are no contracts, agreements, commitments or arrangements obligating any Subject Company to offer, sell, issue or grant any Equity Securities of such Subject Company or  to redeem, purchase or acquire, or offer to purchase or acquire, any outstanding Equity Securities of such Subject Company.  
+
+(c)	Except for any matter under clause (i), (ii) or (iii) of this subsection (c) that could not reasonably be expected to have a Material Adverse Effect [on its respective Business] and except for any Contractual Transfer Restrictions:  (i) all the issued and outstanding Equity Securities of each Subject Company and each of its Significant Entities that are owned directly or indirectly by the Parent have been duly authorized and are validly issued and, with respect to capital stock, are fully paid and nonassessable, (ii) all such issued and outstanding Equity Securities that are owned directly or indirectly by the Parent are owned free and clear of all Liens [Disclose in a schedule any liens or financings]; (iii) no Equity Securities of any Significant Entity are reserved for issuance and there are no contracts, agreements, commitments or arrangements obligating any Significant Entity (A) to offer, sell, issue or grant any of its Equity Securities or (B) to redeem, purchase or acquire, or offer to purchase or acquire, any of its outstanding Equity Securities [Disclose any obligations of a Significant Entity in buying and selling its own securities]; and (iv) there are no contracts, agreements, commitments or arrangements obligating any Subject Company or any of its Significant Entities (A) to offer, sell, issue, grant, pledge, dispose of or encumber any Equity Securities of any other Significant Entity or (B) to purchase or acquire, or offer to purchase or acquire, any outstanding Equity Securities of any other Significant Entity or (C) to grant any Lien on any outstanding Equity Securities of  any of other Significant Entity [Disclose any hold requirements, rights of first refusal or offer, etc.];
+
+(d)	Except for matters contemplated by this Agreement or the Ancillary Agreements and for revocable proxies, if any, granted by Subject Companies or Subsidiaries of Subject Companies with respect to the capital stock of Subsidiaries of Subject Companies, there are no voting trusts, proxies or other agreements, commitments or understandings of any character to which any Subject Company or Significant Entity is a party or by which any Subject Company or any Significant Entity is bound with respect to the voting of any shares of capital stock or other Equity Securities of such Subject Company or Significant Entity.  [Disclose voting arrangements.]
+
+Section 5.04.  Title to Properties:  The Subject Companies have, directly or indirectly through their Subsidiaries and Operating Companies, Defensible Title to all of the properties reflected in the Initial Balance Sheet, other than any properties reflected in the Initial Balance Sheet that have been sold or otherwise disposed of since the date of the Initial Balance Sheet in the ordinary course of business consistent with past practice or that are not, individually or in the aggregate, Material, free and clear of Liens, other than (i) Liens securing debt, the existence of which is reflected in the Final Combined Financial Statements, (ii) Permitted Encumbrances and (iii) Liens that are not Material, against claims and demands of all Persons claiming the same by, through or under the Parent, the Transfer Companies, the Subject Companies, the Subsidiaries of the Subject Companies or the Operating Companies, but not otherwise.  The Subject Companies hold, directly or indirectly through their Subsidiaries and Operating Companies, under valid lease agreements all real and personal properties reflected in the Initial Balance Sheet as being held under capitalized leases, and all real and personal property that is subject to the operating leases to which reference is made in the notes to the Audited Financial Statements, and enjoy peaceful and undisturbed possession of such properties under such leases, other than (A) any properties as to which such leases have terminated in the ordinary course of business without any Material liability of the Subject Company, Subsidiary of a Subject Company or Operating Company party thereto since the date of the Initial Balance Sheet and (B) any properties that are not Material.  None of the Parent, the Subject Companies, the Subsidiaries of the Subject Companies or the Operating Companies has received any specific written notification of any adverse claim to the title to any properties owned by it or with respect to any lease under which any properties are held by it, other than any claims that could not reasonably be expected to have a Material Adverse Effect. [Please disclose any exceptions to these representations.]
+
+Section 5.05.  Financial Statements. [Bob Butts will be coordinating preparation of schedules relating to financial information.]
+
+
+(a)	***
+
+(b)	There exist no liabilities or obligations, whether absolute or contingent, of the Subject Companies, their Subsidiaries or the Operating Companies  that are Material to the Businesses and that would be required to be reflected, reserved for or disclosed under U.S. GAAP in financial statements of such Subject Companies, Subsidiaries of the Subject Companies or Operating Companies as of the date of this Agreement, other than (i) liabilities or obligations that are reflected, reserved for or disclosed in the Financial Statements, (ii) liabilities or obligations incurred in the ordinary course of business of the Businesses since the Initial Balance Sheet Date [disclose "non-ordinary course of business" liabilities or obligations incurred since March 31, 2000] and (iii) liabilities or obligations incurred since the Initial Balance Sheet Date, of the nature of liabilities that may be incurred after the date of this Agreement pursuant to subsection 7.02(b) or 7.02(d) [Not negotiated yet, so please disclose all "non-ordinary course" developmental and construction expenses and any other material liability].
+
+(c)	***
+
+Section 5.06.  Authorizations.
+
+(a)	[Rep covers all Developed Businesses only.]  Except with respect to matters subject to Section 5.12, in the case of the Developed Businesses, each Subject Company and its Subsidiaries and Operating Companies  have, to the Knowledge of the Parent,  obtained all Authorizations that are necessary to carry on the related Business as currently conducted, except for any such Authorizations that their failure to possess, individually or in the aggregate, could not reasonably be expected to have a Material Adverse Effect [on such Business].  [Disclose any Authorizations not obtained that could have a MAE. Do not list all Authorizations received.]  The applicable Subject Companies and their Subsidiaries and Operating Companies have not received from any Governmental Authority specific written notification that any such Authorizations (i) are not in full force and effect, (ii) have been violated in any respect or (iii) are subject to any suspension, revocation or cancellation other than for matters, in any such case, that could not reasonably be expected to have a Material Adverse Effect [on such Business]. [Disclose any notices received.]  There is no action, proceeding or investigation pending or, to the Knowledge of the Parent, threatened regarding suspension, revocation or cancellation of any of such Authorizations, except in any circumstances in which the suspension, revocation or cancellation of such Authorizations could not reasonably be expected to have a Material Adverse Effect [on such Business]. [Disclose if any actions or proceedings, etc.]
+
+(b)	[Rep covers Businesses Under Development only.]  Except with respect to matters subject to Section 5.12, in the case of the Businesses Under Development, the Subject Companies or their Subsidiaries or Operating Companies have, to the Knowledge of the Parent, acquired or have made application for the Authorizations necessary to operate each Business Under Development to the extent that such Authorizations should reasonably have been acquired or applied for in accordance with the timing of development of such Business Under Development as contemplated by the Development Budget.  The major Authorizations, other than those subject to Section 5.12, that have heretofore been obtained for each Business Under Development are set forth on Schedule 5.06(b) to the Parent=s Disclosure Letter. [Requires a list.  List on a disclosure schedule for each Business Under Development information under the following categories: (1) all Authorizations received to date, (2) those Authorizations anticipated prior to June 30, 2001, and (3) those Authorizations which will not be received prior to June 30, 2001.]   The applicable Subject Companies and their Subsidiaries and Operating Companies have not received from any franchisor, licensor or permittor specific written notification that any such Authorizations set forth on Schedule 5.06(b) to the Parent=s Disclosure Letter (x) are not in full force and effect, (y) have been violated in any respect or (z) are subject to suspension, revocation or cancellation, other than, in any such case, for matters that could not reasonably be expected to have a Material Adverse Effect [on such Business]. [Disclose any notices received.]   There is no action, proceeding or investigation pending or, to the Knowledge of the Parent,  threatened regarding suspension, revocation or cancellation of any of such Authorizations, except in circumstances in which the suspension, revocation or cancellation of such Authorizations could not reasonably be expected to have a Material Adverse Effect [on such Business]. [Disclose if any actions or proceedings.] 
+
+Section 5.07.  Compliance With Laws; Regulation of Businesses.
+
+(a)	Except for matters subject to subsection (b) of this Section and for matters expressly subject to any other Section of this Article V, the Subject Companies, their Subsidiaries and their Operating Companies have not received specific written notification from any applicable Governmental Authority that they are not in substantial compliance with all applicable Laws and Regulations or that they are in default with respect to any Order applicable to any such Subject Company, Subsidiary or Operating Company, except such events of noncompliance or defaults that could not reasonably be expected to have a Material Adverse Effect [on such Business]. [Disclose if not in substantial compliance with all Laws and Regulations, even if we have not received notice.  As a general rule, disclose anything that if an enforcement agency found out about it, the agency would take an enforcement action against the company.]
+
+(b)	Schedule 5.07(b) to the Parent=s Disclosure Letter contains the names of those Developed Businesses that are subject to regulation by Governmental Authorities of the tariffs charged by, and other operational matters relating to, such Developed Businesses, as well as the names of the applicable Governmental Authorities exerting such regulatory authority. [Please list the Governmental Authorities to which each Developed Business is subject.  Local counsel will add the citations to the statutes.]  Since December 31, 1996 or, if later, the date on which the Parent first acquired its interest in the Business related to a Subject Company, such Subject Company or an appropriate Subsidiary or Operating Company of the Subject Company has filed for the related Developed Business all reports required to be filed by it with the appropriate Governmental Authority that regulates that Developed Business, except where the failure to file any such reports could not reasonably be expected to have a Material Adverse Effect.  Such reports, including all those filed after the date of this Agreement and prior to the Closing, have been prepared in all material respects in accordance with the requirements of applicable Law. [Important: List any reports not filed (ie- annual throughput reports, etc.). This is not meant to include optional applications or reports (ie- tariff review applications).]
+
+
+Section 5.08.  Insurance.  Schedule 5.08(a) of the Parent=s Disclosure Letter sets forth a list, including the name of the underwriter, the risks insured, coverage and related limits and deductibles, expiration dates and significant riders, of the principal insurance policies currently maintained by the Subject Companies and their Subsidiaries and Operating Companies, other than those insurance policies maintained by or through the Parent Company Group.  To the Knowledge of the Parent, all such policies are in full force and effect and all premiums due thereon have been paid. Schedule 5.08(b) to the Parent=s Disclosure Letter sets forth a list, including the name of the underwriter, the risks insured, coverage and related limits and deductibles, expiration dates and significant riders, of the principal insurance policies currently maintained by the Parent Company Group for the benefit of one or more of the Subject Companies and their Subsidiaries and Operating Companies, the coverage under which is to be continued after the Closing with respect to the Subject Companies and their Subsidiaries and Operating Companies pursuant to the Transition Agreement. [Please either (1) list all policies (where reasonable) or (2) consider what minimum dollar limits (liability limits under the policies) would make sense, and list all policies above such minimum dollar limits.  For some companies listing all policies may be burdensome and will require some discussion in how to address making this rep.  A sliding scale of dollar limits may be tailored for individual companies.]
+
+Section 5.09.  Taxes. *** [Bob Butts will be coordinating preparation of schedules relating to financial information.]
+
+Section 5.10. Principal Contracts.
+
+(a)	To the Knowledge of the Parent, Schedule 5.10(a) to the Parent=s Disclosure Letter contains a list of all Principal Contracts, other than Related Party Contracts and Suretyship Arrangements. [Please prepare a list of Principal Contracts.]  To the Knowledge of the Parent, the Subject Companies, their Subsidiaries and the Operating Companies have not received from any other party to any such Principal Contract specific written notification that any such Principal Contract is not in full force and effect, that any Subject Company, Subsidiary of such Subject Company or Operating Company party thereto has not  performed its obligations thereunder to date or that any other party thereto has not performed its obligations thereunder to date, other than notice of any failure of a Principal Contract to be in full force and effect or of any nonperformance thereof that could not reasonably be expected to have a Material Adverse Effect [on the respective Business]. [Regardless of receipt of notice, please list any defaults or potential defaults under any Material Contract.  (ie- spill; relying on Force Majeure to suspend compliance with performance schedule; loan agreement - payment delays; delays in project development; etc.]
+
+(b)	Schedule 5.10(b) to the Parent=s Disclosure Letter contains a list of all Significant Suretyship Arrangements and identifies each surety in such arrangement, whether that be the Parent or a Retained Subsidiary.  To the Knowledge of the Parent, all such Significant Suretyship Arrangements are in full force and effect.
+
+Section 5.11.  Employees.  
+
+(a)	Except for matters that could not reasonably be expected to have a Material Adverse Effect, (i) no collective bargaining agreement is being negotiated by any Subject Company or any of its Subsidiaries or Operating Companies, (ii) there is no pending or, to the Knowledge of the Parent, threatened labor dispute, strike or work stoppage against any Subject Company or any of its Subsidiaries or Operating Companies, and (iii) to the Knowledge of the Parent, none of the Subject Company, its Subsidiaries and the Operating Companies has received specific written notification that it has committed any unfair labor practice in connection with the operation of the related Business, which unfair labor practice is actionable under applicable Laws and Regulations.
+
+
+(b)	A true and complete list by Business of the Significant Benefit Plans, including the most recent actuarial report and valuation of the assets and liabilities subject to each Significant Benefit Plan to the extent that any such report or valuation is required to be prepared by applicable Laws and Regulations, is included in Schedule 5.11(b) to the Parent=s Disclosure Letter.  Except for matters that could not reasonably be expected to have a Material Adverse Effect, (i) no individual, corporation, trade, business or other entity that is not a Subject Company, a Subsidiary of a Subject Company or an Operating Company is a participating employer or sponsor of any Significant Benefit Plan, (ii) each Significant Benefit Plan has been operated and administered in compliance with its governing documents and all applicable Legal Requirements, (iii) the Subject Companies, their Subsidiaries and their Operating Companies have performed all Significant obligations, whether arising by operation of Law or by contract, required to be performed by them in connection with the Significant Benefit Plans, (iv) there are no Significant actions, suits or claims pending (other than routine claims for benefits) or, to the Knowledge of the Parent, threatened against, or with respect to, any of the Significant Benefit Plans or their assets, (v) all Significant contributions required to be made to the Significant Benefit Plans pursuant to their terms and the provisions of all applicable Legal Requirements have been timely made, (vi) each Significant Benefit Plan is either fully insured or the assets of such Benefit Plan equal or exceed the actuarial present value of the benefit liabilities under such Benefit Plan, (vii) other than routine applications, filings and amendments and modifications, there is no Significant matter pending with respect to any of the Significant Benefit Plans before any Governmental Authority, (viii) the Subject Companies, their Subsidiaries and their Operating Companies are in substantial compliance with all applicable Laws mandating benefits for their employees, and (ix)  the execution and delivery of this Agreement and the consummation of the transactions contemplated hereby will not (A) require any Subject Company, Subsidiary of a Subject Company or Operating Company to make a larger contribution to, or pay greater benefits or provide other rights under, any Significant Benefit Plan than it otherwise would, whether or not some other subsequent action or event would be required to cause such payment or provision to be triggered or (B) create or give rise to any additional vested rights or service credits under any such Benefit Plan.  
+
+Section 5.12.  Environmental Matters.
+
+(a)	Except for any matter that could not reasonably be expected to have a Material Adverse Effect, (i) the Parent has not received, and no Subject Company or any of its Subsidiaries or Operating Companies has received, during the time that Parent has directly or indirectly owned an investment therein, from any Governmental Authority specific written notification that the properties and operations of any Subject Company or any of its Subsidiaries or Operating Companies are not in compliance with all applicable Environmental Laws and Regulations, (ii) no Subject Company or Subsidiary of a Subject Company or Operating Company or its properties or operations are subject to any existing or, to the Parent=s Knowledge, threatened action, suit, investigation, inquiry or proceeding by or before any Court or Governmental Authority under any applicable Environmental Laws and Regulations, (iii) no Authorizations required to be obtained by any Subject Company or any of its Subsidiaries or Operating Companies under any applicable Environmental Laws and Regulations in connection with the Developed Business conducted by them have not been obtained or timely filed for, and such Authorizations are valid and currently in full force and effect except to the extent of those for which filings are currently pending and (iv) there has been no Release of any Hazardous Substance into the environment in violation of any applicable Environmental Laws and Regulations by any Subject Company or any of its Subsidiaries or Operating Companies in connection with their properties or operations. [Please address each subsection separately.]
+
+
+(b)	All internal and external environmental audits and studies (in each case relevant to any Subject Company or any of its Subsidiaries or Operating Companies, but excluding any matter that could not reasonably be expected to have a Material Adverse Effect) prepared since December 31, 1996 by or for the Parent or any of its Affiliates that are in the possession of the Parent or such Subject Company or its Subsidiaries and that relate to any assets or properties that are Material to the Businesses are listed in Schedule 5.12(b) to the Parent=s Disclosure Letter.  [Please list all such environmental audits and studies and please provide copies of such audits and studies to Donnie Roark at Vinson & Elkins L.L.P.] 
+
+(c)	Notwithstanding anything to the contrary in this Article V or in any other provision of this Agreement, the representations and warranties set forth in this Section 5.12 and in Section 5.06 are the only representations and warranties of the Parent in any way relating to Environmental Law and Regulations, Authorizations under any Environmental Laws and Regulations and Hazardous Substances and the remaining representations and warranties shall be construed not to apply to such matters. [This subsection limits environmental disclosures to what is disclosed here.]
+
+Section 5.13.  Litigation.  [Bob Williams to provide.]  There are no actions, suits, arbitrations or investigations pending or, to the Knowledge of the Parent, threatened against any Subject Company or any of its Subsidiaries or Operating Companies, at law, in equity or under applicable legal codes, including any involving a claim for indemnification pursuant to any statute, organizational document or contract relating to any other action, suit, arbitration or investigation, in any Court or before or by any Governmental Authority, except actions, suits, investigations or proceedings disclosed pursuant to Section 5.09 or 5.12 or that, individually or, with respect to multiple actions, suits or proceedings that allege similar theories of recovery based on the same or substantially the same facts or occurrences, in the aggregate, could not reasonably be expected to have a Material Adverse Effect. 
+
+Section 5.14.  Material Adverse ChangesSection V.14.  Material Adverse Changes.  [to be measured from March 31, 2000 and to run until signing]
+
+(a)	Since the Initial Balance Sheet Date, no event, condition or circumstance  has occurred resulting in any change in or effect on any Business (except for (i) such changes or effects resulting from changes in general economic, regulatory or political conditions (including foreign exchange rate movements or devaluations), (ii) such changes or effects affecting generally the industry in which such Business participates and (iii) such changes or effects resulting from any event that is expressly subject to any other representation or warranty contained in this Article V [regardless, please list any regulations etc. adopted which are expected to have an adverse effect (ie- environmental regs)]) that could reasonably be expected to constitute or have a Material Adverse Effect [on such Business].  [Please list anything adverse which has occurred since March 31, 2000, including spills, changes, to development plans, dips in earning trends in established businesses, cost overruns, adverse regulatory changes, etc.] 
+
+(b)	During the period from March 31, 2000 to the date of this Agreement, no Subject Company or any of its Subsidiaries or Operating Companies has engaged in any conduct that is proscribed during the period from the date of this Agreement to the Closing Date by subsections (i) through (xiii) of subsection 7.02(b). [7.02(b) makes negative covenants restricting the operations of the Subject Companies and their Subsidiaries.  Please consider what the companies will be doing prior to the execution of any agreement and plan what measures will need to be taken.  List any such actions or measures in a disclosure schedule.  Disclosure here will provide an exception to the negative covenants of 7.02(b) and will prevent restriction of the companies' activities.]
+
+Section 5.15.  Disclaimers.***
+
+ARTICLE VI
+
+REPRESENTATIONS AND WARRANTIES REGARDING ACQUIROR***
+
+
+ARTICLE VII
+
+COVENANTS OF THE PARENT
+
+Section 7.01.  Affirmative Covenants Regarding Operation of the Businesses.***
+
+Section 7.02.  Negative Covenants Regarding the Operation of the Businesses.
+
+(a)	The Parent covenants and agrees that, except as set forth in Schedule 7.02(a) to the Parent=s Disclosure Letter, as contemplated by this Agreement, as compelled by a Transfer Restriction, approved by a member of the Senior Management Team or as otherwise consented to in writing by the Acquiror, from the date of this Agreement until the Closing, it will not directly or indirectly through any of its Subsidiaries sell, transfer or otherwise dispose of, or grant any Lien with respect to, any Equity Securities of any Subject Company.
+
+(b 	[Referenced by Section 5.14(b)]  The Parent covenants and agrees that, except as set forth in Schedule 7.02(b) to the Parent=s Disclosure Letter, as contemplated by this Agreement, as compelled by a Transfer Restriction, approved by a member of the Senior Management Team or as otherwise consented to in writing by the Acquiror, from the date of this Agreement until the Closing, it will not permit any of the Subject Companies or their Significant Subsidiaries to do any of the following:
+
+
+(i)	(A) increase Significantly the compensation payable to or to become payable to any director or executive officer, (B) except as otherwise provided in clause (ii) of this subsection 7.02(b), grant any Significant severance or termination pay that could reasonably be expected to become due as a result of the transactions contemplated hereby, (C) amend or take any other actions to increase Significantly the amount of, or accelerate the payment or vesting of, any benefit under any Benefit Plan or (D) contribute, transfer or otherwise provide any Significant amount of cash, securities or other property to any grantee, trust, escrow or other arrangement that has the effect of providing or setting aside assets for benefits payable pursuant to any termination, severance or other change in control agreement; except (x) pursuant to any contract, agreement or other legal obligation of a Subject Company or any of its Significant Subsidiaries existing at the Initial Balance Sheet Date or (y) in the case of severance or termination payments, pursuant to the severance policy of, or for the benefit of, a Subject Company or its Significant Subsidiaries existing at the Initial Balance Sheet Date. 
+
+(ii)	(A) enter into any Significant employment or severance agreement with any director or executive officer, either individually or as part of a class of similarly situated persons, or (B) establish, adopt or enter into any Significant new Benefit Plan; except employment and severance agreements and Benefit Plans for the benefit of any newly employed or promoted officers or employees, in which case the terms of such agreements and Benefit Plans shall be reasonably consistent with those existing at December 31, 1999, and except Benefit Plans relating to health and life insurance benefits established or adopted in the ordinary course of business consistent with past practice;
+
+(iii)	(A) redeem, purchase or acquire, or offer to purchase or acquire, any Material amount of outstanding Equity Securities of a Subject Company or any of its Significant Subsidiaries other than any such acquisition by the Subject Company or any of its wholly owned Subsidiaries directly from any wholly owned Subsidiary of the Subject Company, (B) effect any reorganization or recapitalization or (C) split, combine or reclassify any of the capital stock of, or other Equity Securities of, the Subject Company or any of its Significant Subsidiaries;
+
+(iv)	(A) offer, sell, issue or grant, or authorize the offering, sale, issuance or grant, of any Equity Securities of any Significant Subsidiaries of a Subject Company or (B) grant any Lien with respect to any Equity Securities of any Significant Subsidiaries of a Subject Company;
+
+(v)	acquire, whether by merger or consolidation, by purchasing an equity interest or otherwise, any business or any corporation, partnership, association or other business organization or division thereof other than any such acquisition transaction that is not Material; 
+-
+(vi)	acquire or construct for its own account any assets or properties other than any assets and properties that are not Material and other than the acquisition of assets from suppliers or vendors in the ordinary course of business and consistent with past practice;
+
+
+(vii)	sell, lease, exchange or otherwise dispose of, or grant any Lien with respect to, any of the assets of a Subject Company or any of its Significant Subsidiaries, except for dispositions of assets and inventories in the ordinary course of business consistent with past practice and purchase money Liens incurred in connection with the original acquisition of assets secured by such assets;
+
+(viii)	adopt any amendments to its charter or bylaws or other organizational documents that would alter the terms of its Equity Securities in any manner adverse to the holder thereof; 
+
+(ix)	(A) make any change in any of its methods of accounting in effect at December 31, 1999, except as may be required to comply with Local GAAP, (B) make or rescind any election relating to any Taxes (other than any election that must be made periodically and that is made consistent with past practice) or (C) settle or compromise any claim, action, suit, litigation, proceeding, arbitration, investigation, audit or controversy relating to Taxes, except, in each case, as may be required by Law and for matters that could not reasonably be expected to be adverse and Significant;
+
+(x)	incur any obligations for borrowed money or purchase money indebtedness that are Material to the Businesses, whether or not evidenced by a note, bond, debenture or similar instrument, except purchase money indebtedness as to which Liens may be granted pursuant to clause (viii) of this subsection 7.02(b), drawings under credit lines existing at the date of this Agreement and borrowings evidenced by obligations having a term of up to five years issued in the ordinary course of business consistent with past practice;
+
+(xi)	pay any Noncurrent Intercompany Indebtedness or pay any other Significant amount of indebtedness for borrowed money except in accordance with its scheduled maturities;
+
+(xii)	enter into any Material agreement with any third Person that provides for an exclusive arrangement with that third Person relating to a particular line of business or geographic area; or
+
+(xiii)	agree in writing to do any of the foregoing.
+
+(c)	The Parent hereby covenants and agrees that, prior to the Closing, unless otherwise expressly contemplated by this Agreement, approved by a member of the Senior Management Team or consented to in writing by the Acquiror, the Parent will use its commercially reasonable efforts consistent with its fiduciary obligations, if any, to prevent each Operating Company from taking any of the actions contemplated by clauses (i) through (xiii) of subsection (b) of this Section.  In this regard, the Acquiror acknowledges that each Operating Company that is an Unconsolidated Entity is not under the direct or indirect control of the Parent.
+
+
+(d)	The Parent has included the Capital Budgets and Development Budgets in Schedule 7.02(d) of the Parent=s Disclosure Letter.  [Need to include CapEx Budgets (for Developed Businesses) and Development Budgets (for Businesses Under Development) as applicable for each of the Projects.  Budgets to run through June 30, 2001.  The Development Budget should set out (1) anticipated expenditures, (2) timing, and (3) purpose of expenditures.  Please communicate any specific concerns you might have on the budgets.]  Notwithstanding the other provisions of this Section 7.02, the Parent may cause or permit (i) the Subject Companies and their Subsidiaries and Operating Companies related to any Developed Business to make the capital expenditures at the times, in the amounts and for the purposes contemplated by the appropriate Capital Budget and (ii) the Subject Companies and their Subsidiaries and Operating Companies related to any Business Under Development to make the capital expenditures at the times, in the amounts and for the purposes contemplated by the appropriate Development Budget and to take actions inconsistent with the provisions of Section 7.01 and this Section 7.02 if such actions are reasonably necessary or appropriate, in time as well as nature, for such Subject Companies, their Subsidiaries and the Operating Companies to implement and give effect to the transactions contemplated by the appropriate Development Budget.  [The budgets allow the companies to carry out their businesses as planned and allow for flexibility as they function as exceptions to the restrictive covenants.]  Notwithstanding the other provisions of Section 7.01 and this Section 7.02, the Parent may cause or permit the appropriate member of a Subject Company Group in its capacity as a holder of Equity Securities of any Operating Company that is a Noncontrolled Entity to approve changes to the Operating Company=s capital expenditure budget and any such changes shall be deemed to be incorporated by reference into the appropriate Capital Budget or Development Budget effective as of the date of such approval.
+
+Section 7.03  Access to Information. .  Access to Information. 
+
+(a)	Except as set forth in Section 7.03(c) and subject to any limitations on disclosures to which the Parent and the Acquiror agreed in the Confidentiality Agreement, the Parent shall use commercially reasonable efforts to cause each of the Subject Companies and its Subsidiaries (i) to afford to the Acquiror and its Representatives access, at reasonable times upon reasonable prior notice, to the officers, employees, agents, properties, offices and other facilities of the Subject Company and its Subsidiaries and to their Books and Records and (ii) to furnish promptly to the Acquiror and its Representatives such information concerning the properties, contracts, records and personnel (including financial, operating and other data and information) related to the Businesses as may be reasonably requested, from time to time, by or on behalf of the Acquiror; provided,  that Acquiror’s Representatives (i) comply with the provisions of the Confidentiality Agreement, (ii) comply with all applicable safety and other rules of conduct of such offices and facilities and (iii) do not unreasonably interfere with the operation of such offices or facilities or the personnel involved.
+
+(b)	All information provided to the Acquiror and the Acquiror’s Representatives pursuant to the Parent’s Disclosure Letter and otherwise pursuant to subsection (a) of this Section 7.03 shall be deemed to be “Evaluation Material” as that term is defined in the Confidentiality Agreement.  
+
+N.B.  The bracketed text in the following provision awaits an evaluation by both parties of the restricted disclosures set forth on the Annex.
+
+(c)	The Acquiror and the Parent acknowledge that, due to existing confidentiality agreements, the Parent has not provided the Acquiror or its Representatives with access to the documents and information described on Annex G.  Promptly after the execution of this Agreement, the Parent and the Acquiror shall cooperate in seeking to obtain the appropriate consents and waivers from third Persons to allow the Parent to provide the Acquiror access to such information; provided, however, that all contacts with such third Persons shall be coordinated by the Parent.  The Acquiror shall enter and shall cause its Representatives to enter any appropriate confidentiality undertakings requested by such third Persons if such undertakings do not impose significantly more onerous terms and conditions on the Acquiror than those imposed by the Confidentiality Agreement.  [If (i) the Parent is allowed to provide any such information to the Acquiror and its Representatives and if the information so provided discloses any event or condition that could reasonably be expected to have an adverse effect on the Subject Company or member of its Subject Company Group to which such information relates that would be material to that Subject Company Group or (ii) the Parent has not been able to secure appropriate consents and waivers to provide such information in all material respects to the Acquiror within ten Business Days prior to the Closing, the Acquiror may, by written notice given to the Parent within ten Business Days after such information was provided pursuant to clause (i) of this subsection or within five Business Days prior to the Closing pursuant to clause (ii) of this subsection, elect to sever such Subject Company from the transaction in accordance with the provisions of subsection 9.03 in which case neither the Equity Securities of such Subject Company nor the Noncurrent Intercompany Indebtedness owed by any member of such Subject Company Group shall be conveyed to any Transfer Company and the Purchase Price shall be reduced by the amount allocated to such Subject Company on Annex C.]
+Section 7.04.  Debt Refinancing .  Debt Refinancing .  The Parent agrees to cause its appropriate Subsidiaries to pay and discharge prior to the Closing the indebtedness described in Schedule 7.04 to the Parent’s Disclosure Letter that is generally known as Ponderosa, Firefly and LJM and, in the case of Ponderosa and LJM,  to purchase the Securities of the Subject Companies held by third Persons and pledged to secure such indebtedness and, in the case of Firefly, to use its commercially reasonable efforts  to purchase the Securities of the Subject Companies held by third Persons and pledged to secure such indebtedness. [Please list any other debt which would be triggered by the contemplated transfer or any debt refinancing which would be necessary.]
+
+Section 7.05.  Related Party Contracts .  Related Party Contracts .  The Parent has identified the Related Party Contracts set forth in Schedule 7.05 to the Parent’s Disclosure Letter.  [Please list any Related Party Contracts of which you are aware.]  The Parent agrees to cause the parties to such Related Party Contracts to take the actions, whether to terminate, to continue or to modify and continue, with respect to each such Related Party Contract  specified in Schedule 7.05 to the Parent’s Disclosure Letter prior to the Closing.  [Please list any required or recommended actions or amendments relating to such Related Party Contracts.]  The Parent and the Acquiror agree to continue to review the records of the Parent and its Subsidiaries for the purpose of identifying any additional Related Party Contracts.  To the extent that any such additional Related Party Contracts are identified prior to the Closing, the parties agree to amend Schedule 7.05 to the Parent’s Disclosure Letter by adding those contracts to the list and, to the extent that the Parent and the Acquiror have so agreed, to indicate the action that the Parent shall cause the parties thereto to take with respect to such contracts prior to the Closing.  To the extent that the Parent and the Acquiror shall not have agreed as to the action to be taken with respect to any such additional Related Party Contract, the Parent shall, prior to the Closing, cause the parties thereto to terminate the contract if the contract is by its terms terminable without penalty on sixty days notice or less or to continue the contract in accordance with its terms if it is not so terminable. 
+
+
+***
+
+
+
+	ANNEX A
+
+	DEFINITIONS
+
+
+AAAA@ shall have the meaning ascribed to such term in Section 13.11.
+
+AAAA Rules@ shall have the meaning ascribed to such term in Section 13.11.
+
+AAccounting Conventions@ shall have the meaning ascribed to such term in Section 2.04.
+
+AAcquiror@ shall have the meaning ascribed to such term in the introductory paragraph to this Agreement.
+
+AAcquiror Group@ shall mean the Acquiror and any direct or indirect Subsidiaries of the Acquiror. 
+
+AAcquiror=s Disclosure Letter@ shall mean that letter, together with the associated schedules, of even date herewith from the Acquiror to the Parent setting forth, as required hereby, the information called for herein and the discrepancies from the representations, warranties and covenants of the Acquiror contained herein.
+
+AAffiliate@ shall mean a Person controlling, controlled by or under common control with another Person.  For this purpose, control shall mean the ability to direct the management and affairs of a Person, whether through ownership of securities, by contract or otherwise.
+
+AAgreement@ shall have the meaning ascribed to such term in the introductory paragraph of this instrument.
+
+AAlpha@ shall have the meaning ascribed to such term in recitals to this Agreement.
+
+AAlliance Agreement@ shall mean an Alliance Agreement dated the Closing Date among the Parent, EI and the Acquiror in form and substance substantially similar to the form thereof attached hereto as Annex __.	
+
+AAncillary Agreements@ shall mean the Shareholders= Agreement, the Transition Agreement, the License Agreement, the Broadband Agreement, the Alliance Agreement, the Marketing Rights and Offtake Agreement and the Elba Island Regassification Contract.
+
+AAuthorization@ shall mean any franchise, permit, license, authorization, order, certificate, registration or other consent or approval granted by any Governmental Authority.
+
+
+ABenefit Plan@ shall mean any pension, profit sharing, retirement, life, health, accident, disability, stock bonus, stock ownership, stock option, stock purchase, stock appreciation rights, phantom stock, severance, employment, change-in-control, deferred compensation, bonus or incentive compensation plan, agreement, program or policy (whether written or oral) sponsored, maintained or contributed to by the Subject Companies, their Subsidiaries and their Operating Companies for the benefit of any of their present or former directors, officers, employees, agents, consultants or other similar representatives; provided, however, that such term shall not include (a) routine employment policies and procedures developed and applied in the ordinary course of business and consistent with past practice, including wage, vacation, holiday and sick or other leave policies, (b) programs mandated by applicable Law and (c) directors and officers= liability insurance.
+
+ABeta@ shall have the meaning ascribed to such term in recitals to this Agreement.
+
+ABooks and Records@ shall mean all books and records of a Person relating to that Person=s business, operations and activities, including all contracts and agreements to which such Person is a party or by which it is bound, its general and other ledgers, records of corporate or organizational proceedings, tax records, financial statements, documents of title to real/immovable and personal/movable  property, personnel records, salary and wage records, inventory records and sales documentation.
+
+ABroadband Agreement@ shall mean a Broadband Agreement dated the Closing Date between the Parent and the Acquiror in form and substance substantially similar to the form thereof attached hereto as Annex __.	
+
+ABusiness@ shall mean the assets, properties, operations and businesses, subject to the liabilities and obligations related thereto, conducted by a Subject Company, its Subsidiaries and Operating Company or Companies.  The term ABusinesses@ shall mean all the Businesses, taken as a whole.  The several Businesses subject to this Agreement are referred to by the abbreviated names in relation to the names of the appropriate Operating Company or Companies, all as set forth on Annex G.
+
+ABusinesses Under Development@ shall mean the Businesses associated with the following Operating Companies:  EPE Generation Holdings Ltd.; RJG-Rio de Janeiro Generation Ltda. and Enron Comercializadora de Energia Ltda.; and Termo Generadora Puerto Suarez S.A. and [others to come].
+
+ABusiness Day@ shall mean each Monday, Tuesday, Wednesday, Thursday and Friday unless such day shall be a day when financial institutions in the City of New York are authorized by Law to close.
+
+ACapital Budget@ shall mean [to come.]
+
+
+ACERCLA@ shall mean the United States Comprehensive Environmental, Response, Compensation, and Liability Act of 1980, as currently in effect.
+
+AChange in Control Right@ shall have the meaning ascribed to such term in the definition of Transfer Restrictions.
+
+AClosing@ shall have the meaning ascribed to such term in Section 2.05.
+
+AClosing Conditions@ shall mean those conditions to the closing of the transactions contemplated hereby contained in Article X.
+
+AClosing Date@ shall have the meaning ascribed to such term in Section 2.05.
+
+ACode@ means the United States Internal Revenue Code of 1986, as amended.
+
+AComparison Amount@ shall have the meaning ascribed to such term in Section 2.08.
+
+AConfidentiality Agreement@ shall mean that certain Confidentiality Agreement dated ________, 2000 between the Parent and the Acquiror, as amended or supplemented from time to time.
+
+AContractual Transfer Restriction@ shall mean any Transfer Restriction imposed by contract.
+
+ACourt@ shall mean any court or arbitration tribunal established and functioning under the Laws of any nation or state, including the United States of America, or any political subdivision thereof, including any state of the United States of America.
+
+ACurrent Intercompany Indebtedness@ shall mean indebtedness, whether or not evidenced by a promissory note or other security, being payable on demand or having a maturity of less than twelve (12) months from the date such indebtedness was incurred and owing either (A) from any member of any of the Subject Company Groups to any member of the Parent Company Group or (B) from any member of any of the Parent Company Group to any member of any of the Subject Company Groups.
+
+ADebt Agreements@ shall mean ... [to come]
+
+ADefensible Title@ shall mean such title that (i) is sufficiently free from reasonable doubt to the end that a prudent purchaser engaged in the business of the ownership and operation of similar properties, with knowledge of all of the facts and their legal bearing, would be willing to accept and pay full value therefor and (ii) is free of material Liens except for Permitted Encumbrances.
+
+ADeveloped Business@ shall mean each Business other than a Business Under Development.
+
+
+ADevelopment Budgets@ shall mean the budgets for the Businesses under Development for the year ending December 31, 2000 identified as such and included as part of Schedule 7.02(b) to the Parent=s Disclosure Letter.  [The Development Budget should set out (1) anticipated expenditures, (2) timing, and (3) purpose of expenditures.]
+
+ADifferences@ shall have the meaning ascribed to such term in Section 2.09.
+
+
+AEI@ shall have the meaning ascribed to such term in recitals to this Agreement.
+
+AElba Island Regassification Capacity Contract@ shall mean an Elba Island Regassification Capacity Contract dated the Closing Date between the Parent and the Acquiror in form and substance substantially similar to the form thereof attached hereto as Annex __.	
+
+[AElektro Firefly Shares@ shall mean all the outstanding capital stock of Enron Brazil Power Holdings V Ltd., a Cayman Islands corporation.]
+
+AEnvironmental Laws and Regulations@ shall mean any and all laws, statutes, ordinances, rules, regulations, or orders of any Governmental Authority pertaining to health or the environment in effect as of the date hereof and applicable to a specified Person and its Subsidiaries, and all other environmental conservation or protection Laws and Regulations in effect as of the date hereof and applicable to a specified Person and its Subsidiaries.
+
+AEquity Securities@ shall mean the shares of capital stock of a corporation, the partnership interests in a limited partnership or the equity securities of any other legal entity.
+
+AExcluded Liability@  shall mean the applicable Subject Company=s proportionate share of the following costs and expenses incurred from and after the Closing Date:  (i) costs and expenses reasonably incurred by Transredes or its applicable Subject Company in connection with the clean up and remediation of the oil spill on the ________ River that occurred on or about ______, 2000 (the ASpill@), together with any regulatory, civil or criminal liabilities, penalties or assessments imposed on Transredes (or amounts reasonably paid in settlement thereof) by reason of such Spill; (ii) costs and expenses reasonably incurred by San Juan Gas and its Affiliates in connection with any and all civil, criminal or regulatory proceedings arising out of or based upon the explosion that occurred in San Juan, Puerto Rico on __________, 1998 (the AExplosion@), together with any fines, penalties, judgments, damages or amounts reasonably paid in settlement thereof by reason of such Explosion;  and (iii) [Argentine Stamp Tax - to come.]
+
+AGovernmental Authority@ shall mean any national, federal, regional, state, local or other governmental agency, authority, administrative agency, regulatory body, commission or instrumentality  (other than a Court), including any multinational authority having governmental or quasi-governmental powers.
+
+
+AHazardous Substance@ shall have the meaning specified in CERCLA; provided, however, that, to the extent the Laws of the state or locality in which the property is located establish a meaning for AHazardous Substance@ that is broader than that specified in CERCLA, such broader meaning shall apply, and the term AHazardous Substance@ shall include all dehydration and treating wastes, waste (or spilled) oil, and waste (or spilled) petroleum products, and (to the extent in excess of background levels) radioactive material, even if such are specifically exempt from classification as Hazardous Substances pursuant to CERCLA or the analogous statutes of any jurisdiction applicable to the specified Person or its Subsidiaries or any of their respective properties or assets.
+
+AHold Requirement@ shall have the meaning ascribed to such term in the definition of Transfer Restrictions.
+
+AIndemnified Liabilities@ shall have the meaning ascribed to such term in Section 8.03.
+
+AIndemnified Party@ shall have the meaning ascribed to such term in Section 11.02.
+
+AIndemnifying Party@ shall have the meaning ascribed to such term in Section 11.02.
+
+AInitial Balance Sheet@ shall mean the combined balance sheet included in the Initial Combined Financial Statements.
+
+AInitial Balance Sheet Date@ shall mean the date of the Initial Balance Sheet.
+
+AInitial Combined Financial Statements@ shall mean the combined balance sheet of the Businesses as of March 31, 2000 and the combined statements of results of operations for the year and three months then ended, all prepared in accordance with the Accounting Conventions; provided, however, that, for purposes of determining the Purchase Price Adjustment, the Initial Combined Financial Statements shall exclude the financial statements of any Subject Company Group to be severed from the transactions contemplated by this Agreement in accordance with Section 9.03. 
+
+AInterest@ shall mean a member=s  interest in EI constituting 80% of voting control and approximately 80% of the economic interest in EI.
+
+AInterim Balance Sheet@ shall mean the combined balance sheet included in the Interim Combined Financial Statements.
+
+
+AInterim Combined Financial Statements@ shall mean the combined balance sheet of the Businesses as of the end of the calendar quarter next preceding the Closing Date for which unaudited financial statements of the Businesses are available and the combined statements of results of operations and cash flows for the period (commencing April 1, 2000) then ended, together with the notes thereto, all prepared consistently with the Initial Combined Financial Statements; provided, however, that the Interim Combined Financial Statements shall exclude the financial statements of any Subject Company Group to be severed from the transactions contemplated by this Agreement in accordance with Section 9.03.  The Interim Combined Financial Statements shall be prepared in accordance with the Accounting Conventions. 
+
+AKnowledge@ shall mean, with respect to the Parent, the actual knowledge of Kenneth L. Lay, Jeffrey K. Skilling, J. Clifford Baxter, James V. Derrick, Jr., Steven J. Kean or J. Mark Metts.
+
+ALaws@shall mean all laws, statutes and ordinances of any nation or state, including the United States of America, and any political subdivision thereof, including  any state of the United States of America, including all decisions of Courts having the effect of law in any such jurisdiction.
+
+ALegal Requirements@ shall mean the obligations applicable to a specific Person  imposed by Laws, Regulations and Orders.
+
+ALetter of Credit@ shall have the meaning ascribed to such term in Section 6.05.	
+
+ALicense Agreement@ shall mean a License Agreement dated the Closing Date between the Parent and the Acquiror in form and substance substantially similar to the form thereof attached hereto as Annex __.	
+
+ALien@ shall mean any mortgage, pledge, security interest, adverse claim, encumbrance, lien or charge of any kind (including any agreement to give any of the foregoing), any conditional sale or other title retention agreement, any lease in the nature thereof or the filing of or agreement to give any financing statement under the Laws of any jurisdiction.
+
+ALocal GAAP@ shall mean, with respect to any Business, the accounting principles generally accepted in the jurisdiction in which the principal executive office of such Business is located and consistently applied.
+
+ALosses@ shall have the meaning ascribed to such term in Section 11.02.
+
+AMarketing Rights and Offtake Agreement@ shall mean an agreement, in form and substance substantially similar to the form thereof attached hereto as Annex __ among the Parent, EI and the Acquiror regarding marketing rights and offtake arrangements for production from the Indian fields.  
+AMaterial@ shall mean: 
+
+(a)	when used in any representation, warranty, covenant or condition of the Acquiror, material to the business, assets, results of operations, condition (financial and otherwise) or prospects of the Acquiror and its Subsidiaries, taken as a whole; or
+
+
+(b)	when used (i) in the context of any representation, warranty, covenant or condition of the Parent to be confirmed as required by any Closing Condition, material to the business, assets, results of operations, condition (financial and otherwise) or prospects of any [individual] Strategic Business Unit, taken as a whole, or to the Businesses, taken as a whole, or (ii) in the context of any representation, warranty, covenant or condition of the Parent as to which the Acquiror is to be indemnified by the Parent pursuant to Article XI, any condition, circumstance, event,  change or effect that would have a monetary cost of (U.S.) $7.5 million or more;  provided, however, that, when used with reference to the Parent, the term shall apply to the Parent and its Subsidiaries, taken as a whole.
+
+AMaterial Adverse Effect@ shall mean:
+
+(a)	when used in any representation, warranty, covenant or condition of the Acquiror, any condition, circumstance, event,  change or effect that would be material to the business, assets, results of operations, condition (financial and otherwise) or prospects of the Acquiror and its Subsidiaries, taken as a whole; or 
+
+(a)	when used (i) in the context of any representation, warranty, covenant or condition of the Parent to be confirmed as required by any Closing Condition, any condition, circumstance, event,  change or effect that would be material to the business, assets, results of operations, condition (financial and otherwise) or prospects of any Strategic Business Unit, taken as a whole, [or to the Businesses, taken as a whole,] or (ii) in the context of any representation, warranty, covenant or condition of the Parent as to which the Acquiror is to be indemnified by the Parent pursuant to Article XI, any condition, circumstance, event,  change or effect that would have a monetary cost of (U.S.) $7.5 million or more; provided, however, that, when used with reference to the Parent, the term shall apply to any condition, circumstance, event,  change or effect that would be material to the business, assets, results of operations, condition (financial and otherwise) or prospects of the Parent and its Subsidiaries, taken as a whole.
+
+ANet Book Value of the Combined Businesses@ shall mean the stockholders= equity of the combined Operating Companies as determined as of December 31, 1999 by reference to the Initial Balance Sheet and as of the Closing Date in accordance with the Accounting Conventions. 
+
+ANoncurrent Intercompany Indebtedness@ shall mean indebtedness, whether or not  evidenced by a promissory note or other security, having a maturity of more than twelve (12) months from the date of issuance thereof and owing either (A) from any member of any of the Subject Company Groups to any member of the Parent Company Group or (B) from any member of any of the Parent Company Group to any member of any of the Subject Company Groups.
+
+AOperating Company@ shall mean each of the entities named on Annex D.
+
+
+AOrder@ shall mean any judgment, order or decree of any Court or Governmental Authority of competent jurisdiction.
+
+AParent@ shall have the meaning ascribed to such term in the introductory paragraph to this Agreement.
+
+AParent Company Group@ shall mean the Parent and each of the Subsidiaries of the Parent other than any member of any Subject Company Group. [the group staying]
+
+AParent=s Disclosure Letter@ shall mean that letter, together with the associated schedules, of even date herewith from the Parent to the Acquiror setting forth, as required hereby, the information called for herein and the discrepancies from the representations, warranties and covenants of the Parent contained herein.
+
+APermitted Encumbrances@ shall mean the following:
+
+(1)	liens for taxes, assessments and other governmental charges not delinquent or which are currently being contested  in good faith by appropriate proceedings; provided that, in the latter case, the specified Person or one of its Subsidiaries or Operating Companies shall have set aside on its books adequate reserves with respect thereto;
+
+(2)	mechanics= and materialmen=s liens not filed of record and similar charges not delinquent or which are filed of record but are being contested in good faith by appropriate proceedings; provided that, in the latter case, the specified Person or one of its Subsidiaries or Operating Companies shall have set aside on its books adequate reserves with respect thereto;
+
+(3)	liens in respect of judgments or awards with respect to which the specified Person or one of its Subsidiaries or Operating Companies shall in good faith currently be prosecuting an appeal or other proceeding for review and with respect to which such Person or such Subsidiary shall have secured a stay of execution pending such appeal or such proceeding for review; provided that, such Person or such Subsidiary or Operating Company shall have set aside on its books adequate reserves with respect thereto;
+
+(4)	easements, leases, reservations or other rights of others in, or minor defects and irregularities in title to, property or assets of a specified Person or any of its Subsidiaries or Operating Companies; provided that, such easements, leases, reservations, rights, defects or irregularities do not materially impair the use of such property or assets for the purposes for which they are held; and
+
+
+(5)	any lien or privilege vested in any lessor, licensor or permittor for rent or other obligations of a specified Person or any of its Subsidiaries or Operating Companies thereunder so long as the payment of such rent or the performance of such obligations is not delinquent.
+
+APerson@ shall mean an individual, partnership, limited liability company, corporation, joint stock company, trust, estate, joint venture, association or unincorporated organization, or any other form of business or professional entity, but shall not include a Court or Governmental Authority.
+
+APreliminary Purchase Price@ shall have the meaning ascribed to such term in Section 2.02.
+
+APrincipal Contract@ shall mean any contract to which any Subject Company or any of its Subsidiaries or Operating Companies  is a party that is material to the business, assets, results of operations, condition (financial and otherwise) or prospects of any Strategic Business, taken as a whole, or to the Businesses, taken as a whole, and as to which the remaining cost of performing the contract by such Subject Company, Subsidiary or Operating Company, or the remaining revenue to be received by such Subject Company, Subsidiary or Operating Company, exceeds (U.S.) $ _________ or more.
+
+AProceedings@ shall have the meaning ascribed to such term in Section 11.02.
+
+APurchase Price@ shall mean the Preliminary Purchase Price, as adjusted pursuant to Sections 2.03 and 2.08.
+
+APurchase Price Adjustment@ shall have the meaning ascribed to such term in Section 2.08.
+
+APurchase Price Adjustment Statement@ shall have the meaning ascribed to such term in Section 2.04.
+
+ARegulation@ shall mean any rule or regulation of any Governmental Authority having the effect of Law or of any rule or regulation of any self-regulatory organization, such as a national securities exchange in the United States of America.
+
+ARegulatory Transfer Restriction@ shall mean any Legal Requirement that imposes an obligation on the Parent or any of its Subsidiaries to obtain the consent or approval of any Governmental Authority prior to the transfer of the Interest to the Acquiror. 
+
+ARelated Party Contract@ shall mean a contract between a member of a Subject Company Group and the Parent or a Retained Subsidiary that is Material to the Business of the Subject Company Group.
+
+ARelease@ shall have the meaning specified in CERCLA; provided, however, that, to the extent the Laws of the state or locality in which the property is located establish a meaning for ARelease@ that is broader than that specified in CERCLA, such broader meaning shall apply.
+
+
+ARepresentatives@ shall mean, with respect to the Parent or the Acquiror, its officers, directors, employees, accountants, consultants, legal counsel, agents and other representatives.
+
+AReserve Suretyship Arrangement@ shall mean [a guarantee substituted for a cash reserve - to come.]
+
+ARetained Subsidiary@ shall mean any Subsidiary of the Parent other than any Subject Company, any Subsidiary of a Subject Company or an Operating Company.
+
+ARight of First Refusal@ shall have the meaning ascribed to such term in the definition of Transfer Restrictions.
+
+ASection 338 Election@ shall have the meaning ascribed to such term in Section 9.09.
+
+ASenior Management Team@ shall mean [Joseph W. Sutton, David L. Haug, Diomedes Christodoulou, James M. Bannantine, James A. Hughes, Rebecca McDonald, Sanjay Bhatnagar, James L. Noles, Lawrence L. Izzo, and ___________________________.]
+
+ASevered Securities@ shall have the meaning ascribed to such term in Section 9.03.
+
+AShareholders= Agreement@ shall mean a Shareholders= Agreement dated the Closing Date between the Parent and the Acquiror in form and substance substantially similar to the form thereof attached hereto as Annex __.	
+
+ASignificant@ and any variation thereof shall mean, when used to modify an obligation, an obligation or increase in an obligation having a monetary cost of U.S.$ _______ or more.
+
+"Significant Entity@ shall mean, with respect to each Business, a legal entity, including its Subsidiaries and its and their investments in other legal entities, that meets any of the following conditions: 
+
+(1)	The Parent=s direct and indirect investments in and advances to the legal entity exceed ten percent (10%) of the total assets of the related Subject Company and its subsidiaries consolidated as of December 31, 1999; or
+
+(2)	The Parent=s direct and indirect proportionate share of the total assets (after intercompany eliminations) of the legal entity exceeds ten percent (10%) of the total assets of the related Subject Company and its subsidiaries consolidated as of December 31, 1999; or
+
+
+(3)	The Parent=s direct and indirect equity in the income from continuing operations before income taxes, extraordinary items and cumulative effect of a change in accounting principle of the legal entity exceeds ten percent (10%) of such income of the related Subject Company and its subsidiaries consolidated for the year ended December 31, 1999. [the SEC standard for "Significant Subsidiary"]
+
+
+Each Subject Company and each Operating Company shall be deemed to be a Significant Entity. 
+
+AStrategic Business Unit@ shall [individually] mean each of (i) Elektro, (ii) [NoCal and Calme], (iii) [SoCal less Elektro] and (iv) [Dahbol, the LNG Businesses and Apachi].
+
+ASubject Company@ shall mean those legal entities listed on Annex B, the Equity Securities of which are to be transferred directly or indirectly by the Parent to the Transfer Companies in accordance with Section 2.06. 
+
+ASubject Company Group@ shall mean a Subject Company and each Subsidiary owned, directly or indirectly, by such Subject Company and each Unconsolidated Entity in which such Subject Company, directly or indirectly, owns an equity investment; provided, however, that the term shall not include any Subject Company or its Subsidiaries or Unconsolidated Entity in which the Subject Company, directly or indirectly, owns and equity investment to the extent that such Subject Company is one the Equity Securities of which are deemed to be Severed Securities in accordance with subsection 9.03.  [the group going]
+
+ASubsidiary@ shall mean, with respect to a specified Person, any corporation, partnership, limited liability company, joint venture or other legal entity of which the specified Person (either alone or through or together with any other Subsidiary) owns, directly or indirectly, 50 percent or more of the Equity Securities the holders of which are generally entitled to vote for the election of the board of directors or other governing body of such corporation or other legal entity.
+
+ASuretyship Arrangements@ shall mean a contract or agreement under which the Parent or any Retained Subsidiary shall have agreed to act as guarantor or surety with respect to any obligation of any of the Subject Companies, their Subsidiaries or the Operating Companies, whether by guaranty, suretyship contract, letter of credit, indemnity agreement, performance bond or otherwise.
+
+ATask Force@ shall have the meaning ascribed to such term in Section 9.04.
+
+ATax@ or ATaxes@ means all income, profits, franchise, withholding, ad valorem, employment, social security, disability, occupation, property, severance and excise taxes imposed on behalf of any Governmental Authority.
+
+ATax Items@  shall have the meaning ascribed to such term in Section 5.10.
+
+ATax Returns@ shall mean [to come].
+
+
+ATerminating Acquiror Breach@ shall have the meaning ascribed to such term in subsection (b) of Section 12.01.
+
+ATerminating Parent Breach@ shall have the meaning ascribed to such term in subsection (c) of Section 12.01.
+
+ATermination Date@ shall have the meaning ascribed to such term in Section 12.01.
+
+AThird Person Consents@ shall mean any approval, consent, amendment or waiver of a Person, other than a wholly owned Subsidiary of the Parent, that is required under any organizational document relating to the Parent, any Seller, any member of a  Subject Company Group, the Acquiror or any member of the Acquiror Group or under any Material Contract in order to effect the transactions contemplated hereby or any part thereof, including waivers and consents by lenders and waivers of Transfer Restrictions. 
+
+ATransfer Company@ shall mean each of EI, Alpha and Beta.
+
+ATransfer Restrictions@ shall mean obligations imposed by organizational documents of a Person or by contract limiting or prohibiting the alienation by a Person of any of the Equity Securities of any Subsidiary of a Subject Company or of any Operating Company or creating an event of default or a right to acceleration of a payment obligation under debt securities of any such Person.  For purposes of this Agreement, there are three categories of Transfer Restrictions:
+
+(1)	AHold Requirement@ which shall mean a prohibition against the direct or indirect transfer of the Equity Securities of a Subject Company, a Subsidiary of such Subject Company or by an Operating Company; 
+
+(2)	ARight of First Refusal@ which shall mean an obligation to offer the Equity Securities of a Subject Company, a Subsidiary of such Subject Company or by an Operating Company to another Person at the same price and on the same terms on which the holder proposes to sell the Equity Securities to a Person, which offer must be accepted before the Closing; and 
+
+(3)	AChange in Control Right@ which shall mean an obligation of a purchaser of Equity Securities of a Subject Company, a Subsidiary of such Subject Company or by an Operating Company to offer to sell the Equity Securities after the Closing to another Person at the fair market value thereof.
+
+ATransfer Taxes@ shall have the meaning ascribed to such term in Section 9.06.
+
+ATransition Agreement@ shall mean a Transition Agreement dated the Closing Date between the Parent and the Acquiror in form and substance substantially similar to the form thereof attached hereto as Annex __.	
+
+
+
+
+AUnconsolidated Entity@ shall mean any legal entity in which a specified Person has acquired, directly or indirectly, an equity investment that constitutes less than a majority of the Equity Securities having voting power in the ordinary election of directors, trustees or similar officials and less than a majority of the economic value of all the outstanding Equity Securities of such legal entity and is not otherwise under the control of such Person. 
+
+AUnited States Dollars@ (including ADollars,@ AU.S. Dollars@ and AU.S.$@) shall mean the lawful currency of the United States of America.
+
+AU.S. GAAP@ shall mean accounting principles generally accepted in the United States of America.
+
+
+
+

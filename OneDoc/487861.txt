@@ -1,0 +1,66 @@
+cbruce
+gfrers
+Microsoft Excel
+7/20/2001 16:42:30
+5/23/2001 15:40:00
+8/14/2001 16:06:29
+0
+Enron Corp
+no
+no
+
+
+Enron Direct Deal Sheet
+Enron Direct Deal Sheet
+1 January
+11 November
+2 February
+Counterparty Name:
+Calgary Flames Limited Partnership
+Deal Date:
+14-Aug-01 3 March
+Originator:
+Greg Frers
+Deal ID #:
+4 April
+5 May
+Deal Start Date:
+1-Nov-01 Unit of Measure:
+GJ
+6 June
+Deal End Date:
+Volume (Monthly/Daily):
+Monthly
+7 July
+Term Duration (months):
+-1223 8 August
+Price:
+9 September
+Fuel Rate %:
+1.5610% Buy/Sell:
+Sell
+10 October
+11 November
+12 December
+Month
+Rate 11 Volume
+Rate 13 Volume
+Rate 11 Fuel
+Rate 13 Fuel
+Rate 11 Total
+Rate 13 Total
+January
+4,939 0.00 77.10 0 5,016 February
+3,977 0.00 62.08 0 4,039 March
+3,614 0.00 56.41 0 3,670 April
+2,216 0.00 34.59 0 2,251 May
+1,212 0.00 18.92 0 1,231 June
+865 0.00 13.50 0 879 July
+1,157 0.00 18.06 0 1,175 August
+843 0.00 13.16 0 856 September
+1,386 0.00 21.64 0 1,408 October
+2,480 0.00 38.71 0 2,519 Start Month
+November
+3,567 0.00 55.68 0 3,623 December
+4,140 0.00 64.63 0 4,205 TOTAL:
+0 30396 0.00 474.48 0 30872 

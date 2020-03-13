@@ -1,0 +1,96 @@
+M E M O R A N D U M
+rfrank
+rfrank
+10
+Microsoft Word 9.0
+54
+8/22/2001 13:06:00
+8/22/2001 14:46:00
+1
+928
+5290
+0
+Enron Corp
+44
+10
+6496
+no
+no
+8/22/2001 08:06:00
+8/22/2001 09:46:00
+
+CONFIDENTIAL – ATTORNEY-CLIENT COMMUNICATION
+WORK PRODUCT
+
+M E M O R A N D U M
+
+
+To:	Dan Watkiss, Gary Fergus
+
+From:	Bob Frank
+
+Re:	FERC Pacific Northwest Refund Investigation
+
+	This memo discusses the status of FERC’s investigation into Pacific Northwest (PNW) spot market sales, identifies the risks, and explains our current litigation strategy.  Claimants are seeking approximately $100M in refunds from Enron.  While Enron has many arguments why these claims are not valid or are too high, the critical business risk is whether the dispute can be contained at the $100M level.  On Monday August 27th, remaining parties may seek to file “ripple claims.”  A “ripple claim” is defined as a claim for refund from other entities if any party is itself required to pay refunds.  Potentially ripple claims could impact every Enron trade in the Pacific North West for the period 12/25/00 through 6/20/01 over a reference price that is yet to be determined.  This could expand the scope of the dispute to many multiples of $100M.  Enron has the strategic option to seek to file so-called “ripple claims” as well.  (There is some risk that if Enron does not file a ripple claim and others do, Enron may not be able to seek to recover refunds from others to fund refunds Enron might be required to pay.)  
+
+To place these issues in proper context, the discussion begins with an overview of the procedural history leading up to the current proceeding.  
+
+The July 25, 2001 Order	
+
+FERC’s recent order addressing refunds in the California spot markets initiated a  “separate preliminary evidentiary proceeding to facilitate development of a factual record on whether there may have been unjust and unreasonable charges for spot market bilateral sales in the Pacific Northwest for the period beginning December 25, 2000 through June 20, 2001.”  FERC indicated the record would be used to “help the Commission determine the extent to which the dysfunctions in the California markets may have affected decisions the Pacific Northwest.” FERC stated the record should establish the (a) volume of spot transactions in the PNW during the period beginning 12/25/00 through 6/20/01, (b) identification net sellers and net buyers, (c) price, terms and conditions of the sales contracts; and (d) extent of potential refunds. It directed the assigned ALJ to make findings of fact and issue a “recommendation” by September 17, 2001.     
+
+The ALJ’s procedural orders
+
+The assigned ALJ has established a two-track procedure for meeting the FERC’s schedule.  First, all parties were required to submit, on a confidential basis, their sales data on bilateral transactions for the specified time period.  This data is subject to a protective order and will be reviewed by the ALJ and Commission Staff, but it will be part of the record sent to the Commission.        
+
+Second, the ALJ has established an opportunity for parties to submit “affirmative claims” for refunds, including testimony supporting their contentions that prices in the Pacific Northwest were unjust and unreasonable for the underlying transactions.  Those parties who oppose refunds, but who want to reserve their ability to seek refunds from others in the event of an adverse ruling, are required to file responsive testimony on August 27th.  The ALJ recognized – after much discussion on this point - that most parties who did not advocate refunds would nonetheless be compelled to seek refunds from other sellers in the event that the Commission ordered those parties to provide refunds (so-called “ripple claims”).  The ALJ appeared to recognize the impossibility of completing these collateral inquiries in the time allotted by the FERC.  Another concern was that parties who oppose refunds would have been placed in the position of having to assert contradictory positions during the hearings.  To address this problem she indicated that she would entertain and approve a stipulation to defer these “ripple claims” to fully preserve the rights of parties asserting these claims.  On Monday, however, the ALJ indicated she would not certify her ruling on this matter to the Commission, which means that any decision she makes relative to these claims could be later overruled by the Commission.  She also stated that she would not entertain ripple claims during the upcoming hearings (9/4-7).  She agreed to consider a proposed order (copy attached) that we are currently circulating among the parties as an alternative way of preserving the rights of parties to assert these claims.  The ALJ also stated that she did intend to issue a preliminary decision on the refund claims by those parties filing affirmative claims and that she was only going to make “general findings.” 
+
+Summary of Affirmative Refund Claims against Enron 
+
+The parties seeking refunds and amounts claimed against Enron are as follows:
+
+City of Seattle - $ 79 million
+Eugene Water/Electric - $20 million (forward contracts only – after 6/20/01)
+City of Tacoma - $2.5 million
+Modesto Irrigation District - $300,00
+California Parties - $200,000
+SMUD - $300,000
+Others (McMinnville, Clark, Clatskanie, WASCo, Port of Seattle)  
+
+Litigation Strategy
+
+Primary Objectives:
+  
+Refute the affirmative refund claims through expert testimony showing  
+
+Appropriate definition of PNW;
+Market factors contributing to PNW prices;
+Rates were just and reasonable;
+Financial consequences of resettlement;
+No market power;
+Claimants responsibility for increased costs;
+Harm to market if refunds are ordered.
+
+Limit potential refund liability by presenting evidence and expert testimony showing 
+
+Spot market = 24x24; 
+Net refund claims only; 
+Exclude/include bookouts?
+
+Protect Enron’s right to seek refunds against upstream sellers. 
+
+Primary Risks: 
+
+By not filing an affirmative refund claim, it is theoretically possible that FERC could order refunds against Enron without providing Enron an opportunity to assert compensatory claims against other sellers. 
+
+If we assert “ripple” refund claims now, we undercut the testimony and evidence that no refunds should be ordered.  
+
+Mitigation Strategy:  Request ALJ to expressly acknowledge right to assert “ripple” refund claims in proposed order; File “offer of proof” describing Enron’s refund claims with reponsive testimony on 8/27/01.
+
+Options/Key Decisions
+
+File offer of proof or full refund claim with responsive testimony
+
+Include/exclude bookouts
+
+

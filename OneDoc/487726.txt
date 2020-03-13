@@ -1,0 +1,31 @@
+﻿From:           Laura Levy </o=cw-test/ou=first administrative group/cn=recipients/cn=laura.levy>
+Sent:           Tue Aug 14 2001 20:39:06 GMT
+To:             Phillip Allen </o=cw-test/ou=first administrative group/cn=recipients/cn=phillip.allen>;John Arnold </o=cw-test/ou=first administrative group/cn=recipients/cn=john.arnold>;Robin Barbe </o=cw-test/ou=first administrative group/cn=recipients/cn=robin.barbe>;Sandra Brawner <sandra.brawner@cw-test.com>;Jennifer Denny </o=cw-test/ou=first administrative group/cn=recipients/cn=jennifer.denny>;Tammi DePaolis </o=cw-test/ou=first administrative group/cn=recipients/cn=tammi.depaolis>;Chris Germany </o=cw-test/ou=first administrative group/cn=recipients/cn=chris.germany>;Scott Goodell </o=cw-test/ou=first administrative group/cn=recipients/cn=scott.goodell>;Mike Grigsby <mike.grigsby@cw-test.com>;Michael Guadarrama </o=cw-test/ou=first administrative group/cn=recipients/cn=michael.guadarrama>;Scott Hendrickson </o=cw-test/ou=first administrative group/cn=recipients/cn=scott.hendrickson>;Kimberly Hillis </o=cw-test/ou=first administrative group/cn=recipients/cn=kimberly.hillis>;John Hodge </o=cw-test/ou=first administrative group/cn=recipients/cn=john.hodge>;Peter Keavey <peter.keavey@cw-test.com>;Louise Kitchen </o=cw-test/ou=first administrative group/cn=recipients/cn=louise.kitchen>;Thomas Martin <thomas.martin@cw-test.com>;Brad Mckay <brad.mckay@cw-test.com>;Torrey Moorer </o=cw-test/ou=first administrative group/cn=recipients/cn=torrey.moorer>;Scott Neal </o=cw-test/ou=first administrative group/cn=recipients/cn=scott.neal>;Mark2 Palmer </o=cw-test/ou=first administrative group/cn=recipients/cn=mark2.palmer>;Susan Pereira </o=cw-test/ou=first administrative group/cn=recipients/cn=susan.pereira>;Vladi Pimenov </o=cw-test/ou=first administrative group/cn=recipients/cn=vladi.pimenov>;Savita Puthigai </o=cw-test/ou=first administrative group/cn=recipients/cn=savita.puthigai>;Brad Richter </o=cw-test/ou=first administrative group/cn=recipients/cn=brad.richter>;Andrea Ring </o=cw-test/ou=first administrative group/cn=recipients/cn=andrea.ring>;Jennifer Rosado </o=cw-test/ou=first administrative group/cn=recipients/cn=jennifer.rosado>;Tammie Schoppe </o=cw-test/ou=first administrative group/cn=recipients/cn=tammie.schoppe>;Hunter Shively </o=cw-test/ou=first administrative group/cn=recipients/cn=hunter.shively>;Tina Spiller </o=cw-test/ou=first administrative group/cn=recipients/cn=tina.spiller>;Tara Sweitzer </o=cw-test/ou=first administrative group/cn=recipients/cn=tara.sweitzer>;Craig Taylor </o=cw-test/ou=first administrative group/cn=recipients/cn=craig.taylor>;Judy Townsend </o=cw-test/ou=first administrative group/cn=recipients/cn=judy.townsend>;Jay Webb </o=cw-test/ou=first administrative group/cn=recipients/cn=jay.webb>;Andy Zipper </o=cw-test/ou=first administrative group/cn=recipients/cn=andy.zipper>
+CC:             
+Subject:         EOL Average Deal Count by Trader and Product as of 8-13-01 Load two
+Attachments:    dd62a2580388dd40840e3c5782d6898e03d6a8@nahou-msmbx01v.corp.enron.com.#1.Trader & Products 8-13-01 EM.xls
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+
+The following file contains a graphical view of the North American Gas average deal count by Trader and Product for EOL. This information is for comparative analysis only.  Do not update links when opening this file.
+
+ 
+
+If you have any questions regarding this breakout, please let me know .
+
+Laura Levy  
+EnronOnline
+x53551
+
+
+
+
+
+
+
+
+
+

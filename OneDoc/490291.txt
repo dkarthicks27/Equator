@@ -1,0 +1,6 @@
+From: Karen Heathman [/o=cw-test/ou=first administrative group/cn=recipients/cn=karen.heathman]
+Subject: Karen - Vacation - Minnesota Load two
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None

@@ -1,0 +1,148 @@
+Laura Levy
+Laura Levy
+Microsoft Excel
+8/20/2001 20:37:05
+8/20/2001 20:37:28
+0
+Enron Corp
+no
+no
+
+
+Trader JA
+John Arnold
+Previous Month Daily Avg.
+MTD Daily Avg.
+Today
+Natural Gas Traders - EOL Transactions 
+For 8/17/01
+John Arnold
+
+
+Traders All
+Jason Williams
+Tom Donohoe
+Andrea Ring
+Vladi Pimenov
+Scott Neal
+Patrice Mims-Thurston
+Ryan Watt
+Susan Pereira
+Steve South
+John Hodge
+Monique Sanchez
+Fletcher Sturm
+Chris Dorland
+Scott Hendrickson
+Mike Grigsby
+Peter Keavey
+Geoff Storey
+Martin Cuilla
+Jay Reitmeyer
+Tori Kuykendall
+Randall Gay
+Joe Parks
+Andrew Fairley
+Mike Maggi
+Mike Cowan
+Stephane Brodeur
+Geoff Storey
+Eric Bass
+Matthew Nicholas
+Keith Holst
+Brad Mckay
+Kevin Ruscitti
+Andy Lewis
+Matt Lenhart
+Tom Martin
+Scott Goodell
+Sandra Brawner
+Chris Lambie
+Frank Ermis
+David Furner
+Jon Mckay
+Chad Clark
+Susan Scott
+GS-EOLSMGR
+Previous Month Daily Avg.
+MTD Daily Avg.
+Today
+Natural Gas Traders - EOL Transactions 
+For 8/17/01
+Jason Williams
+Tom Donohoe
+Andrea Ring
+Vladi Pimenov
+Scott Neal
+Patrice Mims-Thurston
+Ryan Watt
+Susan Pereira
+Steve South
+John Hodge
+Monique Sanchez
+Fletcher Sturm
+Chris Dorland
+Scott Hendrickson
+Mike Grigsby
+Peter Keavey
+Geoff Storey
+Martin Cuilla
+Jay Reitmeyer
+Tori Kuykendall
+Randall Gay
+Joe Parks
+Andrew Fairley
+Mike Maggi
+Mike Cowan
+Stephane Brodeur
+Geoff Storey
+Eric Bass
+Matthew Nicholas
+Keith Holst
+Brad Mckay
+Kevin Ruscitti
+Andy Lewis
+Matt Lenhart
+Tom Martin
+Scott Goodell
+Sandra Brawner
+Chris Lambie
+Frank Ermis
+David Furner
+Jon Mckay
+Chad Clark
+Susan Scott
+GS-EOLSMGR
+
+
+Products Chart
+Fixed Price Physical < 5 Days
+Fixed Price Physical >= 5 Days and < 1 Month
+Fixed Price Physical = 1 Month
+Fixed Price Physical > 1 Month
+Fixed Price Swaps < 1 Month
+Fixed Price Swaps = 1 Month
+Fixed Price Swaps > 1 Month
+Basis Swaps < 1 Month
+Basis Swaps = 1 Month
+Basis Swaps > 1 Month
+Physical Index
+Financial Options
+Previous Month Daily Avg.
+MTD Daily Avg.
+Today
+Natural Gas Products - EOL Transactions 
+For 8/17/01
+Fixed Price Physical < 5 Days
+Fixed Price Physical >= 5 Days and < 1 Month
+Fixed Price Physical = 1 Month
+Fixed Price Physical > 1 Month
+Fixed Price Swaps < 1 Month
+Fixed Price Swaps = 1 Month
+Fixed Price Swaps > 1 Month
+Basis Swaps < 1 Month
+Basis Swaps = 1 Month
+Basis Swaps > 1 Month
+Physical Index
+Financial Options
+
