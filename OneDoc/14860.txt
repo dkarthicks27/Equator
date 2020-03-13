@@ -1,0 +1,396 @@
+This Master Agreement is dated ____________________ and made between:
+slindgre
+GorresB
+5
+Microsoft Word 8.0
+7/6/2000 12:31:00
+7/6/2000 11:17:00
+7/6/2000 12:33:00
+1
+6788
+38693
+0
+Enron Europe
+322
+77
+47517
+no
+no
+7/6/2000 13:17:00
+7/6/2000 14:33:00
+7/6/2000 14:31:00
+
+
+THE NORDIC ASSOCIATION OF ELECTRICITY TRADERS - Version: April 2000
+
+FINANCIAL ENERGY MASTER AGREEMENT
+
+THE NORDIC ASSOCIATION OF ELECTRICITY TRADERS - Version: April 2000 - G:\ALLG_R\ESSL\VE\Musterverträge\M-Financial Energy Master Agreement - Version April 2000.doc
+This Master Agreement is dated ____________________ and made between:
+
+(1)	_________________________, a _________________ organised under the laws of ________________________(Corporate Identity Number:______________________________) (hereinafter "Party A"); and
+
+(2)	________________________, a__________________ organised under the laws of ________________________(Corporate Identity Number:___________________________) (hereinafter "Party B").
+
+The parties have entered and/or anticipate entering into one or more cash-settled derivative transactions (each hereinafter a "Transaction") that are or will be governed by this Master Agreement, which includes the schedule (hereinafter the "Schedule"), and the documents and other confirming evidence (each hereinafter a "Confirmation") exchanged between the parties confirming those Transactions.
+
+Party A and Party B hereby agree as follows:
+
+1.	INTERPRETATION
+
+(a)	Definitions. The terms defined in Section 11, in the Schedule or otherwise in this Master Agreement shall have the meanings therein specified for the purpose of this Master Agreement.
+
+(b)	Construction. A reference to a Section is a reference to a section or subsection (as the case may be) of this Master Agreement. The headings in this Master Agreement are for convenience only and are to be ignored in construing this Master Agreement. In the event of any inconsistency between the provisions of the Schedule and the other provisions of this Master Agreement, the Schedule shall prevail. In the event of any inconsistency between the provisions of any Confirmation and this Master Agreement (including the Schedule), such Confirmation shall prevail for the purpose of the relevant Transaction.
+
+(c)	Single Agreement. Unless otherwise specified in a Confirmation with respect to any Transaction, this Master Agreement and all Confirmations form a single agreement between the parties (hereinafter collectively this "Agreement").
+
+2.	TRANSACTIONS
+
+(a)	Procedures. A Transaction may be entered into by means of an offer by either party to the other party in one or more telephone conversation(s) that may be recorded (and each party hereby consents to such recording of its employees' conversation(s) with respect to a Transaction without any further notice) and the acceptance of such offer by the offeree in such telephone conversation(s). The parties shall be legally bound by the terms of each Transaction (whether entered into orally, electronically or otherwise) from the moment they agree to those terms. Each party agrees not to contest or assert (and hereby waives any right to) any defence as to the validity or enforceability of Transactions entered into by telephone on any date (hereinafter a "Trade Date") in accordance with this Master Agreement. Nothing in this Section 2(a) shall prevent the parties from entering into Transactions by other means than by telephone.
+
+(b)	Confirmations. A Confirmation shall be entered into in respect of each Transaction as soon as practicable and may be executed and delivered in counterparts (including by letter, facsimile transmission or be created by an exchange of electronic messages on an electronic messaging system). In the event of any inconsistency between the provisions of a Confirmation duly executed by both parties and an earlier recorded telephone conversation with respect to a Transaction, the Confirmation shall prevail (save to the extent that such inconsistency is caused by manifest errors in the Confirmation). The failure to prepare and/or execute a Confirmation shall not affect the validity of a Transaction, in which case the terms agreed between the parties pursuant to Section 2(a) shall prevail.
+
+Calculations. For each Calculation Period with respect to 
+a SWAP, 
+if the Floating Price is greater than the Fixed Price for the Calculation Period, the Floating Price Payer shall pay to the Fixed Price Payer an amount equal to the Notional Quantity for that Calculation Period multiplied by the difference between the Floating Price and the Fixed Price, and 
+if the Floating Price is less than the Fixed Price for the Calculation Period, the Fixed Price Payer shall pay to the Floating Price Payer an amount equal to the Notional Quantity for that Calculation Period multiplied by the difference between the Fixed Price and the Floating Price. If, for any Settlement Period, the aggregate amount owed by the Floating Price Payer to the Fixed Price Payer is greater than the aggregate amount owed by the Fixed Price Payer to the Floating Price Payer, then the Floating Price Payer shall pay the difference between such amounts to the Fixed Price Payer on the relevant Payment Date. If, for any Settlement Period, the aggregate amount owed by the Fixed Price Payer to the Floating Price Payer is greater than the aggregate amount owed by the Floating Price Payer to the Fixed Price Payer, then the Fixed Price Payer shall pay the difference between such amounts to the Floating Price Payer on the relevant Payment Date; 
+a SWAPTION that has been properly exercised by the Buyer, all amounts payable under the underlying Swap shall be made by the relevant party in the manner specified for a Swap in this Section 2(c). The Buyer may exercise the rights granted pursuant to the Swaption only by giving a Notice of Exercise on a Business Day during the Exercise Period; and 
+an ASIAN OPTION, the Seller shall, 
+if the Asian Option is a Call and the Floating Price is greater than the Strike Price for the Calculation Period, pay to the Buyer an amount equal to the Notional Quantity for that Calculation Period multiplied by the difference between the Floating Price and the Strike Price, or 
+if the Asian Option is a Put and the Floating Price is less than the Strike Price for the Calculation Period, pay to the Buyer an amount equal to the Notional Quantity for that Calculation Period multiplied by the difference between the Strike Price and the Floating Price. Any amounts owed by the Seller to the Buyer for any Settlement Period is due and payable by the Seller to the Buyer on the relevant Payment Date.
+
+(d)	Premium. The Premium (if any) for a Swaption or an Asian Option is due and payable by the Buyer to the Seller on the Premium Payment Date(s).
+
+Conditions Precedent. Except as otherwise expressly provided in Sections 6 and 7, each payment obligation of each party under a Transaction is subject to 
+the condition precedent that no Event of Default or event which, with the giving of notice or the lapse of time or both, would constitute an Event of Default with respect to the other party has occurred and is continuing, 
+the condition precedent that no Early Termination Date or Accelerated Termination Date (as defined in Sections 6 and 7, respectively) in respect of the relevant Transaction has occurred or been effectively designated, 
+the condition precedent that no Market Disruption Event in respect of the relevant Transaction has occurred and is continuing that is not otherwise resolved under the terms of Section 4, and 
+each other applicable condition precedent to payment specified in this Agreement; provided, however, that the condition precedent set forth in (i) above does not apply to a payment owing by a party if the other party shall have satisfied in full all of its payment obligations under this Agreement and shall at the relevant time have no future payment obligations, whether absolute or contingent, under this Agreement.
+
+(f)	Payment and Account Details. Payments under this Agreement shall be made (subject to Sections 2(h) and 2(j)) without deduction, setoff or counterclaim in immediately available funds on the relevant Payment Date (or if not a Business Day, on the next Business Day) for value on that date in the place of the account specified in the Schedule (unless otherwise specified in the relevant Confirmation). If amounts are not paid when due, they shall bear interest daily until paid in full at the Interest Rate. Either party may change its account for receiving a payment by giving notice to the other party at least five Business Days prior to the scheduled date for payment to which such change applies unless such other party gives timely notice of a reasonable objection to such change.
+
+(g)	Contractual Currency. Each payment under a Transaction shall be made in the Contractual Currency specified in the Confirmation or, if not so specified, in Norwegian Kroner.
+
+(h)	Payment Netting. If "Payment Netting" is specified in the Schedule as applying, then if on any date amounts would otherwise be payable in the same currency in respect of two or more Transactions, such amounts with respect to each party shall be aggregated and the party owing the greater aggregate amount shall pay to the other party the difference between the aggregate amounts owed.
+
+(i)	Specified Information. Each party agrees, promptly upon request, to complete (accurately in a manner reasonably satisfactory to the other party), execute, arrange for any required certification of, and deliver to the other party or such government or taxing authority as such other party directs any form or document that may be required or reasonably requested in order to allow such other party to make or receive a payment under this Agreement without any deduction or withholding for or on account of any Tax or with such deduction or withholding at a reduced rate.
+
+Tax. If either party (hereinafter the "Tax Affected Party") is required at any time by the laws of any Relevant Jurisdiction to make any deduction or withholding for or on account of Tax in relation to any payment made or falling to be made by it under any Transaction, then the Tax Affected Party shall be required to increase the amount of its payment to the extent necessary to ensure that the amount received by the other party is not less than the amount it would have received had the deduction or withholding not been required, provided, however, that the other party shall not be entitled to require the Tax Affected Party to increase the amount of its payment in respect of any such withholding or deduction for or an account of Tax 
+unless the same is an Indemnifiable Tax or 
+to the extent that the increase would not be required to be paid but for the failure by the other party to comply with or perform any reasonable request pursuant to Section 2(i).
+
+3.	REPRESENTATIONS
+
+On the date hereof, on the date of entering into each Confirmation, and on the Trade Date of each Transaction, each of Party B and Party A represents and warrants to the other with respect to itself, that 
+
+(Authority) 
+the execution, delivery and performance of this Agreement have been duly authorised by all necessary corporate or other organisation action on its part and that such execution, delivery and performance do not violate or conflict with any law applicable to it, any provisions of its constitutional documents, or any order or judgement of any court or other agency of government applicable to it, and 
+this Agreement is its legally valid and binding obligation, enforceable against it in accordance with its terms (subject to applicable bankruptcy, reorganisation, insolvency, moratorium or similar laws affecting creditors' rights generally and subject, as to enforceability, to equitable principles of general application); and 
+
+(No Reliance) 
+the other party to this Agreement 
+is not acting as a fiduciary or financial, investment or commodity trading advisor for it, and 
+has not given to it (directly or indirectly through any other person) any assurance, guarantee or representation whatsoever as to the merits (either legal, regulatory, tax, commercial, financial, accounting or otherwise) of this Agreement or the expected performance or result of any Transaction; and 
+in connection with the negotiation and execution of this Master Agreement and the entering into of each Transaction, 
+it is acting as a principal only (and not as an agent or in any other capacity, fiduciary or otherwise), 
+it is not relying upon any advice or representations (whether written or oral) of the other party other than the representations expressly set out in this Agreement, 
+it has made and will make its own decisions regarding the entering into of this Master Agreement and each Transaction based upon its own judgement and upon the advice from such professional advisors as it deemed, or will deem, necessary to consult, 
+all of its decisions regarding this Agreement have been the result of arm's-length negotiations between the parties, and 
+it has a full understanding of all the terms, conditions and risks (economic and otherwise) of this Master Agreement and each Transaction and it is capable of assuming and willing to assume (financially and otherwise) those risks.
+
+4.	MARKET DISRUPTION
+
+If a Market Disruption Event has occurred and is continuing during any Calculation Period (each hereinafter an "Affected Calculation Period"), then the Floating Price for that Affected Calculation Period and each Affected Calculation Period following consecutively thereafter shall be determined by reference to the Alternative Floating Price Source specified in the relevant Confirmation, if any, which is not subject to a Market Disruption Event. If no Alternative Floating Price Source is available or has been specified, then the parties shall negotiate in good faith to agree on a Floating Price (or a method for determining a Floating Price), and if the parties have not so agreed on or before the fifth (5) Business Day following the first Affected Calculation Period, then the Floating Price for that Affected Calculation Period and each Affected Calculation Period following consecutively thereafter shall be determined by each party obtaining quotes from two (2) leading dealers (independent of the party) in the relevant market and averaging the two quotes remaining after eliminating the highest and lowest of such quotes. If the requisite number of such quotes have not been obtained by the parties (for whatever reason) on or before the tenth (10) Business Day following the first Affected Calculation Period, then either party may require that the Floating Price for that Affected Calculation Period and each Affected Calculation Period following consecutively thereafter shall be determined by an independent expert appointed jointly by the parties. If no such an expert has been appointed or agreed to by the parties on or before the twentieth (20) Business Day following the first Affected Calculation Period, then either party may require that the Stockholm Chamber of Commerce shall appoint such an expert. The expert shall, in reaching its determination, to the extent possible examine and rely on quotes obtained from leading dealers (independent of the parties) in the relevant market place. The determination by the expert shall, in the absence of manifest errors, be final and binding upon the parties. The expert's fees (including expenses) for services rendered to the parties (or anyone of them) pursuant to this Section 4 shall be paid equally by the parties and the party owing an amount to the other party in respect of such fees shall on demand pay the amount to the other party.
+
+5.	EVENTS OF DEFAULT
+
+An event of default (hereinafter an "Event of Default") shall mean with respect to a party or, if applicable, any Credit Support Provider of such party any of the following: 
+
+(Failure to Pay) the failure by the party to make, when due, any payment required under this Agreement if such failure is not remedied within three (3) Business Days after notice of such failure 
+is given to the party; 
+
+(Misrepresentation) any representation or warranty made by the party in this Agreement shall prove to have been false or 
+misleading in any material respect; 
+
+(Breach of Agreement) the breach by the party of any other covenant or agreement set out in this Agreement (other than the obligation to make payment) and such failure is not cured within thirty (30) Business Days after notice of such breach is given to the party; 
+
+(Insolvency) the occurrence of an Insolvency Event; 
+
+(Merger) the occurrence of a Merger Event; 
+
+(Cross-default) if "Cross-default" is specified in the Schedule as applying to the party, the occurrence or existence of a failure by the party or any Credit Support Provider of such party (individually or collectively) 
+in making one or more payments when due (whether at maturity, by acceleration, or otherwise and after giving effect to any applicable grace period) in an aggregate amount not less than the applicable Threshold Amount (as specified in the Schedule) under one or more agreements or instruments, or 
+ in the performance of, or the occurrence and continuance of any other event of default (however defined) under, one or more agreements or instruments, if such failure or event of default is not remedied within any applicable grace period and the effect of such failure or event of default is to cause such agreements or instruments in an aggregate amount not less than the applicable Threshold Amount to become, or becoming capable at such time of being declared, due prior to 
+its expressed maturity; or 
+
+(Credit Support Default) the failure by the party or any Credit Support Provider of such party to establish, maintain or renew any credit support provided for in any Credit Support Document or to comply with or perform any agreement or obligation thereunder if such failure is continuing after any applicable grace period has elapsed.
+
+6.	REMEDIES
+
+If an Event of Default has occurred and is then continuing, the non-defaulting party (hereinafter the "Non-defaulting Party") may, by no more than twenty (20) days notice to the other party (hereinafter the "Defaulting Party") designate a day not earlier than the day such notice is effective as an early termination date (hereinafter an "Early Termination Date"). On an Early Termination Date, all obligations under all Transactions that would have been payable with respect to all Calculation Periods that would have ended after the Early Termination Date shall be terminated (whether or not the relevant Event of Default is then continuing), except for the obligations contained in this Section 6. Following the occurrence of an Early Termination Date, the Non-defaulting Party shall in good faith calculate its Gains, Losses and Costs resulting from the termination of the parties' obligations under all Transactions with respect to all Payment Dates which would have occurred after the Early Termination Date had the Early Termination Date not occurred. The Non-Defaulting Party shall then aggregate such Gains, Losses and Costs with respect to all such Transactions plus all Unpaid Amounts owed or owing by the parties into a single net amount and notify the Defaulting Party of the net amount owed or owing. If the Non-defaulting Party is owed such net amount, the Defaulting Party shall, within five (5) Business Days after receipt of such notice, pay the net amount to the Non-defaulting Party, which amount shall bear interest at the Interest Rate from the Early Termination Date until paid. If the Non-defaulting Party owes such net amount, the Non-defaulting Party shall not be required to make any payment to the Defaulting Party, unless the Early Termination Date has been designated or occurred by reason of an Insolvency Event (in which event the net amount owed by the Non-Defaulting Party shall be paid to the Defaulting Party within five (5) Business Days of the Early Termination Date and bear interest at the Interest Rate from the Early Termination Date until paid). The parties acknowledge and agree that such net amount constitutes a reasonable pre-estimate of the amount of loss, and is not a penalty. No party shall be required to pay special, exemplary, punitive, incidental, consequential or indirect damages (whether or not arising from a party's negligence) to the other party pursuant to this Agreement for any reason, except to the extent that the payments required to be made pursuant to this Agreement are deemed to be such damages.
+
+If "Automatic Early Termination" is specified in the Schedule as applying to a party, then an Early Termination Date in respect of all outstanding Transactions will occur immediately upon the occurrence of an Insolvency Event (save for the Insolvency Event specified in (a) of the definition of term "Insolvency Event" in Section 11) with respect to such party (without the requirement of notice being served upon such party).
+
+7.	EVENTS OF CHANGE
+
+(a)	Notice. If an Event of Change shall occur, the Burdened Party in the case of a New Tax or either party in the case of an Illegality shall, promptly upon becoming aware of it, notify the other party of the occurrence of such Event of Change. After an Event of Change shall have occurred, and provided that such Event of Change is then continuing, upon at least two (2) Business Days, and not more than twenty (20) Business Days, notice to the other party, the Burdened Party in the case of a New Tax or either party in the case of an Illegality may designate in writing a Business Day as an accelerated termination date (hereinafter an "Accelerated Termination Date"), but only with respect to those Transactions that are affected by such Event of Change. During the period between the date on which notice of the Event of Change is received and the designated Accelerated Termination Date, both parties shall make reasonable efforts to avoid the situation so that the performance of this Agreement can continue with respect to those Transactions affected by the Event of Change; provided that this Section 7(a) will not impose on either party any obligation other than to negotiate in good faith to make arrangements that will not adversely affect such party.
+
+(b)	Termination and Calculations. On an Accelerated Termination Date, all obligations under all Transactions affected by the Event of Change that would have been payable with respect to all Calculation Periods that would have ended after the Accelerated Termination Date shall be terminated, except for the obligations contained in this Section 7. Following the occurrence of an Accelerated Termination Date, each party shall in good faith calculate its Gains, Losses and Costs resulting from the termination of the parties' obligations under all those Transactions affected by the Event of Change with respect to all Payment Dates which would have occurred after the Accelerated Termination Date had the Accelerated Termination Date not occurred. Each party shall then aggregate such Gains, Losses and Costs with respect to such Transactions into a single net amount (in each case hereinafter the "Net Amount") (expressed as a positive number if the party's Gains exceed its Losses and Costs and as a negative number if the party's Losses and Costs exceed its Gains). Upon request, each party agrees to provide to the other written notice, in reasonable detail, of its calculations (specifying each of its Costs, Gains, and Losses) and supporting documentation, if any.
+
+Settlement. Once the determination has been made in accordance with Section 7(b), then: 
+(i)	if the Payment Amount (as calculated below) is positive, the party with the higher Net Amount (hereinafter "X") shall pay the Payment Amount to the party with the lower Net Amount (hereinafter "Y"); and 
+(ii)	if the Payment Amount is negative, Y shall pay the absolute value of the Payment Amount to X. The Payment Amount shall equal (x) one half of the difference between the Net Amount of X and the Net Amount of Y plus (y) any Unpaid Amounts owed by X to Y minus (z) any Unpaid Amounts owed by Y to X. Such payment shall be made as promptly as practicable, but in any event no later than three (3) Business Days after the later of (i) the date that the determination under Section 7(b) has been made and (ii) the Accelerated Termination Date. The intent of this Section 7 is to leave neither party with an unfair burden as a result of an Event of Change. It is agreed by the parties that if, during or prior to the implementation of the provisions of this Section 7, an Event of Default shall occur, then the Non-defaulting Party shall be entitled to designate an Early Termination Date, whereupon the implementation of the provisions of Section 6 shall supersede and replace the implementation of the provisions of this Section 7.
+
+8.	GOVERNING LAW AND JURISDICTION
+
+(a)	Governing Law. This Agreement is governed by, and shall be construed in accordance with, the law specified in the Schedule.
+
+(b)	Jurisdiction. Each party irrevocably submits for the purposes of or in connection with this Agreement to the jurisdiction specified in the Schedule. Nothing in this Agreement precludes either party from bringing any legal proceedings in any other jurisdiction than the jurisdiction specified in the Schedule nor will the bringing of such proceedings in any one or more jurisdictions preclude the bringing of legal proceedings in any other jurisdiction.
+
+9.	DOCUMENTS
+
+Concurrently with the execution and delivery of this Master Agreement and any Credit Support Documents (or at any later date specified in the Schedule), each party shall furnish to the other party the documents specified in the Schedule, if any, in a form and substance satisfactory to the other party.
+
+10.	MISCELLANEOUS
+
+(a)	Entire Agreement and Counterparts. This Agreement contains and constitutes the entire agreement between the parties with respect to its subject matter and supersedes all prior oral or written communications or agreements relating thereto. This Agreement may be executed in counterparts (including by facsimile), each of which when executed and delivered shall be deemed to be an original instrument and all of which when taken together shall constitute one and the same agreement.
+
+(b)	Notices. Any notice or other communication in respect of this Agreement may be given during the recipient's normal business hours by hand delivery (effective upon delivery), certified or registered mail (airmail if overseas) or the equivalent (effective upon the date of delivery or attempted delivery (according to return receipt), facsimile (effective upon receipt of evidence, including facsimile evidence, that the facsimile was received), or electronic messaging system (effective upon receipt) to the address or number or in accordance with the electronic messaging system details specified in the Schedule (or as may be subsequently designated by effective notice).
+
+(c)	Expenses. Any party in default under this Agreement shall reimburse the other party, on demand, for actual, reasonable out-of-pocket expenses (and any interest thereon at the Interest Rate), including, without limitation, reasonable legal fees and expenses incurred by the other party during the occurrence and continuation of such default in connection with the enforcement of, or the preservation of, its rights in respect of this Agreement.
+
+(d)	Survival. Except to the extent otherwise provided in Section 6 and 7 as to certain payment obligations terminated under a Transaction that has been terminated, the obligations of the parties under this Agreement shall survive the termination of any Transaction.
+
+(e)	Remedies Cumulative. Except as provided in this Agreement, the rights, powers, remedies and privileges provided in this Agreement are cumulative and not exclusive of any rights, powers, remedies and privileges provided by law.
+
+(f)	Binding Effect and Transfer. This Agreement shall be binding upon and inure to the benefit of the parties and their respective successors and permitted assigns. Neither party shall have the power to transfer (whether by way of security or otherwise) all or any of its rights or obligations under this Agreement without the prior written consent of the other party, which consent shall not be unreasonably withheld or delayed, and any purported transfer in breach of this Section 10(f) shall be void and of no force and effect. Notwithstanding the foregoing, however, a party shall be entitled to transfer (i) this Agreement to an Affiliate, provided that the obligations under this Agreement of the proposed transferee are supported in a manner satisfactory to the other party, and (ii) any part of its interest in any amount payable to it from a Defaulting Party pursuant to Section 6.
+
+(g)	Stamp Taxes. Each party agrees with the other that, so long as either party has or may have any obligation under this Agreement that it will pay any stamp, registration, documentation or similar tax (hereinafter a "Stamp Tax") levied or imposed upon it or in respect of its execution or performance of this Agreement by a jurisdiction in which it is incorporated, organised, managed and/or controlled, or considered to have its seat, or in which a branch or office through which it is acting for the purpose of this Agreement is located (hereinafter a "Stamp Tax Jurisdiction") and will indemnify the other party against any Stamp Tax levied or imposed upon the other party or in respect of the other party's execution or performance of this Agreement by any Stamp Tax Jurisdiction which is not also a Stamp Tax Jurisdiction with respect to that other party.
+
+(h)	Confidentiality. Neither party shall without the prior written consent of the other Party disclose the existence or the terms of this Agreement or any Credit Support Document to any third party other than to its or its Affiliates' employees, directors, officers, agents, advisors, counsel, lenders or other providers of funds who agree to comply with the provisions of this Section 10(h) in respect of such disclosure. Each party undertakes to use its reasonable endeavours to enforce such compliance. Notwithstanding the foregoing, however, where, in a party’s reasonable opinion, a disclosure of the type referred to in this Section 10(h) is required by law, a rule of a stock exchange on which its shares (or those of an Affiliate to it) are listed or traded, or a governmental authority or other authority with relevant powers, the party shall be entitled to make the disclosure. The disclosing party shall notify the other party about any such disclosure as soon as possible, and (where practicable) consult with the other party and take into account the other party's reasonable requirements as to the timing and contents of the disclosure and how it is made.
+
+11.	DEFINITIONS
+
+As used in this Agreement:
+
+The terms "Alternative Floating Price Source", "Buyer", "Calculation Period", "Contractual Currency", "Exercise Period", "Fixed Price", "Fixed Price Payer", "Floating Price", "Floating Price Payer", "Floating Price Source", "Notional Quantity", "Premium", "Premium Payment Date", "Seller", "Settlement Period" and "Strike Price" have the meanings given such terms in the relevant Confirmation. A term or expression defined in this Agreement includes both the singular and the plural.
+
+"Affiliate" means in relation to any person, any entity controlled, directly or indirectly, by the person, any entity that controls, directly or indirectly, the person or any entity directly or indirectly under common control with the person. For the purposes of this definition, "control", when used with respect to a person, means the power to direct the management and policies of such person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise, and the term "controlled" has a meaning correlative to the foregoing.
+
+"Asian Option" means a style of option pursuant to which Floating Price is the unweighted arithmetic average (or such other method of averaging as is specified in the Confirmation) of the floating prices quoted by the Floating Price Source for the period(s) specified in the Confirmation.
+
+"Business Day" means a day on which commercial banks are open for business generally (a) in relation to any payment to be made under this Agreement, in all of the places where the parties’ respective accounts are located as specified in the Schedule and (b) in relation to any other obligation under this Agreement, in all of the cities where the parties’ respective addresses for notices and communications are located as specified in the Schedule.
+
+"Call" means an Asian Option entitling the Buyer to receive a cash payment from the Seller for those Calculation Periods where the Floating Price exceeds the Strike Price.
+
+"Costs" means, with respect to a party, the Termination Currency Equivalent to brokerage fees, commissions and other similar transaction costs and expenses reasonably incurred by such a party either in terminating any arrangement by which it had hedged its obligations or entering into new arrangements which replace a terminated Transaction.
+
+"Credit Support Documents" means any guarantee, letter of credit, agreement or other instrument that is specified as such in this Agreement.
+
+"Credit Support Provider" has the meaning, if any, specified in the Schedule.
+
+"Effective Time" means the time specified as such in the Confirmation for a Transaction, which is the time at which the first Calculation Period of the Transaction commences.
+
+"Event of Change" means the enactment, promulgation, execution, or ratification of, or any change in or amendment to, any law, rule, or regulation (or the application or interpretation of any law, rule, or regulation) that occurs after the Trade Date of a Transaction which would result in (a) the imposition of a withholding tax in a material amount (a "New Tax") by any government or taxing authority upon the making of payments (other than payments of interest) hereunder by a party (the "Burdened Party") with respect to such Transaction; or (b) the performance of any obligation of either of the parties or, if applicable, any Credit Support Provider of such parties under the Agreement being unlawful (an "Illegality").
+
+"Event of Default" has the meaning specified in Section 5 and, if applicable, in the Schedule.
+
+"Expiration Time" means the time specified as such in the Confirmation for a Transaction, which is the time at which the last Calculation Period of the Transaction ends.
+
+"Gain" means, with respect to a party, the Termination Currency Equivalent to the present value of the economic benefit, if any, (exclusive of Costs) to it resulting from the termination of its obligations with respect to a terminated Transaction or a group of terminated Transactions, determined in a commercially reasonable manner. A party shall determine its Gain as of the relevant Early Termination Date or Accelerated Termination Date or, if that is not reasonably practicable, as of the earliest date thereafter as is reasonably practicable. A party should, where practicable, determine its Gain by reference to quotations of relevant rates or prices from one or more leading dealers (independent of the party) in the relevant market.
+
+"Indemnifiable Tax" means any Tax, other than a Tax that would not be imposed in respect of a payment made under this Agreement but for a present or former connection between the jurisdiction of the government or taxing authority imposing such Tax and the recipient of such payment or a person related to such recipient.
+
+"Insolvency Event" means, with respect to any party, any of the following: 
+
+the party or, if applicable, any Credit Support Provider of such party is insolvent, or generally does not or is not able to pay its debts as they become due, or admits in writing its inability to pay 
+its debts generally as they become due; 
+
+the party or any Credit Support Provider of such party applies for, consents to the appointment of or has appointed for it a receiver, custodian, conservator, trustee, liquidator, administrator, or other similar official for itself or for all or a substantial part of its property, makes a general assignment for the benefit of its creditors, commences a proceeding under applicable bankruptcy or insolvency law or other law for the relief of debtors, files a petition seeking to take advantage of any other law relating to bankruptcy, insolvency, reorganisation, reconstruction, winding-up, or composition or readjustment of debts; 
+
+the party or any Credit Support Provider of such party consents to the dissolution or winding up of its affairs (other than pursuant to a consolidation, amalgamation, or merger); 
+
+the party or any Credit Support Provider of such party takes any corporate or other appropriate organisational action to authorise any of the actions described in clauses (a), (b) or (c) above; or 
+
+any involuntary bankruptcy, reorganisation, debt arrangement, or other proceeding under any applicable bankruptcy, insolvency or other similar law for the relief of debtors or any dissolution or liquidation proceeding is instituted against the party or any Credit Support Provider of such party, or any material event comparable to any of the foregoing occurs, and such proceeding is consented to or acquiesced in by the party or the Credit Support Provider (as the case may be) or has not been stayed, withdrawn or dismissed within sixty (60) days of the institution thereof, or an order for relief against the party or any Credit Support Provider of such party is entered under applicable bankruptcy law or other law for the relief of debtors.
+
+"Interest Rate" has the meaning specified in the Schedule.
+
+"Loss" means, with respect to a party, the Termination Currency Equivalent to the present value of the economic loss, if any, (exclusive of Costs) to it resulting from the termination of its obligations with respect to a terminated Transaction or a group of terminated Transactions, determined in a commercially reasonable manner. A party shall determine its Loss as of the relevant Early Termination Date or Accelerated Termination Date or, if that is not reasonably practicable, as of the earliest date thereafter as is reasonably practicable. A party should, where practicable, determine its Loss by reference to quotations of relevant rates or prices from one or more leading dealers (independent of the party) in the relevant market.
+
+"Market Disruption Event" means, with respect to a Floating Price Source, any of the following events: 
+
+the failure of the Floating Price Source to announce or publish information necessary for determining the Floating Price; 
+
+the failure of trading to commence or the permanent discontinuation or material suspension of trading on the exchange or market (e.g. Nord Pool ASA) acting as the Floating Price Source (the "Exchange"); 
+
+the temporary or permanent discontinuance or unavailability of any relevant Floating Price Source; 
+
+the temporary or permanent closing of the Exchange acting as the Floating Price Source; 
+
+the imposition of trading limits by the Exchange such that there are limits on the range within which the price of the relevant commodity may fluctuate and the closing or settlement price of such commodity on such day is at the upper or lower limit of that range; or 
+
+ a material change in the formula for or the method of determining the Floating Price.
+
+"Merger Event" means, with respect to a party or, if applicable, any Credit Support Provider of such party (in each case, the "Affected Party"), the consolidation or amalgamation with, merger with or into, or transfer of all or substantially all of its assets to, another entity and 
+
+at the time of such consolidation, amalgamation, merger or transfer, the resulting, surviving or transferee entity fails to assume all the obligations of the Affected Party under the Agreement or any Credit Support Document to which it or its predecessor was a party by operation of law or pursuant to an agreement reasonably 
+satisfactory to the other party or 
+
+the creditworthiness of the resulting, surviving or transferee entity is materially weaker, in the reasonable opinion of the other party, than that of the Affected Party, immediately prior to such event.
+
+"Notice of Exercise" means, in respect of a Swaption, irrevocable notice given by the Buyer to the Seller (which may be given orally, including by telephone, unless otherwise specified in the Confirmation) of exercise of the right(s) granted pursuant to the Swaption during the hours specified in the Confirmation (or, if not so specified, between 9 a.m. and 5 p.m. local time of the city in which the Seller is located) on any Business Day during the Exercise Period.
+
+"Payment Date" means, with respect to each Transaction, unless otherwise specified in the relevant Confirmation, the fifth (5) Business Day after the expiry of the relevant Settlement Period, provided that if the Payment Date is an Accelerated Termination Date or an Early Termination Date, as the case may be, the Payment Date with respect thereto shall be the date on which amounts are payable pursuant to Section 6 or Section 7, as applicable.
+
+"Put" means an Asian Option entitling the Buyer to receive a cash payment from the Seller for those Calculation Periods where the Strike Price exceeds the Floating Price.
+
+"Relevant Jurisdiction" means, in relation to any payment made by either party under a Transaction, any jurisdiction where the party is incorporated or resident for tax purposes or from or through which it makes the relevant payment or where any of its offices to which the relevant Transaction is attributable is located.
+
+"Swap" means a Transaction in which the Floating Price Payer is obliged to make a cash payment to the Fixed Price Payer for those Calculation Periods where the Floating Price exceeds the Fixed Price and the Fixed Price Payer is obliged to make a cash payment to the Floating Price Payer for those Calculation Periods where the Fixed Price exceeds the Floating Price.
+
+"Swaption" means an option to cause an underlying Swap to become effective.
+
+"Tax" means any present or future tax, levy, impost, duty, charge, assessment or fee of any nature (including any increase in the rate thereof and any interest, penalties and additions thereto) that is imposed by any government or other taxing authority in respect of any payment made under this Agreement, other than a stamp, registration, documentation or similar tax.
+
+"Termination Currency" means the currency specified in the Schedule or, if not so specified, Norwegian Kroner.
+
+"Termination Currency Equivalent" means, in respect of any amount denominated in the Termination Currency, such Termination Currency amount and, in respect of any amount denominated in a currency other than the Termination Currency (the "Other Currency"), the amount in the Termination Currency determined by the party making the relevant determination as being required to purchase such amount of such Other Currency as at the relevant Early Termination Date or Accelerated Early Termination Date, as the case may be, with the Termination Currency at the rate equal to the spot exchange rate of the foreign exchange agent (selected as provided below) for the purchase of such Other Currency with the Termination Currency at or about 11:00 a.m. (in the city in which such foreign exchange agent is located) on such date as would be customary for the determination of such rate for the purchase of such Other Currency for value on the relevant Early Termination Date or Accelerated Early Termination Date, as the case may be. The foreign exchange agent shall, in the event of early termination, be selected in good faith by the Non-defaulting Party and otherwise shall be agreed by the parties.
+
+"Unpaid Amounts" means the Termination Currency Equivalent to any unpaid amount or amounts in respect of terminated Transactions that became due and payable (or would have become due and payable but for Section 2(e)) on or before any Accelerated Termination Date or Early Termination Date, as the case may be, and which remain unpaid at such Accelerated Termination Date or Early Termination Date.
+
+IN WITNESS WHEREOF, the parties hereto have executed and delivered this Master Agreement on the respective dates specified below, but with effect as from the date first above written.
+
+
+						
+(Name of Party A)
+
+By:						
+Name:						
+Title:						
+Date:
+
+						
+(Name of Party B)
+
+By:						
+Name: 						
+Title:						
+Date:
+
+
+
+
+
+
+
+
+SCHEDULE
+to the
+Financial Energy Master Agreement
+
+
+
+dated _______________________ 
+
+between ___________________________________ ("Party A") and ___________________________________ ("Party B").
+
+Part 1.	Payment Netting.
+The “Payment Netting” provisions of Section 2(h) shall/shall not* apply.
+
+Part 2.	Termination Provisions.
+(a)	The “Automatic Early Termination” provision of Section 6 shall/shall not* apply to Party A.
+						 shall/shall not* apply to Party B.
+(b)	The “Cross-default” provisions of Section 5(f) shall/shall not1 	Delete as applicable.
+1 apply to Party A.
+	shall/shall not* apply to Party B. 
+(c)	“Threshold Amount” means with respect to Party A …………………………………………………… (or its equivalent in another currency).
+	“Threshold Amount” means with respect to Party B …………………………………………………… (or its equivalent in another currency).
+(d)	The “Termination Currency" means…………………………………………………………………………………………………
+
+Part 3.	Governing Law and Jurisdiction.
+(a)	Governing Law. For the purpose of Section 8(a), this Agreement is governed by, and shall be construed in accordance with, …………………………..………………………. (without regard to the principles of conflict of laws thereof).
+(b)	Jurisdiction. For the purpose of Section 8(b), each party irrevocably submits to the following jurisdiction:- ………………………………………..………………………………………………………. ………………………………………..
+
+Part 4.	Agreement to Deliver Documents.
+For purpose of Section 9, the following documents are to be delivered:-
+Party required to deliver document
+Form of document
+Date by which to be delivered
+
+……………………………………………….
+……………………………………………….
+……………………………………………….
+
+……………………………………………….
+……………………………………………….
+……………………………………………….
+
+……………………………………………….
+……………………………………………….
+……………………………………………….
+
+
+Part 5.	Notices and Communications.
+Address for notices and communications to Party A:-
+Address for notices and communications to Party B:-
+
+Address:
+Address:
+
+
+
+
+
+
+
+
+
+
+Attn.:
+Attn.:					
+
+Facsimile No.:
+Facsimile No.:				
+
+Electronic Mail Address:
+Electronic Mail Address:
+
+
+
+Part 6.	Account Details
+Account Details for Party A:-
+Account Details for Party B:-
+
+Financial Institution:
+Financial Institution:
+
+
+
+
+
+
+
+
+
+
+Account. No.:
+Account. No.:
+
+
+Part 7.	Interest Rate
+“Interest Rate” means 
+………………………………………………………………………………………………………………………………………………………..
+
+Part 8.	Credit Support Documents and Credit Support Provider(s).
+(a)	Credit Support Documents. Details of any Credit Support Documents:
+…………………………………………………………………………………………………………………………………………….
+…………………………………………………………………………………………………………………………………………….
+(b)	Credit Support Provider. Credit Support Provider means in relation to Party A:
+…………………………………………………………………………………………………………………………………………….
+Credit Support Provider means in relation to Party B: 
+……………………………………………………………………………………………………………………………………………
+
+Part 9.	Other Provisions. 
+
+

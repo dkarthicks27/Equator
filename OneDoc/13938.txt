@@ -1,0 +1,113 @@
+Address Rewrite Tool
+Exchange Documentation Team
+Exchange User Education
+2
+Microsoft Word 9.0
+2
+1/28/2004 02:23:00
+2/12/2004 21:56:00
+2/12/2004 21:56:00
+1
+1255
+6778
+0
+Microsoft Corporation
+125
+56
+8786
+no
+no
+2/12/2004 13:56:00
+2/12/2004 13:56:00
+1/27/2004 18:23:00
+
+
+
+
+
+Address Rewrite Tool				    
+
+
+
+
+
+Address Rewrite Tool
+
+
+Published: September 2003
+Updated: April 2004
+Applies To: Exchange Server 2003
+
+Copyright 
+The information contained in this document represents the current view of Microsoft Corporation on the issues discussed as of the date of publication.  Because Microsoft must respond to changing market conditions, it should not be interpreted to be a commitment on the part of Microsoft, and Microsoft cannot guarantee the accuracy of any information presented after the date of publication.
+This White Paper is for informational purposes only.  MICROSOFT MAKES NO WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, AS TO THE INFORMATION IN THIS DOCUMENT.
+Complying with all applicable copyright laws is the responsibility of the user.  Without limiting the rights under copyright, no part of this document may be reproduced, stored in or introduced into a retrieval system, or transmitted in any form or by any means (electronic, mechanical, photocopying, recording, or otherwise), or for any purpose, without the express written permission of Microsoft Corporation. 
+Microsoft may have patents, patent applications, trademarks, copyrights, or other intellectual property rights covering subject matter in this document.  Except as expressly provided in any written license agreement from Microsoft, the furnishing of this document does not give you any license to these patents, trademarks, copyrights, or other intellectual property.
+© 2003-2004 Microsoft Corporation.  All rights reserved.
+Microsoft, Active Directory, and Outlook are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries.
+The names of actual companies and products mentioned herein may be the trademarks of their respective owners.
+
+Address Rewrite Tool 				       
+Introduction
+Use the Address Rewrite tool, (exarcfg.exe) to rewrite return e-mail addresses on outgoing messages sent from a third-party mail system to Exchange Server, and destined for external or Internet addresses. This feature is similar to the Exchange 5.5 tool, ReRouteViaStore.
+Address Rewrite is useful in merger or acquisition scenarios in which you want all e-mail addresses to reflect the parent company's name. Return addresses can be re-written to contain the single company's e-mail domain and one of the acquired or partner companies uses a third-party mail system. 
+Usually, you do not need to rewrite addresses for internal mail because typically companies have contacts for the other company's mailboxes and both companies know how to route mail to each other. Also, in this same scenario, Microsoft® Office Outlook® and Outlook Web Access in both organizations can automatically resolve any e-mail: the recipients in the From:, To: and Cc: are in their corresponding Active Directory, which enables them to resolve and display the correct display names and addresses.
+
+Conditions for Address Rewrite
+If Address Rewrite is enabled on a server, it functions if the following conditions are true:
+The e-mail message is externally submitted Simple Mail Transfer Protocol (SMTP) mail that is sent to the Exchange bridgehead server.
+The e-mail message is destined for the Internet. 
+Internal mail from other Exchange servers, or internal mail sent within the organization does not require an address rewrite. Internal mail, or mail sent from other Exchange servers to the bridgehead server, bypasses doing an address rewrite. The exception is mail that is submitted using Outlook Express or any other SMTP client that undergoes an address rewrite on the bridgehead server.
+Remember that intent of this feature is to rewrite addresses only for mail coming from the partner/subsidiary company (externally SMTP submitted) coming into your company's e-mail servers and then going out to the Internet.
+
+Installation
+Address Rewrite is disabled by default. Use the exarcfg tool to enable Address Rewrite on each SMTP virtual server. You should enable Address Rewrite on each SMTP virtual server that sends outgoing mail to the Internet.
+To enable Address Rewrite using the exarcfg tool
+Download exarcfg to a directory of your choice. 
+Open a command line and navigate to the directory in which exarcfg was installed.
+Type the following command:
+exarcfg –e -s server –v: SMTP virtual server instance number
+where: 
+server is the fully qualified domain name (FQDN) of the Exchange server on which you want to enable Address Rewrite.
+SMTP virtual server instance is the number representing the SMTP virtual server instance. If you do not specify –v option, the command defaults to the first virtual server instance, typically the default SMTP virtual server.
+To manually enable Address Rewrite
+Use a directory modification tool of your choice, such as LDP or ADSIEdit, to access the domain controller.
+Browse to the SMTP virtual server object for your Exchange bridgehead (DC=com, DC=domain name, CN=Configuration,CN=Services,CN=Microsoft Exchange,CN=net_bios domain name,CN=Administrative Groups,CN=administrative group name,CN=Servers,CN=server name,CN=Protocols,CN=SMTP,CN=XX ). XX represents the instance number of the SMTP virtual server.
+Set the last bit on the "heuristics" object on an SMTP virtual server directory server object. So typically if "heuristics" is 131072, set it to 131073.
+
+Using Address Rewrite
+This section explains how Address Rewrite works and the command line options that can be used with the exarcfg tool. The exarcfg tool can be run from any desktop or server that can access Microsoft Active Directory® directory service.
+How Address Rewrite Works
+Address Rewrite rewrites P2 addresses (822 From, Reply-To and Sender) with the respective contacts' primary SMTP address. This means that you must ensure that you set the primary SMTP address for the contacts that need to undergo an address rewrite.
+Address Rewrite occurs only for external SMTP mail destined to the Internet. The Address Rewrite operation involves the following steps:
+"Pushing" the message to the store.
+Invalidating the existing Multipurpose Internet Mail Extensions (MIME) and forcing a conversion from MIME to MAPI which then causes the address rewrite. 
+As a consequence of this conversion, the message is in MAPI format and its content format needs to be re-rendered before going out again to the Internet. Transport renders the message based on the matching Internet Message Format settings for the SMTP domain of the recipients, or if the recipient is a contact and the contact has its own personal content settings configured in Active Directory Users and Computers (personal content settings override Internet Message Format settings).
+Even if you have From: and To: addresses that do not need rewrite because either because 1) they do not have equivalent contacts or mailboxes for them in the rewrite domain; or 2) their addresses already match their primary SMTP proxies in the rewrite domain—your content still gets changed. So, basically all externally submitted SMTP mail will go through the address rewrite conversion process. The address rewrite operation occurs only once for optimization purposes. If the mail passes through other bridgehead servers with the Address Rewrite feature enabled, that mail does not have address rewrite applied a second time.
+
+Command Line Parameters
+You can use the exarcfg tool with any of the following parameters.
+
+Parameter
+Description
+
+-l
+Lists the current settings for all servers in the domain unless a server is specified with the –s option.
+
+-e
+Enables Address Rewrite. Use with the –s and –v parameters. If you do not use –v, the command enables the first SMTP virtual server for address rewrite. The –s parameter is required.
+
+-d
+Disables Address Rewrite. Use with the –s and –v option. If you do not use –v, the command disables the first SMTP virtual server for address rewrite. The –s parameter is required.
+
+-s: server
+Specifies the server name in the organization that has been selected for enabling or disabling Address Rewrite. You can also use this parameter with the –l parameter to check the address rewrite setting on a specific server.
+
+-v: #
+Specifies the instance number of the SMTP virtual server on which to enable or disable Address Rewrite. 
+
+/?
+Provides the list of options and a brief help. If you run the command with no options, it defaults to this option.
+
+
+

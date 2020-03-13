@@ -1,0 +1,15 @@
+﻿From:           John Shelk </o=cw-test/ou=first administrative group/cn=recipients/cn=john.shelk>
+Sent:           Thu Aug 16 2001 20:30:06 GMT
+To:             Richard Shapiro <richard.shapiro@cw-test.com>;James Steffes <james.steffes@cw-test.com>;Linda Robertson </o=cw-test/ou=first administrative group/cn=recipients/cn=linda.robertson>;Charles Yeung </o=cw-test/ou=first administrative group/cn=recipients/cn=charles.yeung>;Sarah Novosel </o=cw-test/ou=first administrative group/cn=recipients/cn=sarah.novosel>;Carin Nersesian </o=cw-test/ou=first administrative group/cn=recipients/cn=carin.nersesian>
+CC:             
+Subject:        Enron Comments on NERC Legislation Load two
+Attachments:    Address Rewrite.doc
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+
+Attached below are the Enron comments submitted to NERC and the other parties involved in the NERC-led discussions on reliability legislation.  The comments indicate that Enron does not support the final version on which comments were requested by today.  The comments as submitted were reviewed by Jim, Sarah and Charles and reflect their suggested changes.  Thanks to them for their assistance.
+
+ 

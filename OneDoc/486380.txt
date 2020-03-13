@@ -1,0 +1,15 @@
+﻿From:           Michael Kass </o=cw-test/ou=first administrative group/cn=recipients/cn=michael.kass>
+Sent:           Thu Aug 16 2001 10:58:46 GMT
+To:             Rick Buy <rick.buy@cw-test.com>;Michael Brown </o=cw-test/ou=first administrative group/cn=recipients/cn=michael.brown>;Fernley Dyson </o=cw-test/ou=first administrative group/cn=recipients/cn=fernley.dyson>;Mark Pickering </o=cw-test/ou=first administrative group/cn=recipients/cn=mark.pickering>;Ted Murphy </o=cw-test/ou=first administrative group/cn=recipients/cn=ted.murphy>;Paul Freeman </o=cw-test/ou=first administrative group/cn=recipients/cn=paul.freeman>
+CC:             Beth Apollo </o=cw-test/ou=first administrative group/cn=recipients/cn=beth.apollo>;Shona Wilson </o=cw-test/ou=first administrative group/cn=recipients/cn=shona.wilson>;David Hardy </o=cw-test/ou=first administrative group/cn=recipients/cn=david.hardy>;Mike Jordan </o=cw-test/ou=first administrative group/cn=recipients/cn=mike.jordan>;Debbie Brackett </o=cw-test/ou=first administrative group/cn=recipients/cn=debbie.brackett>;Burton McIntyre </o=cw-test/ou=first administrative group/cn=recipients/cn=burton.mcintyre>;David Port <david.port@cw-test.com>;Marc Maynard </o=cw-test/ou=first administrative group/cn=recipients/cn=marc.maynard>;Brian Hudson </o=cw-test/ou=first administrative group/cn=recipients/cn=brian.hudson>;Keith Bowie </o=cw-test/ou=first administrative group/cn=recipients/cn=keith.bowie>;Philip Yoxall </o=cw-test/ou=first administrative group/cn=recipients/cn=philip.yoxall>;Tricia Donnelly </o=cw-test/ou=first administrative group/cn=recipients/cn=tricia.donnelly>;James New </o=cw-test/ou=first administrative group/cn=recipients/cn=james.new>;Chris Abel </o=cw-test/ou=first administrative group/cn=recipients/cn=chris.abel>;Nancy Hernandez </o=cw-test/ou=first administrative group/cn=recipients/cn=nancy.hernandez>;Cassi Wallace </o=cw-test/ou=first administrative group/cn=recipients/cn=cassi.wallace>;Lloyd Fleming </o=cw-test/ou=first administrative group/cn=recipients/cn=lloyd.fleming>;Christy Lobusch </o=cw-test/ou=first administrative group/cn=recipients/cn=christy.lobusch>;Kenneth Thibodeaux </o=cw-test/ou=first administrative group/cn=recipients/cn=kenneth.thibodeaux>;Wanda Curry </o=cw-test/ou=first administrative group/cn=recipients/cn=wanda.curry>
+Subject:        Enron Europe Risktrac Feed Summary 15 August 2001
+Attachments:    902b8e00b151d44c98ca48bdd4bea3f557ca54@nahou-msmbx01v.corp.enron.com.#1.Risktrac_Failures_08_15_2001.doc
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+
+
+ 
+

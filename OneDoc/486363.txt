@@ -1,0 +1,31 @@
+﻿From:           Wendy Conwell </o=cw-test/ou=first administrative group/cn=recipients/cn=wendy.conwell>
+Sent:           Wed Aug 15 2001 13:51:24 GMT
+To:             Trey Hardy </o=cw-test/ou=first administrative group/cn=recipients/cn=trey.hardy>;Stacey White <stacey.white@cw-test.com>;Wayne Vinson </o=cw-test/ou=first administrative group/cn=recipients/cn=wayne.vinson>;Paul Lewis </o=cw-test/ou=first administrative group/cn=recipients/cn=paul.lewis>
+CC:             William Bradford </o=cw-test/ou=first administrative group/cn=recipients/cn=william.bradford>;Tanya Rohauer </o=cw-test/ou=first administrative group/cn=recipients/cn=tanya.rohauer>;Gautam Gupta </o=cw-test/ou=first administrative group/cn=recipients/cn=gautam.gupta>;Kevin Presto </o=cw-test/ou=first administrative group/cn=recipients/cn=kevin.presto>;Rick Buy <rick.buy@cw-test.com>;Tracy Ngo </o=cw-test/ou=first administrative group/cn=recipients/cn=tracy.ngo>;Paul Radous </o=cw-test/ou=first administrative group/cn=recipients/cn=paul.radous>;Susan Rance </o=cw-test/ou=first administrative group/cn=recipients/cn=susan.rance>;Edward Sacks </o=cw-test/ou=first administrative group/cn=recipients/cn=edward.sacks>
+Subject:        Credit Reserve for PG&E Energy Trading- Power L.P.
+Attachments:    
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+Please note the following addition to the domestic credit reserve for Aug 2001:
+
+CP:  PG&E Energy Trading - Power L.P.
+Deal No: 731164.1 (leg 2 of Calendar Spread Deal - Buying Cal 04)
+Deal Date:  8/14/2001
+Deal Specifics:  EPMI to purchase Financial Swap on 50MW of Power for Calendar Year 2004. 
+Term:  1/1/2004 thru 12/31/2004
+Volume:  50 MWs on-peak
+Price:  $40.00
+Delivery Point:  NY West (Zone G))
+Trader/Mid-Marketer:  Gautam Gupta/Kevin Presto
+Credit Reserve Amount:  $10,280 (ten thousand two hundred and eighty USD)
+
+RAC: transaction confirmed under 6/19/01 ISDA.
+
+Please call w/any questions.
+
+Regards,
+Wendy
+x30699

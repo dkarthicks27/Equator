@@ -1,0 +1,10 @@
+From: Tana Jones [/o=cw-test/ou=first administrative group/cn=recipients/cn=tana.jones]
+To: Alias
+CC: Sara Shackleton
+Subject: Form of Letter of Credit
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+At the request of Sara Shackleton, attached is our form of Letter of Credit.

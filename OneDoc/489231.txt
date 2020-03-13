@@ -1,0 +1,6 @@
+From: Alice Wright [/o=teneo-test/ou=first administrative group/cn=recipients/cn=wright_alice]
+Subject: ERCOT (EB3824) 800-711-8000, 6349#; Portz, Murphy, Doug Gilbert Smith, John Forney, Thane Twiggs, Smith Day
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None

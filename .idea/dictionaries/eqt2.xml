@@ -8,6 +8,8 @@
       <w>mycursor</w>
       <w>mydb</w>
       <w>mydict</w>
+      <w>mysqldb</w>
+      <w>saveto</w>
       <w>tfidf</w>
       <w>vect</w>
       <w>vectorizer</w>

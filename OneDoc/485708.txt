@@ -1,0 +1,6 @@
+From: Richard Sanders [/o=teneo-test/ou=first administrative group/cn=recipients/cn=sanders_richard]
+Subject: Tammy Owens
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None

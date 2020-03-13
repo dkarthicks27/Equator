@@ -1,0 +1,52 @@
+kthibode
+kthibode
+2
+Microsoft Word 9.0
+8/17/2001 14:01:00
+8/17/2001 14:01:00
+1
+130
+743
+0
+Enron Corp
+6
+1
+912
+no
+no
+8/17/2001 09:01:00
+8/17/2001 09:01:00
+
+
+
+
+	Interoffice Memorandum
+To:	Rick Buy, Ken Lay 		
+CC:	David Port, Greg Whalley, John Lavorato, 
+		Louise Kitchen, File copy 
+From	Chris Abel / Kenneth Thibodeaux	Department:	Risk Management
+Subject:	Limit Violation	Date:	August 17, 2001
+—————————————
+Please note below the occurrence of the following limit violation as of the close of business August 16, 2001.
+Enron Americas - North America Gas Trading by Business Unit
+	Violation:	Maturity Gap Risk Limit
+	Limit:	200 Bcf
+	Maturity Gap Risk:	(360) Bcf
+	Explanation:
+The Maturity Gap Risk violation is driven by short fixed price positions in the three
+month period between March 2002 and May 2002. The Financial Desk is carrying the
+majority of those positions, (336) Bcf, between March 2002 and May 2002.  
+	
+
+
+
+
+
+
+
+
+			
+Acknowledgements:
+Office of the Chair ————————	Risk Assessment and Control	—————————
+Respect	Integrity	Communication	Excellence
+

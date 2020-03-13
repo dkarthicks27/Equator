@@ -1,0 +1,160 @@
+abcde   DRAFT CONFIRMATION
+Salma Khan
+Greg Mackay
+Swiss Bank Corporation
+
+
+
+
+
+
+
+Date:				
+
+To:				[ECT Investment Trust] ("ECT")
+
+Attn:				[***]
+
+Fax No:			[***]
+
+From:				UBS AG, London Branch ("UBS")
+
+
+This Supplemental Confirmation incorporates by reference all the Standard Terms and Conditions of the Master Confirmation executed between us dated [Insert Date] as amended and supplemented from time to time, except as expressly modified below. 
+
+General Terms:
+
+Total Return Payer:		UBS AG, London Branch
+
+Floating Payer:			ECT
+
+Trade Date:			[***]
+
+Effective Date:			[***]
+
+Scheduled Termination Date:	[***] 
+
+Business Days:	London and New York
+
+Business Day Convention:	Modified Following (which shall apply to any date referred to herein that falls on a day that is not a Business Day) 
+				
+Quotation Amount:	[USD][***]
+Valuation Date:	The first Business Day of each calendar month during this Transaction and the Termination Date
+
+
+Reference Asset Information:
+
+Reference Entity:			[***]
+Asset Coupon:				[***]%
+Asset Maturity:				[***]
+Asset Identifier:				[***]
+Asset Notional Amount:		[***]
+Initial Price				[***]
+
+
+
+Floating Payer Payments: 
+
+Floating Payer First
+Floating Payment Date:		[***]
+
+Calculation Amount:	The Reference Asset Notional Amount multiplied by the Initial Price for such Reference Asset 
+Floating Rate for
+Initial Calculation 
+Period:	[***]% (inclusive of Spread)
+
+Floating Rate Day 
+Count Fraction:	Actual/360
+
+Floating Rate Option:	USD-LIBOR-BBA (Reference Page 3750 on the first day of the relevant Calculation Period)
+
+Spread:	plus 100 basis points
+
+Designated Maturity:	1 Month
+
+Floating Payer
+Second Floating Payment:	Floating Payer shall pay to Total Return Payer, on the second Business Day following each Valuation Date, an amount equal to the absolute value of the negative amount, if any, calculated in accordance with the following formula:
+
+	Notional Amount * (Market Value minus Preceding Market Value)
+
+Floating Payer
+Third Floating Payment:	Floating Amount Payer shall pay to Total Return Payer, on the second Business Day following each Asset Repayment Date, an amount equal to the absolute value of the negative amount, if any, calculated in accordance with the following formula:
+
+	Repayment * (Repayment Price minus Preceding Market Value)
+
+Lockup Date:	[***]
+
+Additional Representations:
+
+Each party represents to the other party on the Trade Date that: -
+
+(a)	In connection with this Transaction, neither the other party nor any of the other party's Affiliates has made any representation whatsoever with respect to the Reference Security or any guarantor of any Reference Security (a "Guarantor") on which it is relying or is entitled to rely.
+
+(b) 	It is a sophisticated entity and has such knowledge and experience in financial and business matters and expertise in assessing credit risk and all other relevant risks that it is capable of evaluating the merits, risks and suitability of entering into this Transaction and that it is relying exclusively on its own information and credit analysis with respect to the Reference Security. It has not relied upon (i) the views or advice of the other party or any Affiliate of such other party or (ii) any information with respect to the Reference Security and/or the Reference Entity provided by the other party or any Affiliate of such other party (iii) any representations or warranties (written or oral) of the other party other than representations and warranties made by the other party in this Confirmation.
+
+(c) 	It has entered into this Transaction as principal for its own account in the normal and ordinary course of its business, and the other party is not acting as a fiduciary or financial or investment adviser for it.  It is familiar with instruments having characteristics similar to those of this Transaction and it fully understands this Transaction and the nature and extent of its exposure to risk of loss.
+
+(d)	It has been, and will at all times continue to be, solely responsible for making an independent appraisal of and investigation into the financial condition, prospects, creditworthiness, affairs, status and business of the Reference Entity and/or the Reference Security.
+
+Additional Agreements:
+
+Each party agrees with the other that, so long as either party has or may have any obligation under this Transaction: -.
+
+(a)	This Transaction does not create either a direct or indirect obligation of the Reference Entity or any Guarantor or a direct or indirect participation in any obligation of the Reference Entity or any Guarantor owing to such party.
+
+(b)	Each party and its Affiliates and the Calculation Agent may deal in each Reference Security and may accept deposits from, make loans or otherwise extend credit to, and generally engage in any kind of commercial or investment banking or other business with the Reference Entity, any Affiliate of the Reference Entity, any other person or entity having obligations relating to the Reference Entity or any Guarantor and may act with respect to such business in the same manner as if this Transaction did not exist, regardless of whether any such action might have an adverse effect on the Reference Entity, the Reference Security, any Guarantor or the position of the other party to this Transaction or otherwise.
+
+(c)	Each party and its Affiliates and the Calculation Agent may, whether by virtue of the types of relationships described herein or otherwise, at the date hereof or at any time hereafter, be in possession of information in relation to the Reference Entity, the Reference Security or any Guarantor that is or may be material in the context of this Transaction and that may or may not be publicly available or known to the other party. This Transaction does not create any obligation on the part of such party and its Affiliates to disclose to the other party any such relationship or information (whether or not confidential).
+
+
+Concerning the Calculation Agent
+
+(a)	Each party agrees that the Calculation Agent is not acting as a fiduciary for or as an advisor to either party in respect of its duties as Calculation Agent in connection with this Transaction.
+
+(b)	Notwithstanding anything to the contrary, all calculations and determinations made by the Calculation Agent shall be made in good faith and in a commercially reasonable manner.
+Account Details:
+
+UBS London Branch                  A/c No 101-WA-140007-000
+USD Bank Account	            with UBS AG Stamford
+	                                      Swift: UBSWUS33
+
+Contact names at UBS:
+
+Rate Fixings:			Trade Processing: (44) 207 568 1785 / 568 7019
+
+Payments:	Payment Investigations: [Ruby Ho or Katherine Hopson], London Operations, UBS Warburg, tel:  0207-568-0622 (alt: UBS Warburg London switchboard 0207-568-1000)Confirmation Queries:	Confirmation Control: (44) 207 567 3067
+
+ISDA Documentation:		Credit Risk Management: (44) 207 568 9645
+
+Telex:				887434 SBCO G
+
+Swift:				UBSWGB22
+
+Fax:				(44) 207 567 2685
+
+Address:	UBS AG
+	100 Liverpool Street
+	London EC2M 2RH
+	
+Please confirm that the foregoing correctly sets forth the terms and conditions of our agreement by executing a copy of this Confirmation and returning it to us or by sending to us a letter or facsimile substantially similar to this letter, which letter or facsimile sets forth the material terms of the Transaction to which this Confirmation relates and indicates your agreement to those terms or by sending to us a return letter or facsimile in the form attached.
+
+
+Yours faithfully
+For and on Behalf of 
+UBS AG, London Branch
+
+
+By:						By:	
+	 		 
+Name :						Name :	
+Title:						Title:	
+
+
+Acknowledged and agreed by ECT as of the Trade Date specified above:
+
+
+By:		By:	
+	 		 
+Name :		Name :	
+Title:		Title: 
+

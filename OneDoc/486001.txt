@@ -1,0 +1,68 @@
+Storage valuation and optimization
+sue
+sue
+8
+Microsoft Word 9.0
+10
+6/13/2001 19:02:00
+6/13/2001 19:17:00
+1
+982
+5598
+0
+FEA
+46
+11
+6874
+no
+no
+6/13/2001 12:02:00
+6/13/2001 12:17:00
+
+
+
+Storage valuation and optimization
+
+The valuation of storage contracts poses a complex optimization puzzle. Clearly, having access to a storage facility allows for the possibility of buying and selling at different times - thus the storage operator should, to some extent, be able to take advantage of the price spreads among various forward contracts and to capitalize on the volatility of the spot market against the forward.  Nevertheless, to devise a sound buy/sell strategy one must also take into considerations constraints such as:  minimum and maximum inventory requirement, injection and withdrawal limitations, their associated costs and any existing forward commitments.  Add to this the possibility that the constraints may vary during the contract period, the storage operator is indeed faced with an imposing task:  determining how to navigate through a maze of contingent decision-making problems - in hopes of achieving maximum profit.   
+
+In these introductory remarks, we will discuss the FEA approach to solving the storage valuation problem and examine some related issues in storage management.
+
+As mentioned, having access to a storage facility affords one the opportunity to buy low then sell high. The value of storage, therefore, may simply be defined as the accumulative trading profits (namely that realized over the life of the contract) – from exercising a certain strategy.  
+
+- Intrinsic Strategy/Value
+
+The simplest and surest strategy is one in which, on valuation date, the storage operator buys and sells at fixed prices (e.g. forward contracts) to maximize the profit while taking into account any operational constraints. We refer to this as the intrinsic strategy and the corresponding profit as the intrinsic value of storage - since it provides a value that could be locked in, on value date, consistent with constraints and the current forward curve.
+
+Intrinsic valuation takes advantage of the seasonal nature of the natural gas market but not the fact that spot prices tend to be considerably more volatile than forward prices. This difference in volatilities, and the fact that a sudden spot price increase has the tendency to decay away over a relatively short period of time, makes the spot market a crucial ingredient in extracting additional value from a storage facility.
+
+- Rule-based Strategy/Value
+
+To incorporate trading in the spot market, we consider next a rule-based valuation/trading strategy, in which one sets up certain thresholds in prices (marginal prices) - serving as triggers for buying and selling in the spot market. Given a model for spot and forward price movements, a rule-based valuation then provides the expected profit to be obtained by following the specified buy/sell rules, again consistent with constraints and the current forward curve.
+
+- Optimal Strategy/Value
+
+The final trading strategy we consider is one that is optimal with respect to all possible buy/sell rules, and is thus referred to as the optimal trading strategy. As the first two strategies may be considered special-limit cases of the present, we will describe here only the optimal valuation procedure.  
+
+Step 1 - Establish the probabilistic evolution of spot prices on a trinomial tree - assuming a certain price model (we have implemented two: Black-Scholes and mean-reversion) and using as input the current forward price and volatility term structures.  
+
+Step 2 - For every possible state (i.e. inventory level and spot price), determine what action (buy/sell/hold) you would take and the resulting expected profit/loss – i.e. the associated value of the state.  This is a trivial exercise at storage expiry because the values of your choices are known (there is no uncertainty about the future path of the price).  From an “optimal” valuation standpoint, you will select the decision that maximizes your expected profit.  (Risk considerations will be addressed shortly in Part 2.) 
+
+Step 3 - Move backwards along the tree, repeating Step 2 and updating the state values at every tree stage, until you end up at the root of the tree. There, you should arrive at single value - this is what we call the optimal storage value. 
+
+
+
+PART 2:  Storage Management and Risk Considerations
+
+Once you have the valuation results due to different strategies, you need tools to indicate how you could effectively implement the strategies in order to realize the calculated values. As stated earlier, you can lock in seasonal spreads between the spot and forward markets so as to maximize and lock in the profit (intrinsic value) or you take opportunistic trades on the spot market so as to maximize the expected return (optimal value).  The former is a fully hedged approach; the drawback however is that you will not be able to take advantage of the fact that spot prices tend to be considerably more volatile than forward prices. The generally higher values associated with optimal strategies can be directly attributed to this difference in volatilities and the fact that a sudden spot price increase has the tendency to decay away over a relatively short period of time. Of course, attempting the optimal value requires on-going decision making, not to mention that it could incur risks beyond your appetite.  Here is a closer look at the two approaches:
+
+- Hedged strategy (Intrinsic and Forward Delta Hedge Strategies)
+
+Using storage to take advantage of seasonal differences in prices by spreading spot or forwards against other forwards is a low-risk approach.  As the market becomes more efficient in recognizing how to value storage contracts, it will become increasingly difficult to use this strategy exclusively and cover the cost of the storage rights.  A fully hedged approach would be to transact the intrinsic strategy and adjust that position on a daily basis.  
+A more dynamic (yet still hedged) approach would be to transact the delta-hedged position and adjust forward positions.
+
+- Opportunistic trading (Rule-based and Optimal Strategies)
+
+In order to take advantage of spot market fluctuations, you need to know at what price levels it would be beneficial to transact given the current state of inventory, associated costs and any physical or contractual constraints.   Because each decision to buy or sell will change the state of your inventory and thus the parameters that go into your decision-making process, the change in inventory must be evaluated on a marginal basis.  And typically, for every inventory level, there is a price below which the optimal decision would be to buy more units and a price above which the optimal decision would be to sell.  Either action will change the state of your storage rights, thereby requiring another decision to be made based on a potentially different set of limitations. 
+
+
+

@@ -1,0 +1,44 @@
+Question No
+El Paso Energy Corp
+El Paso Energy Corp
+2
+Microsoft Word 9.0
+1
+8/22/2001 22:16:00
+8/22/2001 22:16:00
+1
+753
+4293
+0
+El Paso Energy Corp
+35
+8
+5272
+no
+no
+8/22/2001 16:16:00
+8/22/2001 16:16:00
+
+El Paso Natural Gas Company 
+Responses to Questions Raised at
+Docket No. RP00-336-000, et al. Technical Conference
+
+Question No. 8:	Describe Operational Flow Order (“OFO”) options for handling displacement issues assuming that displacement transactions are considered in the allocation of firm receipt rights.
+
+Response No. 8:	 
+
+If displacement is taken into account in assigning firm receipt rights, there may be days when market conditions are such that shippers will not request flow between the points that provided the displacement relied upon in the allocation process.  Absent the capacity provided by such displacements and assuming that other shippers are attempting to flow their full entitlement, some transactions would not be scheduled.  To avoid that situation, an Operational Flow Order could be invoked that would require a defined class of shippers to submit nominations for transportation transactions that would provide the required displacement capacity.  This could occur during scheduling for the timely cycle (Cycle 1), during the evening cycle (Cycle 2) or during the first Intraday cycle (Cycle 3).   Because the second Intraday cycle (Cycle 4) is defined to be a no-bump cycle and because there are no further scheduling opportunities after Cycle 4, there does not appear to be a reasonable way to use an OFO to deal with displacement issues discovered during this cycle.  
+
+Assuming that the confirmed nominations received for the Cycles 1, 2 or 3 indicated a problem due to a lack of displacement capacity, three options suggest themselves:  
+Forecast OFO – The simplest version of an OFO might be one where discovery of a displacement problem on one day would trigger calling an OFO that would be applicable for the next scheduling day.  This approach has the advantage of giving the shippers required to provide the displacement transaction a reasonable opportunity to rearrange their business in a way that provides the necessary capacity.  It has two disadvantages in that the shipper whose transaction cannot be scheduled due to the lack of displacement will be delayed by one day and that, in a volatile market, displacement transactions needed on one day may not be needed the next day.  
+Pre-Arranged OFO - El Paso and its shippers could prearrange a series of transactions that would be relied upon to provide the necessary capacity.  These transactions would, of necessity, require that a supplier be prepared to supply the necessary gas, a transporter be prepared to transport the gas and a downstream market be prepared to take the gas with minimal prior notice.  The advantage of using prearranged transactions would be that El Paso could simply add those transactions to the nominations and produce final scheduled quantities within the GISB mandated timelines.  The disadvantage would be the need for the prearranged shippers to make a portion of their capacity available for this service and to have supply and market on standby to consummate the transaction.  This might well require that other transactions be reduced or eliminated to free up the required capacity.
+Real Time OFO – After receipt and review of the nominations and confirmations, El Paso would determine whether or not it was necessary to issue an OFO to encourage shippers to enter transactions designed to produce the required displacement capacity.  This process would require that some portion of the GISB standards be waived or El Paso’s scheduling tariff be modified;  
+If shippers could be prepared to respond quickly enough, the best approach would be to receive the additional nominations within the affected scheduling cycle in time to allow processing to be completed within the GISB deadlines.  This would require receiving nominations from a defined group of shippers outside the standardized nomination process but processing them in conjunction with those received within the timeline (at a minimum, this conflicts with GISB standard 1.3.6).  In addition, to provide the shippers with a meaningful opportunity to rearrange their business, interconnect operators would have to agree to be prepared to accept an increase in the confirmed quantity sent by El Paso or to allow El Paso to confirm at a later time than is currently the practice.  
+If shippers cannot be prepared to respond within the time available, the OFO provision could require them to respond on the next available scheduling cycle.  This approach would require some sort of new process that keeps the shipper who needs the displacement capacity whole until the displacement transaction shows up while protecting the pipeline and downstream markets in the event that the displacement transaction is never consummated.  
+
+For the Evening cycle (Cycle 2) and the first Intraday cycle (Cycle 3), some allowance would have to be made for the existence of the no-bump and elapsed pro rata scheduled quantity rules because shippers providing the displacement transactions could conceivably bump previously scheduled quantities.  
+
+There would need to be some mechanism in place to assure shipper compliance with the call for performance under an OFO.  There would also need to be some mechanism in place to deal with the physical situation if the failure to perform resulted in an unacceptable pack or draft of the pipeline system.  
+
+
+

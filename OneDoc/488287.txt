@@ -1,0 +1,12 @@
+﻿From:           Becky Spencer <becky.spencer@cw-test.com>
+Sent:           Tue Aug 14 2001 12:12:32 GMT
+To:             Susan Bailey </o=cw-test/ou=first administrative group/cn=recipients/cn=susan.bailey>;Samantha Boyd </o=cw-test/ou=first administrative group/cn=recipients/cn=samantha.boyd>;Mary Cook </o=cw-test/ou=first administrative group/cn=recipients/cn=mary.cook>;Esmeralda Gonzalez </o=cw-test/ou=first administrative group/cn=recipients/cn=esmeralda.gonzalez>;Mark Greenberg </o=cw-test/ou=first administrative group/cn=recipients/cn=mark.greenberg>;Marie Heard </o=cw-test/ou=first administrative group/cn=recipients/cn=marie.heard>;Brent Hendry </o=cw-test/ou=first administrative group/cn=recipients/cn=brent.hendry>;Tana Jones </o=cw-test/ou=first administrative group/cn=recipients/cn=tana.jones>;Holly Keiser </o=cw-test/ou=first administrative group/cn=recipients/cn=holly.keiser>;Anne Koehler </o=cw-test/ou=first administrative group/cn=recipients/cn=anne.koehler>;Pinto Leite </o=cw-test/ou=first administrative group/cn=recipients/cn=pinto.leite>;Cheryl Nelson </o=cw-test/ou=first administrative group/cn=recipients/cn=cheryl.nelson>;Stephanie Panus </o=cw-test/ou=first administrative group/cn=recipients/cn=stephanie.panus>;Frank Sayre </o=cw-test/ou=first administrative group/cn=recipients/cn=frank.sayre>;Sara Shackleton <sara.shackleton@cw-test.com>;Becky Spencer <becky.spencer@cw-test.com>;Carol St. </o=cw-test/ou=first administrative group/cn=recipients/cn=carol.st.>;Mark Taylor </o=cw-test/ou=first administrative group/cn=recipients/cn=mark.taylor>
+CC:             
+Subject:        Brent Hendry Load two
+Attachments:    
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+Brent had to order doors for his home this morning and will be late getting in.  (The "door store" is only open during work hours.)

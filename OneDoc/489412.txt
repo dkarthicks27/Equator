@@ -1,0 +1,280 @@
+Instructions for Remote Access via Click@home
+Click at home - Setting up connection to Enron
+Daniel A. Muschar
+Pablo Torres
+50
+Microsoft Word 10.0
+632
+4/25/2001 12:22:00
+1/30/2001 19:57:00
+7/5/2001 21:43:00
+1
+965
+5507
+0
+Paige Cox
+Enron Net Works - Trader Support Group
+45
+12
+6460
+no
+no
+1/30/2001 14:57:00
+7/5/2001 16:43:00
+4/25/2001 07:22:00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Picture 1
+Picture 2
+Page  of 5	                            Connecting Click @ Home		7/5/2001//
+Connecting to work from your Click@Home
+
+Request VPN access to work
+
+Go to http://itcentral.enron.com/ choose 
+and request the following rights: Dialin_general, Dialin_global, Dialin_ipass, Dialin_vpn, Ts_Houston, Vpn users, and the dialin box has to be checked.
+Note: You must have VPN and Dial in access before you can continue.
+
+ Creating Dial-Up Connection
+
+Note: These section must be completed even if your have DSL or Cable modem. Dialing up is the only way to obtain a digital certificate. You may have to chose your modem in step#3.
+Right-Click the My Network Places icon on the desktop and choose Properties. 
+Double-Click the 
+icon, then press ‘Next’.  
+Select ‘Dial up to private network’, then press ‘Next’.  
+Enter the Phone Number to dial: 713-428-3098 and press ‘Next’. 
+Choose to Create this connection for: ‘All users’ and press ‘Next’.
+Do not check the ‘Connection Sharing’ icon and press ‘Next’(you may see this option).  
+Name the connection ‘Batmax-Enron’ and press Finish.
+At the Connect Batmax-Enron window click on Properties.
+Click the Configure button under the General tab, lower Maximum Speed (bps) to 57600. Click OK.
+Click on the Settings button under the Networking tab, uncheck “Enable LCP extensions” and “negotiate multi-link for single connections” and click OK. Click Cancel to close the dial-up windows.
+
+Note: In order to download digital certificate, your Internet Explorer must have 128-bit encryption. Please follow the steps 
+below to ensure you have the proper encryption.
+
+Open Internet Explorer Page and click on Help and About Internet Explorer. In the About Internet Explorer windows (as shown below), check the Cipher Strength. If the Cipher Strength is 128-bit you can skip to the next section, “Dialing in to get VPN and Certificate”. If the Cipher Strength is 56-bit or lower than 128-bit, continue with next steps.
+ 
+
+Click on Update Information. This will open a new browser to 
+web site. Skip the steps on “How to download and install”, look for the Windows 2000 High Encryption Pack link at the end of the third paragraph and click this link.
+Click the GO button at the top right section of the web page (see Picture below). 
+
+Now click the Windows 2000 High Encryption Pack Standard Download link under the 
+ area. Choose to “Save this program to disk” and click OK and Save. Once download is complete, click Open to run the update. Follow the instructions to install the update and click Yes to restart your computer when prompted.
+
+Dialing in to get VPN and Certificate
+
+Right-Click the My Network Places icon on the desktop and choose properties.
+Double-Click the ‘Batmax-Enron’ connection.
+Enter your Enron Network login credentials with CORP\ before your username (as shown below).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press Dial and your modem will dial, then, the Connection box will disappear once connected.
+
+Obtaining your VPN software and Certificate
+
+Open Internet Explorer and enter the address: http://remoteservices.enron.com/.
+Click on the 
+ link to the left of the web page. Then, click on the 
+ link. 
+Select Option 2 to ‘Download the Client’.
+Select the work Download to the right of ‘I already have internet access!’
+A ‘File Download’ box will appear, select ‘Save this program to disk’ and press OK. (Picture 1)
+Change the ‘Save in:’ to ‘Local Disk (C:)’, then press the ‘Save’ button. (Picture2)
+
+The download can take from 5-15 minutes, depending on connection speed. 
+Go back to Internet Explorer and press the ‘Solutions’, then ‘Remote Access’, and finally ‘Windows 2000 VPN Access’.
+ Choose option 3 ‘Obtain a Certificate’.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press the green work ‘Link’, you will then be prompted for you login information.  Use your Enron Network login information and press OK.  (shown below)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The ‘Digital Certificate Installation’ page will come up.  Press ‘Next’ 
+Read the Digital Certificate Issuance and Usage Statement, and then select ‘I agree to the terms and conditions of proper digital certificate usage ’.
+
+
+
+
+Your Login ID and current Machine name will be displayed, press ‘Next’. (Shown below)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your certificate is ready.  Press ‘Install this certificate’.
+You will receive a message stating ‘Certificate Successfully Installed.’(Shown below)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Installation of the VPN software
+
+Right-Click on ‘My Computer’ from the desktop and choose ‘Explore’.
+Browse to your C:\ drive and double-click on the file ‘w2kvpn.exe’.
+The installation will run and complete without any intervention.  
+Reboot after install.
+
+Connecting to the VPN through a cable modem
+
+Go to Start\Programs\Ipass\ and choose VPN without Ipass.
+
+
+
+
+
+
+
+
+
+
+
+Press Properties, then choose the Security Tab and uncheck the “Automatically use my windows…” then go to the Options tab and check the “Prompt for name and password” and “Include Windows login domain” buttons.
+Click on Networking tab, make sure you are using “Layer -2 Tunneling Protocol (L2TP) for the “Type of VPN Server I am calling:”  and click on the Setings button. Uncheck all options except for “Enable software compression”. Click OK 
+  
+
+
+
+
+Press Dial and you will prompted for you login information, use your Network ID/PW/Domain, then press Connect. 
+
+
+
+
+
+
+
+
+
+Connecting to Terminal Server
+
+Open Internet Explorer and type http://remoteservices.enron.com for the URL.  
+This will allow you to choose from our Terminal server list.
+
+
+
+
+
+Getting e-mail  
+
+Lotus Notes Users:
+	Lotus Notes 4.6: Choose “General Purpose Cluster-Houston”
+	Lotus Notes 5: Choose “General Purpose Cluster 2-Notes R5
+
+Outlook Users: 
+Go to Internet Explorer and type the URL: http://mail.enron.com - you will be prompted for ID/PW, use the following format ID: CORP/dmuscha  		PW: *********
+
+
+
+
+
+
+
+
+
+
+NOTES 
+Dialup download is almost 2mb, vpn only is 250 appox.
+Do I need instructions for dialup also in here?
+

@@ -1,0 +1,13 @@
+﻿From:           Pat Radford <pat.radford@cw-test.com>
+Sent:           Mon Jul 31 2000 15:35:00 GMT
+To:             Roger Balog </o=cw-test/ou=first administrative group/cn=recipients/cn=roger.balog>;Sandi Braband </o=cw-test/ou=first administrative group/cn=recipients/cn=sandi.braband>;Shonnie Daniel </o=cw-test/ou=first administrative group/cn=recipients/cn=shonnie.daniel>;Shawna Flynn </o=cw-test/ou=first administrative group/cn=recipients/cn=shawna.flynn>;Barbara Gray </o=cw-test/ou=first administrative group/cn=recipients/cn=barbara.gray>;Gerald Nemec <gerald.nemec@cw-test.com>;Steve Hooser </o=cw-test/ou=first administrative group/cn=recipients/cn=steve.hooser>;Ann White <ann.white@cw-test.com>;Kimberlee Bennick <kimberlee.bennick@cw-test.com>;Eric Gillaspie </o=cw-test/ou=first administrative group/cn=recipients/cn=eric.gillaspie>;Mary Ogden </o=cw-test/ou=first administrative group/cn=recipients/cn=mary.ogden>;Robert Walker </o=cw-test/ou=first administrative group/cn=recipients/cn=robert.walker>
+CC:             Erica Braden </o=cw-test/ou=first administrative group/cn=recipients/cn=erica.braden>;Becky Tlucek </o=cw-test/ou=first administrative group/cn=recipients/cn=becky.tlucek>;Jenny Helton </o=cw-test/ou=first administrative group/cn=recipients/cn=jenny.helton>;Taffy Milligan </o=cw-test/ou=first administrative group/cn=recipients/cn=taffy.milligan>;Chaundra Woods </o=cw-test/ou=first administrative group/cn=recipients/cn=chaundra.woods>
+Subject:        August Calendar Load two
+Attachments:    
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+Please send me any dates you plan to be out of the office during the Month of 
+August.

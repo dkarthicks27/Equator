@@ -1,0 +1,111 @@
+740361.01
+ 
+mmurphy
+2
+Microsoft Word 9.0
+1
+2/14/1996 11:39:00
+8/21/2001 19:07:00
+8/21/2001 19:07:00
+2
+630
+3596
+0
+ENRON
+33280
+29
+7
+4416
+no
+no
+8/21/2001 14:07:00
+8/21/2001 14:07:00
+
+	                                                                                          
+  
+	                                                                                                          Deal No. 740361.01
+
+		
+
+
+
+
+Enron Power Marketing, Inc.
+P.O. Box 4428
+Houston, Texas 77210-4428
+(FAX) (713) 646-2491
+
+August 20, 2001					 
+
+Scott McKinney
+Hafslund Energy Trading, LLC
+101 Elliott Ave Ste 510
+Seattle, WA 98119
+
+Fax No. (206) 301-9988
+
+CONFIRMATION LETTER
+
+This letter shall confirm the agreement reached on August 20, 2001 between Hafslund Energy Trading, LLC and Enron Power Marketing, Inc. (“EPMI”) regarding the sale of CAISO Energy under the terms and conditions that follow:
+
+Seller:
+Enron Power Marketing, Inc.
+
+
+Buyer:
+Hafslund Energy Trading, LLC
+
+
+Term:
+Monday, October 1, 2001 through Monday, December 31, 2001. 
+Hour Ending (HE) 0700 through HE 2200 (16 Hours each day), 
+Monday through Saturday only, excluding NERC Holidays; 
+Pacific Prevailing Time. 
+
+
+Type of Commodity:
+
+CAISO Energy
+
+
+Price:
+US Dollars $43.75/MWh.
+
+
+Quantity:
+25 Mws of CAISO Energy per hour,       30,800 MWh Total
+
+
+Delivery
+Point(s):
+
+NP-15
+
+NP-15 as currently defined, until such time that the definition of NP-15 changes or the zone ceases to exist, when the Delivery Point shall be that zone, or any physical location or bus, that reasonably resembles, in terms of liquidity and homogeneity and physical location, PGE3, and specifically excluding the proposed “North Bay and Greater Bay Area Zones” as identified in Figure 1 on page 10 of Appendix H (located at 
+http://www.caiso.com/docs/09003a6080/06/ec/09003a608006ec61.pdf) to the document entitled “Congestion Management Reform Recommendations” (Draft Proposal) dated July 28, 2000 issued by the California ISO on its official website: http://www.caiso.com.
+
+
+Scheduling:	EPMI Real Time Operations: 1-800-684-1336
+
+Power deliveries shall be scheduled with the California Independent System Operator (CAISO) as a Schedule Coordinator to Schedule Coordinator transaction.  Scheduling timelines shall be consistent with ISO tariffs, protocols, operating procedures, and scheduling practices.
+
+"CAISO Energy" means with respect to a Transaction, a Product under which the Seller shall sell and the Buyer shall purchase a quantity of energy equal to the hourly quantity without Ancillary Services (as defined in the Tariff) that is or will be scheduled as a schedule coordinator to schedule coordinator transaction pursuant to the applicable tariff and protocol provisions of the California Independent System Operator ("CAISO") (as amended from time to time, the "Tariff") for which the only excuse for failure to deliver or receive is an "Uncontrollable Force" (as defined in the Tariff).
+
+This confirmation letter is being provided pursuant to and in accordance with Western Systems Power Pool Agreement (“WSPP Agreement”), as amended periodically with FERC approval, to which Hafslund Energy Trading, LLC and EPMI are parties.  Terms used but not defined herein shall have the meanings ascribed to them in the WSPP Agreement. 
+
+Please confirm that the terms stated herein accurately reflect the agreement reached on August 20, 2001 between you and EPMI by returning an executed copy of this letter by facsimile to EPMI at (713) 646-2491. Your response should reflect the appropriate party in your organization who has the authority to enter into this transaction. If you have any questions please call (713) 853-1886.
+
+	
+Hafslund Energy Trading, LLC
+Enron Power Marketing, Inc.
+
+
+
+By:	__________________________	By:   
+
+
+Name:	__________________________	Name: Tim Belden
+
+Title:      __________________________	Title:     Managing Director
+
+

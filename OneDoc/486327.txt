@@ -1,0 +1,71 @@
+ 
+Tractebel Meeting
+OGaylard
+mkass
+3
+Microsoft Word 9.0
+7/23/2001 13:28:00
+8/14/2001 10:16:00
+8/14/2001 10:16:00
+1
+125
+716
+0
+Enron Europe
+5
+1
+879
+no
+no
+8/14/2001 11:16:00
+8/14/2001 11:16:00
+7/23/2001 14:28:00
+
+Beth Apollo, Shona Wilson, David Hardy, Mike Jordan, Debbie Brackett, Burt McIntyre, David Port, Marc Maynard, Brian Hudson, Keith Bowie, Phil Yoxall, Tricia Donnelly, Chris Abel, Nancy Hernandez, Cassi Wallace, Christy Lobusch, Johnny Thibodeaux, Wanda Cu	14/08/2001	Page 
+Your Personal Best Makes Enron Best	Communicate- Facts Are Friendly		Better, Faster, Simpler
+Form 000-469-1 (5/92)
+Interoffice
+Memorandum
+Your Personal Best Makes Enron Best	Communicate- Facts Are Friendly	Better, Faster, Simpler
+
+Form 000-469-1 (7/92)
+
+
+
+To:
+Rick Buy, Michael Brown, Fernley Dyson, Mark Pickering, Ted Murphy, Paul Freeman 
+
+
+
+Cc:
+Beth Apollo, Shona Wilson, David Hardy, Mike Jordan, Debbie Brackett, Burt McIntyre, David Port, Marc Maynard, Brian Hudson, Keith Bowie, Phil Yoxall, Tricia Donnelly, Chris Abel, Nancy Hernandez, Cassi Wallace, Christy Lobusch, Johnny Thibodeaux, Wanda Curry, Tom Victorio
+
+
+
+From:
+Michael Kass, James New
+Department:
+ECT-Europe
+
+
+
+
+
+
+Subject:
+Enron Europe Risktrac Feed Summary – 13 August 2001
+Date:
+August 14, 2001
+
+
+
+Feed Failures: (Defined as not successfully loading into Risktrac by 6.00am Houston time as shown on the Risktrac intranet site – http://risktracfeed.corp.enron.com)
+
+     No Failures
+
+
+2. Data Failures:  (Eg. when data has been rolled or issues regarding data loaded into Risktrac):
+
+	No failures
+	
+

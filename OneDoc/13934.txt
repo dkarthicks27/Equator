@@ -1,0 +1,37 @@
+Merrill Lynch
+pbarna
+Microsoft Excel
+6/21/2000 20:38:20
+7/15/1996 14:57:03
+0
+no
+no
+
+
+Enron hedge
+The above constitutes a summary of the terms of the transaction for settlement purposes. The official record confirming the transaction will follow.
+Merrill Lynch International
+Enron Corporation
+To:
+John Greene
+ENE
+Email:
+john.greene@enron.com
+To:
+David Vitrella
+Swap Hedge
+Email:
+david.vitrella@enron.com
+To:
+Selena Reyes
+Email:
+selena.reyes@enron.com
+Trade
+Date
+Shares
+Price
+Amount
+06/28/00
+110,100 68.5000 7,541,850.00 Total
+110,100 68.5000 7,541,850.00 Note: Prices do not include commissions or carry cost (if applicable)
+

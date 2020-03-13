@@ -1,0 +1,467 @@
+Philip Polsky
+Philip Polsky
+Microsoft Excel
+8/17/2001 13:43:02
+8/14/2001 16:19:01
+8/17/2001 13:48:13
+0
+Enron Corp
+no
+no
+
+
+Summary
+
+
+Summary
+Kern Payment 2 Summary
+July 
+August
+Total Payment
+PCHC
+$ 15,686 $ 10,302 $ 25,988 Misaka
+$ 9,411 $ 6,181 $ 15,593 Kennedy Oil
+$ 19,346 $ 12,706 $ 32,052 JM Huber
+$ 19,346 $ 12,706 $ 32,052 FMI Weld
+$ 19,346 $ 12,706 $ 32,052 Patina
+$ 19,346 $ 12,706 $ 32,052 Cannon
+$ 19,346 $ 12,706 $ 32,052 TOTALS
+$ 121,827 $ 80,013 $ 201,840 Print All Schedules
+
+
+Inputs
+Package 1
+Package 2
+Percentage
+PCHC
+ 3,000 25% Misaka
+ 3,000 15% Kennedy Oil
+700  3,000 25% JM Huber
+700  3,000 25% FMI Weld
+700  3,000 25% Patina
+700  3,000 25% Cannon
+700  3,000 25%  3,500  21,000 PAYMENT 2: JULY
+Flow
+81.80% Market Price
+$ 4.163 Supply Price
+$ 2.228 Tariff Rate
+Reservation
+$ 0.7734 Commodity
+$ 0.0665 Fuel
+4.20% PAYMENT 2: AUGUST
+Flow
+100% Socal Basis
+$ 1.92 Socal Index
+$ (1.42) Rox Basis
+$ (0.96) Rox Index
+$ 0.08 Tariff Rate
+Reservation
+$ 0.7734 Commodity
+$ 0.0665 Fuel
+4.20% 
+
+PCHC
+Petrocanada Calc
+Appendix A
+July
+August
+Petro-Canada Hydrocarbons, Inc.
+Package 2
+ 3,000  3,000 July and August Payment Calculations
+Total July
+ 93,000  93,000 Actual Volume
+ 76,072  93,000 JULY
+AUGUST
+TOTAL
+ACTUAL VOLUME (1) 
+ 76,072  93,000 SoCal Basis
+$ 1.92 SoCal Index
+$ (1.42) MARKET PRICE (2)
+$ 4.1629 $ 0.5000 Market Price
+$ 4.1629 Total
+$ 0.50 SUPPLY PRICE (3)
+$ 2.2285 $ (0.8800) Rockies Basis
+$ (0.96) Rockies Index
+$ 0.08 TARIFF RATE (4)
+$ 1.1097 $ 0.9369 Supply Price
+$ 2.2285 Total
+$ (0.88) PAYMENT RATIO
+25% 25% Spread
+ 1.93 Spread
+$ 1.38 TOTAL PAYMENT
+ 15,686  10,302  25,988 Total Spread Value
+$ 147,160 Tariff Rate
+Tariff Rate
+Payment as Calculated in Precedent Agreement:
+Demand
+$ 71,926 Demand
+$ 0.773 Actual Volume * [(Market Price - Supply Price) - Tariff Rate] * Payment Ratio
+Commodity
+$ 5,059 Commodity
+$ 0.067 Fuel Volume
+ 3,335 Fuel
+$ 0.097 Total Fuel Price
+$ 7,432 Total
+$ 0.937 (1) Actual volumes for July based on an 81.8% flow rate on 3,000 a day volume.
+Total Tariff
+$ 84,417     August assumes 100% flows.
+(2) August market price based on SoCal basis of $1.92 and index of ($1.42)
+Net Income
+$ 0.44 (3) August supply price based on Rockies basis of ($.96) and index of $.08
+Net Income
+$ 62,743 Total Net Income
+$ 41,208 (4) Total estimated July tariffs of $84,417 versus total estimated August tariffs of $87,132.
+    Per unit total tariff is lower for July due to lower volume.
+Payment Ratio
+25% Payment
+25% Total Payment
+ 15,686 Total Payment
+$ 10,302 
+
+Misaka
+Misaka Calc
+Appendix A
+July
+August
+Misako Resources
+Package 2
+ 3,000  3,000 July and August Payment Calculations
+Total July
+ 93,000  93,000 Actual Volume
+ 76,072  93,000 JULY
+AUGUST
+TOTAL
+ACTUAL VOLUME (1) 
+ 76,072  93,000 SoCal Basis
+$ 1.92 SoCal Index
+$ (1.42) MARKET PRICE (2)
+$ 4.1629 $ 0.5000 Market Price
+$ 4.1629 Total
+$ 0.50 SUPPLY PRICE (3)
+$ 2.2285 $ (0.8800) Rockies Basis
+$ (0.96) Rockies Index
+$ 0.08 TARIFF RATE (4)
+$ 1.1097 $ 0.9369 Supply Price
+$ 2.2285 Total
+$ (0.88) PAYMENT RATIO
+15% 15% Spread
+ 1.93 Spread
+$ 1.38 TOTAL PAYMENT
+ 9,411  6,181  15,593 Total Spread Value
+$ 147,160 Tariff Rate
+Tariff Rate
+Payment as Calculated in Precedent Agreement:
+Demand
+$ 71,926 Demand
+$ 0.773 Actual Volume * [(Market Price - Supply Price) - Tariff Rate] * Payment Ratio
+Commodity
+$ 5,059 Commodity
+$ 0.067 Fuel Volume
+ 3,335 Fuel
+$ 0.097 Total Fuel Price
+$ 7,432 Total
+$ 0.937 87132 (1) Actual volumes for July based on an 81.8% flow rate on 3,000 a day volume.
+Total Tariff
+$ 84,417     August assumes 100% flows.
+(2) August market price based on SoCal basis of $1.92 and index of ($1.42)
+Net Income
+$ 0.44 (3) August supply price based on Rockies basis of ($.96) and index of $.08
+Net Income
+$ 62,743 Total Net Income
+$ 41,208 (4) Total estimated July tariffs of $84,417 versus total estimated August tariffs of $87,132.
+    Per unit total tariff is lower for July due to lower volume.
+Payment Ratio
+15% Payment
+15% Total Payment
+ 9,411 Total Payment
+$ 6,181 
+
+Kennedy
+Kennedy
+Appendix A
+July
+August
+Kennedy Oil
+Package 2
+ 3,700  3,700 July and August Payment Calculations
+Total July
+ 114,700  114,700 Actual Volume
+ 93,823 114700 JULY
+AUGUST
+TOTAL
+ACTUAL VOLUME (1) 
+ 93,823  114,700 SoCal Basis
+$ 1.92 SoCal Index
+$ (1.42) MARKET PRICE (2)
+$ 4.1629 $ 0.5000 Market Price
+$ 4.1629 Total
+$ 0.50 SUPPLY PRICE (3)
+$ 2.2285 $ (0.8800) Rockies Basis
+$ (0.96) Rockies Index
+$ 0.08 TARIFF RATE (4)
+$ 1.1097 $ 0.9369 Supply Price
+$ 2.2285 Total
+$ (0.88) PAYMENT RATIO
+25% 25% Spread
+ 1.93 Spread
+$ 1.38 TOTAL PAYMENT
+ 19,346  12,706  32,052 Total Spread Value
+$ 181,498 Tariff Rate
+Tariff Rate
+Payment as Calculated in Precedent Agreement:
+Demand
+$ 88,709 Demand
+$ 0.773 $ 88,709 Actual Volume * [(Market Price - Supply Price) - Tariff Rate] * Payment Ratio
+Commodity
+$ 6,239 Commodity
+$ 0.067 $ 7,628 Fuel Volume
+ 4,113 Fuel
+$ 0.097 $ 11,144 Total Fuel Price
+$ 9,166 Total
+$ 0.937 $ 107,481 107462 (1) Actual volumes for July based on an 81.8% flow rate on 3,700 a day volume.
+Total Tariff
+$ 104,114 0.9369     August assumes 100% flows.
+(2) August market price based on SoCal basis of $1.92 and index of ($1.42)
+Net Income
+$ 0.44 (3) August supply price based on Rockies basis of ($.96) and index of $.08
+Net Income
+$ 77,384 Total Net Income
+$ 50,824 (4) Total estimated July tariffs of $104,114 versus total estimated August tariffs of $107,481.
+    Per unit total tariff is lower for July due to lower volume.
+Payment Ratio
+25% Payment
+25% Total Payment
+ 19,346 Total Payment
+$ 12,706 
+
+JMHuber
+JM Huber
+Appendix A
+July
+August
+J.M. Huber
+Package 2
+ 3,700  3,700 July and August Payment Calculations
+Total July
+ 114,700  114,700 Actual Volume
+ 93,823 114700 JULY
+AUGUST
+TOTAL
+ACTUAL VOLUME (1) 
+ 93,823  114,700 SoCal Basis
+$ 1.92 SoCal Index
+$ (1.42) MARKET PRICE (2)
+$ 4.1629 $ 0.5000 Market Price
+$ 4.1629 Total
+$ 0.50 SUPPLY PRICE (3)
+$ 2.2285 $ (0.8800) Rockies Basis
+$ (0.96) Rockies Index
+$ 0.08 TARIFF RATE (4)
+$ 1.1097 $ 0.9369 Supply Price
+$ 2.2285 Total
+$ (0.88) PAYMENT RATIO
+25% 25% Spread
+ 1.93 Spread
+$ 1.38 TOTAL PAYMENT
+ 19,346  12,706  32,052 Total Spread Value
+$ 181,498 Tariff Rate
+Tariff Rate
+Payment as Calculated in Precedent Agreement:
+Demand
+$ 88,709 Demand
+$ 0.773 88708.98 Actual Volume * [(Market Price - Supply Price) - Tariff Rate] * Payment Ratio
+Commodity
+$ 6,239 Commodity
+$ 0.067 7627.55 Fuel Volume
+ 4,113 Fuel
+$ 0.097  11,144 Total Fuel Price
+$ 9,166 Total
+$ 0.937 107462 (1) Actual volumes for July based on an 81.8% flow rate on 3,700 a day volume.
+Total Tariff
+$ 104,114     August assumes 100% flows.
+(2) August market price based on SoCal basis of $1.92 and index of ($1.42)
+Net Income
+$ 0.44 (3) August supply price based on Rockies basis of ($.96) and index of $.08
+Net Income
+$ 77,384 Total Net Income
+$ 50,824 (4) Total estimated July tariffs of $104,114 versus total estimated August tariffs of $107,481.
+    Per unit total tariff is lower for July due to lower volume.
+Payment Ratio
+25% Payment
+25% Total Payment
+ 19,346 Total Payment
+$ 12,706 
+
+FMI Weld
+FMI Weld
+Appendix A
+July
+August
+FMI Weld
+Package 2
+ 3,700  3,700 July and August Payment Calculations
+Total July
+ 114,700  114,700 Actual Volume
+ 93,823 114700 JULY
+AUGUST
+TOTAL
+ACTUAL VOLUME (1) 
+ 93,823  114,700 SoCal Basis
+$ 1.92 SoCal Index
+$ (1.42) MARKET PRICE (2)
+$ 4.1629 $ 0.5000 Market Price
+$ 4.1629 Total
+$ 0.50 SUPPLY PRICE (3)
+$ 2.2285 $ (0.8800) Rockies Basis
+$ (0.96) Rockies Index
+$ 0.08 TARIFF RATE (4)
+$ 1.1097 $ 0.9369 Supply Price
+$ 2.2285 Total
+$ (0.88) PAYMENT RATIO
+25% 25% Spread
+ 1.93 Spread
+$ 1.38 TOTAL PAYMENT
+ 19,346  12,706  32,052 Total Spread Value
+$ 181,498 Tariff Rate
+Tariff Rate
+Payment as Calculated in Precedent Agreement:
+Demand
+$ 88,709 Demand
+$ 0.773 88708.98 Actual Volume * [(Market Price - Supply Price) - Tariff Rate] * Payment Ratio
+Commodity
+$ 6,239 Commodity
+$ 0.067 7627.55 Fuel Volume
+ 4,113 Fuel
+$ 0.097  11,144 Total Fuel Price
+$ 9,166 Total
+$ 0.937 107462 (1) Actual volumes for July based on an 81.8% flow rate on 3,700 a day volume.
+Total Tariff
+$ 104,114     August assumes 100% flows.
+(2) August market price based on SoCal basis of $1.92 and index of ($1.42)
+Net Income
+$ 0.44 (3) August supply price based on Rockies basis of ($.96) and index of $.08
+Net Income
+$ 77,384 Total Net Income
+$ 50,824 (4) Total estimated July tariffs of $104,114 versus total estimated August tariffs of $107,481.
+    Per unit total tariff is lower for July due to lower volume.
+Payment Ratio
+25% Payment
+25% Total Payment
+ 19,346 Total Payment
+$ 12,706 
+
+Patina
+Patina
+Appendix A
+July
+August
+Patina Oil and Gas
+Package 2
+ 3,700  3,700 July and August Payment Calculations
+Total July
+ 114,700  114,700 Actual Volume
+ 93,823 114700 JULY
+AUGUST
+TOTAL
+ACTUAL VOLUME (1) 
+ 93,823  114,700 SoCal Basis
+$ 1.92 SoCal Index
+$ (1.42) MARKET PRICE (2)
+$ 4.1629 $ 0.5000 Market Price
+$ 4.1629 Total
+$ 0.50 SUPPLY PRICE (3)
+$ 2.2285 $ (0.8800) Rockies Basis
+$ (0.96) Rockies Index
+$ 0.08 TARIFF RATE (4)
+$ 1.1097 $ 0.9369 Supply Price
+$ 2.2285 Total
+$ (0.88) PAYMENT RATIO
+25% 25% Spread
+ 1.93 Spread
+$ 1.38 TOTAL PAYMENT
+ 19,346  12,706  32,052 Total Spread Value
+$ 181,498 Tariff Rate
+Tariff Rate
+Payment as Calculated in Precedent Agreement:
+Demand
+$ 88,709 Demand
+$ 0.773 88708.98 Actual Volume * [(Market Price - Supply Price) - Tariff Rate] * Payment Ratio
+Commodity
+$ 6,239 Commodity
+$ 0.067 7627.55 Fuel Volume
+ 4,113 Fuel
+$ 0.097  11,144 Total Fuel Price
+$ 9,166 Total
+$ 0.937 107462 (1) Actual volumes for July based on an 81.8% flow rate on 3,700 a day volume.
+Total Tariff
+$ 104,114     August assumes 100% flows.
+(2) August market price based on SoCal basis of $1.92 and index of ($1.42)
+Net Income
+$ 0.44 (3) August supply price based on Rockies basis of ($.96) and index of $.08
+Net Income
+$ 77,384 Total Net Income
+$ 50,824 (4) Total estimated July tariffs of $104,114 versus total estimated August tariffs of $107,481.
+    Per unit total tariff is lower for July due to lower volume.
+Payment Ratio
+25% Payment
+25% Total Payment
+ 19,346 Total Payment
+$ 12,706 
+
+Cannon
+Cannon
+Appendix A
+July
+August
+Cannon Interests
+Package 2
+ 3,700  3,700 July and August Payment Calculations
+Total July
+ 114,700  114,700 Actual Volume
+ 93,823 114700 JULY
+AUGUST
+TOTAL
+ACTUAL VOLUME (1) 
+ 93,823  114,700 SoCal Basis
+$ 1.92 SoCal Index
+$ (1.42) MARKET PRICE (2)
+$ 4.1629 $ 0.5000 Market Price
+$ 4.1629 Total
+$ 0.50 SUPPLY PRICE (3)
+$ 2.2285 $ (0.8800) Rockies Basis
+$ (0.96) Rockies Index
+$ 0.08 TARIFF RATE (4)
+$ 1.1097 $ 0.9369 Supply Price
+$ 2.2285 Total
+$ (0.88) PAYMENT RATIO
+25% 25% Spread
+ 1.93 Spread
+$ 1.38 TOTAL PAYMENT
+ 19,346  12,706  32,052 Total Spread Value
+$ 181,498 Tariff Rate
+Tariff Rate
+Payment as Calculated in Precedent Agreement:
+Demand
+$ 88,709 Demand
+$ 0.773 88708.98 Actual Volume * [(Market Price - Supply Price) - Tariff Rate] * Payment Ratio
+Commodity
+$ 6,239 Commodity
+$ 0.067 7627.55 Fuel Volume
+ 4,113 Fuel
+$ 0.097  11,144 Total Fuel Price
+$ 9,166 Total
+$ 0.937 107462 (1) Actual volumes for July based on an 81.8% flow rate on 3,700 a day volume.
+Total Tariff
+$ 104,114     August assumes 100% flows.
+(2) August market price based on SoCal basis of $1.92 and index of ($1.42)
+Net Income
+$ 0.44 (3) August supply price based on Rockies basis of ($.96) and index of $.08
+Net Income
+$ 77,384 Total Net Income
+$ 50,824 (4) Total estimated July tariffs of $104,114 versus total estimated August tariffs of $107,481.
+    Per unit total tariff is lower for July due to lower volume.
+Payment Ratio
+25% Payment
+25% Total Payment
+ 19,346 Total Payment
+$ 12,706 

@@ -1,0 +1,6 @@
+From: Shelley Corman [/o=cw-test/ou=first administrative group/cn=recipients/cn=shelley.corman]
+Subject: Legal Essentials for Managers Load two
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None

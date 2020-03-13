@@ -1,0 +1,12 @@
+﻿From:           Travis Winfrey </o=cw-test/ou=first administrative group/cn=recipients/cn=travis.winfrey>
+Sent:           Wed Aug 15 2001 20:39:36 GMT
+To:             Ron Baker </o=cw-test/ou=first administrative group/cn=recipients/cn=ron.baker>;Rick Buy <rick.buy@cw-test.com>;Richard Causey </o=cw-test/ou=first administrative group/cn=recipients/cn=richard.causey>;Rodney Faldyn </o=cw-test/ou=first administrative group/cn=recipients/cn=rodney.faldyn>;Andrew Fastow </o=cw-test/ou=first administrative group/cn=recipients/cn=andrew.fastow>;Ben Glisan </o=cw-test/ou=first administrative group/cn=recipients/cn=ben.glisan>;Michael Kopper </o=cw-test/ou=first administrative group/cn=recipients/cn=michael.kopper>;George McKean </o=cw-test/ou=first administrative group/cn=recipients/cn=george.mckean>;Barry Schnapper </o=cw-test/ou=first administrative group/cn=recipients/cn=barry.schnapper>;Ryan Siurek </o=cw-test/ou=first administrative group/cn=recipients/cn=ryan.siurek>;Greg Whalley </o=cw-test/ou=first administrative group/cn=recipients/cn=greg.whalley>
+CC:             
+Subject:        Raptor Position Report for 8/14/01
+Attachments:    3fd49903a77ea445b668f6c3ea5348c82b5522@nahou-msmbx01v.corp.enron.com.#1.Summary8-14.xls
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+ 

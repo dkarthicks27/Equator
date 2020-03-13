@@ -1,0 +1,4524 @@
+aahmad
+khewitt
+Microsoft Excel
+7/25/2000 17:38:11
+0
+Enron Europe
+no
+no
+
+
+MENGENLS1 19-07-2000
+Code
+Entity
+Metal
+Type
+Fwd Date
+Year
+Month
+Date2
+A
+B
+C
+D
+E
+Year
+(All)
+46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2000.08 2000 08
+Aug-00 700 -10475 -9775 1566.6 16.75 Month
+(All)
+R Wolf
+Jul-00 3602 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2000.09 2000 09
+Sep-00 625 -3875 -3250 1572.92 18.75 Metal
+CU-Con.
+All
+Jul-00 299228 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2000.1 2000 10 Oct-00 5175 -5175 0 1577.1 18.75 Entity
+(All)
+46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2000.11 2000 11
+Nov-00 200 -200 0 1577.26 18.75 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2000.12 2000 12
+Dec-00 41925 -42675 -750 1574.86 18.75 Sum of C
+ALUMINIUM
+COPPER
+LEAD
+NICKEL
+SILVER
+TIN
+ZINC
+GOLD
+COCOA BEANS
+CU-con
+46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2001.01 2001 01
+Jan-01 175 -175 0 1570.74 17.75 1 Date2
+Total
+Jul-00 267295 Jul-00 295626 Jul-00 97359 Jul-00 5300 Jul-00 287396 Jul-00 2905 Jul-00 89735 Jul-00 -90183 Jul-00 71845 Jul-00 19317 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2001.02 2001 02
+Feb-01 15200 -15200 0 1558.93 17.75 2 Jul-00 19317 Aug-00 -252782 Aug-00 119318 Aug-00 -7378 Aug-00 1343 Aug-00 664330 Aug-00 -940 Aug-00 18873 Aug-00 15657 Sep-00 -3280 Aug-00 0 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2001.03 2001 03
+Mar-01 2675 -2675 0 1558.93 17.75 3 Aug-00 0 Sep-00 53050 Sep-00 -148527 Sep-00 1827 Sep-00 3705 Sep-00 -1067146 Sep-00 887 Sep-00 -57155 Sep-00 8198 Dec-00 -22250 Sep-00 -10000 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2001.04 2001 04
+Apr-01 175 -175 0 1558.93 17.75 4 Sep-00 -10000 Oct-00 39922 Oct-00 -128331 Oct-00 12460 Oct-00 793 Oct-00 403781 Oct-00 -878 Oct-00 4857 Oct-00 -56361 Mar-01 -43310 Oct-00 -20000 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2001.05 2001 05
+May-01 200 -200 0 1549.93 16.75 5 Oct-00 -20000 Nov-00 -36058 Nov-00 -4377 Nov-00 3719 Nov-00 -911 Nov-00 672336 Nov-00 -174 Nov-00 -8814 Nov-00 -8328 May-01 18860 Nov-00 -20000 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2001.06 2001 06
+Jun-01 175 -175 0 1549.93 16.75 6 Nov-00 -20000 Dec-00 -65658 Dec-00 53637 Dec-00 -5532 Dec-00 2418 Dec-00 -1229059 Dec-00 -304 Dec-00 -4566 Dec-00 23824 May-02 -20000 Dec-00 -40000 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2001.07 2001 07
+Jul-01 175 -175 0 1549.93 16.75 7 Dec-00 -40000 Jan-01 10651 Jan-01 12518 Jan-01 -18883 Jan-01 728 Jan-01 152555 Jan-01 -31 Jan-01 -5406 Jan-01 33533 Jan-01 20000 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2001.08 2001 08
+Aug-01 200 -200 0 1541.37 16.75 8 Jan-01 20000 Feb-01 -8110 Feb-01 -1128 Feb-01 -7216 Feb-01 86 Feb-01 -38742 Feb-01 -28 Feb-01 -1215 Feb-01 6173 Feb-01 20000 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2001.09 2001 09
+Sep-01 175 -175 0 1541.37 16.75 9 Feb-01 20000 Mar-01 -9729 Mar-01 -42739 Mar-01 -10574 Mar-01 553 Mar-01 170528 Mar-01 -103 Mar-01 -4527 Mar-01 13600 Mar-01 25000 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2001.1 2001 10 Oct-01 175 -175 0 1541.37 16.75 10 Mar-01 25000 Apr-01 -8386 Apr-01 -29392 Apr-01 -1803 Apr-01 649 Apr-01 28807 Apr-01 -6 Apr-01 -1787 Apr-01 26878 Apr-01 -6666 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2001.11 2001 11
+Nov-01 200 -200 0 1536.66 15.75 11 Apr-01 -6666 May-01 -1616 May-01 7253 May-01 -6874 May-01 1 May-01 -37616 May-01 46 May-01 -4662 May-01 -23470 May-01 -10000 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2001.12 2001 12
+Dec-01 15175 -15175 0 1536.66 15.75 12 May-01 -10000 Jun-01 -3124 Jun-01 1236 Jun-01 -9692 Jun-01 2101 Jun-01 -3794 Jun-01 -154 Jun-01 1291 Jun-01 24724 Jun-01 20000 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2002.01 2002 01
+Jan-02 100 -100 0 1536.66 15.75 13 Jun-01 20000 Jul-01 -5986 Jul-01 1103 Jul-01 -25900 Jul-01 -947 Jul-01 9163 Jul-01 -50 Jul-01 -4514 Jul-01 611 Jul-01 10000 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2002.02 2002 02
+Feb-02 100 -100 0 1533.61 15.75 14 Jul-01 10000 Aug-01 1156 Aug-01 -1853 Aug-01 -2975 Aug-01 -71 Aug-01 -1061 Aug-01 70 Aug-01 -7888 Aug-01 -6720 Aug-01 -16666 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2002.03 2002 03
+Mar-02 100 -100 0 1533.61 15.75 15 Aug-01 -16666 Sep-01 -1212 Sep-01 -6722 Sep-01 -1075 Sep-01 -341 Sep-01 9163 Grand Total
+1240 Sep-01 -1401 Sep-01 611 Sep-01 10000 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2002.04 2002 04
+Apr-02 100 -100 0 1533.61 15.75 16 Sep-01 10000 Oct-01 2639 Oct-01 -39 Oct-01 -325 Oct-01 -924 Oct-01 27971 Oct-01 -3546 Oct-01 7813 Nov-01 -6666 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2002.05 2002 05
+May-02 100 -100 0 1530.69 15.75 17 Nov-01 -6666 Nov-01 9881 Nov-01 -4886 Nov-01 925 Nov-01 -276 Nov-01 -18808 Nov-01 -4308 Nov-01 -7202 Dec-01 10000 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2002.06 2002 06
+Jun-02 100 -100 0 1530.69 15.75 18 Dec-01 10000 Dec-01 -22211 Dec-01 -110980 Dec-01 925 Dec-01 -10284 Dec-01 0 Dec-01 3890 Dec-01 0 Grand Total
+4319 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2002.07 2002 07
+Jul-02 100 -100 0 1530.69 15.75 19 Grand Total
+4319 Jan-02 38601 Jan-02 -889 Jan-02 675 Jan-02 -654 Jan-02 18808 Jan-02 4197 Jan-02 7202 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2002.08 2002 08
+Aug-02 100 -100 0 1527.66 15.75 20 Feb-02 15351 Feb-02 -187 Feb-02 900 Feb-02 -72 Feb-02 0 Feb-02 -817 Feb-02 0 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2002.09 2002 09
+Sep-02 100 -100 0 1527.66 15.75 21 Mar-02 22114 Mar-02 1045 Mar-02 1000 Mar-02 -234 Mar-02 0 Mar-02 2810 Mar-02 0 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2002.1 2002 10 Oct-02 100 -100 0 1527.66 15.75 22 Apr-02 5476 Apr-02 13805 Grand Total
+25038 Apr-02 -150 Apr-02 0 Apr-02 -1139 Apr-02 0 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2002.11 2002 11
+Nov-02 100 -100 0 1527.66 15.75 23 May-02 5075 May-02 -1895 May-02 54 May-02 0 May-02 -1410 May-02 0 46005 MG Metal & Commodity Corp.
+Aluminium
+LME
+2002.12 2002 12
+Dec-02 100 -100 0 1527.66 15.75 24 Jun-02 -27120 Jun-02 -1395 Jun-02 -78 Jun-02 0 Jun-02 345 Jun-02 0 46005 MG Metal & Commodity Corp.
+Aluminium
+LME Alloy
+2000.09 2000 09
+Sep-00 0 -520 -520 1572.92 18.75 25 Jul-02 2853 Jul-02 -1295 Jul-02 -186 Jul-02 0 Jul-02 -2050 Jul-02 0 46005 MG Metal & Commodity Corp.
+Aluminium
+LME Alloy
+2000.1 2000 10 Oct-00 0 -600 -600 1577.1 18.75 26 Aug-02 -14148 Aug-02 -1086 R Wolf
+Jul-00 16028 Aug-02 -12 Aug-02 0 Aug-02 -396 Aug-02 0 46005 MG Metal & Commodity Corp.
+Aluminium
+LME Alloy
+2000.12 2000 12
+Dec-00 0 -880 -880 1574.86 18.75 27 Sep-02 40143 Sep-02 250 Aug-00 4761 Sep-02 24 Sep-02 0 Sep-02 -390 Sep-02 0 46005 MG Metal & Commodity Corp.
+Aluminium
+Physical
+2000.07 2000 07
+Jul-00 -14 -36 -50 1556 16.75 28 Oct-02 -1415 Oct-02 -25 Sep-00 -20525 Oct-02 -6 Oct-02 0 Oct-02 215 Oct-02 0 46005 MG Metal & Commodity Corp.
+Aluminium
+Physical
+2000.07 2000 07
+Jul-00 7285 -6470 815 1556 16.75 29 Nov-02 3685 Nov-02 50 Oct-00 300 Nov-02 -12 Nov-02 0 Nov-02 219 Nov-02 0 46005 MG Metal & Commodity Corp.
+Aluminium
+Physical
+2000.08 2000 08
+Aug-00 3389 -839 2551 1566.6 16.75 30 Dec-02 -12424 Dec-02 150 Nov-00 275 Grand Total
+2597 Dec-02 0 Dec-02 223 Dec-02 0 46005 MG Metal & Commodity Corp.
+Aluminium
+Physical
+2000.09 2000 09
+Sep-00 136 -1834 -1697 1572.92 18.75 31 Jan-03 -1019 Jan-03 100 Dec-00 275 Jan-03 0 Jan-03 228 Jan-03 0 46005 MG Metal & Commodity Corp.
+Aluminium
+Physical
+2000.1 2000 10 Oct-00 173 -40 133 1577.1 18.75 32 Feb-03 -5640 Feb-03 100 Grand Total
+1114 Feb-03 0 Feb-03 0 Feb-03 0 46005 MG Metal & Commodity Corp.
+Aluminium
+Physical
+2000.11 2000 11
+Nov-00 173 -40 133 1577.26 18.75 33 Mar-03 -5573 Mar-03 -25 Grand Total
+48612 Grand Total
+10892 Grand Total
+-23440 46005 MG Metal & Commodity Corp.
+Aluminium
+Physical
+2000.12 2000 12
+Dec-00 173 -40 133 1574.86 18.75 34 Apr-03 119 Apr-03 100 46005 MG Metal & Commodity Corp.
+Aluminium
+Stock All
+2000.07 2000 07
+Jul-00 52 0 52 1556 16.75 35 May-03 107 May-03 100 ALL
+Jul-00 113387 46005 MG Metal & Commodity Corp.
+Aluminium
+Stock Scr
+2000.07 2000 07
+Jul-00 14006 0 14006 1556 16.75 36 Jun-03 75 Jun-03 100 Aug-00 -2617 46005 MG Metal & Commodity Corp.
+Blister Copper
+Physical
+2000.07 2000 07
+Jul-00 634 -634 0 37 Jul-03 -9905 Jul-03 100 Sep-00 -18698 46005 MG Metal & Commodity Corp.
+Blister Copper
+Physical
+2000.08 2000 08
+Aug-00 500 -500 0 38 Aug-03 -6790 Aug-03 100 Oct-00 12760 46005 MG Metal & Commodity Corp.
+Blister Copper
+Physical
+2000.09 2000 09
+Sep-00 500 0 500 39 Sep-03 55 Sep-03 100 Nov-00 3994 46005 MG Metal & Commodity Corp.
+Blister Copper
+Physical
+2000.11 2000 11
+Nov-00 500 -500 0 40 Oct-03 676 Oct-03 100 Dec-00 -5257 46005 MG Metal & Commodity Corp.
+Blister Copper
+Physical
+2000.12 2000 12
+Dec-00 500 -500 0 41 Nov-03 667 Nov-03 100 46005 MG Metal & Commodity Corp.
+Blister Copper
+Physical
+2001.01 2001 01
+Jan-01 500 -500 0 42 Dec-03 637 Dec-03 200 46005 MG Metal & Commodity Corp.
+Blister Copper
+Physical
+2001.02 2001 02
+Feb-01 500 -500 0 43 Jan-04 -75 Jan-04 -25 46005 MG Metal & Commodity Corp.
+Blister Copper
+Physical
+2001.03 2001 03
+Mar-01 500 -500 0 44 Feb-04 -100 Feb-04 -25 46005 MG Metal & Commodity Corp.
+Blister Copper
+Physical
+2001.04 2001 04
+Apr-01 500 -500 0 45 Mar-04 -75 Mar-04 -25 46005 MG Metal & Commodity Corp.
+Blister Copper
+Physical
+2001.05 2001 05
+May-01 500 -500 0 46 Apr-04 -100 Apr-04 -25 46005 MG Metal & Commodity Corp.
+Blister Copper
+Physical
+2001.06 2001 06
+Jun-01 500 -500 0 47 May-04 -75 May-04 -25 46005 MG Metal & Commodity Corp.
+Blister Copper
+Physical
+2000.07 2000 07
+Jul-00 12933 -12933 0 48 Jun-04 -100 Jun-04 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2000.07 2000 07
+Jul-00 122394 -135029 -12635 49 Jul-04 -75 Jul-04 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2000.08 2000 08
+Aug-00 35000 -35000 0 50 Aug-04 -25 Aug-04 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2000.09 2000 09
+Sep-00 80000 -90000 -10000 51 Sep-04 0 Sep-04 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2000.1 2000 10 Oct-00 35000 -55000 -20000 52 Oct-04 -25 Oct-04 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2000.11 2000 11
+Nov-00 30000 -50000 -20000 53 Nov-04 0 Nov-04 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2000.12 2000 12
+Dec-00 60000 -100000 -40000 54 Dec-04 -15025 Dec-04 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2001.01 2001 01
+Jan-01 20000 0 20000 55 Feb-05 -25 Grand Total
+63765 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2001.02 2001 02
+Feb-01 20000 0 20000 56 Apr-05 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2001.03 2001 03
+Mar-01 45000 -20000 25000 57 Jun-05 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2001.04 2001 04
+Apr-01 10000 -16666 -6666 58 Aug-05 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2001.05 2001 05
+May-01 10000 -20000 -10000 59 Oct-05 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2001.06 2001 06
+Jun-01 20000 0 20000 60 Dec-05 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2001.07 2001 07
+Jul-01 10000 0 10000 61 Feb-06 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2001.08 2001 08
+Aug-01 0 -16666 -16666 62 Apr-06 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2001.09 2001 09
+Sep-01 10000 0 10000 63 Jun-06 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2001.11 2001 11
+Nov-01 10000 -16666 -6666 64 Oct-06 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2001.12 2001 12
+Dec-01 10000 0 10000 65 Dec-06 -25 46005 MG Metal & Commodity Corp.
+CU-Con.
+Physical
+2000.07 2000 07
+Jul-00 1136427 -1104475 31952 Grand Total
+17360 46005 MG Metal & Commodity Corp.
+Copper
+Comex
+2000.07 2000 07
+Jul-00 25061 -25061 0 1841 15.75 46005 MG Metal & Commodity Corp.
+Copper
+Comex
+2000.09 2000 09
+Sep-00 20809 -20809 0 1862.29 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Comex
+2000.12 2000 12
+Dec-00 0 -30221 -30221 1876.43 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Comex
+2001.05 2001 05
+May-01 0 -6793 -6793 1867.64 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2000.12 2000 12
+Dec-00 -2800 2800 0 1876.43 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2001.01 2001 01
+Jan-01 -2900 2900 0 1874.69 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2001.03 2001 03
+Mar-01 -2900 2900 0 1871.29 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2001.04 2001 04
+Apr-01 -14593 11694 -2899 1871.29 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2001.05 2001 05
+May-01 0 2899 2899 1867.64 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2001.07 2001 07
+Jul-01 -5800 5800 0 1867.64 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2001.1 2001 10 Oct-01 -2899 2899 0 1864.69 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2001.12 2001 12
+Dec-01 -2895 2895 0 1861.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2002.01 2002 01
+Jan-02 -2899 2899 0 1861.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2002.03 2002 03
+Mar-02 -2895 2895 0 1858.61 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2002.04 2002 04
+Apr-02 -2900 2900 0 1858.61 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2002.07 2002 07
+Jul-02 -2895 2895 0 1855.69 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2002.11 2002 11
+Nov-02 -2895 2895 0 1852.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Frame Con
+2003.02 2003 02
+Feb-03 -2895 2895 0 1852.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+LME
+2000.07 2000 07
+Jul-00 12050 -12050 0 1841 15.75 46005 MG Metal & Commodity Corp.
+Copper
+LME
+2000.08 2000 08
+Aug-00 45100 -67750 -22650 1852.77 15.75 46005 MG Metal & Commodity Corp.
+Copper
+LME
+2000.09 2000 09
+Sep-00 19900 -69875 -49975 1862.29 18.75 46005 MG Metal & Commodity Corp.
+Copper
+LME
+2000.1 2000 10 Oct-00 3550 -11125 -7575 1869.5 18.75 46005 MG Metal & Commodity Corp.
+Copper
+LME
+2000.11 2000 11
+Nov-00 2300 -12500 -10200 1875.11 18.75 46005 MG Metal & Commodity Corp.
+Copper
+LME
+2000.12 2000 12
+Dec-00 114500 -87450 27050 1876.43 18.75 46005 MG Metal & Commodity Corp.
+Copper
+LME
+2001.03 2001 03
+Mar-01 13750 0 13750 1871.29 17.75 46005 MG Metal & Commodity Corp.
+Copper
+LME
+2001.04 2001 04
+Apr-01 0 -5000 -5000 1871.29 17.75 46005 MG Metal & Commodity Corp.
+Copper
+LME
+2001.05 2001 05
+May-01 6800 0 6800 1867.64 17.75 46005 MG Metal & Commodity Corp.
+Copper
+LME
+2001.12 2001 12
+Dec-01 29500 -62475 -32975 1861.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+LME
+2002.04 2002 04
+Apr-02 5000 0 5000 1858.61 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2000.07 2000 07
+Jul-00 -1616 503 -1113 1841 15.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2000.08 2000 08
+Aug-00 -2630 6854 4224 1852.77 15.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2000.09 2000 09
+Sep-00 -12742 5318 -7424 1862.29 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2000.1 2000 10 Oct-00 -19983 12557 -7426 1869.5 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2000.11 2000 11
+Nov-00 -6375 12805 6430 1875.11 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2000.12 2000 12
+Dec-00 -3860 12901 9041 1876.43 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2001.01 2001 01
+Jan-01 -10683 24000 13317 1874.69 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2001.02 2001 02
+Feb-01 -14740 12202 -2538 1871.29 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2001.03 2001 03
+Mar-01 -6775 13354 6579 1871.29 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2001.04 2001 04
+Apr-01 -6963 4361 -2602 1871.29 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2001.05 2001 05
+May-01 -9278 14428 5150 1867.64 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2001.06 2001 06
+Jun-01 -15764 22519 6755 1867.64 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2001.07 2001 07
+Jul-01 -26397 23991 -2406 1867.64 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2001.08 2001 08
+Aug-01 -17535 18998 1463 1864.69 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2001.09 2001 09
+Sep-01 -14133 15016 883 1864.69 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2001.1 2001 10 Oct-01 -17174 17663 489 1864.69 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2001.11 2001 11
+Nov-01 -12562 12562 0 1861.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2001.12 2001 12
+Dec-01 -19689 19689 0 1861.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2002.01 2002 01
+Jan-02 -8781 11676 2895 1861.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2002.02 2002 02
+Feb-02 -15189 15189 0 1858.61 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2002.03 2002 03
+Mar-02 -28237 28237 0 1858.61 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2002.04 2002 04
+Apr-02 -12117 12117 0 1858.61 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2002.05 2002 05
+May-02 -8582 8582 0 1855.69 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2002.06 2002 06
+Jun-02 -14526 14526 0 1855.69 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2002.07 2002 07
+Jul-02 -5790 5790 0 1855.69 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2002.08 2002 08
+Aug-02 -8577 8577 0 1852.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2002.09 2002 09
+Sep-02 -17465 17465 0 1852.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2002.1 2002 10 Oct-02 -5693 5693 0 1852.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2002.11 2002 11
+Nov-02 -5687 5687 0 1852.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2002.12 2002 12
+Dec-02 -11585 11585 0 1852.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2003.01 2003 01
+Jan-03 -11536 11536 0 1852.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Physical
+2003.02 2003 02
+Feb-03 -25996 25996 0 1852.66 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Price Par
+2000.07 2000 07
+Jul-00 0 2305 2305 1841 15.75 46005 MG Metal & Commodity Corp.
+Copper
+Price Par
+2000.08 2000 08
+Aug-00 0 9237 9237 1852.77 15.75 46005 MG Metal & Commodity Corp.
+Copper
+Price Par
+2000.09 2000 09
+Sep-00 0 3993 3993 1862.29 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Price Par
+2000.1 2000 10 Oct-00 0 16562 16562 1869.5 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Price Par
+2000.11 2000 11
+Nov-00 0 10635 10635 1875.11 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Price Par
+2000.12 2000 12
+Dec-00 0 9452 9452 1876.43 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Price Par
+2001.01 2001 01
+Jan-01 0 8477 8477 1874.69 18.75 46005 MG Metal & Commodity Corp.
+Copper
+Price Par
+2001.02 2001 02
+Feb-01 0 4149 4149 1871.29 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Price Par
+2001.03 2001 03
+Mar-01 0 10325 10325 1871.29 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Price Par
+2001.04 2001 04
+Apr-01 0 6012 6012 1871.29 17.75 46005 MG Metal & Commodity Corp.
+Copper
+Price Par
+2001.06 2001 06
+Jun-01 0 2900 2900 1867.64 17.75 46005 MG Metal & Commodity Corp.
+Copper Scrap
+Comex
+2000.07 2000 07
+Jul-00 2892 -2892 0 46005 MG Metal & Commodity Corp.
+Copper Scrap
+Comex
+2000.09 2000 09
+Sep-00 1440 -2166 -726 46005 MG Metal & Commodity Corp.
+Copper Scrap
+Comex
+2000.12 2000 12
+Dec-00 113 0 113 46005 MG Metal & Commodity Corp.
+Copper Scrap
+Physical
+2000.07 2000 07
+Jul-00 1188 -1503 -315 46005 MG Metal & Commodity Corp.
+Copper Scrap
+Physical
+2000.08 2000 08
+Aug-00 401 -325 76 46005 MG Metal & Commodity Corp.
+Copper Scrap
+Stock Scr
+2000.07 2000 07
+Jul-00 987 0 987 46005 MG Metal & Commodity Corp.
+Gold
+LME
+2000.1 2000 10 Oct-00 25560 -127478 -101918 284.07 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2000.07 2000 07
+Jul-00 -1865 4244 2379 279 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2000.08 2000 08
+Aug-00 -35237 26042 -9195 280.72 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2000.09 2000 09
+Sep-00 -8359 18455 10095 282.44 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2000.1 2000 10 Oct-00 -23020 42825 19805 284.07 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2000.11 2000 11
+Nov-00 -32183 22023 -10160 285.08 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2000.12 2000 12
+Dec-00 -7748 30607 22859 286.05 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2001.01 2001 01
+Jan-01 -27425 49191 21766 287.09 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2001.02 2001 02
+Feb-01 -43082 35687 -7395 291.07 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2001.03 2001 03
+Mar-01 -38452 64301 25849 291.07 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2001.04 2001 04
+Apr-01 -41860 53049 11188 291.07 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2001.05 2001 05
+May-01 -43050 28678 -14371 295.09 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2001.06 2001 06
+Jun-01 -38806 53177 14371 295.09 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2001.07 2001 07
+Jul-01 -47840 48451 611 295.09 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2001.08 2001 08
+Aug-01 -36813 30222 -6591 299.09 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2001.09 2001 09
+Sep-01 -57196 57807 611 299.09 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2001.1 2001 10 Oct-01 -57968 65780 7813 299.09 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2001.11 2001 11
+Nov-01 -26653 19451 -7202 303.09 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2001.12 2001 12
+Dec-01 -34144 34144 0 303.09 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2002.01 2002 01
+Jan-02 -28068 35269 7202 303.09 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2002.02 2002 02
+Feb-02 -29836 29836 0 307.07 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2002.03 2002 03
+Mar-02 -44304 44304 0 307.07 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2002.04 2002 04
+Apr-02 -3633 3633 0 307.07 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2002.05 2002 05
+May-02 -12185 12185 0 311.1 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2002.06 2002 06
+Jun-02 -24081 24081 0 311.1 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2002.07 2002 07
+Jul-02 -19355 19355 0 311.1 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2002.08 2002 08
+Aug-02 -20898 20898 0 315.64 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2002.09 2002 09
+Sep-02 -32954 32954 0 315.64 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2002.1 2002 10 Oct-02 -10803 10803 0 315.64 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2002.11 2002 11
+Nov-02 -20898 20898 0 315.64 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2002.12 2002 12
+Dec-02 -37456 37456 0 315.64 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2003.01 2003 01
+Jan-03 -29161 29161 0 315.64 14.75 46005 MG Metal & Commodity Corp.
+Gold
+Physical
+2003.02 2003 02
+Feb-03 -84653 84653 0 315.64 14.75 46005 MG Metal & Commodity Corp.
+Lead
+LME
+2000.07 2000 07
+Jul-00 0 -550 -550 464 20.75 46005 MG Metal & Commodity Corp.
+Lead
+Physical
+2000.07 2000 07
+Jul-00 -91 0 -91 464 20.75 46005 MG Metal & Commodity Corp.
+Lead
+Physical
+2000.09 2000 09
+Sep-00 -636 636 0 471.57 21.75 46005 MG Metal & Commodity Corp.
+Lead
+Physical
+2000.12 2000 12
+Dec-00 -636 0 -636 478.29 20.75 46005 MG Metal & Commodity Corp.
+Lead
+Physical
+2001.02 2001 02
+Feb-01 0 1272 1272 483.36 18.75 46005 MG Metal & Commodity Corp.
+Lead Con.
+Physical
+2000.08 2000 08
+Aug-00 920 -920 0 46005 MG Metal & Commodity Corp.
+Lead Con.
+Physical
+2000.1 2000 10 Oct-00 920 -920 0 46005 MG Metal & Commodity Corp.
+Lead Con.
+Physical
+2001.01 2001 01
+Jan-01 920 0 920 46005 MG Metal & Commodity Corp.
+Lead Con.
+Physical
+2000.07 2000 07
+Jul-00 905 -905 0 46005 MG Metal & Commodity Corp.
+Silver
+LME
+2000.1 2000 10 Oct-00 0 -690565 -690565 502.11 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2000.07 2000 07
+Jul-00 -14757 17265 2508 495 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2000.08 2000 08
+Aug-00 -106033 134904 28871 497.41 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2000.09 2000 09
+Sep-00 -69574 121851 52277 499.82 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2000.1 2000 10 Oct-00 -78126 229620 151494 502.11 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2000.11 2000 11
+Nov-00 -141206 209816 68610 503.79 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2000.12 2000 12
+Dec-00 -59511 101596 42085 505.42 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2001.01 2001 01
+Jan-01 -154323 300416 146093 507.08 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2001.02 2001 02
+Feb-01 -167537 149437 -18101 510.56 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2001.03 2001 03
+Mar-01 -86614 260614 174000 510.56 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2001.04 2001 04
+Apr-01 -74911 115775 40864 510.56 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2001.05 2001 05
+May-01 -94523 56907 -37616 514.12 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2001.06 2001 06
+Jun-01 -89540 127156 37616 514.12 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2001.07 2001 07
+Jul-01 -83110 92273 9163 514.12 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2001.08 2001 08
+Aug-01 -100953 91308 -9645 519.62 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2001.09 2001 09
+Sep-01 -89540 98703 9163 519.62 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2001.1 2001 10 Oct-01 -73304 101275 27971 519.62 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2001.11 2001 11
+Nov-01 -59318 40510 -18808 525.11 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2001.12 2001 12
+Dec-01 -90504 90504 0 525.11 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2002.01 2002 01
+Jan-02 -30382 49191 18808 525.11 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2002.02 2002 02
+Feb-02 -94684 94684 0 530.08 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2002.03 2002 03
+Mar-02 -62790 62790 0 530.08 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2002.04 2002 04
+Apr-02 -51763 51763 0 530.08 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2002.05 2002 05
+May-02 -106740 106740 0 535.12 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2002.06 2002 06
+Jun-02 -82467 82467 0 535.12 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2002.07 2002 07
+Jul-02 -42600 42600 0 535.12 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2002.08 2002 08
+Aug-02 -102400 102400 0 540.41 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2002.09 2002 09
+Sep-02 -75233 75233 0 540.41 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2002.1 2002 10 Oct-02 -56425 56425 0 540.41 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2002.11 2002 11
+Nov-02 -92916 92916 0 540.41 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2002.12 2002 12
+Dec-02 -60765 60765 0 540.41 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2003.01 2003 01
+Jan-03 -73464 73464 0 540.41 17.75 46005 MG Metal & Commodity Corp.
+Silver
+Physical
+2003.02 2003 02
+Feb-03 -137927 137927 0 540.41 17.75 46005 MG Metal & Commodity Corp.
+Zinc
+Physical
+2000.08 2000 08
+Aug-00 -3772 0 -3772 1152.09 16.75 46005 MG Metal & Commodity Corp.
+Zinc
+Physical
+2001.01 2001 01
+Jan-01 0 3772 3772 1160.69 16.75 46005 MG Metal & Commodity Corp.
+Zinc
+Physical
+2001.08 2001 08
+Aug-01 -3772 0 -3772 1145.37 15.75 46005 MG Metal & Commodity Corp.
+Zinc
+Physical
+2002.01 2002 01
+Jan-02 0 3772 3772 1140.31 15.75 46005 MG Metal & Commodity Corp.
+Zinc Con.
+Physical
+2000.09 2000 09
+Sep-00 9200 0 9200 46005 MG Metal & Commodity Corp.
+Zinc Con.
+Physical
+2001.09 2001 09
+Sep-01 9200 0 9200 46005 MG Metal & Commodity Corp.
+Zinc Con.
+Physical
+2000.07 2000 07
+Jul-00 3039 -3039 0 50001 MG Ltd.
+Aluminium
+Comex
+2000.12 2000 12
+Dec-00 399 -399 0 1574.86 18.75 50001 MG Ltd.
+Aluminium
+LME
+2000.07 2000 07
+Jul-00 432908 -337385 95523 1556 16.75 50001 MG Ltd.
+Aluminium
+LME
+2000.08 2000 08
+Aug-00 1655718 -1867485 -211767 1566.6 16.75 50001 MG Ltd.
+Aluminium
+LME
+2000.09 2000 09
+Sep-00 1757631 -1670703 86928 1572.92 18.75 50001 MG Ltd.
+Aluminium
+LME
+2000.1 2000 10 Oct-00 815641 -723035 92606 1577.1 18.75 50001 MG Ltd.
+Aluminium
+LME
+2000.11 2000 11
+Nov-00 219495 -252715 -33221 1577.26 18.75 50001 MG Ltd.
+Aluminium
+LME
+2000.12 2000 12
+Dec-00 655835 -682857 -27022 1574.86 18.75 50001 MG Ltd.
+Aluminium
+LME
+2001.01 2001 01
+Jan-01 206580 -194085 12495 1570.74 17.75 50001 MG Ltd.
+Aluminium
+LME
+2001.02 2001 02
+Feb-01 105545 -115206 -9661 1558.93 17.75 50001 MG Ltd.
+Aluminium
+LME
+2001.03 2001 03
+Mar-01 124825 -132683 -7858 1558.93 17.75 50001 MG Ltd.
+Aluminium
+LME
+2001.04 2001 04
+Apr-01 55125 -64105 -8980 1558.93 17.75 50001 MG Ltd.
+Aluminium
+LME
+2001.05 2001 05
+May-01 46795 -49527 -2732 1549.93 16.75 50001 MG Ltd.
+Aluminium
+LME
+2001.06 2001 06
+Jun-01 83695 -91927 -8232 1549.93 16.75 50001 MG Ltd.
+Aluminium
+LME
+2001.07 2001 07
+Jul-01 58350 -68927 -10577 1549.93 16.75 50001 MG Ltd.
+Aluminium
+LME
+2001.08 2001 08
+Aug-01 47375 -55270 -7895 1541.37 16.75 50001 MG Ltd.
+Aluminium
+LME
+2001.09 2001 09
+Sep-01 56450 -67277 -10827 1541.37 16.75 50001 MG Ltd.
+Aluminium
+LME
+2001.1 2001 10 Oct-01 54350 -61050 -6700 1541.37 16.75 50001 MG Ltd.
+Aluminium
+LME
+2001.11 2001 11
+Nov-01 51850 -51450 400 1536.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2001.12 2001 12
+Dec-01 236550 -288800 -52250 1536.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2002.01 2002 01
+Jan-02 115250 -89650 25600 1536.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2002.02 2002 02
+Feb-02 36550 -32425 4125 1533.61 15.75 50001 MG Ltd.
+Aluminium
+LME
+2002.03 2002 03
+Mar-02 54875 -43375 11500 1533.61 15.75 50001 MG Ltd.
+Aluminium
+LME
+2002.04 2002 04
+Apr-02 38300 -42775 -4475 1533.61 15.75 50001 MG Ltd.
+Aluminium
+LME
+2002.05 2002 05
+May-02 24375 -29375 -5000 1530.69 15.75 50001 MG Ltd.
+Aluminium
+LME
+2002.06 2002 06
+Jun-02 35925 -73100 -37175 1530.69 15.75 50001 MG Ltd.
+Aluminium
+LME
+2002.07 2002 07
+Jul-02 26250 -32950 -6700 1530.69 15.75 50001 MG Ltd.
+Aluminium
+LME
+2002.08 2002 08
+Aug-02 34100 -57775 -23675 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2002.09 2002 09
+Sep-02 54050 -23425 30625 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2002.1 2002 10 Oct-02 9400 -20325 -10925 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2002.11 2002 11
+Nov-02 8475 -14300 -5825 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2002.12 2002 12
+Dec-02 23450 -45375 -21925 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2003.01 2003 01
+Jan-03 450 -7600 -7150 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2003.02 2003 02
+Feb-03 275 -7225 -6950 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2003.03 2003 03
+Mar-03 250 -7125 -6875 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2003.04 2003 04
+Apr-03 250 -1425 -1175 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2003.05 2003 05
+May-03 275 -1450 -1175 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2003.06 2003 06
+Jun-03 250 -1450 -1200 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2003.07 2003 07
+Jul-03 10250 -21425 -11175 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2003.08 2003 08
+Aug-03 275 -8325 -8050 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2003.09 2003 09
+Sep-03 250 -1450 -1200 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2003.1 2003 10 Oct-03 250 -825 -575 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2003.11 2003 11
+Nov-03 275 -850 -575 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2003.12 2003 12
+Dec-03 250 -850 -600 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2004.01 2004 01
+Jan-04 175 -250 -75 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2004.02 2004 02
+Feb-04 225 -325 -100 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2004.03 2004 03
+Mar-04 250 -325 -75 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2004.04 2004 04
+Apr-04 250 -350 -100 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2004.05 2004 05
+May-04 225 -300 -75 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2004.06 2004 06
+Jun-04 250 -350 -100 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2004.07 2004 07
+Jul-04 250 -325 -75 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2004.08 2004 08
+Aug-04 150 -175 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2004.09 2004 09
+Sep-04 175 -175 0 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2004.1 2004 10 Oct-04 175 -200 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2004.11 2004 11
+Nov-04 150 -150 0 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2004.12 2004 12
+Dec-04 175 -15200 -15025 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2005.02 2005 02
+Feb-05 0 -25 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2005.04 2005 04
+Apr-05 0 -25 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2005.06 2005 06
+Jun-05 0 -25 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2005.08 2005 08
+Aug-05 0 -25 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2005.1 2005 10 Oct-05 0 -25 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2005.12 2005 12
+Dec-05 0 -25 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2006.02 2006 02
+Feb-06 0 -25 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2006.04 2006 04
+Apr-06 0 -25 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2006.06 2006 06
+Jun-06 0 -25 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2006.1 2006 10 Oct-06 0 -25 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+LME
+2006.12 2006 12
+Dec-06 0 -25 -25 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2000.08 2000 08
+Aug-00 63937 -76430 -12493 1566.6 16.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2000.09 2000 09
+Sep-00 72160 -84216 -12056 1572.92 18.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2000.1 2000 10 Oct-00 36829 -58772 -21943 1577.1 18.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2000.11 2000 11
+Nov-00 27504 -28676 -1172 1577.26 18.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2000.12 2000 12
+Dec-00 37433 -51461 -14028 1574.86 18.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2001.01 2001 01
+Jan-01 13470 -16260 -2790 1570.74 17.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2001.02 2001 02
+Feb-01 13802 -15541 -1739 1558.93 17.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2001.03 2001 03
+Mar-01 12985 -18149 -5164 1558.93 17.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2001.04 2001 04
+Apr-01 12936 -15501 -2565 1558.93 17.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2001.05 2001 05
+May-01 13647 -15812 -2165 1549.93 16.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2001.06 2001 06
+Jun-01 19794 -17510 2284 1549.93 16.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2001.07 2001 07
+Jul-01 16862 -14924 1939 1549.93 16.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2001.08 2001 08
+Aug-01 14906 -9493 5413 1541.37 16.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2001.09 2001 09
+Sep-01 14680 -8909 5772 1541.37 16.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2001.1 2001 10 Oct-01 14675 -9232 5443 1541.37 16.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2001.11 2001 11
+Nov-01 14653 -9166 5487 1536.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2001.12 2001 12
+Dec-01 33921 -9868 24053 1536.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2002.01 2002 01
+Jan-02 12276 -3202 9074 1536.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2002.02 2002 02
+Feb-02 10663 -2303 8360 1533.61 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2002.03 2002 03
+Mar-02 10073 -2306 7767 1533.61 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2002.04 2002 04
+Apr-02 10094 -3639 6455 1533.61 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2002.05 2002 05
+May-02 10069 -2306 7764 1530.69 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2002.06 2002 06
+Jun-02 10075 -2308 7766 1530.69 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2002.07 2002 07
+Jul-02 9478 -1855 7623 1530.69 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2002.08 2002 08
+Aug-02 9468 -1849 7619 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2002.09 2002 09
+Sep-02 8679 -1050 7629 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2002.1 2002 10 Oct-02 8688 -1049 7639 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2002.11 2002 11
+Nov-02 8696 -1047 7648 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2002.12 2002 12
+Dec-02 8686 -1046 7640 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2003.01 2003 01
+Jan-03 5245 -974 4271 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2003.02 2003 02
+Feb-03 2866 -716 2149 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2003.03 2003 03
+Mar-03 2861 -715 2146 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2003.04 2003 04
+Apr-03 2856 -714 2142 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2003.05 2003 05
+May-03 2850 -712 2137 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2003.06 2003 06
+Jun-03 2845 -711 2133 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2003.07 2003 07
+Jul-03 2839 -710 2130 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2003.08 2003 08
+Aug-03 2833 -708 2125 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2003.09 2003 09
+Sep-03 2828 -707 2121 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2003.1 2003 10 Oct-03 2822 -706 2117 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2003.11 2003 11
+Nov-03 2816 -704 2112 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Ca
+2003.12 2003 12
+Dec-03 2810 -702 2107 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2000.08 2000 08
+Aug-00 -12428 8482 -3946 1566.6 16.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2000.09 2000 09
+Sep-00 -13617 9985 -3632 1572.92 18.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2000.1 2000 10 Oct-00 -9391 10157 765 1577.1 18.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2000.11 2000 11
+Nov-00 -9638 7852 -1786 1577.26 18.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2000.12 2000 12
+Dec-00 -19200 9102 -10098 1574.86 18.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2001.01 2001 01
+Jan-01 -3912 4927 1015 1570.74 17.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2001.02 2001 02
+Feb-01 -3712 6921 3209 1558.93 17.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2001.03 2001 03
+Mar-01 -3916 7239 3323 1558.93 17.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2001.04 2001 04
+Apr-01 -4021 7441 3421 1558.93 17.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2001.05 2001 05
+May-01 -3983 7508 3525 1549.93 16.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2001.06 2001 06
+Jun-01 -4549 7709 3160 1549.93 16.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2001.07 2001 07
+Jul-01 -4963 7859 2896 1549.93 16.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2001.08 2001 08
+Aug-01 -4138 8020 3882 1541.37 16.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2001.09 2001 09
+Sep-01 -4062 8149 4087 1541.37 16.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2001.1 2001 10 Oct-01 -4104 8270 4165 1541.37 16.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2001.11 2001 11
+Nov-01 -4142 8380 4238 1536.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2001.12 2001 12
+Dec-01 -5928 9409 3480 1536.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2002.01 2002 01
+Jan-02 -1064 4991 3927 1536.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2002.02 2002 02
+Feb-02 -1099 3966 2866 1533.61 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2002.03 2002 03
+Mar-02 -1127 3974 2847 1533.61 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2002.04 2002 04
+Apr-02 -1136 4632 3496 1533.61 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2002.05 2002 05
+May-02 -1162 3473 2311 1530.69 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2002.06 2002 06
+Jun-02 -1192 3480 2289 1530.69 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2002.07 2002 07
+Jul-02 -969 2899 1930 1530.69 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2002.08 2002 08
+Aug-02 -996 2904 1908 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2002.09 2002 09
+Sep-02 -1018 2906 1889 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2002.1 2002 10 Oct-02 -1038 2909 1871 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2002.11 2002 11
+Nov-02 -1051 2913 1862 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2002.12 2002 12
+Dec-02 -1058 2919 1861 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2003.01 2003 01
+Jan-03 -1064 2924 1860 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2003.02 2003 02
+Feb-03 -839 0 -839 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2003.03 2003 03
+Mar-03 -844 0 -844 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2003.04 2003 04
+Apr-03 -848 0 -848 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2003.05 2003 05
+May-03 -855 0 -855 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2003.06 2003 06
+Jun-03 -858 0 -858 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2003.07 2003 07
+Jul-03 -860 0 -860 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2003.08 2003 08
+Aug-03 -865 0 -865 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2003.09 2003 09
+Sep-03 -866 0 -866 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2003.1 2003 10 Oct-03 -866 0 -866 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2003.11 2003 11
+Nov-03 -870 0 -870 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Option Pu
+2003.12 2003 12
+Dec-03 -870 0 -870 1527.66 15.75 50001 MG Ltd.
+Aluminium
+Physical
+2000.07 2000 07
+Jul-00 0 -40 -40 1556 16.75 50001 MG Ltd.
+Aluminium
+Prov. Bil
+2000.07 2000 07
+Jul-00 64311 -64368 -57 1556 16.75 50001 MG Ltd.
+Aluminium
+Stock
+2000.07 2000 07
+Jul-00 66746 -9940 56806 1556 16.75 50001 MG Ltd.
+Aluminium
+Stock phy
+2000.07 2000 07
+Jul-00 25364 0 25364 1556 16.75 50001 MG Ltd.
+Cadmium
+Stock phy
+2000.07 2000 07
+Jul-00 244 0 244 22 22.75 50001 MG Ltd.
+Cocoa Beans
+Physical
+2000.07 2000 07
+Jul-00 58148 -58500 -352 50001 MG Ltd.
+Cocoa Beans
+Physical
+2000.09 2000 09
+Sep-00 5700 -8980 -3280 50001 MG Ltd.
+Cocoa Beans
+Physical
+2000.12 2000 12
+Dec-00 200 -22450 -22250 50001 MG Ltd.
+Cocoa Beans
+Physical
+2001.03 2001 03
+Mar-01 0 -43310 -43310 50001 MG Ltd.
+Cocoa Beans
+Physical
+2001.05 2001 05
+May-01 20000 -1140 18860 50001 MG Ltd.
+Cocoa Beans
+Physical
+2002.05 2002 05
+May-02 0 -20000 -20000 50001 MG Ltd.
+Cocoa Beans
+Prov. Bil
+2000.07 2000 07
+Jul-00 3779 -3780 -1 50001 MG Ltd.
+Cocoa Beans
+Stock phy
+2000.07 2000 07
+Jul-00 72198 0 72198 50001 MG Ltd.
+Copper
+Comex
+2000.07 2000 07
+Jul-00 20831 -20831 0 1841 15.75 50001 MG Ltd.
+Copper
+Comex
+2000.08 2000 08
+Aug-00 11549 -18359 -6810 1852.77 15.75 50001 MG Ltd.
+Copper
+Comex
+2000.09 2000 09
+Sep-00 7416 -9140 -1724 1862.29 18.75 50001 MG Ltd.
+Copper
+Comex
+2000.1 2000 10 Oct-00 193 -2767 -2574 1869.5 18.75 50001 MG Ltd.
+Copper
+Comex
+2000.11 2000 11
+Nov-00 11 -3209 -3198 1875.11 18.75 50001 MG Ltd.
+Copper
+Comex
+2000.12 2000 12
+Dec-00 3595 -8221 -4627 1876.43 18.75 50001 MG Ltd.
+Copper
+Comex
+2001.01 2001 01
+Jan-01 0 -1735 -1735 1874.69 18.75 50001 MG Ltd.
+Copper
+Comex
+2001.02 2001 02
+Feb-01 0 -227 -227 1871.29 17.75 50001 MG Ltd.
+Copper
+Comex
+2001.03 2001 03
+Mar-01 45 -159 -113 1871.29 17.75 50001 MG Ltd.
+Copper
+Comex
+2001.04 2001 04
+Apr-01 0 -136 -136 1871.29 17.75 50001 MG Ltd.
+Copper
+Comex
+2001.05 2001 05
+May-01 0 -340 -340 1867.64 17.75 50001 MG Ltd.
+Copper
+Comex
+2001.06 2001 06
+Jun-01 0 -295 -295 1867.64 17.75 50001 MG Ltd.
+Copper
+Comex
+2001.07 2001 07
+Jul-01 0 -249 -249 1867.64 17.75 50001 MG Ltd.
+Copper
+Comex
+2001.08 2001 08
+Aug-01 0 -318 -318 1864.69 17.75 50001 MG Ltd.
+Copper
+Comex
+2001.09 2001 09
+Sep-01 0 -249 -249 1864.69 17.75 50001 MG Ltd.
+Copper
+Comex
+2001.1 2001 10 Oct-01 0 -249 -249 1864.69 17.75 50001 MG Ltd.
+Copper
+Comex
+2001.11 2001 11
+Nov-01 0 -181 -181 1861.66 17.75 50001 MG Ltd.
+Copper
+Comex
+2001.12 2001 12
+Dec-01 0 -136 -136 1861.66 17.75 50001 MG Ltd.
+Copper
+Comex
+2002.01 2002 01
+Jan-02 0 -136 -136 1861.66 17.75 50001 MG Ltd.
+Copper
+Comex
+2002.02 2002 02
+Feb-02 0 -45 -45 1858.61 17.75 50001 MG Ltd.
+Copper
+Comex
+2002.03 2002 03
+Mar-02 0 -45 -45 1858.61 17.75 50001 MG Ltd.
+Copper
+Comex
+2002.04 2002 04
+Apr-02 0 -45 -45 1858.61 17.75 50001 MG Ltd.
+Copper
+Comex
+2002.05 2002 05
+May-02 0 -45 -45 1855.69 17.75 50001 MG Ltd.
+Copper
+Comex
+2002.06 2002 06
+Jun-02 0 -45 -45 1855.69 17.75 50001 MG Ltd.
+Copper
+Comex
+2002.07 2002 07
+Jul-02 0 -45 -45 1855.69 17.75 50001 MG Ltd.
+Copper
+LME
+2000.07 2000 07
+Jul-00 258375 -218950 39425 1841 15.75 50001 MG Ltd.
+Copper
+LME
+2000.08 2000 08
+Aug-00 1560490 -1498406 62084 1852.77 15.75 50001 MG Ltd.
+Copper
+LME
+2000.09 2000 09
+Sep-00 1116949 -1112282 4667 1862.29 18.75 50001 MG Ltd.
+Copper
+LME
+2000.1 2000 10 Oct-00 718225 -764749 -46524 1869.5 18.75 50001 MG Ltd.
+Copper
+LME
+2000.11 2000 11
+Nov-00 128486 -146330 -17844 1875.11 18.75 50001 MG Ltd.
+Copper
+LME
+2000.12 2000 12
+Dec-00 831482 -831382 100 1876.43 18.75 50001 MG Ltd.
+Copper
+LME
+2001.01 2001 01
+Jan-01 43750 -51300 -7550 1874.69 18.75 50001 MG Ltd.
+Copper
+LME
+2001.02 2001 02
+Feb-01 21100 -23650 -2550 1871.29 17.75 50001 MG Ltd.
+Copper
+LME
+2001.03 2001 03
+Mar-01 109500 -107925 1575 1871.29 17.75 50001 MG Ltd.
+Copper
+LME
+2001.04 2001 04
+Apr-01 44600 -67950 -23350 1871.29 17.75 50001 MG Ltd.
+Copper
+LME
+2001.05 2001 05
+May-01 30725 -26500 4225 1867.64 17.75 50001 MG Ltd.
+Copper
+LME
+2001.06 2001 06
+Jun-01 26250 -23950 2300 1867.64 17.75 50001 MG Ltd.
+Copper
+LME
+2001.07 2001 07
+Jul-01 17650 -13275 4375 1867.64 17.75 50001 MG Ltd.
+Copper
+LME
+2001.08 2001 08
+Aug-01 5200 -7200 -2000 1864.69 17.75 50001 MG Ltd.
+Copper
+LME
+2001.09 2001 09
+Sep-01 2750 -9875 -7125 1864.69 17.75 50001 MG Ltd.
+Copper
+LME
+2001.1 2001 10 Oct-01 7300 -7600 -300 1864.69 17.75 50001 MG Ltd.
+Copper
+LME
+2001.11 2001 11
+Nov-01 2775 -7500 -4725 1861.66 17.75 50001 MG Ltd.
+Copper
+LME
+2001.12 2001 12
+Dec-01 243375 -229550 13825 1861.66 17.75 50001 MG Ltd.
+Copper
+LME
+2002.01 2002 01
+Jan-02 725 -5125 -4400 1861.66 17.75 50001 MG Ltd.
+Copper
+LME
+2002.02 2002 02
+Feb-02 1375 -1675 -300 1858.61 17.75 50001 MG Ltd.
+Copper
+LME
+2002.03 2002 03
+Mar-02 6975 -11825 -4850 1858.61 17.75 50001 MG Ltd.
+Copper
+LME
+2002.04 2002 04
+Apr-02 32300 -27625 4675 1858.61 17.75 50001 MG Ltd.
+Copper
+LME
+2002.05 2002 05
+May-02 6800 -13575 -6775 1855.69 17.75 50001 MG Ltd.
+Copper
+LME
+2002.06 2002 06
+Jun-02 2350 -3625 -1275 1855.69 17.75 50001 MG Ltd.
+Copper
+LME
+2002.07 2002 07
+Jul-02 950 -2125 -1175 1855.69 17.75 50001 MG Ltd.
+Copper
+LME
+2002.08 2002 08
+Aug-02 1775 -3100 -1325 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2002.09 2002 09
+Sep-02 1950 -1625 325 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2002.1 2002 10 Oct-02 700 -650 50 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2002.11 2002 11
+Nov-02 700 -575 125 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2002.12 2002 12
+Dec-02 700 -475 225 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2003.01 2003 01
+Jan-03 700 -525 175 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2003.02 2003 02
+Feb-03 700 -525 175 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2003.03 2003 03
+Mar-03 700 -650 50 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2003.04 2003 04
+Apr-03 700 -525 175 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2003.05 2003 05
+May-03 700 -525 175 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2003.06 2003 06
+Jun-03 700 -525 175 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2003.07 2003 07
+Jul-03 700 -525 175 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2003.08 2003 08
+Aug-03 700 -525 175 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2003.09 2003 09
+Sep-03 700 -525 175 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2003.1 2003 10 Oct-03 700 -525 175 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2003.11 2003 11
+Nov-03 700 -525 175 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2003.12 2003 12
+Dec-03 700 -425 275 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2004.01 2004 01
+Jan-04 0 -25 -25 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2004.02 2004 02
+Feb-04 0 -25 -25 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2004.03 2004 03
+Mar-04 0 -25 -25 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2004.04 2004 04
+Apr-04 0 -25 -25 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2004.05 2004 05
+May-04 0 -25 -25 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2004.06 2004 06
+Jun-04 0 -25 -25 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2004.07 2004 07
+Jul-04 0 -25 -25 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2004.08 2004 08
+Aug-04 0 -25 -25 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2004.09 2004 09
+Sep-04 0 -25 -25 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2004.1 2004 10 Oct-04 0 -25 -25 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2004.11 2004 11
+Nov-04 0 -25 -25 1852.66 17.75 50001 MG Ltd.
+Copper
+LME
+2004.12 2004 12
+Dec-04 0 -25 -25 1852.66 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2000.08 2000 08
+Aug-00 27091 -22250 4841 1852.77 15.75 50001 MG Ltd.
+Copper
+Option Ca
+2000.09 2000 09
+Sep-00 30825 -30177 649 1862.29 18.75 50001 MG Ltd.
+Copper
+Option Ca
+2000.1 2000 10 Oct-00 10143 -5766 4377 1869.5 18.75 50001 MG Ltd.
+Copper
+Option Ca
+2000.11 2000 11
+Nov-00 11443 -2450 8993 1875.11 18.75 50001 MG Ltd.
+Copper
+Option Ca
+2000.12 2000 12
+Dec-00 22843 -35447 -12605 1876.43 18.75 50001 MG Ltd.
+Copper
+Option Ca
+2001.01 2001 01
+Jan-01 2904 -3595 -691 1874.69 18.75 50001 MG Ltd.
+Copper
+Option Ca
+2001.02 2001 02
+Feb-01 1012 -807 205 1871.29 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2001.03 2001 03
+Mar-01 1157 -2308 -1150 1871.29 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2001.04 2001 04
+Apr-01 878 -630 248 1871.29 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2001.05 2001 05
+May-01 336 -110 225 1867.64 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2001.06 2001 06
+Jun-01 1119 -1681 -563 1867.64 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2001.07 2001 07
+Jul-01 1008 -1462 -455 1867.64 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2001.08 2001 08
+Aug-01 1293 -2155 -862 1864.69 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2001.09 2001 09
+Sep-01 256 -353 -97 1864.69 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2001.1 2001 10 Oct-01 269 -367 -98 1864.69 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2001.11 2001 11
+Nov-01 278 -378 -100 1861.66 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2001.12 2001 12
+Dec-01 3950 -390 3560 1861.66 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2002.01 2002 01
+Jan-02 1130 -500 630 1861.66 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2002.02 2002 02
+Feb-02 1551 -1319 233 1858.61 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2002.03 2002 03
+Mar-02 1363 -723 640 1858.61 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2002.04 2002 04
+Apr-02 734 -734 0 1858.61 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2002.05 2002 05
+May-02 745 -745 0 1855.69 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2002.06 2002 06
+Jun-02 756 -756 0 1855.69 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2002.07 2002 07
+Jul-02 765 -765 0 1855.69 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2002.08 2002 08
+Aug-02 1090 -776 314 1852.66 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2002.09 2002 09
+Sep-02 428 -428 0 1852.66 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2002.1 2002 10 Oct-02 431 -431 0 1852.66 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2002.11 2002 11
+Nov-02 433 -433 0 1852.66 17.75 50001 MG Ltd.
+Copper
+Option Ca
+2002.12 2002 12
+Dec-02 435 -435 0 1852.66 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2000.08 2000 08
+Aug-00 -974 1234 260 1852.77 15.75 50001 MG Ltd.
+Copper
+Option Pu
+2000.09 2000 09
+Sep-00 -6321 4132 -2189 1862.29 18.75 50001 MG Ltd.
+Copper
+Option Pu
+2000.1 2000 10 Oct-00 -3941 3502 -439 1869.5 18.75 50001 MG Ltd.
+Copper
+Option Pu
+2000.11 2000 11
+Nov-00 -2462 2827 364 1875.11 18.75 50001 MG Ltd.
+Copper
+Option Pu
+2000.12 2000 12
+Dec-00 -7482 3723 -3759 1876.43 18.75 50001 MG Ltd.
+Copper
+Option Pu
+2001.01 2001 01
+Jan-01 -561 1231 670 1874.69 18.75 50001 MG Ltd.
+Copper
+Option Pu
+2001.02 2001 02
+Feb-01 -20 173 153 1871.29 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2001.03 2001 03
+Mar-01 -21 2000 1979 1871.29 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2001.04 2001 04
+Apr-01 -22 182 160 1871.29 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2001.05 2001 05
+May-01 -23 184 162 1867.64 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2001.06 2001 06
+Jun-01 -23 187 164 1867.64 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2001.07 2001 07
+Jul-01 -529 442 -87 1867.64 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2001.08 2001 08
+Aug-01 -981 919 -61 1864.69 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2001.09 2001 09
+Sep-01 -983 924 -59 1864.69 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2001.1 2001 10 Oct-01 -484 678 194 1864.69 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2001.11 2001 11
+Nov-01 -487 682 195 1861.66 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2001.12 2001 12
+Dec-01 -489 685 196 1861.66 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2002.01 2002 01
+Jan-02 -492 688 197 1861.66 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2002.02 2002 02
+Feb-02 -494 494 0 1858.61 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2002.03 2002 03
+Mar-02 -495 495 0 1858.61 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2002.04 2002 04
+Apr-02 -497 497 0 1858.61 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2002.05 2002 05
+May-02 -499 499 0 1855.69 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2002.06 2002 06
+Jun-02 -500 500 0 1855.69 17.75 50001 MG Ltd.
+Copper
+Option Pu
+2002.07 2002 07
+Jul-02 -502 502 0 1855.69 17.75 50001 MG Ltd.
+Copper
+Physical
+2000.07 2000 07
+Jul-00 7 0 7 1841 15.75 50001 MG Ltd.
+Copper
+Prov. Bil
+2000.07 2000 07
+Jul-00 1252 -1254 -2 1841 15.75 50001 MG Ltd.
+Copper
+Stock
+2000.07 2000 07
+Jul-00 1225 0 1225 1841 15.75 50001 MG Ltd.
+Copper
+Stock phy
+2000.07 2000 07
+Jul-00 6344 0 6344 1841 15.75 50001 MG Ltd.
+Gold
+Comex
+2000.08 2000 08
+Aug-00 158053 -148794 9259 280.72 14.75 50001 MG Ltd.
+Gold
+Comex
+2000.12 2000 12
+Dec-00 3376 -3376 0 286.05 14.75 50001 MG Ltd.
+Gold
+LME
+2000.07 2000 07
+Jul-00 55492 -168148 -112656 279 14.75 50001 MG Ltd.
+Gold
+LME
+2000.08 2000 08
+Aug-00 92337 -78448 13889 280.72 14.75 50001 MG Ltd.
+Gold
+LME
+2000.09 2000 09
+Sep-00 50541 -62662 -12121 282.44 14.75 50001 MG Ltd.
+Gold
+LME
+2000.1 2000 10 Oct-00 175511 -151944 23566 284.07 14.75 50001 MG Ltd.
+Gold
+LME
+2000.11 2000 11
+Nov-00 25399 -25785 -386 285.08 14.75 50001 MG Ltd.
+Gold
+LME
+2000.12 2000 12
+Dec-00 38517 -39835 -1318 286.05 14.75 50001 MG Ltd.
+Gold
+LME
+2001.01 2001 01
+Jan-01 28325 -16558 11767 287.09 14.75 50001 MG Ltd.
+Gold
+LME
+2001.02 2001 02
+Feb-01 13761 -193 13568 291.07 14.75 50001 MG Ltd.
+Gold
+LME
+2001.03 2001 03
+Mar-01 19741 -31990 -12249 291.07 14.75 50001 MG Ltd.
+Gold
+LME
+2001.04 2001 04
+Apr-01 15690 0 15690 291.07 14.75 50001 MG Ltd.
+Gold
+LME
+2001.05 2001 05
+May-01 10385 -19483 -9099 295.09 14.75 50001 MG Ltd.
+Gold
+LME
+2001.06 2001 06
+Jun-01 10353 0 10353 295.09 14.75 50001 MG Ltd.
+Gold
+LME
+2001.08 2001 08
+Aug-01 0 -129 -129 299.09 14.75 50001 MG Ltd.
+Gold
+Option Ca
+2000.07 2000 07
+Jul-00 129 -64 64 279 14.75 50001 MG Ltd.
+Gold
+Option Ca
+2000.08 2000 08
+Aug-00 1704 -868 836 280.72 14.75 50001 MG Ltd.
+Gold
+Option Ca
+2000.09 2000 09
+Sep-00 10385 -965 9420 282.44 14.75 50001 MG Ltd.
+Gold
+Option Ca
+2000.1 2000 10 Oct-00 2508 -1061 1447 284.07 14.75 50001 MG Ltd.
+Gold
+Option Ca
+2000.11 2000 11
+Nov-00 2636 -1093 1543 285.08 14.75 50001 MG Ltd.
+Gold
+Option Ca
+2000.12 2000 12
+Dec-00 2765 -1125 1640 286.05 14.75 50001 MG Ltd.
+Gold
+Option Pu
+2000.07 2000 07
+Jul-00 0 1029 1029 279 14.75 50001 MG Ltd.
+Gold
+Option Pu
+2000.08 2000 08
+Aug-00 0 868 868 280.72 14.75 50001 MG Ltd.
+Gold
+Option Pu
+2000.09 2000 09
+Sep-00 0 804 804 282.44 14.75 50001 MG Ltd.
+Gold
+Option Pu
+2000.1 2000 10 Oct-00 0 739 739 284.07 14.75 50001 MG Ltd.
+Gold
+Option Pu
+2000.11 2000 11
+Nov-00 0 675 675 285.08 14.75 50001 MG Ltd.
+Gold
+Option Pu
+2000.12 2000 12
+Dec-00 0 643 643 286.05 14.75 50001 MG Ltd.
+Gold
+Stock
+2000.07 2000 07
+Jul-00 19001 0 19001 279 14.75 50001 MG Ltd.
+Lead
+LME
+2000.07 2000 07
+Jul-00 66950 -68050 -1100 464 20.75 50001 MG Ltd.
+Lead
+LME
+2000.08 2000 08
+Aug-00 143861 -171832 -27971 469.03 20.75 50001 MG Ltd.
+Lead
+LME
+2000.09 2000 09
+Sep-00 140625 -148875 -8250 471.57 21.75 50001 MG Ltd.
+Lead
+LME
+2000.1 2000 10 Oct-00 110711 -98550 12161 474.2 20.75 50001 MG Ltd.
+Lead
+LME
+2000.11 2000 11
+Nov-00 26825 -24975 1850 476.74 20.75 50001 MG Ltd.
+Lead
+LME
+2000.12 2000 12
+Dec-00 20450 -25275 -4825 478.29 20.75 50001 MG Ltd.
+Lead
+LME
+2001.01 2001 01
+Jan-01 84620 -83225 1395 479.63 18.75 50001 MG Ltd.
+Lead
+LME
+2001.02 2001 02
+Feb-01 2750 -9150 -6400 483.36 18.75 50001 MG Ltd.
+Lead
+LME
+2001.03 2001 03
+Mar-01 4975 -13425 -8450 483.36 18.75 50001 MG Ltd.
+Lead
+LME
+2001.04 2001 04
+Apr-01 900 -2775 -1875 483.36 18.75 50001 MG Ltd.
+Lead
+LME
+2001.05 2001 05
+May-01 275 -7225 -6950 486.36 18.75 50001 MG Ltd.
+Lead
+LME
+2001.06 2001 06
+Jun-01 2025 -10800 -8775 486.36 18.75 50001 MG Ltd.
+Lead
+LME
+2001.07 2001 07
+Jul-01 5025 -31175 -26150 486.36 18.75 50001 MG Ltd.
+Lead
+LME
+2001.08 2001 08
+Aug-01 100 -3075 -2975 488.39 18.75 50001 MG Ltd.
+Lead
+LME
+2001.09 2001 09
+Sep-01 1750 -2825 -1075 488.39 18.75 50001 MG Ltd.
+Lead
+LME
+2001.1 2001 10 Oct-01 0 -325 -325 488.39 18.75 50001 MG Ltd.
+Lead
+LME
+2001.11 2001 11
+Nov-01 1250 -325 925 491.68 18.75 50001 MG Ltd.
+Lead
+LME
+2001.12 2001 12
+Dec-01 1250 -325 925 491.68 18.75 50001 MG Ltd.
+Lead
+LME
+2002.01 2002 01
+Jan-02 1000 -325 675 491.68 18.75 50001 MG Ltd.
+Lead
+LME
+2002.02 2002 02
+Feb-02 1000 -100 900 494.89 18.75 50001 MG Ltd.
+Lead
+LME
+2002.03 2002 03
+Mar-02 1000 0 1000 494.89 18.75 50001 MG Ltd.
+Lead
+Option Ca
+2000.08 2000 08
+Aug-00 8084 -3142 4942 469.03 20.75 50001 MG Ltd.
+Lead
+Option Ca
+2000.09 2000 09
+Sep-00 2467 -3201 -735 471.57 21.75 50001 MG Ltd.
+Lead
+Option Ca
+2000.1 2000 10 Oct-00 2005 -550 1454 474.2 20.75 50001 MG Ltd.
+Lead
+Option Ca
+2000.11 2000 11
+Nov-00 2269 0 2269 476.74 20.75 50001 MG Ltd.
+Lead
+Option Ca
+2000.12 2000 12
+Dec-00 2248 -1371 878 478.29 20.75 50001 MG Ltd.
+Lead
+Option Ca
+2001.01 2001 01
+Jan-01 592 -160 432 479.63 18.75 50001 MG Ltd.
+Lead
+Option Ca
+2001.02 2001 02
+Feb-01 0 -136 -136 483.36 18.75 50001 MG Ltd.
+Lead
+Option Ca
+2001.03 2001 03
+Mar-01 0 -151 -151 483.36 18.75 50001 MG Ltd.
+Lead
+Option Pu
+2000.08 2000 08
+Aug-00 -728 813 86 469.03 20.75 50001 MG Ltd.
+Lead
+Option Pu
+2000.09 2000 09
+Sep-00 -2797 1245 -1553 471.57 21.75 50001 MG Ltd.
+Lead
+Option Pu
+2000.1 2000 10 Oct-00 -2465 1185 -1280 474.2 20.75 50001 MG Ltd.
+Lead
+Option Pu
+2000.11 2000 11
+Nov-00 -1516 1116 -400 476.74 20.75 50001 MG Ltd.
+Lead
+Option Pu
+2000.12 2000 12
+Dec-00 -1411 1462 51 478.29 20.75 50001 MG Ltd.
+Lead
+Option Pu
+2001.01 2001 01
+Jan-01 -1347 386 -960 479.63 18.75 50001 MG Ltd.
+Lead
+Option Pu
+2001.02 2001 02
+Feb-01 -1011 59 -952 483.36 18.75 50001 MG Ltd.
+Lead
+Option Pu
+2001.03 2001 03
+Mar-01 -739 65 -673 483.36 18.75 50001 MG Ltd.
+Lead
+Option Pu
+2001.04 2001 04
+Apr-01 0 72 72 483.36 18.75 50001 MG Ltd.
+Lead
+Option Pu
+2001.05 2001 05
+May-01 0 76 76 486.36 18.75 50001 MG Ltd.
+Lead
+Option Pu
+2001.06 2001 06
+Jun-01 0 83 83 486.36 18.75 50001 MG Ltd.
+Lead
+Physical
+2000.07 2000 07
+Jul-00 4020 0 4020 464 20.75 50001 MG Ltd.
+Lead
+Prov. Bil
+2000.07 2000 07
+Jul-00 909 -909 0 464 20.75 50001 MG Ltd.
+Lead
+Stock
+2000.07 2000 07
+Jul-00 52744 0 52744 464 20.75 50001 MG Ltd.
+Lead
+Stock phy
+2000.07 2000 07
+Jul-00 38464 0 38464 464 20.75 50001 MG Ltd.
+Nickel
+LME
+2000.07 2000 07
+Jul-00 14844 -13260 1584 7793 32.75 50001 MG Ltd.
+Nickel
+LME
+2000.08 2000 08
+Aug-00 111814 -111689 125 7806.57 32.75 50001 MG Ltd.
+Nickel
+LME
+2000.09 2000 09
+Sep-00 83694 -84792 -1098 7787.14 33.75 50001 MG Ltd.
+Nickel
+LME
+2000.1 2000 10 Oct-00 41084 -38926 2158 7746 32.75 50001 MG Ltd.
+Nickel
+LME
+2000.11 2000 11
+Nov-00 4314 -5574 -1260 7689.57 31.75 50001 MG Ltd.
+Nickel
+LME
+2000.12 2000 12
+Dec-00 42618 -44418 -1800 7635 29.75 50001 MG Ltd.
+Nickel
+LME
+2001.01 2001 01
+Jan-01 5142 -5238 -96 7563 29.75 50001 MG Ltd.
+Nickel
+LME
+2001.02 2001 02
+Feb-01 6786 -6582 204 7388.93 28.75 50001 MG Ltd.
+Nickel
+LME
+2001.03 2001 03
+Mar-01 4026 -3882 144 7388.93 28.75 50001 MG Ltd.
+Nickel
+LME
+2001.04 2001 04
+Apr-01 6018 -5010 1008 7388.93 28.75 50001 MG Ltd.
+Nickel
+LME
+2001.05 2001 05
+May-01 4908 -5046 -138 7253.93 26.75 50001 MG Ltd.
+Nickel
+LME
+2001.06 2001 06
+Jun-01 8676 -6366 2310 7253.93 26.75 50001 MG Ltd.
+Nickel
+LME
+2001.07 2001 07
+Jul-01 1146 -2178 -1032 7253.93 26.75 50001 MG Ltd.
+Nickel
+LME
+2001.08 2001 08
+Aug-01 1428 -1530 -102 7155.57 25.75 50001 MG Ltd.
+Nickel
+LME
+2001.09 2001 09
+Sep-01 1644 -2166 -522 7155.57 25.75 50001 MG Ltd.
+Nickel
+LME
+2001.1 2001 10 Oct-01 822 -1716 -894 7155.57 25.75 50001 MG Ltd.
+Nickel
+LME
+2001.11 2001 11
+Nov-01 1530 -1638 -108 7054.71 24.75 50001 MG Ltd.
+Nickel
+LME
+2001.12 2001 12
+Dec-01 22884 -22662 222 7054.71 24.75 50001 MG Ltd.
+Nickel
+LME
+2002.01 2002 01
+Jan-02 9582 -10476 -894 7054.71 24.75 50001 MG Ltd.
+Nickel
+LME
+2002.02 2002 02
+Feb-02 0 -72 -72 6970.18 24.75 50001 MG Ltd.
+Nickel
+LME
+2002.03 2002 03
+Mar-02 2298 -2334 -36 6970.18 24.75 50001 MG Ltd.
+Nickel
+LME
+2002.04 2002 04
+Apr-02 0 -150 -150 6970.18 24.75 50001 MG Ltd.
+Nickel
+LME
+2002.05 2002 05
+May-02 15060 -14886 174 6897.14 24.75 50001 MG Ltd.
+Nickel
+LME
+2002.06 2002 06
+Jun-02 228 -306 -78 6897.14 24.75 50001 MG Ltd.
+Nickel
+LME
+2002.07 2002 07
+Jul-02 0 -186 -186 6897.14 24.75 50001 MG Ltd.
+Nickel
+LME
+2002.08 2002 08
+Aug-02 18 -30 -12 6826.43 24.75 50001 MG Ltd.
+Nickel
+LME
+2002.09 2002 09
+Sep-02 60 -36 24 6826.43 24.75 50001 MG Ltd.
+Nickel
+LME
+2002.1 2002 10 Oct-02 0 -6 -6 6826.43 24.75 50001 MG Ltd.
+Nickel
+LME
+2002.11 2002 11
+Nov-02 0 -12 -12 6826.43 24.75 50001 MG Ltd.
+Nickel
+Option Ca
+2000.08 2000 08
+Aug-00 746 -314 432 7806.57 32.75 50001 MG Ltd.
+Nickel
+Option Ca
+2000.09 2000 09
+Sep-00 1438 -1288 150 7787.14 33.75 50001 MG Ltd.
+Nickel
+Option Ca
+2000.1 2000 10 Oct-00 763 -513 250 7746 32.75 50001 MG Ltd.
+Nickel
+Option Ca
+2000.11 2000 11
+Nov-00 557 -281 276 7689.57 31.75 50001 MG Ltd.
+Nickel
+Option Ca
+2000.12 2000 12
+Dec-00 683 -486 196 7635 29.75 50001 MG Ltd.
+Nickel
+Option Ca
+2001.01 2001 01
+Jan-01 211 -21 190 7563 29.75 50001 MG Ltd.
+Nickel
+Option Ca
+2001.02 2001 02
+Feb-01 0 -5 -5 7388.93 28.75 50001 MG Ltd.
+Nickel
+Option Ca
+2001.03 2001 03
+Mar-01 0 -5 -5 7388.93 28.75 50001 MG Ltd.
+Nickel
+Option Ca
+2001.04 2001 04
+Apr-01 0 -5 -5 7388.93 28.75 50001 MG Ltd.
+Nickel
+Option Ca
+2001.05 2001 05
+May-01 0 -5 -5 7253.93 26.75 50001 MG Ltd.
+Nickel
+Option Ca
+2001.06 2001 06
+Jun-01 0 -5 -5 7253.93 26.75 50001 MG Ltd.
+Nickel
+Option Ca
+2001.07 2001 07
+Jul-01 0 -5 -5 7253.93 26.75 50001 MG Ltd.
+Nickel
+Option Ca
+2001.08 2001 08
+Aug-01 0 -5 -5 7155.57 25.75 50001 MG Ltd.
+Nickel
+Option Ca
+2001.09 2001 09
+Sep-01 0 -5 -5 7155.57 25.75 50001 MG Ltd.
+Nickel
+Option Ca
+2001.1 2001 10 Oct-01 0 -5 -5 7155.57 25.75 50001 MG Ltd.
+Nickel
+Option Ca
+2001.11 2001 11
+Nov-01 0 -5 -5 7054.71 24.75 50001 MG Ltd.
+Nickel
+Option Ca
+2001.12 2001 12
+Dec-01 0 -5 -5 7054.71 24.75 50001 MG Ltd.
+Nickel
+Option Pu
+2000.08 2000 08
+Aug-00 -3349 3158 -191 7806.57 32.75 50001 MG Ltd.
+Nickel
+Option Pu
+2000.09 2000 09
+Sep-00 -2576 2814 238 7787.14 33.75 50001 MG Ltd.
+Nickel
+Option Pu
+2000.1 2000 10 Oct-00 -1062 385 -677 7746 32.75 50001 MG Ltd.
+Nickel
+Option Pu
+2000.11 2000 11
+Nov-00 -405 498 93 7689.57 31.75 50001 MG Ltd.
+Nickel
+Option Pu
+2000.12 2000 12
+Dec-00 -273 457 184 7635 29.75 50001 MG Ltd.
+Nickel
+Option Pu
+2001.01 2001 01
+Jan-01 -36 298 262 7563 29.75 50001 MG Ltd.
+Nickel
+Option Pu
+2001.02 2001 02
+Feb-01 0 31 31 7388.93 28.75 50001 MG Ltd.
+Nickel
+Option Pu
+2001.06 2001 06
+Jun-01 -336 0 -336 7253.93 26.75 50001 MG Ltd.
+Nickel
+Option Pu
+2001.1 2001 10 Oct-01 -1 0 -1 7155.57 25.75 50001 MG Ltd.
+Nickel
+Option Pu
+2001.11 2001 11
+Nov-01 -1 0 -1 7054.71 24.75 50001 MG Ltd.
+Nickel
+Option Pu
+2001.12 2001 12
+Dec-01 -1 0 -1 7054.71 24.75 50001 MG Ltd.
+Nickel
+Stock
+2000.07 2000 07
+Jul-00 72 0 72 7793 32.75 50001 MG Ltd.
+Palladium
+LME
+2000.07 2000 07
+Jul-00 997 -772 225 766 50.75 50001 MG Ltd.
+Palladium
+LME
+2000.08 2000 08
+Aug-00 2669 -4598 -1929 766 50.75 50001 MG Ltd.
+Palladium
+LME
+2000.09 2000 09
+Sep-00 2283 -2411 -129 766 50.75 50001 MG Ltd.
+Palladium
+LME
+2000.1 2000 10 Oct-00 547 0 547 766 45.75 50001 MG Ltd.
+Palladium
+LME
+2000.11 2000 11
+Nov-00 354 -289 64 766 45.75 50001 MG Ltd.
+Palladium
+LME
+2000.12 2000 12
+Dec-00 96 0 96 766 45.75 50001 MG Ltd.
+Palladium
+Stock
+2000.07 2000 07
+Jul-00 64 0 64 766 50.75 50001 MG Ltd.
+Platin
+LME
+2000.07 2000 07
+Jul-00 6720 -6752 -32 567 33.75 50001 MG Ltd.
+Platin
+LME
+2000.08 2000 08
+Aug-00 0 -707 -707 561.83 33.07 50001 MG Ltd.
+Platin
+Stock
+2000.07 2000 07
+Jul-00 707 0 707 567 33.75 50001 MG Ltd.
+Silver
+Comex
+2000.09 2000 09
+Sep-00 590255 -1495362 -905107 499.82 17.75 50001 MG Ltd.
+Silver
+LME
+2000.07 2000 07
+Jul-00 683428 -1123314 -439886 495 17.75 50001 MG Ltd.
+Silver
+LME
+2000.08 2000 08
+Aug-00 2759947 -2124488 635459 497.41 17.75 50001 MG Ltd.
+Silver
+LME
+2000.09 2000 09
+Sep-00 2889836 -2085232 804604 499.82 17.75 50001 MG Ltd.
+Silver
+LME
+2000.1 2000 10 Oct-00 1437362 -494510 942852 502.11 17.75 50001 MG Ltd.
+Silver
+LME
+2000.11 2000 11
+Nov-00 687929 -84203 603726 503.79 17.75 50001 MG Ltd.
+Silver
+LME
+2000.12 2000 12
+Dec-00 154645 -12925 141720 505.42 17.75 50001 MG Ltd.
+Silver
+LME
+2001.01 2001 01
+Jan-01 18519 -12057 6462 507.08 17.75 50001 MG Ltd.
+Silver
+LME
+2001.02 2001 02
+Feb-01 0 -20641 -20641 510.56 17.75 50001 MG Ltd.
+Silver
+LME
+2001.03 2001 03
+Mar-01 8584 -12057 -3472 510.56 17.75 50001 MG Ltd.
+Silver
+LME
+2001.04 2001 04
+Apr-01 0 -12057 -12057 510.56 17.75 50001 MG Ltd.
+Silver
+LME
+2001.06 2001 06
+Jun-01 8584 -49994 -41410 514.12 17.75 50001 MG Ltd.
+Silver
+LME
+2001.08 2001 08
+Aug-01 8584 0 8584 519.62 17.75 50001 MG Ltd.
+Silver
+Option Ca
+2000.09 2000 09
+Sep-00 957352 -1214268 -256916 499.82 17.75 50001 MG Ltd.
+Silver
+Option Ca
+2000.12 2000 12
+Dec-00 36620 -1449483 -1412864 505.42 17.75 50001 MG Ltd.
+Silver
+Option Pu
+2000.09 2000 09
+Sep-00 -873535 111531 -762004 499.82 17.75 50001 MG Ltd.
+Silver
+Stock
+2000.07 2000 07
+Jul-00 729789 -5016 724774 495 17.75 50001 MG Ltd.
+Tin
+LME
+2000.07 2000 07
+Jul-00 3095 -2410 685 5254 13.75 50001 MG Ltd.
+Tin
+LME
+2000.08 2000 08
+Aug-00 5859 -5940 -81 5275.14 13.75 50001 MG Ltd.
+Tin
+LME
+2000.09 2000 09
+Sep-00 9915 -8014 1901 5288.43 13.75 50001 MG Ltd.
+Tin
+LME
+2000.1 2000 10 Oct-00 4855 -5989 -1134 5300.9 12.75 50001 MG Ltd.
+Tin
+LME
+2000.11 2000 11
+Nov-00 115 -145 -30 5312.71 12.75 50001 MG Ltd.
+Tin
+LME
+2000.12 2000 12
+Dec-00 402 -405 -3 5321 12.75 50001 MG Ltd.
+Tin
+LME
+2001.01 2001 01
+Jan-01 40 -65 -25 5327.89 12.75 50001 MG Ltd.
+Tin
+LME
+2001.02 2001 02
+Feb-01 0 -25 -25 5346.14 11.75 50001 MG Ltd.
+Tin
+LME
+2001.03 2001 03
+Mar-01 40 -105 -65 5346.14 11.75 50001 MG Ltd.
+Tin
+LME
+2001.05 2001 05
+May-01 50 0 50 5362.79 11.75 50001 MG Ltd.
+Tin
+LME
+2001.06 2001 06
+Jun-01 50 -200 -150 5362.79 11.75 50001 MG Ltd.
+Tin
+LME
+2001.07 2001 07
+Jul-01 0 -50 -50 5362.79 11.75 50001 MG Ltd.
+Tin
+LME
+2001.08 2001 08
+Aug-01 70 0 70 5377.96 11.75 50001 MG Ltd.
+Tin
+Option Ca
+2000.08 2000 08
+Aug-00 5 0 5 5275.14 13.75 50001 MG Ltd.
+Tin
+Option Ca
+2000.09 2000 09
+Sep-00 60 0 60 5288.43 13.75 50001 MG Ltd.
+Tin
+Option Ca
+2000.1 2000 10 Oct-00 101 -150 -49 5300.9 12.75 50001 MG Ltd.
+Tin
+Option Ca
+2000.11 2000 11
+Nov-00 37 0 37 5312.71 12.75 50001 MG Ltd.
+Tin
+Option Ca
+2000.12 2000 12
+Dec-00 40 -96 -56 5321 12.75 50001 MG Ltd.
+Tin
+Option Ca
+2001.01 2001 01
+Jan-01 24 0 24 5327.89 12.75 50001 MG Ltd.
+Tin
+Option Ca
+2001.02 2001 02
+Feb-01 25 0 25 5346.14 11.75 50001 MG Ltd.
+Tin
+Option Ca
+2001.03 2001 03
+Mar-01 26 0 26 5346.14 11.75 50001 MG Ltd.
+Tin
+Option Ca
+2001.04 2001 04
+Apr-01 7 0 7 5346.14 11.75 50001 MG Ltd.
+Tin
+Option Ca
+2001.05 2001 05
+May-01 8 0 8 5362.79 11.75 50001 MG Ltd.
+Tin
+Option Ca
+2001.06 2001 06
+Jun-01 8 0 8 5362.79 11.75 50001 MG Ltd.
+Tin
+Option Pu
+2000.08 2000 08
+Aug-00 -137 0 -137 5275.14 13.75 50001 MG Ltd.
+Tin
+Option Pu
+2000.09 2000 09
+Sep-00 -243 129 -114 5288.43 13.75 50001 MG Ltd.
+Tin
+Option Pu
+2000.1 2000 10 Oct-00 -263 123 -140 5300.9 12.75 50001 MG Ltd.
+Tin
+Option Pu
+2000.11 2000 11
+Nov-00 -101 0 -101 5312.71 12.75 50001 MG Ltd.
+Tin
+Option Pu
+2000.12 2000 12
+Dec-00 -189 5 -185 5321 12.75 50001 MG Ltd.
+Tin
+Option Pu
+2001.01 2001 01
+Jan-01 -36 6 -30 5327.89 12.75 50001 MG Ltd.
+Tin
+Option Pu
+2001.02 2001 02
+Feb-01 -35 7 -28 5346.14 11.75 50001 MG Ltd.
+Tin
+Option Pu
+2001.03 2001 03
+Mar-01 -64 0 -64 5346.14 11.75 50001 MG Ltd.
+Tin
+Option Pu
+2001.04 2001 04
+Apr-01 -13 0 -13 5346.14 11.75 50001 MG Ltd.
+Tin
+Option Pu
+2001.05 2001 05
+May-01 -12 0 -12 5362.79 11.75 50001 MG Ltd.
+Tin
+Option Pu
+2001.06 2001 06
+Jun-01 -12 0 -12 5362.79 11.75 50001 MG Ltd.
+Tin
+Stock
+2000.07 2000 07
+Jul-00 10 0 10 5254 13.75 50001 MG Ltd.
+Zinc
+LME
+2000.07 2000 07
+Jul-00 95278 -39875 55403 1144 16.75 50001 MG Ltd.
+Zinc
+LME
+2000.08 2000 08
+Aug-00 419461 -387885 31576 1152.09 16.75 50001 MG Ltd.
+Zinc
+LME
+2000.09 2000 09
+Sep-00 300418 -342596 -42179 1158.57 19.75 50001 MG Ltd.
+Zinc
+LME
+2000.1 2000 10 Oct-00 221486 -215775 5711 1161.1 18.75 50001 MG Ltd.
+Zinc
+LME
+2000.11 2000 11
+Nov-00 36225 -49325 -13100 1162.37 17.75 50001 MG Ltd.
+Zinc
+LME
+2000.12 2000 12
+Dec-00 132550 -136300 -3750 1162.43 17.75 50001 MG Ltd.
+Zinc
+LME
+2001.01 2001 01
+Jan-01 15575 -23700 -8125 1160.69 16.75 50001 MG Ltd.
+Zinc
+LME
+2001.02 2001 02
+Feb-01 9325 -9675 -350 1156.29 16.75 50001 MG Ltd.
+Zinc
+LME
+2001.03 2001 03
+Mar-01 12850 -16525 -3675 1156.29 16.75 50001 MG Ltd.
+Zinc
+LME
+2001.04 2001 04
+Apr-01 6325 -8800 -2475 1156.29 16.75 50001 MG Ltd.
+Zinc
+LME
+2001.05 2001 05
+May-01 3850 -8875 -5025 1150.64 16.75 50001 MG Ltd.
+Zinc
+LME
+2001.06 2001 06
+Jun-01 13275 -12350 925 1150.64 16.75 50001 MG Ltd.
+Zinc
+LME
+2001.07 2001 07
+Jul-01 4000 -7650 -3650 1150.64 16.75 50001 MG Ltd.
+Zinc
+LME
+2001.08 2001 08
+Aug-01 4200 -7450 -3250 1145.37 15.75 50001 MG Ltd.
+Zinc
+LME
+2001.09 2001 09
+Sep-01 4775 -6425 -1650 1145.37 15.75 50001 MG Ltd.
+Zinc
+LME
+2001.1 2001 10 Oct-01 3775 -7575 -3800 1145.37 15.75 50001 MG Ltd.
+Zinc
+LME
+2001.11 2001 11
+Nov-01 4325 -8775 -4450 1140.31 15.75 50001 MG Ltd.
+Zinc
+LME
+2001.12 2001 12
+Dec-01 34200 -26050 8150 1140.31 15.75 50001 MG Ltd.
+Zinc
+LME
+2002.01 2002 01
+Jan-02 5400 -6000 -600 1140.31 15.75 50001 MG Ltd.
+Zinc
+LME
+2002.02 2002 02
+Feb-02 900 -2650 -1750 1134.21 15.75 50001 MG Ltd.
+Zinc
+LME
+2002.03 2002 03
+Mar-02 2900 -1025 1875 1134.21 15.75 50001 MG Ltd.
+Zinc
+LME
+2002.04 2002 04
+Apr-02 4125 -6200 -2075 1134.21 15.75 50001 MG Ltd.
+Zinc
+LME
+2002.05 2002 05
+May-02 0 -1600 -1600 1129.37 15.75 50001 MG Ltd.
+Zinc
+LME
+2002.06 2002 06
+Jun-02 150 0 150 1129.37 15.75 50001 MG Ltd.
+Zinc
+LME
+2002.07 2002 07
+Jul-02 250 -2500 -2250 1129.37 15.75 50001 MG Ltd.
+Zinc
+LME
+2002.08 2002 08
+Aug-02 1250 -1850 -600 1124.31 15.75 50001 MG Ltd.
+Zinc
+LME
+2002.09 2002 09
+Sep-02 100 -700 -600 1124.31 15.75 50001 MG Ltd.
+Zinc
+LME
+2003.02 2003 02
+Feb-03 50 -50 0 1124.31 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2000.08 2000 08
+Aug-00 2212 -2959 -748 1152.09 16.75 50001 MG Ltd.
+Zinc
+Option Ca
+2000.09 2000 09
+Sep-00 4846 -7516 -2670 1158.57 19.75 50001 MG Ltd.
+Zinc
+Option Ca
+2000.1 2000 10 Oct-00 1511 -2153 -643 1161.1 18.75 50001 MG Ltd.
+Zinc
+Option Ca
+2000.11 2000 11
+Nov-00 7938 -3589 4349 1162.37 17.75 50001 MG Ltd.
+Zinc
+Option Ca
+2000.12 2000 12
+Dec-00 4554 -6384 -1829 1162.43 17.75 50001 MG Ltd.
+Zinc
+Option Ca
+2001.01 2001 01
+Jan-01 1586 -2154 -568 1160.69 16.75 50001 MG Ltd.
+Zinc
+Option Ca
+2001.02 2001 02
+Feb-01 1440 -2158 -719 1156.29 16.75 50001 MG Ltd.
+Zinc
+Option Ca
+2001.03 2001 03
+Mar-01 1473 -2145 -671 1156.29 16.75 50001 MG Ltd.
+Zinc
+Option Ca
+2001.04 2001 04
+Apr-01 1951 -173 1779 1156.29 16.75 50001 MG Ltd.
+Zinc
+Option Ca
+2001.05 2001 05
+May-01 604 -135 469 1150.64 16.75 50001 MG Ltd.
+Zinc
+Option Ca
+2001.06 2001 06
+Jun-01 620 -135 486 1150.64 16.75 50001 MG Ltd.
+Zinc
+Option Ca
+2001.07 2001 07
+Jul-01 514 -689 -176 1150.64 16.75 50001 MG Ltd.
+Zinc
+Option Ca
+2001.08 2001 08
+Aug-01 522 -679 -157 1145.37 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2001.09 2001 09
+Sep-01 533 -133 400 1145.37 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2001.1 2001 10 Oct-01 543 -132 411 1145.37 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2001.11 2001 11
+Nov-01 441 -131 310 1140.31 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2001.12 2001 12
+Dec-01 1043 -131 912 1140.31 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2002.01 2002 01
+Jan-02 1098 0 1098 1140.31 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2002.02 2002 02
+Feb-02 933 0 933 1134.21 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2002.03 2002 03
+Mar-02 935 0 935 1134.21 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2002.04 2002 04
+Apr-02 936 0 936 1134.21 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2002.05 2002 05
+May-02 190 0 190 1129.37 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2002.06 2002 06
+Jun-02 195 0 195 1129.37 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2002.07 2002 07
+Jul-02 200 0 200 1129.37 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2002.08 2002 08
+Aug-02 204 0 204 1124.31 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2002.09 2002 09
+Sep-02 210 0 210 1124.31 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2002.1 2002 10 Oct-02 215 0 215 1124.31 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2002.11 2002 11
+Nov-02 219 0 219 1124.31 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2002.12 2002 12
+Dec-02 223 0 223 1124.31 15.75 50001 MG Ltd.
+Zinc
+Option Ca
+2003.01 2003 01
+Jan-03 228 0 228 1124.31 15.75 50001 MG Ltd.
+Zinc
+Option Pu
+2000.08 2000 08
+Aug-00 -1411 1799 388 1152.09 16.75 50001 MG Ltd.
+Zinc
+Option Pu
+2000.09 2000 09
+Sep-00 -5585 3769 -1816 1158.57 19.75 50001 MG Ltd.
+Zinc
+Option Pu
+2000.1 2000 10 Oct-00 -1465 1525 59 1161.1 18.75 50001 MG Ltd.
+Zinc
+Option Pu
+2000.11 2000 11
+Nov-00 -1072 944 -128 1162.37 17.75 50001 MG Ltd.
+Zinc
+Option Pu
+2000.12 2000 12
+Dec-00 -2684 1307 -1377 1162.43 17.75 50001 MG Ltd.
+Zinc
+Option Pu
+2001.01 2001 01
+Jan-01 -671 206 -465 1160.69 16.75 50001 MG Ltd.
+Zinc
+Option Pu
+2001.02 2001 02
+Feb-01 -188 42 -146 1156.29 16.75 50001 MG Ltd.
+Zinc
+Option Pu
+2001.03 2001 03
+Mar-01 -218 57 -161 1156.29 16.75 50001 MG Ltd.
+Zinc
+Option Pu
+2001.04 2001 04
+Apr-01 -1162 71 -1091 1156.29 16.75 50001 MG Ltd.
+Zinc
+Option Pu
+2001.05 2001 05
+May-01 -195 89 -106 1150.64 16.75 50001 MG Ltd.
+Zinc
+Option Pu
+2001.06 2001 06
+Jun-01 -231 111 -120 1150.64 16.75 50001 MG Ltd.
+Zinc
+Option Pu
+2001.07 2001 07
+Jul-01 -813 125 -688 1150.64 16.75 50001 MG Ltd.
+Zinc
+Option Pu
+2001.08 2001 08
+Aug-01 -852 143 -709 1145.37 15.75 50001 MG Ltd.
+Zinc
+Option Pu
+2001.09 2001 09
+Sep-01 -315 165 -151 1145.37 15.75 50001 MG Ltd.
+Zinc
+Option Pu
+2001.1 2001 10 Oct-01 -330 173 -157 1145.37 15.75 50001 MG Ltd.
+Zinc
+Option Pu
+2001.11 2001 11
+Nov-01 -361 194 -168 1140.31 15.75 50001 MG Ltd.
+Zinc
+Option Pu
+2001.12 2001 12
+Dec-01 -371 200 -172 1140.31 15.75 50001 MG Ltd.
+Zinc
+Option Pu
+2002.01 2002 01
+Jan-02 -73 0 -73 1140.31 15.75 50001 MG Ltd.
+Zinc
+Stock
+2000.07 2000 07
+Jul-00 3949 0 3949 1144 16.75 50001 MG Ltd.
+Zinc
+Stock phy
+2000.07 2000 07
+Jul-00 2537 0 2537 1144 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2000.07 2000 07
+Jul-00 6925 -6225 700 1556 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2000.08 2000 08
+Aug-00 19370 -81645 -62275 1566.6 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2000.09 2000 09
+Sep-00 5050 -22375 -17325 1572.92 18.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2000.1 2000 10 Oct-00 9725 -43300 -33575 1577.1 18.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2000.11 2000 11
+Nov-00 2300 -1350 950 1577.26 18.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2000.12 2000 12
+Dec-00 3200 -15600 -12400 1574.86 18.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2001.01 2001 01
+Jan-01 1425 -1000 425 1570.74 17.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2001.02 2001 02
+Feb-01 1600 -1000 600 1558.93 17.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2001.03 2001 03
+Mar-01 1400 -1000 400 1558.93 17.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2001.04 2001 04
+Apr-01 1100 -1000 100 1558.93 17.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2001.05 2001 05
+May-01 1125 -1000 125 1549.93 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2001.06 2001 06
+Jun-01 1125 -1000 125 1549.93 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2001.07 2001 07
+Jul-01 950 -1000 -50 1549.93 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2001.08 2001 08
+Aug-01 975 -1000 -25 1541.37 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2001.09 2001 09
+Sep-01 950 -1000 -50 1541.37 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2001.1 2001 10 Oct-01 925 -1000 -75 1541.37 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2001.11 2001 11
+Nov-01 975 -1000 -25 1536.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2001.12 2001 12
+Dec-01 6200 -3500 2700 1536.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2002.01 2002 01
+Jan-02 100 0 100 1536.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2002.02 2002 02
+Feb-02 100 0 100 1533.61 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2002.03 2002 03
+Mar-02 100 0 100 1533.61 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2002.04 2002 04
+Apr-02 100 0 100 1533.61 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2002.05 2002 05
+May-02 100 0 100 1530.69 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2002.06 2002 06
+Jun-02 100 0 100 1530.69 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2002.07 2002 07
+Jul-02 100 0 100 1530.69 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2002.08 2002 08
+Aug-02 100 0 100 1527.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2002.09 2002 09
+Sep-02 100 0 100 1527.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2002.1 2002 10 Oct-02 100 0 100 1527.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2002.11 2002 11
+Nov-02 100 0 100 1527.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+LME
+2002.12 2002 12
+Dec-02 100 0 100 1527.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2000.07 2000 07
+Jul-00 71653 -54431 17221 1556 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2000.08 2000 08
+Aug-00 61043 -15426 45617 1566.6 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2000.09 2000 09
+Sep-00 17214 -11969 5245 1572.92 18.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2000.1 2000 10 Oct-00 11279 -8693 2586 1577.1 18.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2000.11 2000 11
+Nov-00 7340 -8302 -962 1577.26 18.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2000.12 2000 12
+Dec-00 6960 -7573 -613 1574.86 18.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2001.01 2001 01
+Jan-01 0 -494 -494 1570.74 17.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2001.02 2001 02
+Feb-01 0 -519 -519 1558.93 17.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2001.03 2001 03
+Mar-01 0 -493 -493 1558.93 17.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2001.04 2001 04
+Apr-01 0 -362 -362 1558.93 17.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2001.05 2001 05
+May-01 0 -369 -369 1549.93 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2001.06 2001 06
+Jun-01 0 -461 -461 1549.93 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2001.07 2001 07
+Jul-01 0 -194 -194 1549.93 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2001.08 2001 08
+Aug-01 0 -219 -219 1541.37 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2001.09 2001 09
+Sep-01 0 -194 -194 1541.37 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2001.1 2001 10 Oct-01 0 -194 -194 1541.37 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2001.11 2001 11
+Nov-01 0 -219 -219 1536.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2001.12 2001 12
+Dec-01 0 -194 -194 1536.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2002.01 2002 01
+Jan-02 0 -100 -100 1536.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2002.02 2002 02
+Feb-02 0 -100 -100 1533.61 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2002.03 2002 03
+Mar-02 0 -100 -100 1533.61 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2002.04 2002 04
+Apr-02 0 -100 -100 1533.61 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2002.05 2002 05
+May-02 0 -100 -100 1530.69 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2002.06 2002 06
+Jun-02 0 -100 -100 1530.69 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2002.07 2002 07
+Jul-02 0 -100 -100 1530.69 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2002.08 2002 08
+Aug-02 0 -100 -100 1527.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2002.09 2002 09
+Sep-02 0 -100 -100 1527.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2002.1 2002 10 Oct-02 0 -100 -100 1527.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2002.11 2002 11
+Nov-02 0 -100 -100 1527.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Physical
+2002.12 2002 12
+Dec-02 0 -100 -100 1527.66 15.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Prov. Bil
+2000.07 2000 07
+Jul-00 287908 -287105 803 1556 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Stock
+2000.07 2000 07
+Jul-00 401 0 401 1556 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminium
+Stock phy
+2000.07 2000 07
+Jul-00 54042 0 54042 1556 16.75 50006 MG Metal & Commodity Company Ltd.
+Aluminum Scrap
+Prov. Bil
+2000.07 2000 07
+Jul-00 400 -400 0 50006 MG Metal & Commodity Company Ltd.
+Cobalt
+Physical
+2000.07 2000 07
+Jul-00 16 -38 -23 25 0.75 50006 MG Metal & Commodity Company Ltd.
+Cobalt
+Physical
+2000.08 2000 08
+Aug-00 0 -37 -37 25 0.75 50006 MG Metal & Commodity Company Ltd.
+Cobalt
+Prov. Bil
+2000.07 2000 07
+Jul-00 20 -20 0 25 0.75 50006 MG Metal & Commodity Company Ltd.
+Cobalt
+Stock phy
+2000.07 2000 07
+Jul-00 129 0 129 25 0.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2000.07 2000 07
+Jul-00 23008 -22963 45 1841 15.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2000.08 2000 08
+Aug-00 23 -2087 -2064 1852.77 15.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2000.09 2000 09
+Sep-00 1225 -42309 -41084 1862.29 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2000.1 2000 10 Oct-00 703 0 703 1869.5 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2000.11 2000 11
+Nov-00 465 0 465 1875.11 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2000.12 2000 12
+Dec-00 1780 -10705 -8924 1876.43 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2001.03 2001 03
+Mar-01 68 0 68 1871.29 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2001.05 2001 05
+May-01 23 0 23 1867.64 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2000.07 2000 07
+Jul-00 32925 -20100 12825 1841 15.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2000.08 2000 08
+Aug-00 190400 -183950 6450 1852.77 15.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2000.09 2000 09
+Sep-00 79975 -143300 -63325 1862.29 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2000.1 2000 10 Oct-00 5175 -85250 -80075 1869.5 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2000.11 2000 11
+Nov-00 1075 0 1075 1875.11 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2000.12 2000 12
+Dec-00 325100 -256000 69100 1876.43 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2001.01 2001 01
+Jan-01 300 0 300 1874.69 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2001.03 2001 03
+Mar-01 0 -75375 -75375 1871.29 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2001.04 2001 04
+Apr-01 8500 -10250 -1750 1871.29 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2001.05 2001 05
+May-01 0 -5000 -5000 1867.64 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2001.06 2001 06
+Jun-01 0 -10000 -10000 1867.64 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2001.12 2001 12
+Dec-01 13750 -109125 -95375 1861.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2002.03 2002 03
+Mar-02 5375 0 5375 1858.61 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2002.04 2002 04
+Apr-02 12750 -8500 4250 1858.61 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2002.05 2002 05
+May-02 5000 0 5000 1855.69 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Option Ca
+2000.09 2000 09
+Sep-00 6317 0 6317 1862.29 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2000.07 2000 07
+Jul-00 120568 -46298 74270 1841 15.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2000.08 2000 08
+Aug-00 77087 -9325 67762 1852.77 15.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2000.09 2000 09
+Sep-00 9718 -7676 2042 1862.29 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2000.1 2000 10 Oct-00 1121 -2784 -1663 1869.5 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2000.11 2000 11
+Nov-00 350 -1356 -1006 1875.11 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2000.12 2000 12
+Dec-00 350 -1449 -1099 1876.43 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.01 2001 01
+Jan-01 0 -320 -320 1874.69 18.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.02 2001 02
+Feb-01 0 -320 -320 1871.29 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.03 2001 03
+Mar-01 0 -377 -377 1871.29 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.04 2001 04
+Apr-01 0 -75 -75 1871.29 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.05 2001 05
+May-01 0 -98 -98 1867.64 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.06 2001 06
+Jun-01 0 -75 -75 1867.64 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.07 2001 07
+Jul-01 0 -75 -75 1867.64 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.08 2001 08
+Aug-01 0 -75 -75 1864.69 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.09 2001 09
+Sep-01 0 -75 -75 1864.69 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.1 2001 10 Oct-01 0 -75 -75 1864.69 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.11 2001 11
+Nov-01 0 -75 -75 1861.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.12 2001 12
+Dec-01 0 -75 -75 1861.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.01 2002 01
+Jan-02 0 -75 -75 1861.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.02 2002 02
+Feb-02 0 -75 -75 1858.61 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.03 2002 03
+Mar-02 0 -75 -75 1858.61 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.04 2002 04
+Apr-02 0 -75 -75 1858.61 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.05 2002 05
+May-02 0 -75 -75 1855.69 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.06 2002 06
+Jun-02 0 -75 -75 1855.69 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.07 2002 07
+Jul-02 0 -75 -75 1855.69 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.08 2002 08
+Aug-02 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.09 2002 09
+Sep-02 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.1 2002 10 Oct-02 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.11 2002 11
+Nov-02 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.12 2002 12
+Dec-02 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.01 2003 01
+Jan-03 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.02 2003 02
+Feb-03 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.03 2003 03
+Mar-03 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.04 2003 04
+Apr-03 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.05 2003 05
+May-03 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.06 2003 06
+Jun-03 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.07 2003 07
+Jul-03 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.08 2003 08
+Aug-03 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.09 2003 09
+Sep-03 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.1 2003 10 Oct-03 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.11 2003 11
+Nov-03 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.12 2003 12
+Dec-03 0 -75 -75 1852.66 17.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Prov. Bil
+2000.07 2000 07
+Jul-00 331094 -327720 3373 1841 15.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Stock
+2000.07 2000 07
+Jul-00 2699 0 2699 1841 15.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Stock Com
+2000.07 2000 07
+Jul-00 4331 0 4331 1841 15.75 50006 MG Metal & Commodity Company Ltd.
+Copper
+Stock phy
+2000.07 2000 07
+Jul-00 142978 0 142978 1841 15.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+LME
+2000.07 2000 07
+Jul-00 12875 -26750 -13875 464 20.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+LME
+2000.08 2000 08
+Aug-00 12450 0 12450 469.03 20.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+LME
+2000.09 2000 09
+Sep-00 13725 0 13725 471.57 21.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+LME
+2000.1 2000 10 Oct-00 1250 -1125 125 474.2 20.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+LME
+2000.12 2000 12
+Dec-00 0 -1000 -1000 478.29 20.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+LME
+2001.01 2001 01
+Jan-01 0 -20050 -20050 479.63 18.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+LME
+2001.02 2001 02
+Feb-01 0 -1300 -1300 483.36 18.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+LME
+2001.03 2001 03
+Mar-01 0 -1300 -1300 483.36 18.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+LME
+2001.06 2001 06
+Jun-01 0 -1000 -1000 486.36 18.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+LME
+2001.07 2001 07
+Jul-01 5000 -4750 250 486.36 18.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+Physical
+2000.07 2000 07
+Jul-00 8106 -7340 766 464 20.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+Physical
+2000.08 2000 08
+Aug-00 3163 0 3163 469.03 20.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+Physical
+2000.09 2000 09
+Sep-00 0 -1360 -1360 471.57 21.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+Physical
+2001.01 2001 01
+Jan-01 300 0 300 479.63 18.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+Physical
+2001.02 2001 02
+Feb-01 300 0 300 483.36 18.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+Prov. Bil
+2000.07 2000 07
+Jul-00 299 -299 0 464 20.75 50006 MG Metal & Commodity Company Ltd.
+Lead
+Stock phy
+2000.07 2000 07
+Jul-00 16905 0 16905 464 20.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2000.07 2000 07
+Jul-00 3216 -3024 192 7793 32.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2000.08 2000 08
+Aug-00 12942 -15096 -2154 7806.57 32.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2000.09 2000 09
+Sep-00 14058 -9240 4818 7787.14 33.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2000.1 2000 10 Oct-00 2232 -2970 -738 7746 32.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2000.12 2000 12
+Dec-00 15912 -11916 3996 7635 29.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2001.01 2001 01
+Jan-01 1194 -822 372 7563 29.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2001.02 2001 02
+Feb-01 762 -906 -144 7388.93 28.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2001.03 2001 03
+Mar-01 906 -492 414 7388.93 28.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2001.04 2001 04
+Apr-01 492 -846 -354 7388.93 28.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2001.05 2001 05
+May-01 756 -612 144 7253.93 26.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2001.06 2001 06
+Jun-01 612 -480 132 7253.93 26.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2001.07 2001 07
+Jul-01 480 -390 90 7253.93 26.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2001.08 2001 08
+Aug-01 390 -354 36 7155.57 25.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2001.09 2001 09
+Sep-01 354 -168 186 7155.57 25.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2001.1 2001 10 Oct-01 168 -192 -24 7155.57 25.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2001.11 2001 11
+Nov-01 192 -354 -162 7054.71 24.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2001.12 2001 12
+Dec-01 5112 -15612 -10500 7054.71 24.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2002.01 2002 01
+Jan-02 2118 -1878 240 7054.71 24.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2002.03 2002 03
+Mar-02 1920 -2118 -198 6970.18 24.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+LME
+2002.05 2002 05
+May-02 1800 -1920 -120 6897.14 24.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+Physical
+2000.07 2000 07
+Jul-00 3149 -2002 1147 7793 32.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+Physical
+2000.08 2000 08
+Aug-00 4207 -1070 3136 7806.57 32.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+Physical
+2000.09 2000 09
+Sep-00 0 -403 -403 7787.14 33.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+Physical
+2000.1 2000 10 Oct-00 0 -200 -200 7746 32.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+Physical
+2000.11 2000 11
+Nov-00 0 -20 -20 7689.57 31.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+Physical
+2000.12 2000 12
+Dec-00 0 -158 -158 7635 29.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+Prov. Bil
+2000.07 2000 07
+Jul-00 29277 -28799 478 7793 32.75 50006 MG Metal & Commodity Company Ltd.
+Nickel
+Stock phy
+2000.07 2000 07
+Jul-00 1822 0 1822 7793 32.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+LME
+2000.07 2000 07
+Jul-00 1265 -480 785 5254 13.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+LME
+2000.08 2000 08
+Aug-00 575 -755 -180 5275.14 13.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+LME
+2000.09 2000 09
+Sep-00 955 -1675 -720 5288.43 13.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+LME
+2000.1 2000 10 Oct-00 625 -100 525 5300.9 12.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+LME
+2000.11 2000 11
+Nov-00 25 0 25 5312.71 12.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+Physical
+2000.07 2000 07
+Jul-00 680 -255 425 5254 13.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+Physical
+2000.08 2000 08
+Aug-00 245 -792 -547 5275.14 13.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+Physical
+2000.09 2000 09
+Sep-00 60 -300 -240 5288.43 13.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+Physical
+2000.1 2000 10 Oct-00 10 -90 -80 5300.9 12.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+Physical
+2000.11 2000 11
+Nov-00 0 -105 -105 5312.71 12.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+Physical
+2000.12 2000 12
+Dec-00 0 -60 -60 5321 12.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+Prov. Bil
+2000.07 2000 07
+Jul-00 748 -807 -59 5254 13.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+Stock
+2000.07 2000 07
+Jul-00 15 0 15 5254 13.75 50006 MG Metal & Commodity Company Ltd.
+Tin
+Stock phy
+2000.07 2000 07
+Jul-00 1044 0 1044 5254 13.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+LME
+2000.07 2000 07
+Jul-00 3525 -7050 -3525 1144 16.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+LME
+2000.08 2000 08
+Aug-00 7475 -19775 -12300 1152.09 16.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+LME
+2000.09 2000 09
+Sep-00 400 -9825 -9425 1158.57 19.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+LME
+2000.1 2000 10 Oct-00 950 -400 550 1161.1 18.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+LME
+2000.11 2000 11
+Nov-00 625 0 625 1162.37 17.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+LME
+2000.12 2000 12
+Dec-00 25200 -22250 2950 1162.43 17.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+LME
+2001.12 2001 12
+Dec-01 0 -5000 -5000 1140.31 15.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+Physical
+2000.07 2000 07
+Jul-00 13890 -4357 9534 1144 16.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+Physical
+2000.08 2000 08
+Aug-00 5580 -1739 3841 1152.09 16.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+Physical
+2000.09 2000 09
+Sep-00 400 -1420 -1020 1158.57 19.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+Physical
+2000.1 2000 10 Oct-00 0 -820 -820 1161.1 18.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+Physical
+2000.11 2000 11
+Nov-00 0 -560 -560 1162.37 17.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+Physical
+2000.12 2000 12
+Dec-00 0 -560 -560 1162.43 17.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+Physical
+2001.01 2001 01
+Jan-01 0 -20 -20 1160.69 16.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+Physical
+2001.03 2001 03
+Mar-01 0 -20 -20 1156.29 16.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+Prov. Bil
+2000.07 2000 07
+Jul-00 57619 -57399 220 1144 16.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+Stock
+2000.07 2000 07
+Jul-00 1531 0 1531 1144 16.75 50006 MG Metal & Commodity Company Ltd.
+Zinc
+Stock phy
+2000.07 2000 07
+Jul-00 19945 0 19945 1144 16.75 50007 R Wolff
+Copper
+Physical
+2000.07 2000 07
+Jul-00 1286 0 1286 1841 15.75 50007 R Wolff
+Copper
+Physical
+2000.08 2000 08
+Aug-00 128 -128 0 1852.77 15.75 50007 R Wolff
+Copper
+Stock phy
+2000.07 2000 07
+Jul-00 2316 0 2316 1841 15.75 50007 R Wolff
+Lead
+LME
+2000.08 2000 08
+Aug-00 3150 0 3150 469.03 20.75 50007 R Wolff
+Lead
+LME
+2000.09 2000 09
+Sep-00 2350 -20275 -17925 471.57 21.75 50007 R Wolff
+Lead
+LME
+2000.1 2000 10 Oct-00 1700 -500 1200 474.2 20.75 50007 R Wolff
+Lead
+LME
+2000.11 2000 11
+Nov-00 1175 0 1175 476.74 20.75 50007 R Wolff
+Lead
+LME
+2000.12 2000 12
+Dec-00 1175 0 1175 478.29 20.75 50007 R Wolff
+Lead
+Physical
+2000.07 2000 07
+Jul-00 0 -2727 -2727 464 20.75 50007 R Wolff
+Lead
+Physical
+2000.08 2000 08
+Aug-00 4011 -2400 1611 469.03 20.75 50007 R Wolff
+Lead
+Physical
+2000.09 2000 09
+Sep-00 0 -2600 -2600 471.57 21.75 50007 R Wolff
+Lead
+Physical
+2000.1 2000 10 Oct-00 0 -900 -900 474.2 20.75 50007 R Wolff
+Lead
+Physical
+2000.11 2000 11
+Nov-00 0 -900 -900 476.74 20.75 50007 R Wolff
+Lead
+Physical
+2000.12 2000 12
+Dec-00 0 -900 -900 478.29 20.75 50007 R Wolff
+Lead
+Stock phy
+2000.07 2000 07
+Jul-00 18755 0 18755 464 20.75 63110 MG Metall Recycling GmbH, Hbg
+Aluminium
+Physical
+2000.07 2000 07
+Jul-00 2289 -2854 -564 1556 16.75 63110 MG Metall Recycling GmbH, Hbg
+Aluminium
+Physical
+2000.08 2000 08
+Aug-00 468 -1161 -694 1566.6 16.75 63110 MG Metall Recycling GmbH, Hbg
+Aluminium
+Physical
+2000.09 2000 09
+Sep-00 132 -775 -643 1572.92 18.75 63110 MG Metall Recycling GmbH, Hbg
+Aluminium
+Physical
+2000.1 2000 10 Oct-00 0 -50 -50 1577.1 18.75 63110 MG Metall Recycling GmbH, Hbg
+Aluminium
+Physical
+2001.03 2001 03
+Mar-01 63 0 63 1558.93 17.75 63110 MG Metall Recycling GmbH, Hbg
+Aluminium
+Stock
+2000.07 2000 07
+Jul-00 2463 -190 2273 1556 16.75 63110 MG Metall Recycling GmbH, Hbg
+Brass
+Physical
+2000.07 2000 07
+Jul-00 1661 -1552 109 63110 MG Metall Recycling GmbH, Hbg
+Brass
+Physical
+2000.08 2000 08
+Aug-00 82 -450 -368 63110 MG Metall Recycling GmbH, Hbg
+Brass
+Physical
+2000.09 2000 09
+Sep-00 80 -95 -15 63110 MG Metall Recycling GmbH, Hbg
+Brass
+Physical
+2000.1 2000 10 Oct-00 0 -95 -95 63110 MG Metall Recycling GmbH, Hbg
+Brass
+Physical
+2000.11 2000 11
+Nov-00 0 -15 -15 63110 MG Metall Recycling GmbH, Hbg
+Brass
+Physical
+2000.12 2000 12
+Dec-00 0 -359 -359 63110 MG Metall Recycling GmbH, Hbg
+Brass
+Stock
+2000.07 2000 07
+Jul-00 1199 -488 710 63110 MG Metall Recycling GmbH, Hbg
+Cadmium
+Physical
+2000.07 2000 07
+Jul-00 -1 0 -1 22 22.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+LME
+2000.07 2000 07
+Jul-00 200 -450 -250 1841 15.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+LME
+2000.08 2000 08
+Aug-00 1825 -6875 -5050 1852.77 15.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+LME
+2000.09 2000 09
+Sep-00 2175 -2325 -150 1862.29 18.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+LME
+2000.1 2000 10 Oct-00 1250 -4775 -3525 1869.5 18.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+LME
+2000.11 2000 11
+Nov-00 300 -75 225 1875.11 18.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+LME
+2000.12 2000 12
+Dec-00 650 -300 350 1876.43 18.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+LME
+2001.01 2001 01
+Jan-01 1075 -1025 50 1874.69 18.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+LME
+2001.02 2001 02
+Feb-01 500 -500 0 1871.29 17.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+LME
+2001.03 2001 03
+Mar-01 125 -125 0 1871.29 17.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+LME
+2001.06 2001 06
+Jun-01 225 -175 50 1867.64 17.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+Physical
+2000.07 2000 07
+Jul-00 2050 -2903 -853 1841 15.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+Physical
+2000.08 2000 08
+Aug-00 1929 -895 1034 1852.77 15.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+Physical
+2000.09 2000 09
+Sep-00 171 -494 -324 1862.29 18.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+Physical
+2000.1 2000 10 Oct-00 24 -196 -172 1869.5 18.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+Physical
+2000.11 2000 11
+Nov-00 0 -316 -316 1875.11 18.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+Physical
+2000.12 2000 12
+Dec-00 0 -221 -221 1876.43 18.75 63110 MG Metall Recycling GmbH, Hbg
+Copper
+Stock
+2000.07 2000 07
+Jul-00 8298 -281 8017 1841 15.75 63110 MG Metall Recycling GmbH, Hbg
+Lead
+Physical
+2000.07 2000 07
+Jul-00 63 -138 -75 464 20.75 63110 MG Metall Recycling GmbH, Hbg
+Lead
+Physical
+2000.08 2000 08
+Aug-00 0 -48 -48 469.03 20.75 63110 MG Metall Recycling GmbH, Hbg
+Lead
+Stock
+2000.07 2000 07
+Jul-00 163 -12 151 464 20.75 63110 MG Metall Recycling GmbH, Hbg
+Magnesium
+Physical
+2000.07 2000 07
+Jul-00 19 0 19 2800 0.75 63110 MG Metall Recycling GmbH, Hbg
+Magnesium
+Stock
+2000.07 2000 07
+Jul-00 12 0 12 2800 0.75 63110 MG Metall Recycling GmbH, Hbg
+Nickel
+LME
+2000.08 2000 08
+Aug-00 84 -84 0 7806.57 32.75 63110 MG Metall Recycling GmbH, Hbg
+Nickel
+LME
+2000.09 2000 09
+Sep-00 36 -36 0 7787.14 33.75 63110 MG Metall Recycling GmbH, Hbg
+Nickel
+LME
+2000.11 2000 11
+Nov-00 12 -12 0 7689.57 31.75 63110 MG Metall Recycling GmbH, Hbg
+Nickel
+LME
+2001.03 2001 03
+Mar-01 24 -24 0 7388.93 28.75 63110 MG Metall Recycling GmbH, Hbg
+Nickel
+LME
+2002.08 2002 08
+Aug-02 24 -24 0 6826.43 24.75 63110 MG Metall Recycling GmbH, Hbg
+Nickel
+Physical
+2000.07 2000 07
+Jul-00 2 -3 -1 7793 32.75 63110 MG Metall Recycling GmbH, Hbg
+Nickel
+Physical
+2000.08 2000 08
+Aug-00 1 -6 -5 7806.57 32.75 63110 MG Metall Recycling GmbH, Hbg
+Nickel
+Stock
+2000.07 2000 07
+Jul-00 6 0 6 7793 32.75 63110 MG Metall Recycling GmbH, Hbg
+Now SO (others)
+Stock
+2000.07 2000 07
+Jul-00 0 -202 -202 63110 MG Metall Recycling GmbH, Hbg
+Tin
+Physical
+2000.07 2000 07
+Jul-00 2 -8 -6 5254 13.75 63110 MG Metall Recycling GmbH, Hbg
+Tin
+Stock
+2000.07 2000 07
+Jul-00 9 -3 6 5254 13.75 63110 MG Metall Recycling GmbH, Hbg
+Titanium
+Physical
+2000.07 2000 07
+Jul-00 1 -1 0 63110 MG Metall Recycling GmbH, Hbg
+Titanium
+Stock
+2000.07 2000 07
+Jul-00 1 0 1 63110 MG Metall Recycling GmbH, Hbg
+Tungsten
+Stock
+2000.07 2000 07
+Jul-00 1 0 1 63110 MG Metall Recycling GmbH, Hbg
+VA-Steel
+Physical
+2000.07 2000 07
+Jul-00 145 -69 76 63110 MG Metall Recycling GmbH, Hbg
+VA-Steel
+Stock
+2000.07 2000 07
+Jul-00 14 0 14 63110 MG Metall Recycling GmbH, Hbg
+Zinc
+Physical
+2000.07 2000 07
+Jul-00 177 -122 56 1144 16.75 63110 MG Metall Recycling GmbH, Hbg
+Zinc
+Physical
+2000.08 2000 08
+Aug-00 20 -132 -112 1152.09 16.75 63110 MG Metall Recycling GmbH, Hbg
+Zinc
+Physical
+2000.09 2000 09
+Sep-00 0 -45 -45 1158.57 19.75 63110 MG Metall Recycling GmbH, Hbg
+Zinc
+Stock
+2000.07 2000 07
+Jul-00 95 -11 85 1144 16.75 
+
+Copper Option Position
+Code
+Entity
+Metal
+Type
+Fwd Date
+A
+B
+C
+D
+E
+50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2000.07 23020 -26014 -2994 1807 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2000.08 0 -2087 -2087 1818.57 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2000.09 998 -33679 -32681 1828.21 19.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2000.1 703 0 703 1834.3 19.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2000.11 465 0 465 1838.34 19.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2000.12 1780 -10705 -8924 1839.93 18.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2001.03 68 0 68 1832.89 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Comex
+2001.05 23 0 23 1828.79 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2000.07 178275 -84250 94025 1807 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2000.08 69275 -183950 -114675 1818.57 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2000.09 79975 -135300 -55325 1828.21 19.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2000.1 5175 -42750 -37575 1834.3 19.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2000.11 1075 0 1075 1838.34 19.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2000.12 325100 -256000 69100 1839.93 18.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2001.01 300 0 300 1837.77 18.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2001.03 0 -75375 -75375 1832.89 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2001.04 8500 -10250 -1750 1832.89 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2001.05 0 -5000 -5000 1828.79 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2001.06 0 -10000 -10000 1828.79 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2001.12 13750 -109125 -95375 1818.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2002.03 5375 0 5375 1815.71 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2002.04 12750 -8500 4250 1815.71 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+LME
+2002.05 5000 0 5000 1811.89 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Option Call
+2000.09 5248 0 5248 1828.21 19.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2000.07 159586 -60861 98725 1807 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2000.08 44542 -8846 35696 1818.57 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2000.09 4182 -6973 -2791 1828.21 19.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2000.1 907 -2784 -1877 1834.3 19.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2000.11 350 -1356 -1006 1838.34 19.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2000.12 350 -1449 -1099 1839.93 18.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.01 0 -320 -320 1837.77 18.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.02 0 -320 -320 1832.89 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.03 0 -377 -377 1832.89 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.04 0 -75 -75 1832.89 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.05 0 -98 -98 1828.79 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.06 0 -75 -75 1828.79 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.07 0 -75 -75 1828.79 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.08 0 -75 -75 1823.77 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.09 0 -75 -75 1823.77 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.1 0 -75 -75 1823.77 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.11 0 -75 -75 1818.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2001.12 0 -75 -75 1818.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.01 0 -75 -75 1818.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.02 0 -75 -75 1815.71 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.03 0 -75 -75 1815.71 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.04 0 -75 -75 1815.71 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.05 0 -75 -75 1811.89 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.06 0 -75 -75 1811.89 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.07 0 -75 -75 1811.89 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.08 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.09 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.1 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.11 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2002.12 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.01 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.02 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.03 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.04 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.05 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.06 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.07 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.08 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.09 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.1 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.11 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Physical
+2003.12 0 -75 -75 1807.86 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Prov. Billing
+2000.07 293437 -280192 13245 1807 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Stock
+2000.07 449 0 449 1807 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Stock Comex
+2000.07 4320 0 4320 1807 17.33 50006 MG Metal & Commodity Company Ltd.
+Copper
+Stock physical
+2000.07 142020 0 142020 1807 17.33 28038 22790 5248 
