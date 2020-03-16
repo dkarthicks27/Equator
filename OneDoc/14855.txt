@@ -1,0 +1,155 @@
+ENRON AUSTRALIA FINANCE PTY LTD  ACN 082 245 921 ("Enron")
+David Minns
+Enron Technology
+2
+Microsoft Word 8.0
+5/26/2000 04:33:00
+7/6/2000 04:47:00
+7/6/2000 04:47:00
+1
+2911
+16596
+0
+ENRON
+138
+33
+20381
+no
+no
+7/6/2000 14:47:00
+7/6/2000 14:47:00
+5/26/2000 14:33:00
+
+- 
+G:\EnronOnline\Legal\Draft Documentation\Weather\GTC cDD Aust 000530.doc
+
+ENRON AUSTRALIA FINANCE PTY LTD  ACN 082 245 921 ("Enron")
+GENERAL TERMS AND CONDITIONS ("GTC") 
+
+ WEATHER (Cooling Degree Day) - AUSTRALIA
+1.	Transactions. 
+
+Notwithstanding clause 3(a) of the ETA or any master agreement executed between you ("Counterparty") and Enron Australia Finance Pty. Ltd. (ACN 082 245 921) ("Enron"), this GTC will set forth the general terms and conditions governing all Cooling Degree Day Swaps between us except as otherwise specified in a Transaction. All such Transactions, together with all other derivative transactions between the parties, shall constitute a single, integrated agreement between the parties, it being acknowledged that the parties are relying on the fact that all such Transactions will form a single agreement and that the parties would not otherwise enter into any Transactions. The definitions and provisions contained in the 1991 ISDA Definitions and the 1993 ISDA Commodity Derivatives Definitions (collectively, the "Definitions"), as published by the International Swaps and Derivatives Association, Inc. ("ISDA"), are incorporated into this GTC. In the event of any inconsistency between the Definitions and this GTC, this GTC will prevail. In the event of any inconsistency between the 1991 ISDA Definitions and the 1993 ISDA Commodity Derivatives Definitions, the 1993 ISDA Commodity Derivatives Definitions will prevail. Capitalised terms used herein but not defined herein (or in the Definitions or in the ISDA Form) are used with the meanings given on the website which makes reference to this GTC (the "Website"). 
+
+Terms of Transaction. 
+Transaction Type:  Cooling Degree Day (“CDD”) Swap.
+Calculation Period: The period from and including the Effective Date to and including the Termination Date. 
+Payment Date(s): The fifth Business Day after the Floating Amount for the Calculation Period is determinable, provided, however, that a one time adjustment in the amount paid will be made by the appropriate party, if applicable, if the Reporting Agency makes any correction or adjustment to the reported daily maximum and minimum temperatures within 95 days of the end of the Calculation Period for any day within the Calculation Period. 
+Fixed Amount Payer: (a) Enron if the terms set forth on the Website relevant to the Transaction provide that Counterparty is ‘Selling’ and (b) Counterparty if the terms set forth on the Website relevant to the Transaction provide that Counterparty is ‘Buying’.
+
+Floating Amount Payer:(a) Enron if the terms set forth on the Website relevant to the Transaction provide that Counterparty is ‘Buying’ and (b) Counterparty if the terms set forth on the Website relevant to the Transaction provide that Counterparty is ‘Selling’.
+
+Floating Amount: The sum of CDD’s calculated in accordance with the procedure detailed below, for each day during the applicable Calculation Period. If more than one Reference Weather Station is specified for a Transaction, then the Floating Amount will be the weighted average of the sum of CDD’s for each such Reference Weather Station during the applicable Calculation Period using the percentage set forth next to such Reference Weather Station for weighting. If no percentage is so specified, then the weighting shall be equal.
+For a Reference Weather Station, CDD for each day is equal to the greater of (i) the non-rounded average of the daily maximum and daily minimum temperatures in Reference Degrees from and including 9:00 AM on that day to and including 8.59 AM on the next day local time as measured by Reporting Service, and reported by the Reporting Agency, for the Reference Weather Station minus the Reference Basis or (ii) zero. 
+
+Reporting Service: The Bureau of Meteorology of the Commonwealth of Australia established under the Meteorology Act 1955 or its successor organisation.
+
+Reporting Agency: National Climate Centre of the Reporting Service.
+
+Rounding Convention: Degrees Celsius rounded to one decimal place as follows: if the second number after the decimal point is five (5) or greater then the first number after the decimal point shall be increased by one (1), and if the second number after the decimal point is less than five (5) then the first number after the decimal point shall remain unchanged.
+
+LST: References to time are as reported by the Reporting Agency at the relevant RWS or FRWS.
+
+Fallback Reference Weather Station (“FRWS”):	If for any day during the Calculation Period a daily maximum or daily minimum temperature is unavailable for the Reference Weather Station (“RWS”) then the missing temperature(s) for that day at such RWS shall be calculated in accordance with the following procedure: 
+The daily maximum (if the missing temperature is a daily maximum) or daily minimum (if the missing temperature is a daily minimum) temperature for the corresponding day of each of the previous 30 years at such RWS shall be identified as reported in degrees Celsius by the Reporting Service (which numbers as reported by the Reporting Service shall not be rounded by the parties) and an average temperature shall be determined, which average temperature shall be rounded using the Rounding Convention; 
+In accordance with the above procedures, the daily maximum or daily minimum temperature as appropriate shall be determined for the corresponding day of each of the previous 30 years at  the Fallback Reference Weather Station ( or in the event such data is not available, from the closest geographical location that publishes data for that period as reported in degrees Celsius by the Reporting Agency (which numbers as reported by the Reporting Agency shall not be rounded by the parties) and an average temperature shall be determined, which average temperature shall be rounded using the Rounding Convention;
+The average temperature generated in (ii) above shall be subtracted from the average temperature generated in (i) above (with the resulting number (whether positive or negative) referred to as the "Average Temperature Difference Number"); 
+The daily maximum or daily minimum temperature as appropriate for the corresponding FRWS for the day for which the daily maximum or daily minimum temperature is missing for the RWS shall be identified as reported in degrees Celsius by the Reporting Agency (which number as reported by the Reporting Agency shall not be rounded);and 
+The temperature determined in (iv) shall be adjusted by adding the Average Temperature Difference Number if it is a positive number and subtracting the absolute value of the Average Temperature Difference Number if it is a negative number, with the resulting number being rounded in accordance with the Rounding Convention.  The final number determined in (v) shall be deemed the daily maximum or daily minimum temperature as appropriate for the RWS for the relevant day and shall be the number used to make the calculations as required pursuant to the procedures set forth in the “Floating Amount” above.
+
+
+Data Sources:  The data used to determine the Floating Amount (and to the extent required, data for the FRWS) shall be obtained from the “Daily Temperature and Climate Archive” of  the Reporting Agency or any successor thereto. To the extent that the Reporting Service data is corrected or adjusted within 95 days of the end of the Calculation Period then the adjusted or corrected number(s) shall be obtained from the "Daily Temperature and Climate Archive" of the Reporting Agency or any successor. Notwithstanding the foregoing, if the Reporting Agency does not issue data for the RWS, then the procedures set forth under "Fallback Reference Weather Station(s)" shall be utilised to determine the missing data.
+
+Strike Amount Differential: The amount equal to the Floating Amount minus the Strike Amount.
+
+Payment Amount:  Notwithstanding any provision of the Agreement to the contrary, if the Strike Amount Differential is a:
+positive number, the Floating Amount Payer shall pay the Fixed Amount Payer an amount in the Contractual Currency equal to the product of (i) the Notional Amount and (ii) the Strike Amount Differential, which amount shall be due and payable on the applicable Payment Date, provided, however, that the maximum amount payable by the Floating Amount Payer shall not exceed Maximum Payout Limit, or 
+negative number, the Fixed Amount Payer shall pay the Floating Amount Payer an absolute amount in the Contractual Currency equal to the product of (i) the Notional Amount and (ii) the Strike Amount Differential, which amount shall be due and payable on the applicable Payment Date, provided, however, that the maximum amount payable by the Fixed Amount Payer shall not exceed Maximum Payout Limit.
+ 
+	ISDA Agreement.
+“Transaction” as used herein shall mean this GTC (together with the ISDA Form) taken together with the terms set forth on the Website submitted by Counterparty and accepted by Enron.   The Transaction is subject to the terms and conditions of the printed form of the 1992 Master Agreement ( Multicurrency-Cross Border ) published by the ISDA  ( “the ISDA Form” ) as modified by this GTC ( the “ISDA Agreement” ). Each party acknowledges that it has a copy of ISDA Form and it has read and understands the terms and conditions thereof.  In event of any inconsistency among or between the ISDA Form, the Definitions ( as defined above ), and this GTC, this GTC will govern.
+4	ISDA Agreement provisions.
+The ISDA  Agreement deemed to govern Transactions (under paragragh 3 above) incorporates the following provisions:
+Loss and Second Method will apply.
+The Termination Currency will be Australian Dollars.
+The Calculation Agent is Enron.
+The Governing Law is to be the laws in force in the state of New South Wales.
+The place to apply for the purpose of the definition of Business Days is Sydney.
+Subparagragh 2(c) of the ISDA  Form will not apply to all Transactions
+5.	Relationship Between Parties.  
+Each party represents to the other party that : 
+(a)	No Reliance  It is acting for its own account, and has made its own independent decisions to enter into that Transaction and as to whether this Transaction is appropriate or proper for it based upon its own judgment and upon advice from such advisers as it has deemed necessary.  It is not relying upon any communication (electronic, written or oral) of the other party as investment advice or as a recommendation to enter into this Transaction; it being understood that information and explanations related to the terms and conditions of this Transaction shall not be considered investment advice or a recommendation to enter into this Transaction.  No communication (written or oral) received from the other party shall be deemed to be an assurance or guarantee as to the expected results of this Transaction.
+(b)	Assessment and Understanding.  It is capable of assessing the merits of and understanding (on its own behalf or through independent professional advice), and understands and accepts, the terms, conditions and risks of this Transaction.  It is also capable of assuming, and assumes, the risk of this Transaction.
+
+(c)	Status of the Parties.  The other party is not acting as a fiduciary or an adviser to it in respect of this Transaction.
+
+Limitation of Liability.  
+
+Without affecting the operation of Section 6(e) if the ISDA Form, no party shall be required to pay or be liable for any loss of business or contract, loss of profit or opportunity, break costs in connection with any other contract or any indirect, incidental, punitive or consequential damages arising out of or in connection with the Transactions or these GTCs. 
+
+Set-off.
+
+A new Section 6(f) in the ISDA Form is inserted as follows: 
+
+“(f)(i)	Any amount payable under this Agreement (“Payer’s Amount”) by one party (“Payer”) to the other party (“Payee”) after an Early Termination Date has occurred will, at the option of the Payer (and without prior notice to the Payee), be set-off against any amounts (excluding amounts which would become payable upon the occurrence of a contingency) (“Set-Off Amount”) payable or owing but not currently payable by the Payee to the Payer (irrespective of the currency, place of payment or booking office of the obligation) under any other contract between the Payee and the Payer or under Sections 8 or 11.
+To effect a set-off the Payer may convert the Payer’s Amount or the Set-Off Amount into the currency in which the other is denominated (“Other Currency”).  The conversion is to be at the rate equal to the spot exchange rate of the foreign exchange agent (selected as provided below) for the purchase of the Other Currency with the currency of the Payer’s Amount or Set-Off Amount as the case may be at or about 11.00 am (in Sydney) on such date as would be customary for the determination of such a rate for the purchase of such Other Currency for value on the date the set-off is effected.  The foreign exchange agent will be as agreed by the parties or failing agreement, selected by the Non-defaulting Party or non-Affected Party (or if there are two Affected Parties, by Enron).
+(iii)	The Payer must notify the Payee of any set-off effected under this Section 6(f).
+(iv)	Nothing in this Section 6(f) creates a charge or other security interest.  This Section is without prejudice and in addition to any right of set-off, combination of accounts, lien or other right to which any party is at any time otherwise entitled (whether by operation of law, contract or otherwise).”
+
+Purpose of Transaction.
+
+The obligations of each party under this Transaction exists regardless of whether the other party suffers a loss or is exposed to the risk of loss on the occurrence of a particular event, and neither party intends this Transaction to constitute a contract of insurance.
+
+Taxes.
+
+(a)	Payor Representations
+
+For the purposes of Section 3(e) of the ISDA Form and in connection with making all payments under a Transaction, each party makes the following payor representation:
+
+It is not required by any applicable law, as modified by the practice of any Relevant Jurisdiction, to make any deduction or withholding for or on account of any Tax from any payment (other than any interest payments under a Transaction) to be made by it to the other party under a Transaction. In making this representation, it may rely on the accuracy of the Tax representations and covenants made by the other party.
+
+For the purposes of this representation, "Relevant Jurisdiction" means any jurisdiction (i) in which the party is incorporated, organised, managed and controlled, or is considered to have a seat, (ii) where a branch or office through which the party is acting for the purposes of the relevant Transaction is located, (iii) in which the party executes the relevant Transaction or (iv) in relation to any payment, from or through which such payment is made.
+
+(b)	Payee Representations
+
+For the purposes of Section 3(f) of the ISDA Form and in connection with receiving all payments under a Transaction, the Counterparty makes the following payee representations:
+
+It is fully eligible for the benefits of the "Business Profits" or "Industrial and Commercial Profits" provision, as the case may be, the "Interest" provision or the "Other Income" provision (if any) of the Enron US Treaty (if any) with respect to any payment described in such provisions and received or to be received by it in connection with the Transaction, and (unless the Branch Jurisdiction (if any) or the Residence Jurisdiction is the United States) no such payment is attributable to a trade business carried on by it through a permanent establishment in the United States.
+
+It is fully eligible for the benefits of the "Business Profits" or "Industrial and Commercial Profits" provision, as the case may be, the "Interest" provision or the "Other Income" provision (if any) of the Enron Specified Treaty (if any) with respect to any payment described in such provisions and received or to be received by it in connection with the Transaction, and (unless the Branch Transaction (if any) or the Residence Jurisdiction is the Specified Jurisdiction) no such payment is attributable to a trade or business carried on by it through a permanent establishment in the Specified Jurisdiction.
+
+For the purposes of Section 3(f) of the ISDA Form and in connection with receiving all payments under a Transaction, Enron makes the following payee representations:
+
+It is fully eligible for the benefits of the "Business Profits" or "Industrial and Commercial Profits" provision, as the case may be, the "Interest" provision or the "Other Income" provision (if any) of the Counterparty Residence Treaty (if any) with respect to any payment described in such provisions and received or to be received by it in connection with the Transaction, and (unless the Residence Jurisdiction is the United States or the Specified Jurisdiction) no such payment is attributable to a trade or business carried on by it through a permanent establishment in the Residence Jurisdiction.
+
+If there is a Branch Jurisdiction, it is fully eligible for the benefits of the "Business Profits" or "Industrial and Commercial Profits" provision, as the case may be, the "Interest" provision or the "Other Income" provision (if any) of the Counterparty Branch Treaty (if any) with respect to any payment described in such provision and received or to be received by it in connection with the Transaction, and (unless the Branch Jurisdiction is the United States or the Specified Jurisdiction) no such payment is attributable to a trade or business carried on by it through a permanent establishment in the Branch Jurisdiction.
+
+"Branch Jurisdiction" means the jurisdiction (if any) specified as such in the Confirmation.
+
+"Confirmation" means the written confirmation of the relevant Transaction issued by Enron.
+
+"Counterparty Branch Treaty" means the income tax treaty between the United States and the Branch Jurisdiction provided that, where there is no such treaty, there shall be no Counterparty Branch Treaty.
+
+"Counterparty Residence Treaty" means the income tax treaty between the United States and the Residence Jurisdiction provided that, where there is no such treaty, there shall be no Counterparty Residence Treaty.
+
+"Enron Specified Treaty" means the income tax treaty between the Specified Jurisdiction and the Residence Jurisdiction provided that, where there is no such treaty, there shall be no Enron Specified Treaty.
+
+"Enron US Treaty" means the income tax treaty between the United States and the Residence Jurisdiction provided that, where there is no such treaty, there shall be no Enron US Treaty.
+
+"Residence Jurisdiction" means the jurisdiction specified as such in the Confirmation.
+
+"Specified Jurisdiction" means Australia.
+(c)	Changes in Representation
+
+If any representation made under this Section becomes untrue or inaccurate during the term of a Transaction, the party whose representation has changed shall promptly give the other party written notice of such change
+
+(d)	Withholding Tax Exemption Form
+
+Upon request, each party shall provide the other with a properly completed and executed exemption form, certificate or other document that will allow the other party to make any payment hereunder without deduction or withholding for Taxes, including, but not limited to, the United States Inland Revenue Form W-8 and 1001.
+
+10	Collateral Arrangements. 
+
+Counterparty shall (at Enron’s request) from time to time and at Enron’s option either: (i) within one Business Day of such request by Enron, provide to Enron a letter of credit in respect of Counterparty's obligations under any Transaction, in such form and for such amount and from such issuer, as is acceptable to Enron in its absolute discretion; or (ii) within such period as is specified by Enron, provide for the benefit of Enron a guarantee from a party, in such form and for such amount as is acceptable to Enron in its absolute discretion. Failure so to provide such letter of credit or guarantee or any default under such letter of credit or guarantee shall constitute an Event of Default.]1 The collateral clause will only be inserted for certain counterparties 
+1
+
+

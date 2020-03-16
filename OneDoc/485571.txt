@@ -1,0 +1,97 @@
+Better, Faster, Simpler Memo 
+dfuller3
+dfuller3
+7
+Microsoft Word 9.0
+1235
+8/15/2001 15:39:00
+8/22/2001 15:39:00
+1
+584
+3332
+0
+Enron Corp
+27
+6
+4091
+no
+no
+8/15/2001 10:39:00
+8/22/2001 10:39:00
+
+Coal and emissions group summer activities	8/22/2001	Page 
+Your Personal Best Makes Enron Best	Communicate- Facts Are Friendly		Better, Faster, Simpler
+Form 000-469-1 (5/92)
+Interoffice
+Memorandum
+Respect	Integrity		Communication	Excellence
+Form 000-469-E(7/92)
+
+
+
+
+To:
+Kevin McGowan 
+
+
+
+
+
+
+
+
+From:
+Daniel Fuller
+Department:
+EGM Fundy
+
+
+
+
+
+
+Subject:
+Coal and emissions group summer activities
+Date:
+August 22, 2001 , 
+
+
+CC:  Jeff Andrews
+	The majority of my time with the coal and emissions group was spent doing short-term research projects on emission credit markets for Trevor Woods.  Additionally, I assisted Laura in completing a number of research and data analysis projects and created a presentation on coal basics for future use by Salil’s coal fundamentals group.  My activities with the fundamentals group have centered around making improvements to a fuel switching model, but have also included data analysis on numerous commodities.
+6/5-6/15
+Conducted legal and market research on all TNRCC-created regional emissions markets.  I synthesized the legislation and identified its significance for trading possibilities in a report on the Houston Galveston (HGA) nonattainment region for ERC and DERC trading reference use.
+Compiled a database of all probable major players in the HGA emissions market including plant, contact, and credit holdings information.
+All of this work was eventually handed off to Laura for continuation once I began working with the egm fundamentals group.
+6/18-6/22
+Organized and inventoried San Joaquin emission credit holdings.  Researched current San Joaquin emissions credit market and identified possible buyers.  
+Did odd jobs for Trevor and assisted Laura with modifications to the OTR model.
+6/25-6/29
+Created a listing and brief synopsis of regional emissions credit trading programs and accompanying legislation.  This project was also handed off to Laura once I began working with the fundamentals group. 
+Researched possibilities of internal (within Enron Corp) emissions credit origination. 
+7/2-7/6
+Met with Vince Middleton (in Scott Affelt’s group) about the possibility of emissions credit creation resulting from the NoxTech group’s efforts.
+Met with Heather Mitchell from EES about possible NOx emissions credit generation from the implementation of energy efficiency products. 
+Met with Lisa Jacobson from environmental strategies about emissions credit generation from efficiency measures on the pipelines.
+Began research on coal fundamentals and industry information in preparation for coal presentation for Salil.
+7/9-720
+ Researched and wrote “Coal 101” presentation.
+Assisted Laura and Mike with emissions credit market research.
+7/23-7/27
+Began working with Jeff Andrews – researching possible improvements to fuel switching model.
+Worked with Jason Sokolov to update and improve search capabilities of the Continuous Emissions Monitoring Systems (CEMS) database.
+7/30-8/3
+Compiled data and conducted an analysis of average hourly capacity variance corresponding to peak power demand amongst coal-fired generators by NERC region.  I suggested to Bart Burk and Dipak Agarwalla (designers of the the fuel-switching model) an addition to their model that accounted for this analysis of the behavior of coal-fired generators.
+Developed charts demonstrating the price sensitivity of switch capable plants to the 2 oil – natural gas and 6 oil – natural gas spreads by NERC region.
+8/6-8/10
+Continued gathering data on fuel price sensitivity of switch capable plants in FRCC, MAAC, NPCC, and ERCOT. 
+Used information presented in charts of fuel price and fuel use data to frame a regression analysis of price/fuel use correspondence.  
+8/13-8/17
+Completed regression analysis – determined minimum price spreads necessary to force price-driven fuel usage decisions.
+Incorporated minimum price spread thresholds between natural gas and both 2 and 6 oils into the fuel switching model for ERCOT, FRCC, MAAC, and NPCC.
+Assisted Sunitinder (of the fundamentals group) in data analysis to be incorporated into a refinery model.
+8/20-8/22/01
+Continued data analysis to identify major drivers of crude product prices.
+Compiled data and conducted regression analysis on heating oil and diesel price reactions to API stock estimates.
+
+
+

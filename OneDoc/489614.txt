@@ -1,0 +1,614 @@
+1996-1998 Canadian Base Load Gas Purchase Agreement with AGS
+Jean R Fedor
+dperlin
+3
+Microsoft Word 9.0
+51
+8/14/2001 20:28:00
+8/14/2001 19:42:00
+8/14/2001 20:38:00
+1
+9374
+53437
+0
+ISS Materiel
+61440
+445
+106
+65624
+no
+no
+8/14/2001 14:42:00
+8/14/2001 15:38:00
+8/14/2001 15:28:00
+
+Boeing's Base Load Agreement (Redline 2).doc
+
+Attachment B - Terms and Conditions
+08/14/01//
+
+Boeing's Base Load Agreement (Redline 2).doc
+
+
+BASE LOAD
+GAS PURCHASE AGREEMENT
+
+
+
+Between
+
+
+
+THE BOEING COMPANY
+(“Buyer“)
+
+
+and
+
+
+____ENRON NORTH AMERICA CORP.__________ _______________
+(“Seller“)
+
+
+Dated
+__________
+
+
+
+
+TABLE OF CONTENTS
+
+
+ARTICLE I - DEFINITIONS	
+Section 1.1   Definitions	
+
+ARTICLE II - TERM	
+Section 2.1   Term	
+Section 2.2   Early Termination	
+Section 2.3   Survival of Obligations	
+
+ARTICLE III - GAS SUPPLY	
+Section 3.1   Seller‘s Gas Supply	
+
+ARTICLE IV - QUANTITY, NOMINATION AND DELIVERIES	
+Section 4.1   Sale of Gas	
+Section 4.2   Nominations	
+Section 4.3   Gas Inventory Charge	
+Section 4.4   Seller‘s Obligation/Replacement Fuel Costs	
+
+ARTICLE V - DELIVERY	
+Section 5.1   Point(s) of Delivery	
+Section 5.2   Title; Risk of Loss	
+
+ARTICLE VI - TRANSPORTATION	
+Section 6.1   Transportation Charges	
+Section 6.2   Transportation Interruptions	
+Section 6.3   Transportation Penalties	
+Section 6.4   Seller‘s Transportation Arrangements	
+
+ARTICLE VII - PRESSURE; QUALITY; METERING	
+Section 7.1   Delivery Pressures	
+Section 7.2   Quality	
+Section 7.3   Measurement and Metering	
+
+ARTICLE VIII - PRICE	
+Section 8.1   Purchase Price	
+Section 8.2   Assessments, Royalties and Taxes	
+
+ARTICLE IX - BILLING AND PAYMENT	
+Section 9.1   Payment	
+Section 9.2   Access to Records	
+
+ARTICLE X - FORCE MAJEURE	
+Section 10.1   Suspension	
+Section 10.2   Events of Force Majeure	
+Section 10.3   No Relief	
+Section 10.4   End of Suspension	
+Section 10.5   Force Majeure Termination	
+
+ARTICLE XI - REPRESENTATIONS, WARRANTIES AND COVENANTS	
+Section 11.1   Representations and Warranties	
+Section 11.2   Warranty of Title	
+
+ARTICLE XII - DEFAULT	
+Section 12.1   Remedies Upon Event of Default	
+Section 12.2   Definition of Event of Default	
+
+ARTICLE XIII - INDEMNIFICATION 	
+Section 13.1   General Indemnity	
+Section 13.2   Construction of Indemnities	
+
+ARTICLE XIV - MISCELLANEOUS	
+Section 14.1   No Waiver	
+Section 14.2   Headings and References	
+Section 14.3   Choice of Law	
+Section 14.4   Notices	
+Section 14.5   Assignment; Successors and Assigns	
+Section 14.6   Further Assurances	
+Section 14.7   Confidentiality	
+Section 14.8   Compliance with Law; Regulatory Bodies	
+Section 14.9   Attachments	
+Section 14.10  Execution and Originals	
+Section 14.11  Integration; Amendments	
+
+EXHIBIT A
+
+
+
+
+GAS PURCHASE AGREEMENT
+
+
+This gas purchase agreement (the “Agreement“) is made and entered into as of the ____th day of________, 200X, by and between THE BOEING COMPANY, a Delaware corporation (hereinafter referred to as “Buyer”) and ENRON NORTH AMERICA CORP.,a Delaware corporation_______ ______________ (hereinafter referred to as “Seller”). (Buyer and Seller may hereinafter be referred to individually as a “Party“ and jointly as the “Parties”.)
+
+WITNESSETH:
+
+WHEREAS, Buyer desires to purchase natural gas; and
+
+WHEREAS, Seller owns, or has the right to acquire, certain natural gas supplies from which Seller will have gas for sale hereunder; and
+
+WHEREAS, Buyer desires to purchase, and Seller desires to sell and deliver, natural gas on the terms and conditions set forth below;
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties, intending to be legally bound hereby agree as follows:
+
+
+ARTICLE 1 - DEFINITIONS
+
+Section 1.1 
+
+In addition to terms defined elsewhere herein, the following terms shall mean the following in this Agreement:  
+
+Annual Contract Quantity - For a particular Contract Year, a quantity of gas in MMBtu equal to the product of the DCQ and the number of Days in such Contract Year.
+
+Commencement Date - The commencement date shall be April 1, 2001 and October 1, 2001 and Nov 1, 2001.  
+
+Confirmed Nomination - a nomination placed by Northwest that is confirmed by Seller’s transporter.
+
+Contract Year - A period of twelve (12) consecutive Months beginning on November 1 of each calendar year and ending on October 31 of the following calendar year. 
+
+Correct Invoice - An invoice for payment for natural gas delivered each Month.  The invoice must include the following information:  invoice date, invoice number, purchase order number, payment terms, Seller’s name and remit to address, quantity, unit price and total price.  If any of the above information is missing or is incorrect, the invoice will not be considered a Correct Invoice.
+
+Daily Contract Quantity or DCQ - A quantity of gas equal to 5000 MMBtu per day.
+
+Day - That period defined as “day“ in Northwest‘s FERC Gas Tariff, as amended from time to time.  The date of a Day shall be that of its beginning.
+
+Deficient Quantity - The amount of gas Seller fails to make available at the Point (s) of Delivery below the Nominated Quantity for that Day for reasons other than Force Majeure.
+
+FERC - The Federal Energy Regulatory Commission or any successor regulatory agency or body having authority to regulate the rates and services of any interstate pipeline transporter of gas sold under this Agreement.
+
+Gas Inventory Charge – Calculated by multiplying the Take Deficiency by an amount equal to the positive difference between the Purchase Price and the Gas Daily “Daily Midpoint” price for gas delivered to Northwest at Rocky Mountains (NW, Wyoming Pool).  If the difference between the Purchase Price and the index price is negative, the Gas Inventory Charge shall be zero.  
+
+Imbalance Charges – Any fees, penalties, costs or charges (in cash or in kind) assessed by a Transporter or local distribution company for failure to satisfy or exceeding the Transporter's or LDC balance and/or nomination requirements 
+
+MMBtu - One million (1,000,000) British thermal units measured at an absolute pressure of 14.73 pounds per square inch absolute (psia) at 60oF on a dry basis.
+
+Month - A period of time commencing on the first Day of a calendar month and ending on the last Day of such calendar month.
+
+
+Monthly Minimum Quantity - For a particular Month, a quantity of gas in MMBtu equal the DCQ times the number of Days in the Month.
+
+
+Nominated Quantity - For any particular Day, the quantity of gas specified by Buyer in its standing nomination to Seller, pursuant to Section 4.2, that Buyer elects to purchase on such Day.  The Nominated Quantity shall not exceed the DCQ.
+
+Northwest - Northwest Pipeline Corporation or any successor thereto.
+
+Point(s) of Delivery - The points of delivery for the quantities of gas to be sold hereunder, as specified in Exhibit A, as may be revised pursuant to Section 5.1 hereof.
+
+Replacement - Natural gas or alternative fuel purchased by Buyer to replace the Deficient Quantity.
+
+"Spot Price" means the “Daily Midpoint” price set forth in Gas Daily® (Financial Times Energy), or successor publication, in the column "Daily Price Survey" under the listing applicable to the geographic location closest in proximity to the Delivery Point(s) for the relevant gas day.  If there is no single “Daily Midpoint” price published for that particular Gas Day, but there is published a "Common" range of prices under the above column and listing, then the Spot Price shall be the average of such “Common” high and low prices.  In the event that no ‘Daily Midpoint” price or “Common” range of prices is published for that particular Gas Day, then the Spot Price shall be the average of the following: the price (determined as stated above) for each of the first Gas Day immediately preceding and following the Gas Day in which the default occurred for which a Spot Price can be determined. 
+
+
+Take Deficiency - For a particular day, the quantity of gas in MMBtu by which the DCQ exceeds the sum of (a) the total quantity of gas purchased and delivered as a Confirmed Nomination during such day, (b) the sum of the amounts by which the DCQ exceeded the amount of gas purchased and delivered as a Confirmed Nomination during such day on which Buyer was excused by Force Majeure from performing hereunder, and (c) the sum of the amounts by which the Nominated Quantity exceeded the amount of gas actually purchased and delivered as a Confirmed Nomination during such day on which Seller failed to deliver gas for any reason, including Force Majeure.
+
+
+
+ARTICLE II - TERM
+
+Section 2.1 - Term
+
+Subject to the other provisions hereof, the term of this Agreement shall commence on April 1, 2001 and shall continue and remain in full force and effect through March 31, 2002 (the Term).  Another term shall commence on October 1, 2001 through October 31, 2001.  Another term Nov 1, 2001 through October 31, 2002. 
+
+Section 2.2 - Early Termination
+
+This Agreement may be terminated prior to the end of the Term as follows:
+
+(a)	by either Party upon the mutual consent of both Parties;
+
+(b)	by Buyer, upon written notice to Seller, in the event Seller, during any period of thirty (30) consecutive Days after the Commencement Date, fails to make available at a Point of Delivery a quantity of gas equal to or greater than seventy five percent (75%) of the sum of Buyer‘s Nominated Quantities during such thirty-day period; or
+
+(c)	as provided in Sections 10.5 and 12.1 of this Agreement.
+
+Section 2.3 - Survival of Obligations
+
+Except in the event of a termination due to an Event of Default under Section 12.1 hereof, in the event this Agreement is terminated, neither Party shall have any remaining obligation hereunder to the other Party, except for (a) each Party‘s obligation to pay the other Party all amounts due and owing as of the effective date of such termination, and (b) Seller‘s obligation to make up any imbalance in deliveries, or reimburse Buyer for any under delivery, which exists as of the effective date of such termination; provided, however, the obligations set forth in Section 6.3 and 13.1 shall survive any termination of this Agreement.
+
+
+ARTICLE III - GAS SUPPLY
+
+Section 3.1 - Seller‘s Gas Supply
+
+Seller warrants that it will have the right to convey and will transfer good and merchantable title to all Gas sold hereunder and delivered by it to Buyer, free and clear of all liens, encumbrances, and claims.
+
+ARTICLE IV - QUANTITY, NOMINATION AND DELIVERIES
+
+Section 4.1 - Sale of Gas
+
+Subject to the other provisions of this Agreement, commencing on the Commencement Date and continuing throughout the Term of this Agreement, Seller shall sell and deliver to Buyer, and Buyer shall purchase and accept from Seller, on each Day, a quantity of gas equal to the Nominated Quantity for such Day under this Agreement.  
+
+
+Section 4.2 - Nominations 
+
+Buyer shall provide Seller by telephone with Buyer‘s Nominated Quantity and Northwest transportation agreement number no later than twenty five (25) hours prior to the time by which Buyer is required to provide Northwest with Buyer‘s transportation nomination for such Day.  Buyer shall provide Seller with written confirmation of Buyer's telephonic notice as soon as practicable after each nomination is made.  Seller shall provide Buyer by telephone with confirmation of Buyer's Nominated Quantity (including gas quantity, Northwest Receipt Point, and Seller's Upstream Contract) no later than three (3) hours after receipt by telephone of Buyer's Nominated Quantity.  Seller shall provide written confirmation of Seller's telephonic notice as soon as practicable after having confirmed each nomination by telephone.  For each Gas Day during which Seller fails to confirm Buyer's Nominated Quantity in accordance with the notice period of this Section 4.2, Seller shall reduce Buyer's Monthly Minimum Quantity obligation, for the month during which the applicable Gas Day occurred, by an amount in MMBtus equal to the Buyer's Nominated Quantity for the applicable Gas Day.
+
+Section 4.3 - Gas Inventory Charge
+
+(a)	If, during any Month following the Commencement Date, Buyer fails to purchase the Monthly Minimum Quantity, for reasons other than Force Majeure, Seller shall, following the end of such Month forward a statement to Buyer, with supporting calculation thereof.  Buyer shall, pursuant to the procedures set forth in Article IX, pay Seller an amount equal to the sum of the Gas Inventory Charges for each day of take deficiency. 
+
+(b)	Buyer‘s payment of the Monthly Gas Inventory Charges shall constitute Seller‘s sole remedy, and Buyer‘s exclusive liability to Seller, for Buyer‘s failure to purchase the Monthly Minimum Quantities for reasons other than Force Majeure.  
+
+Section 4.4 - Seller‘s Obligation/Replacement Fuel Costs
+
+In the event Seller, on any Day on or after the Commencement Date, fails to make available at a Point of Delivery a quantity of gas equal to the Nominated Quantity for that Day by the third nomination cycle for reasons other than Force Majeure:
+
+Seller shall notify Buyer of the quantity that it has failed, or will be unable, to deliver and the anticipated duration of the deficiency.
+
+Buyer shall use commercially reasonable efforts to obtain Replacement Gas or alternate fuels at a price reasonable for the delivery or production areas, as applicable, consistent with:  the amount of notice provided by Seller; the immediacy of the Buyer’s Gas consumption needs; the quantities involved; and the anticipated length of failure by Seller.
+
+In addition to any liability for Imbalance Charges, which shall not be recovered twice by the following remedy, Seller shall make payment to Buyer in an amount equal to the positive difference, if any, between the purchase price paid by Buyer for replacement gas or alternative fuels and the Contract Price, adjusted for commercially reasonable differences in transportation costs to or from the Delivery Point(s) multiplied by the difference between the Daily Contract Quantity and the quantity actually delivered by Seller for such Day.
+
+ QUANTITY OBLIGATIONS  . Seller's Sales Obligation.  
+              Seller shall Schedule, or cause to be Scheduled, at the Delivery Point(s) on a firm basis each Gas Day a quantity of Gas equal to the quantity properly requested by Buyer up to the DCQ or MaxDQ, if applicable ("Buyer's Requested Quantity").  Unless otherwise agreed nothing in this Agreement, and in particular this Article 3, shall require or permit either Party to Schedule Gas at a point other than a Delivery Point or in excess of the DCQ, Maximum Daily Delivery Point Quantity or MaxDQ, as applicable. 
+
+
+. Seller's Failure to Schedule.  If on any Gas Day Seller fails to Schedule Buyer's Requested Quantity, then such occurrence shall constitute a "Seller's Deficiency Default" and "Seller's Deficiency Quantity" shall be the numerical difference between Buyer's Requested Quantity and the amount of Gas Scheduled for such Gas Day.  In the event of a Seller's Deficiency Default, Seller shall pay Buyer the sum of the following: (i) an amount equal to the product of the Seller's Deficiency Quantity multiplied by the Replacement Price Differential, plus (ii) liquidated damages equal to $0.15 multiplied by Seller's Deficiency Quantity to cover Buyer's administrative and operational costs.  During any Month in which Seller's nonperformance continues for a period of five consecutive Gas Days Buyer may elect upon notice to Seller, without liability, not to recommence Scheduling Gas hereunder for the remainder of such Month, but for no longer period.  Subject to offset pursuant to Section 3.5, payment to Buyer shall be made on the 25th Day of the Month in which Seller receives Buyer's statement for same.
+
+The Seller shall pay Buyer amounts owing pursuant to this section within thirty (30) days of Buyer rendering a bill.  If Seller fails to pay within thirty days, interest shall accrue at the rate of interest which is equal to the Prime Rate, plus one hundred basis points until the same is paid.
+
+Subject to Buyer‘s right to terminate this Agreement pursuant to Section 12.1 hereof, Seller‘s payment pursuant to this Section 4.4 shall constitute Buyer‘s sole remedy, and Seller‘s exclusive liability to Buyer, for Seller‘s failure to make available at a Point of Delivery a quantity of gas equal to the Nominated Quantity for such Day, for reasons other than Force Majeure. Seller shall not be responsible for punitive, incidental or consequential damages in tort, contract or otherwise.
+
+This section shall not apply to quantities  not made available at 
+the Point of Delivery, as a result of buyer’s interstate pipeline or a local distribution company’s non-performance, rather than Sellers non performance.	
+
+
+
+
+ARTICLE V - DELIVERY
+
+Section 5.1 - Point(s) of Delivery
+
+The quantities of gas sold and purchased under this Agreement shall be delivered by Seller consistent with Buyer’s nomination at one or more of the Point(s) of Delivery.   Either party can request a change in the Point(s) of Delivery by delivering notice to the other party.  Each party agrees to consent to a requested change in the Point(s) of Delivery if that party is able to modify its then-existing transportation arrangements for the transportation of the gas bought and sold pursuant to this Agreement without incurring additional (transportation) expenses.
+
+Section 5.2 - Title; Risk of Loss
+
+Ownership, title, and control of gas will pass from Seller to Buyer at the Point(s) of Delivery.  As between the parties, Seller will be deemed to be in exclusive control and possession of the gas delivered hereunder and responsible for any damage or injury caused thereby until the same has been delivered to Buyer at the Point(s) of Delivery, after which Buyer will be deemed to be in exclusive control and possession of the gas and responsible for any damage or injury caused thereby.
+
+  
+ARTICLE VI - TRANSPORTATION
+
+Section 6.1 - Transportation Charges
+
+As between the Parties, Seller shall be responsible for all transportation costs, including fuel-use charges, imposed by a pipeline transporter or gatherer before and to the Point(s) of Delivery and Buyer shall be responsible for all transportation costs, including fuel-use charges, imposed by Northwest or any other pipeline transporter from and after the Point(s) of Delivery.
+
+Section 6.2 - Transportation Interruptions
+
+The parties shall coordinate their nomination activities, giving sufficient time to meet the deadlines of the affected Transporter(s).  Each party shall give the other party timely prior notice, sufficient to meet the requirements of all Transporter(s) involved in the transaction, of the quantities of Gas to be delivered and purchased each Day.  Should either party become aware that actual deliveries at the Delivery Point(s) are greater or lesser than the Scheduled Gas, such party shall promptly notify the other  party..
+
+Section 6.3 - Transportation Penalties
+
+The parties shall use commercially reasonable efforts to avoid imposition of any Imbalance Charges.  If Buyer or Seller receives an invoice from a Transporter or local distribution company that includes Imbalance Charges, the parties shall determine the validity as well as the cause of such Imbalance Charges.  If the Imbalance Charges were incurred as a result of Buyer's actions or inaction’s (which shall include, but shall not be limited to, Buyer's failure to accept quantities of Gas equal to the Scheduled Gas), then Buyer shall pay for such Imbalance Charges, or reimburse Seller for such Imbalance Charges paid by Seller to the Transporter.  If the Imbalance Charges were incurred as a result of Seller's actions or inaction’s (which shall include, but shall not be limited to, Seller's failure to deliver quantities of Gas equal to the Scheduled Gas), then Seller shall pay for such Imbalance Charges, or reimburse Buyer for such Imbalance Charges paid by Buyer to the Transporter.
+
+Section 6.4 - Seller‘s Transportation Arrangements
+
+Seller warrants that Seller or its Supplier is a holder of sufficient firm transportation capacity resources to fulfill its obligations up to the Point (s) of Delivery, to enable its performance of this Agreement.
+
+
+ARTICLE VII - PRESSURE; QUALITY; METERING
+
+Section 7.1 - Delivery Pressures
+
+All gas delivered by Seller hereunder shall be delivered at a pressure sufficient to effectuate delivery of such gas into Northwest‘s pipeline system at the Point(s) of Delivery.
+
+Section 7.2 - Quality
+
+All gas tendered by Seller at the Point(s) of Delivery shall conform to the quality specifications and heating value specified in Northwest‘s FERC Gas Tariff, as amended from time to time.  The specifications and heating value of the gas shall be determined by a method generally used by Northwest or, in the absence of such method, a standard method in use in the natural gas pipeline industry.  Seller shall be deemed to have failed to deliver any gas which fails to conform to the quality specifications and heating value set forth in Northwest‘s FERC Gas Tariff.
+
+Section 7.3 - Measurement and Metering
+
+The quantity of gas sold and delivered hereunder, and the quality, pressure and heating content thereof, shall be determined through existing instruments and measurement facilities of Northwest in accordance with existing quality and measurement standards and procedures, including correction procedures, in Northwest‘s FERC Gas Tariff, as amended from time to time.
+
+
+ARTICLE VIII - PRICE
+
+Section 8.1 - Purchase Price
+
+For gas sold and delivered hereunder from and after the Commencement Date and through Month Day, Year, Buyer shall pay Seller $_______ per MMBtu (the “Purchase Price“).  
+
+Section 8.2 - Assessments, Royalties and Taxes
+
+	(a)	As between the Parties, Seller shall pay, or cause to be paid, all assessments, royalties and taxes due or levied on the production, treating, gathering, processing, handling, transportation or sale of the gas delivered hereunder which are imposed prior to the Point(s) of Delivery, including but not limited to severance or gross production taxes.  As between the Parties, Buyer shall pay or cause to be paid all assessments and taxes due or levied on the sale, transportation or use of the gas delivered hereunder which are imposed at or after the delivery of gas hereunder to Buyer.
+
+(b)	Seller shall pay, or cause to be paid, all Canadian Federal or Provincial Government export fees or duties due to the exportation of all gas delivered to Buyer under this Agreement.  Seller shall pay, or cause to be paid, all United States or State of Washington import fees or duties due to the importation of all gas received by Buyer under this Agreement.
+
+(c)	Seller shall make, or cause to be made, all reports with respect to gross production, export and similar taxes applicable to the gas delivered hereunder.  In the event Buyer becomes aware of or receives notice that Seller has been assessed such taxes and Seller has failed or refused to pay such taxes when due, and until Seller has paid such taxes and interest or has satisfied its obligations with respect to reporting, unless such taxes or reporting is subject to a bona fide dispute of Seller, Buyer shall be entitled to withhold proceeds payable to Seller hereunder in an amount equivalent to Seller‘s tax liability plus interest and penalties, if any.  Such proceeds shall be held in an interest bearing account, the interest accruing from which shall be paid to Seller upon payment of such proceeds.
+
+
+ARTICLE IX - BILLING AND PAYMENT
+
+
+Section 9.1 - Payment
+
+On or before the fifth business day of each calendar month for all gas delivered, Seller shall furnish Buyer by facsimile a Correct Invoice showing the quantity of gas delivered hereunder by Seller to Buyer during the preceding calendar month.  If the actual quantity delivered is not available by the contractual billing date, the Correct Invoice may be prepared based on nominations.  The estimated quantity will be corrected on the following month’s invoice or as soon thereafter as the actual transport information is available to reflect the actual quantity delivered .  Seller shall issue a separate invoice for each month.  Payment will be made within twenty four (24) days of receipt of Correct Invoice for gas delivered; provided however, that Buyer may withhold payment of any disputed amounts until the dispute is resolved.  A failure to pay an amount in dispute shall not constitute an event of default. 
+
+
+•Financial Matters  Billing, Invoice Date, Charges and Payment.  By the 10th Day of each calendar Month following the Month in which Gas was Scheduled under a Transaction, Seller shall provide Buyer with a written statement setting forth Gas Scheduled during the preceding Month, and other charges due Seller, including, without limitation, deficiency charges under Article 3.  Billing and payment will be based on Scheduled quantities.  Within five Business Days of the request of either Party, the other Party shall provide, to the extent it has a legal right of access thereto and/or such statement is then available, a copy of the Transporter's allocation or imbalance statement applicable to Gas sold hereunder for the requested period.  The difference, if any, between Scheduled and actual quantities delivered or accepted shall be treated as Imbalances under Article 7.  Buyer shall remit any amounts due on the 25th Day of the Month in which Seller's statement was received.  If the due date for any payment to be made under this Agreement is not a Business Day, the due date for such payment shall be the following Business Day.  Payment of all funds shall be made in U. S. currency and as indicated in Exhibit "A" in such manner that funds are immediately available to the payee on the applicable due date.  Each Party shall take all actions necessary to effect payments in accordance with the process stated in Exhibit "A."  If Buyer or Seller should fail to remit any amounts in full when due hereunder, interest on the unpaid portion shall accrue from the date due at a rate equal to the Interest Rate.  Billings, payments and statements shall be made to the accounts or the addresses/facsimiles specified in Exhibit "A."
+
+
+Section 9.2 - Access to Records 
+
+a)	For the purposes of verifying prices or rates and volumes invoiced by Seller, Seller agrees to retain, until two (2) years after final payment under this Agreement, all books, documents, papers, records and other correspondence pertaining to all transactions hereunder and to the purchase of gas to satisfy its obligations under this Agreement.  Seller further agrees that, during this time, Buyer shall be granted access to, and have the right to, audit any or all such information.  All information revealed by such examinations shall remain confidential.
+
+b)	For the purposes of verifying volumes, rates and replacement fuel costs invoiced by Buyer, Buyer agrees to retain, until two (2) years after final payment under this Agreement, all books, documents, papers, records and other correspondence pertaining to all transactions hereunder and to the purchase of gas or replacement fuel to satisfy its obligations under this Agreement.  Buyer further agrees that, during this time, Seller shall be granted access to, and have the right to, audit any or all such information.  All information revealed by such examinations shall remain confidential.
+
+
+
+
+
+ARTICLE X - FORCE MAJEURE
+
+Section 10.1 - Suspension
+
+In the event that either Party is rendered unable, by reason of an event of Force Majeure, to perform wholly or in part, any obligation or commitment set forth in this Agreement, then upon such Party‘s giving written notice and full particulars of such event as soon as practicable after the occurrence thereof, the obligations of both Parties will be suspended to the extent and for the period of such Force Majeure.  An event of Force Majeure shall not relieve either Party from its obligation to pay any sums due and owing for services rendered under this Agreement.
+
+Section 10.2 - Events of Force Majeure
+
+For the purpose of this Agreement, the term “Force Majeure“ shall include, but is not limited to, any acts of God, lightning, earthquake, storm, flood, fire, landslide, washout and other natural catastrophes, civil disturbance or disobedience, failure of or threat of failure of facilities, epidemic, war, riot, labor dispute, labor or material shortage, sabotage, breakage of or accidents to machinery or lines of pipe, inability of Northwest or any transporter to transport or distribute the gas, failure of any transporter to deliver gas to the Point(s) of Delivery, the orders, rules or regulations of any court or governmental authorities, agency or otherwise not within the reasonable control of the party claiming suspension and which, by the exercise of due diligence, such Party could not have prevented or is unable to overcome.  Nothing contained herein shall be construed to require either Party to settle a labor dispute in which it may be involved.
+
+ARTICLE 5.  FORCE MAJEURE  This Article 5 is the sole and exclusive excuse of performance permitted under this Agreement and all other excuses at law or in equity are WAIVED to the extent permitted by law.  Except with respect to payment obligations, in the event either Party is rendered unable, wholly or in part, by Force Majeure to carry out its obligations hereunder, it is agreed that upon such Party's giving notice and full particulars of such Force Majeure to the other Party as soon as reasonably possible (such notice to be confirmed in writing), the obligations of the Party giving such notice, to the extent they are affected by such event, shall be suspended from the inception and during the continuance of the Force Majeure for a period of up to 60 Days in the aggregate during any 12 Month period, but for no longer period.  The Party receiving notice of Force Majeure may immediately take such action as it deems necessary at its expense for the entire 60 Day period or any part thereof.  The Parties expressly agree that upon the expiration of the 60 Day period Force Majeure shall no longer apply to the obligations hereunder and both Buyer and Seller shall be obligated to perform.  The cause of the Force Majeure shall be remedied with all reasonable diligence and dispatch; provided, unless otherwise agreed no provision herein shall require or permit Seller or Buyer to Schedule quantities of Gas (i) in excess of the DCQ, Maximum Daily Delivery Point Quantity or MaxDQ, as applicable, or (ii) at points other than the Delivery Point(s).
+
+
+
+Section 10.3 - No Relief
+
+Neither party shall be entitled to the benefit of the provisions of Section 10.1 under any of the following circumstances:
+
+a)	to the extent that the failure was caused by the negligence or willful misconduct of the Party claiming suspension;
+
+b)	to the extent that the failure was caused by the Party claiming suspension having failed to use diligence to remedy the condition and remove the cause or circumstances of Force Majeure in an adequate manner, or having failed to resume with all reasonable dispatch the performance of covenants or obligations; or
+
+c)	to the extent its failure to perform its obligations hereunder resulted from unfavorable economic conditions.
+
+d)	to the extent that the failure was caused by scheduled or planned repair or maintenance: i) on Northwest, ii) on any other natural gas pipeline on which gas is transported under this Agreement, or iii) any gathering system or processing facility upstream of the Delivery Point. 
+
+"Force Majeure" means an event not anticipated as of the Effective Date, which is not within the reasonable control of the Party, or in the case of third party obligations or facilities, the third party, claiming suspension, and which by the exercise of due diligence such Party, or third party, is unable to overcome or obtain or cause to be obtained a commercially reasonable substitute performance therefor; provided, neither (i) the loss of Buyer's markets nor Buyer's inability economically to use or resell Gas purchased hereunder nor (ii) the loss or failure of Seller's Gas supply, including, without limitation, depletion of reserves or other failure of production, nor Seller's ability to sell Gas to a market at a more advantageous price, shall constitute an event of Force Majeure.  "Force Majeure" shall include an event of Force Majeure occurring with respect to the facilities or services of Buyer's or Seller's Transporter.
+
+
+Section 10.4 - End of Suspension
+
+The party claiming suspension by reason of Force Majeure shall give written notice to the other Party, as soon as possible after the event of Force Majeure shall have been remedied, to the effect that the same has been remedied and that such Party has resumed, or is then in a position to resume, the performance of the suspended covenants or obligations under this Agreement.
+
+
+
+
+Section 10.5 - Force Majeure Termination
+
+In the event a Party‘s performance is suspended or substantially reduced due to Force Majeure for a period in excess of sixty (60) days, the other Party may terminate this Agreement on ten (10) days‘ prior written notice.
+
+
+
+
+
+
+
+ARTICLE XI - REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+
+Section 11.1 - Representations and Warranties
+
+Each party hereby represents and warrants to the other as follows:  That it is a duly organized, qualified, and acting entity as set forth above; that its execution hereof is authorized, valid and binding; and that no government action is outstanding, pending, or threatened against it to prevent its execution and performance hereof.  Notwithstanding anything in this Agreement to the contrary, the sole remedy for any breach of this Section shall be recovery of direct damages incurred as a result of a breach of this Section 11.1.
+
+Section 11.2 - Warranty of Title
+
+Seller warrants for itself, its successors, heirs, legal representatives, and assigns title to all gas delivered to Buyer hereunder and warrants that it has the right and lawful authority to sell the same and that such gas will be free and clear of all liens, encumbrances, and claims of every kind.
+
+•Representations and Warranties As a material inducement to entering into this Agreement, including each Transaction, each Party, with respect to itself, hereby represents and warrants to the other Party continuing throughout the term of this Agreement as follows:  (i) there are no suits, proceedings, judgments, rulings or orders by or before any court or any governmental authority that materially adversely affect its ability to perform this Agreement or the rights of the other Party under this Agreement, (ii) it is duly organized, validly existing and in good standing under the laws of the jurisdiction of its formation, and it has the legal right, power and authority and is qualified to conduct its business, and to execute and deliver this Agreement and perform its obligations under the same and each Transaction, and all regulatory authorizations have been maintained as necessary for it to legally perform its obligations hereunder, (iii) the making and performance by it of this Agreement is within its powers, has been duly authorized by all necessary action on its part, and does not and will not violate any provision of law or any rule, regulation, order, writ, judgment, decree or other determination presently in effect applicable to it or its governing documents, (iv) each of this Agreement and each Transaction when entered into constitutes a legal, valid and binding act and obligation of it, enforceable against it in accordance with its terms, subject to bankruptcy, insolvency, reorganization and other laws affecting creditor's rights generally, and with regard to equitable remedies, to the discretion of the court before which proceedings to obtain same may be pending, (v) there are no bankruptcy, insolvency, reorganization, receivership or other arrangement proceedings pending or being contemplated by it, or to its knowledge threatened against it, (vi) it has assets of $5,000,000 or more according to its most recent financial statements prepared in accordance with GAAP and knowledge and experience in financial matters that enable it to evaluate the merits and risks of this Agreement, and (vii) it is not in a disparate bargaining position with the other Party.
+
+
+ 
+
+ARTICLE XII - DEFAULT
+
+Section 12.1 - Remedies Upon Event of Default
+
+If an Event of Default shall occur, the nondefaulting Party may, except to the extent such remedy is limited by this Agreement, exercise any remedy it may have at law, in equity, or provided in this Agreement.  In addition to its other remedies, the nondefaulting Party may terminate this Agreement upon thirty (30) days prior written notice of termination to the other Party and thereupon this Agreement shall be terminated and be null and void for all purposes, except as to any liability of either Party incurred before and existing as of the day when this Agreement is terminated; provided, however, that in the event that the defaulting Party shall have cured such Event of Default before the end of such notice period, such notice of termination shall be void.
+
+Section 12.2 - Definition of Event of Default
+
+An “Event of Default“ shall mean:
+
+(a)	The failure of either Party to make payments, in the amount and when due hereunder, after the other Party has given written notice of such failure and payment has not been made within a period of ninety (90) days from receipt of such notice;
+
+(b)	Except with respect to the payment of monies due which is governed by Section 12.2 (a) above, the failure of either Party to observe or perform any of the material undertakings set forth in this Agreement and which failure is not cured within thirty (30) days after written notice thereof by the other Party specifying such failure;
+
+(c)	Either Party files for or becomes subject to voluntary bankruptcy or similar proceedings and such proceedings are not dismissed or stayed within ninety (90) days;
+
+provided, however, that the events described in subsection (c) above shall not constitute Events of Default if the debtor in possession, trustee or other Party exercising control over the assets of the Party in default affirms this Agreement within a reasonable period of time and provides evidence reasonably satisfactory to the nondefaulting Party, in such Party‘s sole discretion, of the ability to continue the performance of the defaulting Party‘s obligations under this Agreement.
+
+
+ARTICLE 4.  DEFAULTS AND REMEDIES  4.1. Early Termination.  If a Triggering Event (defined in Section 4.2) occurs with respect to either Party at any time during the term of this Agreement, the other Party (the "Notifying Party") may (i) upon two Business Days written notice to the first Party, which notice shall be given no later than 60 Days after the discovery of the occurrence of the Triggering Event, establish a date on which any or all Transactions selected by it and this Agreement in respect thereof will terminate ("Early Termination Date") except as provided in Section 8.4, and (ii) withhold any payments due in respect of such Transactions; provided, upon the occurrence of any Triggering Event listed in item (iv) of Section 4.2 as it may apply to any party, all Transactions and this Agreement in respect thereof shall automatically terminate, without notice, as if an Early Termination Date had been immediately declared except as provided in Section 8.4.  If an Early Termination Date occurs, the Notifying Party shall in good faith calculate its damages, including its associated costs and attorneys' fees, resulting from the termination of the terminated Transactions (the "Termination Payment").  The Termination Payment will be determined by (i) comparing the value of (a) the remaining term, quantities and prices under each such Transaction had it not been terminated to (b) the equivalent quantities and relevant market prices for Termination Payment payable hereunder.  If the Affected Party disagrees with the calculation of the Termination Payment, the issue shall be submitted to  arbitration pursuant to this Agreement and the resulting Termination Payment shall be due and payable within three Days after the award.  If a Triggering Event occurs, the Notifying Party may (at its election) set off any or all amounts which the Affected Party owes to the Notifying Party or it Affiliates (under this Agreement or otherwise) against any or all amounts which the Notifying Party owes to the Affected Party (either under this Agreement or otherwise).
+
+4.2. Triggering Event shall mean, with respect to a Party (the "Affected Party"):  (i) the failure by the Affected Party to make, when due, any payment required under this Agreement if such failure is not remedied within five Business Days after written notice of such failure is given to the Affected Party; provided, the payment is not the subject of a good faith dispute as described in the Billing and Payment provisions or (ii) any representation or warranty made by the Affected Party in this Agreement shall prove to have been false or misleading in any material respect when made or deemed to be repeated or (iii) the failure by the Affected Party to perform any covenant set forth in this Agreement (other than its obligations to make any payment or obligations which are otherwise specifically covered in this Section 4.2 as a separate Triggering Event), and such failure is not excused by Force Majeure or cured within five Business Days after written notice thereof to the Affected Party or (iv) the Affected Party shall (a) make an assignment or any general arrangement for the benefit of creditors, (b) file a petition or otherwise commence, authorize or acquiesce in the commencement of a proceeding or cause under any bankruptcy or similar law for the protection of creditors, or have such petition filed against it and such proceeding remains undismissed for 30 Days, (c) otherwise become bankrupt or insolvent (however evidenced) or (d) be unable to pay its debts as they fall due or (v) Seller's unexcused failure to Schedule the Buyer's Requested Quantity requested by Buyer for a cumulative period of 30 or more Gas Days in a 12 Month period in any one Transaction or (vi) Buyer's unexcused failure to Schedule the DCQ or MinDQ for a cumulative period of 30 or more Gas Days in a 12 Month period in any one Transaction, or, if applicable, the MinMQ for a cumulative period of three Months in a 12 Month period in any one Transaction, or  (vii) the occurrence of a Material Adverse Change of the Affected Party; provided, such Material Adverse Change shall not be considered if the Affected Party establishes, and maintains throughout the term hereof, a Letter of Credit (naming the Notifying Party as the beneficiary) in an amount equal to the sum of (in each case rounding upwards for any fractional amount to the next $250,000) (a) the Notifying Party's Termination Payment plus (b) if the Notifying Party is Seller, the aggregate of the amounts Seller is entitled to receive under each Transaction for Gas Scheduled during the 60 Day period preceding the Material Adverse Change (the amount of said Letter of Credit to be adjusted quarterly to reflect amounts owing at that point in time) or (viii) the Affected Party fails to establish, maintain, extend or increase a Letter of Credit when required pursuant to this Agreement, or after reasonable notice fails to replace the issuing bank with another bank acceptable to the beneficiary or (ix) with respect to Company, at any time, Enron Corp. shall have defaulted on its indebtedness to third parties resulting in an acceleration of obligations of Enron Corp. in excess of $100,000,000, or with respect to Customer, at any time, Customer shall have defaulted on its indebtedness to third parties, resulting in an acceleration of obligations of Customer in excess of $100,000,000. 
+
+4.5. Collateral Requirement/Termination Payment Threshold.  If at any time and from time to time during the term of this Agreement (and notwithstanding whether a Triggering Event has occurred) the Termination Payment that would be owed to a Party in respect of all Transactions then outstanding should exceed $25,000,000, such Party as the Beneficiary Party may request the other Party to establish a Letter of Credit as the Account Party in an amount equal to the Termination Payment in excess of $25,000,000 (rounding upwards for any fractional amount to the next $250,000), or such other collateral as may be reasonably acceptable to the Beneficiary Party.  The Letter of Credit or other collateral shall be delivered within two Business Days of the date of such notice.  On a Monthly basis, such Letter of Credit may be increased or reduced correspondingly to the amount of such excess Termination Payment (rounding upwards for any fractional amount to the next $250,000). The letter of Credit or other collateral shall be delivered within two Business Days of the date of such notice.  For purposes of this Section 4.5, the calculation of “Early Termination Payment” shall include all amounts owed but not yet paid by one Party whether or not such amounts are then due, for performance already provided pursuant to any and all Transactions.  
+
+
+
+
+ARTICLE XIII - INDEMNIFICATION
+
+Section 13.1 - General Indemnity
+
+(a)	Except as otherwise provided herein, Seller hereby agrees to indemnify, defend and hold harmless Buyer and its partners, owners, officers, directors, employees and agents from, against and in respect of any and all losses, liabilities, damages, compensation, injuries, costs, claims, actions, suits, causes of action, judgments, amounts paid in settlement, interest, penalties, assessments and expenses (including, without limitation, reasonable attorneys‘ fees) of every kind and character incurred or brought by a third party,  resulting from, incurred in connection with, or arising out of (i) any inaccuracy in or breach of any representation, warranty, or covenant, of Seller contained in or made pursuant to this Agreement or any  inaccuracy in or breach of any representation, warranty, covenant, obligation or agreement of Seller contained in or made pursuant to any agreement delivered or entered into by Seller in connection with this Agreement, and (ii) the gas purchased hereunder prior to its delivery at the Points of Delivery; provided, however, that Seller’s liability for failure to deliver gas shall be limited to Section 4.4.
+
+(b)	Buyer hereby agrees to indemnify, defend and hold harmless Seller and its partners, owners, officers, directors, employees and agents from, against and in respect of any and all losses, liabilities, damages, compensation, injuries, costs, claims, actions, suits, causes of action, judgments, amounts paid in settlement, interest, penalties, assessments and expenses (including, without limitation, reasonable attorneys‘ fees) of every kind and character incurred or brought by a third party other than an affiliate resulting from, incurred in connection with, or arising out of (i) any inaccuracy in or breach of any representation, warranty, or covenant, of Buyer contained in or made pursuant to this Agreement or any inaccuracy in or breach of any representation, warranty, covenant, obligation or agreement of Buyer contained in or made pursuant to any agreement delivered or entered into by Buyer in connection with this Agreement and (ii) the gas purchased hereunder after its delivery at the Points of Delivery; provided, however, that Buyer‘s liability for failure to purchase gas shall be limited to Section 4.3.
+
+Section 13.2 - Construction of Indemnities
+
+The indemnities set forth in this Agreement shall be construed so as to be effective to the maximum extent permitted by applicable law.  If any of the indemnities are found to be unenforceable or void under applicable law, the Parties desire that such indemnities be reformed and restated to the extent necessary to render them effective.
+
+ARTICLE XIV -  MISCELLANEOUS
+
+Section 14.1 - No Waiver
+
+No waiver by either Party of any particular right accruing to it or of any default of the other party under this Agreement shall operate as a waiver of any future right or default, whether of like or different character or nature.
+
+Section 14.2 - Headings and References
+
+The indexes, titles, and descriptive headings included throughout this Agreement are inserted solely for conveniences and shall not be construed or considered in interpreting any terms or provisions of this Agreement.
+
+Section 14.3 - Choice of Law
+
+The law of the State of Texas or New York, excluding conflicts of law principles which would refer to the laws of another jurisdiction, shall govern the validity, construction, interpretation, and effect of the terms of this Agreement.  Venue for any dispute arising between the parties shall be King County, Washington.
+
+Section 14.4 - Notices
+
+All notices, requests, demands, invoices or statements provided for in this Agreement shall be in writing and considered duly delivered upon receipt at the following addresses:
+
+
+Seller:	
+			TO COMPANY:
+Notices/Correspondence:      
+P.O. Box 4428
+Houston, Texas  77210-4428
+Attn:  Documentation and Deal Clearing Desk 
+Facsimile No.  (713) 646-4816
+Termination Notice Facsimile No.  (713) 646-4818
+
+Invoices:
+P.O. Box 4428
+Houston, Texas  77210-4428
+Attn:  Client Services
+Facsimile No.  (713) 646-8420
+
+
+Payments: 
+
+Enron North America Corp.
+ABA Routing 111000012 Bank of America
+Dallas, Texas
+Account 3750494099
+
+Nominations:  1(800) 356-9427/1(800) FLOWGAS
+Confirmations:  Enron North America Gas Trading 1(713) 646-2531
+
+
+
+Buyer:	The Boeing Company
+P.O. Box 3707
+M/S:  (either 3U-AA or 7A-XF)
+PO Box 3707
+Seattle, WA  98124-2207
+
+For contract changes and all notices
+Attention:  Natural Gas Buyer
+PO Box 3707, M/S 3U-AA
+Seattle, WA  98124-2207
+Telephone:  (253)  657-8193
+Facsimile:  (253) 657-8000
+
+For nominations and invoices
+Attention:  Natural Gas Scheduler
+PO Box 3707, M/S 2R-32
+Seattle, WA  98124-2207
+Telephone:  (206) 544-5752
+Facsimile:  (206) 544-5788
+
+Section 14.5 - Assignment; Successors and Assigns
+
+Neither Party may assign its rights or obligations under this Agreement to any other party without the prior written consent of the other Party, which consent shall not be unreasonably withheld; provided, however, that such consent shall not be required for (a) a sale or transfer of all or substantially all of the assets of a Party or (b) any pledge or assignment by either Party of all or part of its right, title and interest hereunder to any entity or entities providing debt, equity, lease or bond financing or other credit support to such Party, or any further assignment by such entities in the exercise of remedies.  Where assignment of this Agreement is sought, the Party seeking the assignment shall give the other Party sixty (60) days notice in writing of such proposed assignment by personal service, certified mail, telecopy to telex to the other Party.  The non-assigning Party shall, within twenty (20) days from the receipt of such notice, notify the assigning Party of its decision to grant or withhold its consent to such assignment.  Except with respect to the pregranted consents set forth above, the granting of a consent shall constitute a release of the assigning Party of any of its obligations hereunder.  All the covenants, stipulations, terms conditions and provisions of this Agreement shall extend to be binding upon the respective successors, assigns, heirs, personal representatives and representatives in bankruptcy of the Parties hereto; provided, however, that no assignment of this Agreement by a Party hereto, in whole or in part, shall affect or impair the rights of the other Party, nor in any case increase or decrease such other Party‘s rights or obligations under this Agreement.
+
+
+Section 14.6 - Further Assurances
+
+Each of the Parties covenants and agrees to give such further assurances, to provide such further information, to execute and deliver such further information, to execute and deliver such further documents and instruments to take all necessary action in order to give full effect to this Agreement, provided that it is not prevented from doing so by virtue of an obligation of confidentiality to a third party.
+
+Section 14.7 - Confidentiality
+
+Except as required by law or as necessary to obtain financing or to comply with federal, state or any other regulatory entity having jurisdiction over the subject matter hereof, each Party shall keep confidential the provisions hereof, the discussion and negotiations in connection with this Agreement and all related information provided by either Party.
+
+Section 14.8 - Compliance with Law; Regulatory Bodies
+
+This Agreement is subject to all applicable federal and state laws and applicable orders, rules and regulations of the FERC and of any other federal, state or local governmental authority having or asserting jurisdiction over the subject matter of this Agreement; provided, however, nothing contained herein shall be construed as a waiver of any right to question or contest any such law, order, rule or regulation in any forum having and asserting such jurisdiction.
+
+Section 14.9 - Attachments
+
+Each exhibit attached to this Agreement shall be incorporated into and constitute part of this Agreement.
+
+Section 14.10 - Extension and Originals
+
+This Agreement may be executed in duplicate originals, each of which when duly executed shall be deemed an original for all purposes.
+
+Section 14.11 - Integration; Amendments
+
+This Agreement constitutes the entire agreement and understanding between Buyer and Seller with respect to the sale, delivery, and purchase of natural gas provided for herein, and supersedes all prior negotiations, representations, proposals, outlines, projections, understandings, and agreements, whether oral or written.  No modification, alteration, amendment, construction, or interpretation of this Agreement shall be binding upon either Party unless reduced to writing and executed by each Party.
+
+
+Section 14.12  8.3. Limitation of Remedies, Liability and Damages and Mitigation.  The Parties do hereby confirm that the express remedies and measures of damages provided in this Agreement satisfy the essential purposes hereof.  For breach of any provision for which an express remedy or measure of damages is HEREIN provided, such express remedy or measure of damages shall be the sole and exclusive remedy hereunder, the obligor's liability shall be limited as set forth in such provision and all other remedies or damages AT LAW OR IN EQUITY are waived.  If no remedy or measure of damages is expressly HEREIN provided, the obligor's liability shall be limited to direct actual damages only, such direct actual damages shall be the sole and exclusive remedy hereunder and all other remedies or damages AT LAW OR IN EQUITY are waived.  UNLESS EXPRESSLY HEREIN PROVIDED, Neither Party SHALL be liable for consequential, incidental, punitive, exemplary OR indirect damages, LOST PROFITS OR OTHER BUSINESS INTERRUPTION DAMAGES, in tort, contract, UNDER ANY INDEMNITY PROVISION or otherwise.  NOTWITHSTANDING ANY OTHER PROVISION IN THIS aGREEMENT, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY PENALTIES OR CHARGES ASSESSED BY ANY TRANSPORTER OR OTHER ENTITY FOR THE UNAUTHORIZED RECEIPT OF GAS BY THE OTHER PARTY.  IT IS THE INTENT OF THE PARTIES THAT THE LIMITATIONS HEREIN IMPOSED ON REMEDIES AND THE MEASURE OF DAMAGES BE WITHOUT REGARD TO THE CAUSE OR CAUSES RELATED THERETO, INCLUDING, WITHOUT LIMITATION, THE NEGLIGENCE OF ANY PARTY, WHETHER SUCH NEGLIGENCE BE SOLE, JOINT OR CONCURRENT, OR ACTIVE OR PASSIVE.  To the extent any damages required to be paid hereunder are liquidated, the Parties acknowledge THAT the damages are difficult or impossible to determine, OTHERWISE obtaining an adequate remedy IS INCONVENIENT and the liquidated DAMAGES constitute a reasonable approximation of the harm or loss.  Buyer acknowledges that it has entered into this Agreement and is contracting for the goods to be supplied by Seller based solely upon the express representations and warranties HEREIN set forth and subject to such representations and warranties, accepts such goods "AS-IS" AND "WITH ALL FAULTS."  SELLER EXPRESSLY NEGATES ANY OTHER REPRESENTATION OR WARRANTY, WRITTEN OR ORAL, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY REPRESENTATION OR WARRANTY WITH RESPECT TO CONFORMITY TO MODELS OR SAMPLES, MERCHANTABILITY, OR FITNESS FOR ANY PARTICULAR PURPOSE.  EACH PARTY HEREBY WAIVES ALL RIGHTS UNDER, ARISING OUT OF OR ASSOCIATED WITH TEXAS & BUSINESS COMMERCE CODE SECTIONS 17.41 THROUGH 17.63 KNOWN AS THE DECEPTIVE TRADE PRACTICES-CONSUMER PROTECTION ACT TO THE EXTENT ALLOWED BY LAW.  The Parties acknowledge the duty to mitigate damages hereunder.   In this connection, the Parties recognize that the ability to effectuate arrangements for the sale or purchase of Gas is conditioned upon the volatility of Gas markets, the creditworthiness and reliability of potential customers, the complexity and size of the portfolios of contracts managed by each Party and the need to conduct market business in an orderly manner.  Therefore, the Parties agree that (i) three Business Days is a commercially reasonable period to purchase or sell Gas in respect of a Seller's or Buyer's Deficiency Default and (ii) three Business Days after the end of the Month in which the Early Termination Date occurs is a commercially reasonable period after the establishment of an Early Termination Date to determine the Termination Payment; provided, notwithstanding the foregoing, if Gas volumes made the basis of a Seller's or Buyer's Deficiency Default or a Party's determination of the Termination Payment are in excess of 20,000 MMBtu/Gas Day, the Parties recognize that a longer period may ordinarily be required to effectuate cover or determine the Termination Payment in an orderly manner so as not to adversely affect the Gas market.  Each Party may utilize its discretion, with commercially reasonable foresight, to adjust the timing and staggering of the purchases or sales of Gas volumes in its efforts to mitigate damages.  No claim that a Party failed to mitigate damages shall be grounded solely on the basis of counter Gas market movement.
+
+14.13 8.7.  Forward Contract.  This Agreement and all Transactions under this Agreement constitute a “forward contract” under and in all proceedings related to the United States Bankruptcy Code, as the same may be amended, restated, replaced or re-enacted from time-to-time, and will be treated similarly under and in all proceedings related to any bankruptcy, insolvency or similar law (regardless of the jurisdiction of application or competence of such law) or any ruling, order, directive or pronouncement made pursuant thereto.
+
+14.14  •Arbitration Disputes to be Arbitrated.  Any and all claims, demands, causes of action, disputes, controversies, and other matters in question arising out of or relating to this Agreement, any of its provisions, or the relationship between the Parties created by this Agreement, whether sounding in contract, tort, or otherwise, whether provided by statute or the common law, for damages or any other relief, including, without limitation, all Claims (all of which are referred to herein as "Disputes"), shall be resolved by binding arbitration pursuant to the Federal Arbitration Act.  The arbitration may be initiated by either Party by providing to the other a written notice of arbitration specifying the Disputes to be arbitrated.  If a Party refuses to honor its obligations to arbitrate, the other Party may seek to compel arbitration in either federal or state court.  The arbitration proceeding shall be conducted in Houston, Texas, or other location mutually agreed upon by the Parties. Within 30 Days of the notice initiating the arbitration procedure, each Party shall designate one arbitrator, who need not be impartial.  If a Party fails to designate an arbitrator, the other Party may have an arbitrator appointed by applying to the senior active United States District Judge for the Southern District of Texas.  The two arbitrators shall select a third arbitrator.  If the two arbitrators chosen by the Parties fail to agree upon the third arbitrator, both or either of the Parties may apply to the senior active United States District Judge for the Southern District of Texas for the appointment of a third arbitrator.  The third arbitrator shall take an oath of neutrality.  
+
+Arbitration Procedures.  The three arbitrators shall make all of their decisions by majority vote.  The enforcement of this Agreement to arbitrate, the validity, construction, and interpretation of this Agreement to arbitrate, and all procedural aspects of the proceeding pursuant to this Agreement to arbitrate, including, without limitation, the issues subject to arbitration, the scope of the arbitrable issues, allegations of “fraud in the inducement” to enter into this entire Agreement or to enter into this Agreement to arbitrate, allegations of waiver, delay or defenses to arbitrability, and the rules governing the conduct of the arbitration, shall be governed by and construed pursuant to the Federal Arbitration Act.  In deciding the substance of the parties’ Disputes, the arbitrators shall apply the substantive laws of the State of Texas (excluding Texas choice-of-law principles that might call for the application of some other State’s law).  The arbitration shall be conducted in accordance with the Commercial Arbitration Rules of the American Arbitration Association, except as modified in this Agreement.  It is contemplated that although the arbitration shall be conducted in accordance with the Commercial Arbitration Rules of the American Arbitration Association, the arbitration proceeding will be self-administered by the Parties; provided, if a Party believes the process will be enhanced if it is administered by the American Arbitration Association, such Party shall have the right to cause the process to become administered by the American Arbitration Association by applying to the American Arbitration Association and, thereafter, the arbitration shall be conducted pursuant to the administration of the American Arbitration Association.  In determining the extent of discovery, the number and length of depositions, and all other pre-hearing matters, the arbitrators shall endeavor to the extent possible to streamline the proceedings and minimize the time and cost of the proceedings. There shall be no transcript of the hearing.  The final hearing shall be conducted within 120 days of the selection of the third arbitrator.  The final  hearing shall not exceed 10 Business Days, with each Party to be granted one-half of the allocated time to present its case to the arbitrators. All proceedings conducted hereunder and the decision of the arbitrators shall be kept confidential by the Parties.
+
+Arbitration Award.  Only damages allowed pursuant to this Agreement may be awarded.  It is expressly agreed that the arbitrators shall have no authority to award treble, exemplary or punitive damages of any type under any circumstances regardless of whether such damages may be available under Texas law,  the Parties hereby waiving their right, if any, to recover treble, exemplary or punitive damages in connection with any Dispute, either in arbitration or in litigation.  The arbitrators shall render their final decision within 20 Days of the completion of the final hearing fully resolving all of the Disputes that are the subject of the arbitration proceeding.  The arbitrators’ ultimate decision after final hearing shall be in writing.  The arbitrators shall certify in their decision that no part of their award includes any amount for treble, exemplary or punitive damages not allowed hereunder.  The arbitrators’ decision shall be final and non-appealable to the maximum extent permitted by law.  Any and all of the arbitrators’ orders and decisions may be enforceable in, and judgment upon any award rendered in the arbitration proceeding may be confirmed and entered by, any federal or state court having jurisdiction.
+
+
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Agreement in duplicate originals as of the date hereinabove set forth.
+
+
+Seller:
+			ENRON NORTH AMERICA CORP.
+
+
+
+By: 	
+
+Name: 	
+
+Title: 	
+
+
+Buyer:
+
+THE BOEING COMPANY
+
+
+By: 	
+
+Name: Mike Broughton
+
+Title: Procurement Agent
+
+
+EXHIBIT A
+
+
+
+
+Attached to the Base Load Gas Purchase Agreement dated _______________ between The Boeing Company and ___________________________.
+
+
+
+Volume Allocated
+Point of Delivery	 	    to Such Point
+
+NW, Wyoming Pool		5,000 MMBtu
+
+NW, Wyoming Pool	         2,750 MMBtu
+
+
+
+
+

@@ -1,0 +1,451 @@
+Matrix of Comments Submitted as of July 7, 2000 Concerning
+Sarah Dennison-Leonard
+Sarah Dennison-Leonard
+41
+Microsoft Word 8.0
+56
+7/8/2000 01:32:00
+7/8/2000 00:35:00
+7/8/2000 01:51:00
+1
+1118
+6373
+0
+Dell Computer Corporation
+53
+12
+7826
+no
+no
+7/7/2000 17:35:00
+7/7/2000 18:51:00
+7/7/2000 18:32:00
+
+LIA Comments 7/7/2000
+
+Page 
+Explanation of Categories:	1 = comment proposes clarification or other minor change
+	   	(not expected to require significant discussion)
+	2 =	comment proposes substantive changes or is not specific
+		with respect to what changes are needed; will require discussion
+	3 =	comment raises issues that the subgroup may not be able to
+		resolve through internal discussions because resolution may require 
+		policy guidance or input from other work groups
+
+Matrix of Comments Submitted as of July 7, 2000 Concerning
+IndeGO Load Integration Agreement
+
+Section Number and Title/
+Comments Received
+Commenting
+Party
+Proposed Category
+
+General (no specific section reference)
+Technical and Reliability Standards.  Separate out the technical standards from the body of the agreement and place in a technical appendix.  Develop specified minimum reliability standards (such as BPA’s Technical Requirements for the Connection of Transmission Lines and Loads) as a substitute for the ambiguous "safety and reliability requirements" (e.g. Reliability Management System (RMS)).
+
+Metering Issues. Bonneville currently owns many/most of the meters at the interconnections with its customers.  Thus, shifting the metering burden to the interconnecting load doesn’t work.  Do not require certification of meter testers but rather rely on RTO’s right to attend all reading, testing and repair of meters.  Establish accuracy standard of 1% and consider eliminating Good Utility Practice (GUP) standard in section 3.2.6.
+
+Boilerplate Provisions.  Encourage consistency among the various RTO agreements.
+
+Federal agencies do not usually accept liability nor do they waive defenses of the United States.
+
+The federal agencies are subject to information disclosure statutes such as the Freedom of Information Act.
+
+There needs to be a statement that such actions as the Biological Opinions and water quality standards need to be met in accordance with applicable law.
+
+The Federal agencies need to decide if this agreement is subject to formal consultation with the National Marine Fisheries Service (NMFS) and the Fish and Wildlife Service (FWS) under the Endangered Species Act (ESA). 
+
+The Federal agencies need to fulfill their National Environmental Protection Act (NEPA) requirements prior to taking final action. 
+
+Federal court references should be made specific.
+
+The assumption is that questions regarding such issues as indemnification and hold harmless concepts will be addressed in the RTO Subgroup on Liability and Insurance.  Generally, the federal agencies cannot provide indemnification or hold harmless agreements.
+
+To the extent there is reliance on appropriated funds to pay for obligations under the Agreements there are no guarantees that Congress will choose to make those funds available.
+
+It might be helpful to do whatever we can to make the terms of the agreement as neutral or inclusive as possible, so that the agreement as written will work for any party within the potential RTO West that might want to sign a load integration agreement.  For example, there is language included in the agreement right now that wouldn’t fit if the signing party were Canadian.
+
+
+BPA-TBL
+
+
+
+
+
+BPA-TBL
+
+
+
+
+
+
+BPA-TBL
+
+Federal Parties
+
+
+Federal Parties
+
+
+Federal Parties
+
+
+Federal Parties
+
+
+
+Federal Parties
+
+
+Federal Parties
+
+Federal Parties
+
+
+
+
+Federal Parties
+
+
+
+Sarah D-L
+
+
+
+1 or 2
+
+
+
+
+
+2
+
+
+
+
+
+
+1
+
+2
+
+
+1 or 2
+
+
+2
+
+
+2
+
+
+
+2
+
+
+1 or 2
+
+2
+
+
+
+
+2
+
+
+
+1 or 2
+
+Recitals
+Reference should be made to the ability of Congress to exercise their discretion at any time and thereby potentially change any existing arrangements among the parties to the Agreement.  (Recitals, Section 2 and other sections)
+
+
+Federal Parties
+
+1 or 2
+
+Definitions
+Control Area:  We may want to take a second look at the definition of “control area” under the agreement in view of NERC’s current efforts to re-define and unbundle control area functions.  We might want to try to create something flexible enough to accommodate evolution in this area.
+
+
+Sarah D-L
+
+2
+
+Effective Date; Term and Termination
+Reference should be made to the ability of Congress to exercise their discretion at any time and thereby potentially change any existing arrangements among the parties to the Agreement.  (Recitals, Section 2 and other sections)
+
+	2.1 (Effective Date)
+The term of the Agreement needs to be finite.  The term could be for 10 years with an automatic renewal at year nine.
+
+
+Federal Parties
+
+
+
+
+Federal Parties
+
+
+
+2
+
+
+
+
+2
+
+3.  Interconnections, Metering and Clearance/Safety Issues
+Metering Issues. Bonneville currently owns many/most of the meters at the interconnections with its customers.  Thus, shifting the metering burden to the interconnecting load doesn’t work.  Do not require certification of meter testers but rather rely on RTO’s right to attend all reading, testing and repair of meters.  Establish accuracy standard of 1% and consider eliminating Good Utility Practice (GUP) standard in section 3.2.6.
+
+
+BPA-TBL
+
+2
+
+4. Operating Standards
+
+	4.2 (Operating Standards)
+Federal entities cannot agree to specific performance remedy
+
+
+
+
+BPA-TBL
+
+
+
+2
+
+5.  Operational Requirements
+
+	5.1.1 (Reactive Power Requirements)
+Change power factor minimum range from 95% to 97%.
+
+	5.2.1 (Load Shedding)
+In certain instances, BPA (not the Interconnected Load) owns the relay equipment connected to end-user loads in utility service areas to address underfrequency and undervoltage problems.
+
+	5.3 (Power Quality)
+Suggest RTO should also have responsibilities to customers for power quality (e.g. harmonics), i.e., mutual obligations.
+
+	5.4 (Generator Interconnections)
+Address the question - "Should there be a size limit on the prohibition against interconnecting generating facilities (e.g. micro-units such as fuel cells)?"
+
+	5.8 (Opening of Interconnection Facilities)
+Address the questions - "What are the conditions? What are the kinds of restoration?"
+
+	5.9 (Compliance with Regional Security Plan)
+Determine where the regional security coordinator functions should reside.
+
+
+
+
+BPA-TBL
+
+
+BPA-TBL
+
+
+
+
+BPA-TBL
+
+
+
+BPA-TBL
+
+
+
+BPA-TBL
+
+
+BPA-TBL
+
+
+
+
+2
+
+
+2
+
+
+
+
+2
+
+
+
+2
+
+
+
+2
+
+
+2
+
+Special Arrangements and Most Favored Nations Option
+review PNSC agreement for its approach to “special arrangements.”
+
+There needs to be further consideration of the “Special Arrangements and Most Favored Nation Option.”
+
+
+BPA-TBL
+
+Federal Parties
+
+2
+
+2
+
+7.  Ancillary Services
+There needs to be further review in the area of ancillary services.
+
+
+Federal Parties
+
+2 or 3
+
+8.  IndeGO Confidentiality Obligations
+
+
+
+Limitation of Liability and Insurance
+
+
+
+10.  Assignments and Conveyances
+
+10.2 (Assignment of the Interconnecting Party’s Rights and Obligations)
+There are Federal laws that address assignment actions that may need to be added to the Agreement.
+
+	10.3 (Transfer of Rights Affecting Facilities)
+Condemnation authority with regard to Federal agencies is limited and may need to be addressed in the Agreement (Note – this may not be the correct section reference)
+
+
+
+
+Federal Parties
+
+
+
+Federal Parties
+
+
+
+2
+
+
+
+2
+
+11.  No Guarantee of Uninterrupted Transmission Service or Continuous Supply of Electrical Power or Energy
+
+
+
+12.  Billing and Payment
+
+
+
+13.  Uncontrollable Force
+
+
+
+  Dispute Resolution
+Consider specialized technical arbitration for these types of disputes.
+
+
+BPA-TBL
+
+2
+
+15.  Notices
+
+
+
+16.  Amendments
+
+
+
+17.  Construction of Agreement
+
+
+
+18.  Integration
+
+
+
+19.  Preservation of Obligations
+
+
+
+  Existing Agreements Preserved
+
+
+
+21.  Other Obligations Preserved
+
+
+
+22.  Governing Law
+review PNSC agreement for possible better language.
+
+The “Governing Law” provision needs to be clarified, probably with the language that was used in the Pacific Northwest Security Coordination Agreement.
+
+
+BPA-TBL
+
+Federal Parties
+
+1 or 2
+
+1 or 2
+
+23.  Severability
+
+
+
+24.  Singular and Plural; Use of “Or”
+
+
+
+25.  Headings for Convenience Only
+
+
+
+26.  Relationship of the Parties
+
+
+
+27.  No Third Party Beneficiaries
+
+
+
+28.  No Dedication of Facilities
+
+
+
+29.  Non-Waiver
+
+
+
+30.  Exhibits Incorporated
+
+
+
+31.  Further Assurances
+
+
+
+32.  Counterparts
+
+
+
+[33.  For Western Area Power Administration:  No Violation of Applicable Law]
+
+
+
+
+

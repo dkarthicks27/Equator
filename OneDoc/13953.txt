@@ -1,0 +1,104 @@
+jsuttle
+jsuttle
+Microsoft Excel
+12/6/1999 20:02:15
+4/29/1999 15:28:41
+0
+ect
+no
+no
+
+
+Sheet1
+Master Swap ISDA Worksheet
+ATTORNEY:
+Sara Shackleton
+DATE: 
+7/5/2000 DEAL MAKER:
+COUNTERPARTY:
+President and Fellows of Harvard
+CONTACT:
+Kim Noble
+   ADDRESS:
+TITLE:
+PHONE:
+FAX:
+Incorporation State
+S&P Rating
+AAA
+STRUCTURE
+COUNTERPARTY
+ECC
+ 
+GUARANTOR (RATING)
+Enron Corp.
+  LIMIT $ MILLIONS
+$15,000,000 USD
+Incorporation State
+COLLATERAL  THRESHOLD
+Matrix
+Matrix
+USD
+ 
+ 
+ 
+Specify Type of Debt:
+COLLATERAL TYPE
+      Letter of Credit
+OK
+OK
+      Treasuries
+OK
+OK
+      Cash
+OK
+OK
+MINIMUM TRANSFER $
+$1 $1 COLLATERAL ROUNDING
+$1,000,000 $1,000,000 USD
+HOLDING and USE OF COLLATERAL
+      Permitted
+X
+X
+      Minimum S & P/Moody's
+         rating permitted
+MATERIAL ADVERSE CHANGE TRIGGERS - if Matrix not applicable
+The following applies to Harvard and Enron Corp.:
+S&P/Moody's
+Threshold
+AAA/Aaa to AA/Aa2
+$10,000,000 AA-/A1 to BBB+/Baa1
+$7,000,000 BBB/Baa2
+$5,000,000 BBB-/Baa3
+$1,000,000 Below BBB-/Baa3
+$0  
+EVENTS OF DEFAULT
+3rd party debt
+X
+X
+    -Counterparty ($MM)
+$100,000,000 USD
+    -Guarantor ($MM)
+$100,000,000 Change in ownership
+FINANCIAL STATEMENTS
+   -Standard
+     X
+     X
+   - Request financials on:
+CREDIT DECISION:
+ APPROVED :  X
+DECLINED:
+OUTSTANDING SWAP TRANSACTIONS:
+YES: x
+NO:
+ALL SWAPS TO ROLL UP UNDER NEW MASTER:
+YES: x
+NO:
+CREDIT PROVISIONS OF MASTER TO GOVERN:
+YES: x
+NO:
+OTHER COMMENTS:
+CREDIT REVIEW  PREPARED BY:
+John Suttle
+x3-0906
+

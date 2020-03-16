@@ -1,0 +1,540 @@
+dcorrig
+Lisbet Newton
+Microsoft Excel
+8/7/2001 21:27:31
+8/7/2001 14:41:39
+8/7/2001 17:28:29
+0
+Enron Corp
+no
+no
+
+
+Sheet1
+PIPE 
+SHIPPER
+AGENCY
+CONTRACT
+FT/IT
+SERVICE TYPE
+RATE SCHED
+BASE/DAY/TERM
+TERM
+MDQ
+PRIMARY
+SECONDARY
+DISCOUNT?
+FEE
+COMMENTS
+e
+ALGN
+Algonquin
+e
+CCAS
+Columbia Gas
+ 
+CCAS
+Columbia Gas
+EESI
+59280 IT
+IPP
+3/01/98 - evergreen
+CCAS
+Columbia Gas
+EESI
+59281 IT
+AS
+3/01/98 - evergreen
+CCAS
+Columbia Gas
+EESI
+59292 SIT
+4/98 - evergreen
+1,000,000 CCAS
+Columbia Gas
+EESI
+60699 FT 
+Firm
+FTS
+CCAS
+Columbia Gas
+EESI
+69624 SST
+CCAS
+Columbia Gas
+EESI
+60168 SST
+100,000 CCAS
+Columbia Gas
+EESI
+59293 IT
+IT
+ITS
+4/98 - evergreen
+250,000 CCAS
+Columbia Gas
+CAP REL
+EESI
+63961 FT
+Firm
+FTS
+5/1/00 - 10/31/01
+30,000 3.954 CCAS
+Columbia Gas
+EESI
+66788 FT
+Firm
+FTS
+11/1/00-10/30/01
+1,700 4.486 CCAS
+Columbia Gas
+EESI
+67187 FT
+Firm
+FTS
+4/1/01-3/31/02
+1,000 CCAS
+Columbia Gas
+EESI
+67349 FT
+Firm
+FTS
+4/01/01 -  03-31-02
+1,000 TCO-Leach
+Various
+CCAS
+Columbia Gas
+EESI
+67350 FT
+Firm
+FTS
+11/01/01 - 10/30/02
+2,000 COL GAS PA 08-36
+6.195 CCAS
+Columbia Gas
+EESI
+69210 FT
+Firm
+FTS
+11/01/00 - 10/31/01
+500  
+4.725 CCAS
+Columbia Gas
+EESI
+69311 FT
+Firm
+FTS
+9/01/00 - 8/31/01
+1,710 6.201 e
+CGLF
+Columbia Gulf
+e
+CNG
+Dominion
+EESI
+Clinton
+200253 FT
+Firm
+FERC
+5/01 - 10-31/01
+2,500 Cornwell Interconnection,Wetzel County
+Nokesville Interconnection
+ 
+CNG
+Dominion
+EESI
+Clinton
+200254 FT
+Firm
+FERC
+5/01 - 10-31/01
+2,500 Cornwell Interconnection,Wetzel County
+Nokesville Interconnection
+ 
+? E
+Crossroads
+Crossroads
+EESI
+n
+FM-950-00
+FT-1
+Firm
+FERC
+11/1/00 - 10/31/10
+30,000 1.9773 w
+EPNG
+El Paso Natural Gas
+e
+FGT
+Florida Gas Trans
+EESI
+5916 FTS-2
+Firm
+FTS
+8/01/01 - 7/31/02
+818 0.7648 FGT
+Florida Gas Trans
+EESI
+6115 FTS - 1
+Firm
+FTS
+8/01/01 - 7/31/02
+634 0.3717 e
+IROQ
+Iroquious
+EESI
+2600001 IT
+IT
+IT
+1/1/2050 10,000  
+IROQ
+Iroquious
+EESI
+26000099 1/1/2050 IROQ
+Iroquious
+EESI
+7039 7/01/99 - 4/01/08
+41 8.505 e
+KOCH
+Gulf South
+e
+NFUL
+National Fuel
+EESI
+n
+W02070
+ 
+W-1 
+ 
+4/1/98 - continue in effect until terminated by either Shipper or Transporter upon six months written notice to the other.
+10,000 HUB Points
+HUB Points
+NFUL
+National Fuel
+EESI
+n
+#J02074
+P-2
+4/1/98 - continue in effect until terminated by either Shipper or Transporter upon six months written notice to the other.
+10,000 HUB Points
+HUB Points
+NFUL
+National Fuel
+EESI
+n
+#U02073
+IR-2
+4/1/98 - continue in effect until terminated by either Shipper or Transporter upon six months written notice to the other.
+300,000 HUB Points
+HUB Points
+NFUL
+National Fuel
+EESI
+n
+#A02075
+IAS
+4/1/98 - continue in effect until terminated by either Shipper or Transporter upon six months written notice to the other.
+300,000 (MAQ)
+See Exhibit 1
+See Exhibit 1
+NFUL
+National Fuel
+EESI
+n
+#I02071
+IT
+4/1/98 - continue in effect until terminated by either Shipper or Transporter upon six months written notice to the other.
+10,000 See Exhibit 1
+See Exhibit 1
+w
+NWPL
+North West Pipeline
+c
+PEPL
+Panhandle Eastern Pipe
+ 
+ 
+ 
+ 
+ 
+ 
+w
+PGEN
+PG&E Transmission, Northwest
+TENN
+Tennesse Gas Pipeline
+CAP REL
+EESI
+n
+36515 FT
+Firm
+FT-A
+4/1/01-10/31/01
+3500 Egan Dehydration (011034)
+Newcastle (020062)
+??
+3.36 e
+TENN
+Tennesse Gas Pipeline
+EESI
+n
+37387 FT
+Firm
+FT-A
+7/1/01-10/31/01
+7500 Utos Exchjange (1366)
+Rose Lake (020527)
+??
+1.84 e
+TETCO
+Texas Eastern Transmission
+e
+TGT
+Texas Gas
+CAP REL
+EESI
+n
+T017460
+FT
+Firm
+FT
+ 
+4/5/01-9/30/01
+3300 0.193 TGT
+Texas Gas
+A17453
+IT
+Trans Aggr Pool svs
+TAPS  (Zone 1 - 3701)
+TGT
+Texas Gas
+A17452
+IT
+Trans Aggr Pool svs
+TAPS  (Zone SL - 3700)
+TGT
+Texas Gas
+17444 IT
+IT
+it
+evergreen
+w
+TW
+Transwestern
+Need Company ID #s
+TRCO
+Transco
+need to get company code and update cross reference table; also need to get TPA once pipes tariff is filed.
+Nigas
+Michcon
+PGLC
+The People Gas Coke and Light Company
+EESI, EESO, EESM
+
+
+Sheet2
+Region
+Altra Abbreviation
+Unify_Pipeline_Id
+Jurisdiction_Id
+blue book in file
+Pipeline_Legal_Name
+Logistics Primary
+UNIFY NOM MTHD
+Transportation                                                                                                                                                                                          K #'s, service type, mdg, term
+Transportation Type
+Title Holder of transport (EES or EEM)
+Web-site
+East
+ALGO
+ALGO
+INTER
+Algonquin Gas Transmission Company
+X12
+http://www.link.duke-energy.com/
+Central
+ANRP
+ANR
+INTER
+ANR Pipeline Company
+Kyle Griffen
+X12
+http://192.53.35.105/
+East
+CGTS
+CGLF
+INTER
+x
+Columbia Gulf Transmission
+Rhonda Smith
+X12
+http://www.columbiagastrans.com/tco.html
+East
+TCOS
+CGAS
+INTER
+Columbia Gas Transmission Corporation
+Rhonda Smith
+X12
+https://www.columbianavigator.com/Ebb/Default.asp
+East
+CRDS
+CROD
+INTER
+Crossroads Pipeline Company
+Rhonda Smith
+X12
+http://www.crossroadspipeline.com/
+West
+ELPP
+EPNG
+INTER
+P
+El Paso Natural Gas Company
+Bob Mattice
+X12
+9MMB:VARIOUS
+Firm Transport:Capacity Release
+EESI
+http://www.epenergy.com/client/caws.asp; https://passport.epenergy.com
+East
+FGTC
+FGT
+INTER
+Florida Gas Transmission Company
+Daniel Salinas
+X12
+http://www.hottap.enron.com/hottapweb.asp
+West
+KOC
+KOCH
+INTER
+Gulf South Pipeline Company, LP  
+Annette Willis
+EBB
+http://www.gulfsouthpl.com
+East
+IROQ
+IROQ
+INTER
+Iroquois Gas Transmission System L.P.
+Rhonda Smith
+X12
+http://www.nrgexpressway.com/igts/index.html
+Central
+MRTP
+MRT
+INTER
+Mississippi River Transmission Corporation
+Sabra Zajac
+EBB
+http://www.nttg.com/ebb-main-mrt.html
+East
+NFGT
+NFUL
+INTER
+National Fuel Gas Supply Corporation
+Jim Wagner
+X12
+http://www.natfuel.com
+Central
+NGPL
+INTER
+Natural Gas Pipeline Company of America
+Jamie Lynn
+PROP
+Central
+NNG
+INTER
+Northern Natural Gas Company
+Kyle Griffen
+X12
+http://www.hottap.enron.com/hottapweb.asp
+Central
+PANH
+PEPL
+INTER
+Panhandle Eastern Pipe Line Company
+Amanda Boettcher
+X12
+http://msrpost.messenger.cmsenergy.com/peplframeset.asp
+West
+PGEN
+PGEN
+INTER
+PG&E Gas Transmission, Northwest Corporation
+Gwen Espree
+EBB
+http://www.pge-nw.com/home.html
+Central
+REGT
+NRAM
+INTER
+Reliant Energy Gas Transmission Company
+Amanda Boettcher
+EBB
+http://www.nttg.com/ebb-main-ngt.html
+East
+SONT
+SNAT
+INTER
+Southern Natural Gas Company
+EBB
+http://www.epenergy.com/sonetpremier/login.asp
+East
+TENN
+TENN
+INTER
+Tennessee Gas Pipeline Co.
+Rhonda Smith
+X12
+http://www.epenergy.com/client/caws.asp
+East
+TETI
+TETC
+INTER
+Texas Eastern Transmission, LP
+Sherry Pendegraft
+X12
+http://www.link.duke-energy.com/
+?????
+TXGT
+TGT
+INTER
+Texas Gas Transmission Corporation
+Daniel Salinas
+X12
+http://www.gasquest.twc.com/
+East
+TRNS
+TRCO
+INTER
+Transcontinental Gas Pipe Line Corporation
+Sherry Pendegraft
+PROP
+www.transit.twc.com
+Central
+WLPC
+INTER
+Williams Gas Pipelines Central, Inc.
+Amanda Boettcher
+EBB
+http://www.williams.com/gaspipeline/htm/central.htm
+West
+TRAN
+TW
+INTER
+p
+Transwestern Pipeline Company
+Bob Mattice
+X12
+EESI
+http://www.hottap.enron.com/hottapweb.asp
+Central
+TRKL
+INTER
+Trunkline Gas Company
+Sabra Zajac
+X12
+http://www.nrgexpressway.com/igts/index.htm
+

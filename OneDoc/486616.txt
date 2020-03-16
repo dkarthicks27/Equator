@@ -1,0 +1,28 @@
+﻿From:           Gavin Dillingham </o=cw-test/ou=first administrative group/cn=recipients/cn=gavin.dillingham>
+Sent:           Fri Aug 17 2001 20:13:43 GMT
+To:             Steven Kean <steven.kean@cw-test.com>;Darren Maloney </o=cw-test/ou=first administrative group/cn=recipients/cn=darren.maloney>;Rob Bradley <rob.bradley@cw-test.com>;Elizabeth Linnell </o=cw-test/ou=first administrative group/cn=recipients/cn=elizabeth.linnell>;Earlene O'Connell </o=cw-test/ou=first administrative group/cn=recipients/cn=earlene.o'connell>;Scott Affelt </o=cw-test/ou=first administrative group/cn=recipients/cn=scott.affelt>;Jeff Andrews </o=cw-test/ou=first administrative group/cn=recipients/cn=jeff.andrews>;John Carr </o=cw-test/ou=first administrative group/cn=recipients/cn=john.carr>;Mike Curry </o=cw-test/ou=first administrative group/cn=recipients/cn=mike.curry>;Chris Foster <chris.foster@cw-test.com>;Doug Gilbert-smith </o=cw-test/ou=first administrative group/cn=recipients/cn=doug.gilbert-smith>;Elliot Mainzer </o=cw-test/ou=first administrative group/cn=recipients/cn=elliot.mainzer>;Heather Mitchell </o=cw-test/ou=first administrative group/cn=recipients/cn=heather.mitchell>;Michael Payne </o=cw-test/ou=first administrative group/cn=recipients/cn=michael.payne>;George Phillips </o=cw-test/ou=first administrative group/cn=recipients/cn=george.phillips>;Richard Ring </o=cw-test/ou=first administrative group/cn=recipients/cn=richard.ring>;Zachary Sampson </o=cw-test/ou=first administrative group/cn=recipients/cn=zachary.sampson>;James Steffes <james.steffes@cw-test.com>;Jennifer Stewart </o=cw-test/ou=first administrative group/cn=recipients/cn=jennifer.stewart>;Bruce Stram </o=cw-test/ou=first administrative group/cn=recipients/cn=bruce.stram>
+CC:             
+Subject:        Environmental, Health and Safety Web Site Load two
+Attachments:    
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+
+The new EHS web site has now been launched. 
+
+It is new and improved with increased functionality and usability. You can now go to the homepage and find the latest EHS and Corporate Responsibility news, as well as the latest documents posted to the site. Also, the homepage displays events and initiatives that are currently taking place within EHS.
+
+In addition, the site contains a section that covers Global EHS regulatory and legislative information. This service is provided by EnHeSa, a global EHS consulting group. This section provides a legislative and regulatory calendar, legislation and regulations that could directly impact Enron and some analysis of these impacts. You can reach this section at http://ehs.corp.enron.com/Main.asp?Topic=EnvStratRescs&SubTopic=6&Ecobytes=   
+
+You can go to the site with this URL: http://ehs.corp.enron.com
+
+Thanks,
+
+Gavin Dillingham
+Environmental Specialist
+Enron Corp.
+Gavin.Dillingham@enron.com
+713-345-5961
+

@@ -1,0 +1,394 @@
+Eron Capital & Trade Resources Memo
+Comments on Load Forecasting/Data Requirements Proposed Regulations
+Jeff Ford
+pkaufma
+3
+Microsoft Word 9.0
+2
+4/21/2000 13:54:00
+8/18/2001 02:51:00
+8/18/2001 02:54:00
+1
+6082
+34672
+0
+ect
+288
+69
+42579
+no
+no
+8/17/2001 19:51:00
+8/17/2001 19:54:00
+4/21/2000 06:54:00
+
+PGE	8/17/01//	Page 
+CONFIDENTIAL MEMORANDUM
+
+Your Personal Best Makes Enron Best	Communicate- Facts Are Friendly		Better, Faster, Simpler
+Form 000-469-1 (5/92)
+Confidential
+Memorandum
+Respect	Integrity	Communication	Excellence
+Form 000-469-1 (7/92)
+
+
+
+
+
+
+To:
+Mark Metts, Jessica Uhl, Keith Fullenweider
+
+
+
+
+
+
+
+
+From:
+Paul Kaufman, Harry Kingerski, Robert Kilmer, Blair Lichtenwalter, Leslie Lawner
+
+
+
+
+
+
+
+
+
+Subject:
+PGE
+Date:
+August 17, 2001 , 
+
+
+This memorandum summarizes our regulatory review of NNG.  Our review consisted of the following:
+
+Review of Washington and Oregon retail tariffs
+Review of OPUC and WUTC decisions in NNG’s recent rate cases and PGA proceedings
+Interviews of NNG personnel, including Manager of Rates Susan Ackerman, COO Mark Dodson, and Manager of Gas Supply, Randy Peterson.
+Analysis of deferral accounts resulting from application of the OPUC purchased gas adjustment (PGA) methodology
+Outside counsel review of the approval process at FERC for the disposition of PGE’s assets, the SEC for the formation of NNG’s Holding Company, DOJ—HSR, and the OPUC.  Outside counsel analyzed the standards and likely issues if the OPUC reviews the transaction for the NNG HoldCo’s ability to exercise influence and control over PGE and NNG, the change in ownership of PGE’s assets, and the merger of two Oregon utilities.  Outside counsel also analyzed the standards that are likely to be applied in Washington by the WUTC.  
+
+We did not do a “bottom up” review of NNG’s rates or OPUC orders affecting their rates.  Instead, we completed a top down analysis by reviewing the inputs to NNG’s rates that can directly affect earnings.  
+
+The sections that follow present our conclusions in several key areas:
+
+RATES IN GENERAL
+
+As a general matter, NNG’s customers pay four categories of costs in their rates:
+
+Base rates—which include NNG’s A&G, distribution capital costs (depreciation, return, taxes), distribution O&M. and other non-income taxes.
+Upstream capacity
+Gas commodity—which together with upstream capacity is recovered in both Washington and Oregon through a PGA.
+“Temporary Increments”—which reflect the annual amortization of NNG’s deferral accounts.  Current law limits the annual amortization that can be recovered in rates of any one deferral account to 3% of gross revenues.   
+
+NNG’s Washington and Oregon tariffs are consistent with industry practice in form and content.  Consistent with industry practice, NNG’s tariffs include rules and conditions for disconnection, retail customer credit requirements, customer service extensions, and customer curtailment.
+
+BASE RATES
+
+Overview.  NNG filed a general rate case (GRC) in 1998.  This filing was their first GRC in approximately 10 years.  The OPUC rejected much of NNG’s request for a rate increase—including nearly $8 million of NNG’s request for full recovery of approximately $40 million in CIS costs.  In its order, the OPUC authorized a $200,000 rate increase for NNG (November, 1999), compared to a request for $14.7 million.  Regarding ROE, NNG was unable to obtain its requested ROE of in excess of 11%.  The OPUC authorized a ROE of 10.25%.  
+
+NNG’s current base rates became effective in December, 1999.  NNG’s current base rates include the OPUC approved ROE of 10.25%.    On December 1, 2000, NNG reduced rates $3.0 million as a result of increasing the costs allocated to its Washington jurisdictional customers.  
+
+In October 2000, the WUTC authorized a general rate increase of $4.3 million/year or 12.1%.  The first $3.0 million of the increase (due to the change in allocation referenced above) was placed in rates on November 1, 2000.  The remaining $1.3 million will be reflected in rates beginning October 1, 2001.   
+
+Historically, NNG has received approximately 10% of its gross revenues from its Washington operations.   Management indicates that their Washington customer base and load is increasing at a faster rate than in Oregon.  NNG has no statutory requirement in either jurisdiction to file periodic rate cases.
+
+Risks.  Like most LDCs, NNG’s revenues are highly throughput sensitive.  Historically, about 75% of NNG’s revenues have been earned from weather sensitive residential and commercial customers.  In 2001, NNG’s residential and commercial customers are consuming less on a per customer basis than in past years.  NNG has been unable to isolate the cause of this decrease, but attributes it to a variety of factors such as increased conservation, more efficient appliance stocks, and reduced home sizes. 
+
+Other factors such as the local and national economic conditions and competition from other fuels also affects throughput (and therefore revenue) from industrial customers.  In addition, NNG serves a number of customers under rates that vary with oil prices.  While NNG’s 10K notes that the year 2000 increase in industrial customer margin (over margins for 1999) was due to “positive effects on industrial margins of higher oil prices,” it is unlikely that a slump in oil prices will drive the need for a GRC.  
+
+There are two events that could force NNG into a GRC in the near-term.  First, a continued slump in residential and commercial customer consumption could force NNG into a GRC.  Second, NNG is projecting a substantial capital investment in the Mist Project in 2003 ($99.2 million).  
+
+The risk of a GRC is that GRC’s tend to “attract issues.”  Thus, OPUC staff and intervenors could push for a return of any synergies experienced by consolidating NNG and PGE.   We also would expect ROE, debt/equity ratios, and prudence of NNG’s capital expenditures to be issues in any GRC.  For example, OPUC staff could argue in the GRC that the Mist investment was not “used and useful” for Oregon ratepayers.  This would force NNG to recover the costs through FERC jurisdictional rates.  
+
+Mitigating Factors.   There are at least two mitigating factors that can operate to keep NNG from filing a GRC.  
+
+First, to mitigate the revenue impacts resulting from the slump in consumption, NNG filed a “Distribution Margin Normalization Tariff” for review and approval by the OPUC on May 31, 2001.  The filing decouples NNG’s earnings from throughput.   While discussions concerning the tariff continue at the OPUC, NNG is hopeful that the revenue sharing aspects of the filing will result in approval by the OPUC.   We expect the OPUC will suspend the tariff for further consideration at its August 21 public meeting.
+
+The mechanism examines the actual monthly usage of customers who were on the NNG’s system in 1998, and compares their actual usage to the usage for these same customers in the 1998 rate case.  If the usage from these customers exceeds the 1998 numbers, NNG will “book” a refund to a sub-account of Account 186 equal to the additional base rate revenue from the additional sales.  If the usage is less than 1998 numbers, NNG would make a similar debit entry to the sub-account.  Balances in the account will carry interest.   Coincident with NNG’s PGA filings (August 15 of every year, with rates effective October 1), NNG will apply a temporary adjustment to rates that will amortize the balance in the sub-account over the following 12 months.   NNG proposes to credit any refunds to customers in a single lump sum reduction to a customer’s bill.   Any credit that is less than 10% of normal rate case margin will be carried forward.
+
+If approved as filed, the tariff will “lock in” NNG’s margin for those customers on its system in 1998.  The tariff will allow NNG to capture the upside of any margin growth associated with customers that have been added since this time.  Note that the rate adjustments or credits calculated under the tariff mechanism are collected or applied to all residential and commercial customers.  
+
+If NNG ends up filing a GRC, there are indications that they would fair better then they did in 1998.  In this regard, the Chairman of the OPUC has been replaced.  Further, by the beginning of October , 2001, one of the other two commissioners sitting at the time of the 1998 GRC decision will also be replaced.  The prior Chairman, Ron Eachus, was generally considered a consumer-focused commissioner.  It is anticipated that the new Chairman, Roy Hemmingway, will  be more balanced in his approach to regulation.  
+
+In addition, the lead OPUC staff witness who defeated NNG’s 1998 ROE request is no longer with the OPUC.   PGE is currently litigating its ROE before the full OPUC.  As you know, PGE expects that it will receive fair treatment from the OPUC on ROE.   However, note that as a general matter, ROEs have dropped since NNG filed its rate case and received 10.25% from the OPUC.  
+
+Second, NNG has stated that if they can mitigate their need for a GRC by not making the capital investment in the Mist storage filed contemplated for 2003 (or they could presumably seek off-balance sheet financing for the project.  Past investments in the Mist project have been given favorable consideration at the OPUC.   The OPUC approved NNG’s most recent request for rate treatment of a Mist investment (Phase 3) in a single-issue rate case filed with NNG’s last PGA.  NNG prefers the single-issue rate case approach to a GRC.  
+
+Conclusion. If approved, the Distribution Margin Normalization tariff will mitigate much of NNG’s throughput risk.  If this mechanism is not in place and consumption trends continue downward, NNG may need a GRC to avoid a substantial reduction in distribution revenue.  Similarly, OPUC approval of a rate adjustment related to Mist will mitigate the need for a GRC (see discussion below for additional Mist-related issue).  Should NNG file a GRC, NNG’s chances of fair treatment by the OPUC have improved substantially since the filing of its last GRC in 1998.  In our interviews, NNG management stated that they do not anticipate the need for a general rate case and could accept a base rate freeze for a period of five years, if the new investments at Mist can be handled outside of a full blown GRC or avoided altogether.  Finally, keep in mind that the significance of avoiding a GRC is that any savings related to synergies would be at risk in a GRC. 
+
+MIST INVESTMENTS
+
+Overview.  NNG management stated that Mist is one of NNG’s most valuable assets.  Mist is one of the few viable options for storage in the Northwest region.  From a regulatory perspective, Mist consists of several phases of development and attendant capital investment.   Ackerman explained that the capital costs of Mist Phases 1, 2, and 3 are currently collected in NNG’s base rates.  Ackerman also explained that a portion of the capital investment in Mist Phase 3b was approved for collection in a special rate adder in NNG’s last PGA proceeding (in the form of a single issue rate case).  
+
+In its order, the OPUC allowed only that portion ($4.9 million) of NNG’s Phase 3b Mist investment that benefited ratepayers in NNG’s Oregon rates.   NNG filed a request for rate approval at FERC for the remaining investment of approximately $11.1 million through market-based rates for its storage service.  FERC ruled that cost-based rates must be used.  NNG has already contracted for the sale of the FERC jurisdictional storage at negotiated rates, which are expected to be below NNG’s cost-based rates.  Any revenues earned from the sale of FERC jurisdictional storage will be shared between NNG shareholders and Oregon ratepayers on an 80/20 basis.
+
+As stated above, NNG plans to invest approximately $90 million in additional phases (Phase 4 and 5) of Mist development in 2003.  Dodson and Ackerman both stated that this investment is discretionary.  NNG’s plans are to use the next phase of development to support a distinct storage business.  
+
+Risk.  Interviews with NNG management indicate that NNG sold the FERC jurisdictional storage under contracts with  negotiated rates.  NNG must now request FERC approval for these contracts.  There is a risk that the negotiated rates will not be given FERC approval as FERC has approved cost-based rates for Mist Storage.  Should FERC reject NNG’s negotiated rates, NNG will be at risk for recovery of the revenue requirement for FERC jurisdictional storage.  We understand that the 80/20 mechanism discussed above only shares revenues (not under-recovered costs).  
+
+Conclusion.  We do not have any data on the contracts for sale of FERC jurisdictional storage, but the risk exposure appears to be quite small given the total investment at issue.  Also, Ackerman represented that the contracts were negotiated at rates below the cost-based rates expected to be approved by FERC.  FERC generally allows such transactions to take place.
+
+Regarding NNG’s future investment in Mist Phase 4 and 5, NNG management stated that they plan to make the investment only if the storage is pre-sold.  NNG has high hopes for Mist given its unique attributes.  
+
+PURCHASED GAS ADJUSTMENT MECHANISM
+
+Overview.  As stated above, both Washington and Oregon provide NNG with protection from purchased gas cost volatility.  The following table summarizes the adjustments granted NNG in both Oregon and Washington.  The adjustments are stated in terms of their average increase to total rates in effect.
+
+Date of Adjustment
+Oregon
+Washington
+
+October 1, 2000
+23%
+
+
+August 1, 2000
+
+23%
+
+December 1,1999
+9.1%
+11.1%
+
+January 1, 1998
+11.4%
+
+
+April 1, 1998
+6.1%
+
+
+December 1, 1998
+3.4%
+5.8%
+
+
+NNG, 2000 Annual Report, p. 20.
+
+Washington’s mechanism provides “dollar for dollar” recovery of prudent gas costs.  While we understand the WUTC examines the prudence of NNG’s gas procurement, the mechanism does not provide for any sharing of the upside or downside of their actual gas management strategies.
+
+Given the relative impact of the Oregon PGA sharing mechanism on NNG’s revenues, we focused our attention on Oregon.  The basic mechanism can be described as follows:
+
+On or around August 15 of every year, NNG proposes a Weighted Average Cost of Gas (WACOG) for every month of the next twelve-month period (beginning with October of that year).  The WACOG calculation consists of several steps:
+
+NNG identifies the actual gas throughput for its customers for each month for the 12-month period ending on the June 30 prior to the filing date.  
+Each spring, NNG develops a gas management strategy for each month of the following year.  This strategy identifies how much gas NNG will procure by source—e.g., pipeline supply, storage, or LNG peaking supply.  Pipeline supply is further differentiated between gas subject to some fixed price mechanism (hedging, fixed price supply, etc.) and gas purchased at spot market-based prices.
+NNG calculates the “known and measurable” costs of the fixed price gas for each month.  This price expressly includes the cost of hedging.  Note that if NNG purchases a commodity swap, the price included is the swapped price agreed to by NNG.  If NNG purchases a cap through a call option, then the cost of the cap is included in the cost of gas, and an imputed market price is included in the cost of gas (not the cap price).  Shareholders are at risk for 33% of the out of the money portion of the call option, although the risk is symmetric in that shareholders also benefit from 33% of the difference between the actual price paid for the gas and imputed market price.
+NNG calculates the cost of spot market gas on the basis of a historic index for that month in the prior year. 
+The gas cost is then divided by throughput .
+
+Once approved, the posted WACOG for each month is published in NNG’s Oregon rate schedule 169.  For example, the WACOG for August, 2001 is $0.33041/therm.
+
+On a monthly basis, NNG calculates an actual WACOG.  The actual WACOG includes all of the known and measurable costs included in the posted WACOG, plus any gas costs incurred as NNG manages its actual portfolio of gas supply against its actual throughput.  Thus, the actual WACOG is influenced by actual gas throughput, the amount of gas withdrawn from storage, actual spot market prices, and any other hedges, swaps, etc., purchased for the month after the posted WACOG is approved. 
+
+On a monthly basis, NNG credits or debits the Purchased Gas Cost Adjustment  Account with 67% of the difference between the actual WACOG and the posted WACOG.  NNG shareholders bear the cost or enjoy the benefit of the remaining 33% of the difference.
+
+The PGA Account collects interest.  With its annual PGA filings, NNG reports the amount in the deferred account and collects deferred amounts through a Temporary Increment.  Oregon law requires NNG to cap any adjustments in rates resulting from a deferral at 3% of gross revenues.   Any amounts in excess of the 3% are carried for amortization in future years.  
+
+Risk Analysis.    We understand from discussions with Dodson, Ackerman and Friedman that in the past the sharing mechanism has resulted in substantial deferrals.  In this regard, we understand that in the winter of 1995/1996 NNG deferred as much as $20 million over a two month period.  During the same two-month period, shareholders shared losses of approximately $5 million.   This loss was calculated using the 80/20 ratepayer/shareholder sharing mechanism in place at the time.  
+
+We understand from NNG management that the single month shareholder loss of $5 million was an isolated event.  In 1995/1996, NNG’s position was substantially open, with only 50% of their gas portfolio hedged.  Their portfolio did not include any gas supply contracts with caps (call options) and the flexibility of  Mist storage capacity was limited.  Management believes that experience gained since 1995/1996, makes a repeat event very unlikely.  
+
+Year 2000 data confirms NNG’s representations.  In 2000, NNG’s actual WACOG was higher than the posted WACOG.  Yet NNG’s 10K indicates a 12-month deferral of only $3.967 million in Oregon.  Consistent with Oregon’s sharing mechanism, shareholder’s paid less than $2 million (confirmed by Bruce Debolt).  Attachment A to this memorandum is a monthly listing of the deferred amounts for both Oregon and Washington in 2000.  
+
+NNG has represented that the sharing mechanism has netted to zero cost/benefit over the eleven years of its operation.   Nonetheless, it is clear that the Oregon PGA sharing mechanism creates financial risk for NNG.  
+
+NNG bears this risk when actual WACOG is much larger than posted WACOG.  This could occur under a range of scenarios that includes:  (a) limited hedging—i.e., using market-based pricing for a large percentage of the gas portfolio; (b) substantially colder or warmer temperatures than anticipated—in combination with a purchasing practice that drives WACOG up; and (c) a catastrophic event on an upstream pipeline, limiting supplies and increasing prices.  NNG can curtail and interrupt customers for supply shortages, but cannot do so for economic reasons.  Thus, e.g., a pipeline rupture could force NNG to buy spot gas from a different basin at a higher than expected price.
+
+Three other risks are relevant to the PGA mechanism.  First, the deferral mechanism also creates a cash flow risk for NNG.  Deferral balances cannot  be collected until the following year’s PGA proceeding.  A major deferral in, e.g., October of 2001, could not  be collected (without an out-of-cycle PGA filing) until October of 2002.
+
+Second, the PGA mechanism also creates prudence risk for NNG.  These risks are largely uncontrollable.  The 2001 PGA filing will seek recovery of now above-market gas costs.  NNG procured its supply and fixed prices associated with that supply before gas prices dropped.  
+
+Third, natural gas production and distribution facilities of course have inherent environmental risks.  Environmental accidents or other environmental consequences from this business could result in cleanup costs and related damages that may be unrecoverable through a PGA mechanism.  
+
+Mitigating Factors.  Several factors are used by NNG to mitigate the risk created by the sharing mechanism.  The biggest risk mitigation factor is their use of hedging.  For example, Friedman stated that for the winter of 2000-2001, NNG hedged approximately 95% of their portfolio.  While this amount is substantially greater than traditionally employed by NNG, it worked well for NNG—saving ratepayers approximately $120 million.  Given that the costs of hedging and all fixed costs of gas are “known and measurable” gas costs and thus included in the WACOG, NNG bears no risk for hedged volumes under the current regulatory climate.
+
+Another mitigation factor is NNG’s use of storage.  NNG’s coldest peak day is approximately 900 MMcfd.  Their take-away-capacity from Mist is 245 MMcfd.  We understand from NNG management that NNG has other storage and LNG capabilities that increase total storage available in a given day to 470 MMcfd.  While these factors represent an extreme event, they are indicative of the flexibility provided to NNG by its storage inventory.  Note that a recent accounting change at the OPUC allows NNG to:  (1) price storage gas at the cost of the gas injected; and (2) include the price in the WACOG for the next PGA filing.  This accounting change allows NNG to eliminate the risk from the timing of storage injections and withdrawals.  NNG can inject high-priced excess gas into storage in one year and recover the costs through the WACOG the following year without being subject to a deferral in the month.  
+
+Still another mitigation factor is NNG’s daily and monthly trading activities.  Friedman stated that his traders manage actual gas supply on the basis of:  (1) reliability and (2) price—i.e., lowest price.
+
+An additional mitigating factor is that NNG procures gas on the basis of its forecast of gas throughput.  This forecast is by definition different than the actual gas throughput being used for calculating the posted WACOG and the actual use of gas in any given month.  Given NNG’s policy of ensuring reliability first, NNG will almost always have excess gas procured and thus have a greater portion of its actual monthly usage hedged.  Assume for example that NNG:  (1) predicts that usage in January will be 700 MMcfd and procures supplies accordingly;  (2) adopts a policy of hedging 90% of its January portfolio; (3) had historical usage in the prior January of 600 MMcfd; and (4) actual usage of 800 MMcfd.   NNG’s WACOG would include the hedging costs associated with  540 MMcfd.  NNG’s actual costs would reflect the same hedged price for 630 MMcfd.  Thus, NNG would only be exposed for actual spot prices for 170 MMcfd (rather than 260 MMcfd).
+
+Each of the above mitigating factors illustrates how NNG can manage its actual supply on a forecast, daily and monthly basis.  In short, NNG has the management tools to reduce its exposure to price spikes in the indexed price.  
+
+Another mitigating factor is that NNG can seek an out-of-cycle PGA adjustment if the actual WACOG changes more than 10% from the posted WACOG “or for such other reasons as the Commission may approve.”  Note that such an adjustment only provides relief on a going forward basis.  Further, to reflect higher than expected actual spot market prices NNG must fix the spot market price by contract or through a financial hedge.  NNG filed an out-of-cycle PGA in 2000 and has done so in past years as well.  Note that NNG did not file an out-of-cycle PGA in 1995/1996 when it was forced to share $5 million in exceeds gas costs.
+
+NNG mitigates prudence risk by consistent communication with OPUC staff.   With regard to the 2001 PGA, NNG management stated that they have reviewed their gas supply portfolio and pricing with OPUC staff.  They have not received any indication that their portfolio will be revisited in the 2001 PGA.  
+
+Conclusion.  We understand that a worst case scenario has been modeled.    However, from a practical standpoint, the worst case scenarios are unlikely without gross mismanagement of NNG’s gas supply.  NNG now has the ability to hedge.  NNG has been granted the right to include hedging costs in the posted WACOG and NNG has the capability to manage actual gas costs through trading operations and storage.  
+
+Further, even if NNG chose not to hedge at the beginning of any given year, NNG has the ability to file an out-of-cycle PGA.  Under Oregon’s PGA rules, NNG could adjust the posted WACOG with an out-of-cycle case by locking in gas prices before filing the PGA case.  While this may subject NNG to prudence risk, it would reduce the built-in disallowance of the revenue sharing mechanism.  
+
+Changes in throughput from the historical case used to calculate the posted WACOG, pose little risk to NNG given the relative flexibility of Mist storage and the OPUC’s accounting rules for storage gas.   Note, however, that a severe reduction in throughput will substantially affect NNG’s earnings through a loss of distribution margin.  
+
+The conclusions above are drawn from our review of NNG’s actual practices and interviews  with NNG management.  Little if any of NNG’s actual practices are written down in policy format.  While there is a derivatives policy, it delegates almost complete authority to the gas manager. The Treasurer is assigned responsibility for monitoring the costs and activity of hedging instruments through a monthly report.    We understand that NNG management approves the gas procurement plan before the gas manager executes it.  
+
+While all accounts indicate that NNG’s gas strategies have been successful in avoiding a substantial sharing penalty, NNG should write down its policies concerning gas management strategy and institutionalize the process for reviewing hedging activity, the costs of any hedging, and gas trading activity.  
+
+REVENUE SHARING MECHANISM
+
+General Overview.  As part of the PGA filing, NNG must complete an earnings test.  The test compares earnings in terms of the actual ROE with the OPUC’s authorized ROE.  Under this mechanism NNG is allowed to keep any earnings up to 300 basis points above the authorized ROE, after the ROE is adjusted (for this purpose only) for a change in interest rates.  One-third of any earnings above that level are refunded to ratepayers through a reduction in the deferred accounts.  We understand that any reduction would be amortized over a 12-month period.  The authorized ROE is adjusted every year depending on the movement of interest rates.  The following table shows how the revenue sharing mechanism was applied in 2000 and 1999.
+
+
+Year
+Earnings Threshold
+Actual ROE
+Sharing?
+
+1999
+12.55%
+10.48%
+No
+
+2000
+13.05%
+8.77%
+No
+
+
+
+Risk.  The revenue sharing mechanism can work to reduce the cost-saving synergies that NNG will earn after its acquisition of PGE.  Note that based on NNG’s 2000 revenue requirement 100 basis points is approximately $6 million.  
+
+Conclusion.  We agree with NNG management  that there is limited risk that NNG will lose synergies through the revenue sharing mechanism.    
+
+NNG will not be allocated 100% of the synergistic savings produced by the transaction.   In considering the synergies, the OPUC will allocate the benefits between the two companies on the basis of either the locus of the cost reductions, or some other measure such as gross plant in service.  In either case, we can expect PGE to be allocated the lion’s share of any synergies produced.
+
+The 300 basis point bandwidth allows NNG to earn approximately $18 million over its authorized return.  As indicated above, NNG did not reach its authorized return in 2000, even though the company had record earnings in that year.
+
+Even if NNG crosses the 300 basis point threshold, it will continue to have earnings.  Earnings are simply shared 67/33 between shareholders and ratepayers.  
+
+The revenue sharing mechanism does not force NNG into a ratecase.  NNG can only be forced into a ratecase if the OPUC issues a show cause order after finding that there is a record of over-earnings.
+
+Finally, NNG is willing to keep the revenue sharing mechanism in place and accept a rate freeze for a period of years.  We anticipate that a promise of rate stability—excluding purchased gas costs,  will be part of the starting offer made by NNG to settle the OPUC proceeding.
+
+SYNERGIES
+
+Overview.  We did not complete an independent analysis of the synergies calculated by NNG.  The areas identified by NNG as producing synergies appeared reasonable—but we had no independent means of evaluating the level of savings predicted.  We did consider, however, whether the synergies would be placed at risk through the approval process or later regulatory processes.
+
+Risk   NNG’s synergies will be at risk if either PGE or NNG file a general rate case and are required to support their historical (for NNG) and projected (for PGE) costs.  We can expect the parties to the OPUC and WUTC proceedings to go after synergies in the merger proceedings.
+
+Conclusion.  Discussions with NNG management confirm their willingness to offer a combination of a rate freeze and rate credits in the merger proceedings.  We conclude that this proposal has merit given that:  (a) NNG completed a rate case in 1999; (b) NNG is subject to an earnings test as part of its PGA filings; (c) NNG is subject to several sharing mechanisms for off-system sales, actual gas costs, and actual earnings.  The decoupling mechanism proposed by NNG and discussed above is another reason why parties should be willing to accept a rate freeze and limited rate credits from NNG.   
+
+A similar analysis applies to PGE, as PGE will have completed its UE-115 proceeding prior to the announcement of this transaction and will have a power cost stipulation in place that includes cost sharing.
+
+
+
+REGULATORY APPROVALS
+
+Attachment B is a memorandum from Vinson & Elkins addressing the risks and possible conditions of FERC review.   Attachment C is a memorandum prepared by Leslie Lawner concerning the risks to Enron’s gas marketing activities.  Attachment D consists of memoranda from Baker & Botts reviewing the risks attendant to SEC review of this transaction.    
+
+FERC. 
+
+PGE is a FERC jurisdictional utility.  As indicated above, FERC jurisdiction applies to a limited portion of NNG’s Mist storage facility.  Because the transaction will result in a transfer of PGE’s assets, FERC has jurisdiction to review the transaction.  We asked V&E to review two issues associated with FERC’s review:  (1) what are the likely issues in FERC’s review of the transaction; and (2) what, if any, conditions will be placed on Enron’s future commercial activities as a result of the transaction.
+
+FERC’s Review of the Transaction.  V&E’s initial analysis indicates that FERC’s review will consist of the same component parts as FERC’s review of the Sierra transaction.  Thus, market power will be an issue in the FERC review.  Given that NNG does not own any electric generation, transmission or distribution facilities, we expect that focus to be on vertical (rather than horizontal) market power.    
+
+In the vertical power analysis, FERC will consider both:  (1)  the generation owned by PGE; and (2) the generation that is served or can be served by NNG.  FERC undertakes this analysis out of a concern that the combination of NNG and PGE will increase the combined entity’s control over pricing and supply of generation.  
+
+While the technical analysis has not yet been initiated, several factors mitigate concerns with vertical market power:  
+
+PGE is net short in the current market and purchases in excess of 50% of its current demand. 
+
+NNG only supplies natural gas or transportation services to:  (1) PGE’s Beaver Plant; (2) some distributed generation facilities; and (3) a small 50 MW facility in Clark County.
+
+NNG has open access shipping tariffs for large customers and most new generation will connect directly to the interstate pipelines.
+
+NNG is not a major marketer of natural gas in the Western Systems Coordinating Council.
+
+Impact on Enron’s Future Commercial Activities.  If Enron is found to be an affiliate of the combined company, FERC will likely apply conditions on the ability of the company to transact with NNG and PGE.  The limitations currently applicable to Enron’s sales to PGE will likely survive.  Attachment  F is a memorandum prepared by Leslie Lawner that indicates additional conditions may apply to future gas transactions with NNG.  Far less likely are conditions on Enron’s overall gas activities in the marketplace.  
+
+For FERC to find that Enron is an affiliate of the combined entity, Enron has to have control over the entity.  Control has been defined by FERC to mean a voting interest of 10% or more.  FERC will also determine whether Enron has the authority to direct or cause the direction of the management or policies of a company.”    We understand that the current structure contemplates that Enron will hold less than 5% of the voting stock of the combined entity.  V&E concludes that this will not trigger the affiliation standard.  V&E points out, however, that Enron’s position on the board and Enron’s ability to select other board members presents an issue of first impression for FERC and may trigger the affiliation rules.    
+
+In terms of Enron’s gas activities, we are continuing to review the implications of the transaction with the commercial units.  However, we understand that NNG does not currently use any of the Enron’s interstate pipelines.  Further, given the location of the subject LDC, it is unlikely that it will acquire transportation on any Enron interstate pipelines.  Thus, most of the provisions of the marketing affiliate rule as currently written would not be applicable to NNG as it would not be deemed a marketing affiliate.
+
+Enron’s gas marketing certificate allowed sales at negotiated rates, has no term limitation and no reporting requirements attached.   Thus, under the existing regulations, there is no restriction or regulation by the FERC on sales of gas or of gas derivative products between Enron marketing entities and NNG (even if it is deemed an affiliate).  Of course, there is state regulation over NNG’s gas costs.  If Enron is deemed an affiliate, transactions with NNG will be scrutinized at the state level.  
+
+Thus, in terms of FERC review, it appears that affiliation is not an issue in this transaction for Enron’s pipelines or gas marketing activities.   
+
+We note, however, that even if FERC does not currently have regulations that allow imposition of rules on Enron, FERC could impose affiliate transaction restrictions in the order approving the transaction if it concludes that there is the opportunity for affiliate abuse.  These conditions may include reporting and posting requirements for transactions.  
+
+As a final matter, we note that FERC has an open rulemaking proceeding which is scrutinizing the existing marketing affiliate rules and FERC is also dealing with the fallout from the California situation, including the extremely high price spikes at the California border last winter, in several other dockets including an investigation of El Paso Pipeline and its affiliates.  
+
+SEC
+
+Baker & Botts considered two issues:  (1) the issues raised by SEC review of the transaction; and (2) whether Enron would be subject to further SEC review given the current structure of the transaction. 
+
+SEC Review of the Transaction. Given NNG’s intent to form a holding company, the transaction will be subject to SEC review.  Baker&Botts concludes NNG’s HoldCo will likely be an exempt holding company under Section 3(a)(1) of PUHCA.  Given that HoldCo will be highly leveraged, the SEC proceeding will revolve around the capital structure and financial strength of the combined company.   As in prior proceedings, the SEC will rely heavily on the conclusions reached by the OPUC and WUTC.
+
+Baker&Botts concludes that given Enron’s contemplated ownership of less than 5% of HoldCo’s voting shares, Enron will not need approval to enter into the transaction.
+
+SEC Jurisdiction over Enron. The SEC will consider two factors in the transaction when determining whether Enron will be subject to continuing SEC jurisdiction:  (1)  Enron’s ownership of voting stock; and (2) Enron’s position on the Board.   Baker&Botts concludes that the transaction will not likely result in a finding that Enron is a holding company.   However, Baker&Botts indicates that the SEC staff will question Enron’s role on the HoldCo board and the company’s right to designate future board members.   While it appears that this issue can be explained as a vehicle to protect Enron’s exit  strategy, continued concerns with Enron’s proposed role on the board could lead to a finding by the SEC that Enron is a holding company.  
+
+HSR
+
+Additional analysis of Hart Scott Rodino review is necessary.  However, it appears that gas/electric  convergence will be the  topic of HSR review.  The following factors may generate follow-up:
+
+PGE owns approximately 750 MW of gas-fired generation at the Beaver and Coyote Springs facilities.  While NNG does not serve Coyote Springs, we understand that it has a standby agreement with PGE for Beaver and co-owns the KB Pipeline with PGE.  KB Pipeline is a direct connection that provides transportation services to the Beaver Plant.
+
+NNG is receiving an increase in the requests for service to generating plants.  In this regard, NNG already serves approximately 50MW of generation in Clark County.  
+
+NNG’s gas procurement obligations will increase by as much as  30% if they are combined with PGE’s gas procurement obligations.   
+
+OPUC
+
+Under separate cover, Tonkon Torp will forward a memorandum outlining the OPUC proceeding and the conditions that are likely to be imposed on the transaction.  Our analysis of the OPUC’s jurisdiction and authority indicates that it can assert jurisdiction over the formation of HoldCo and the acquisition of PGE by NNG.   The standard applicable to the transaction will likely be the “ratepayer benefit” standard used in past proceeding—although other Oregon statutes will allow NNG to argue that a “no harm” standard should apply.  At best, this argument will “lower the bar” on the rate credits needed to reach agreement with other parties.
+
+We have identified the following areas of potential controversy:    
+
+HoldCo’s highly leveraged financial condition and the attendant impact on the credit ratings of PGE and NNG.  
+Affiliation with Enron, and Enron’s interest and plan in entering into the transaction.  (Note that Oregon law requires approval for acquisition of more than 5% of an Oregon utility’s voting stock.)
+Role of PGE management on a going forward basis.
+Electric/gas implications (anti-trust, tying)
+Affiliate transactions between NNG, PGE and HoldCo.
+
+The proceeding may take as long as 9-months (the time frame for prior merger/acquisition reviews)—although our goal is to complete the approval in a shorter period.   We expect PGE and NNG to be subject to the same conditions that were applied to Sierra, Scottish Power, and Enron.   Thus, we can expect:
+
+Conditions that ensure the financial separation of NNG, HoldCo, and PGE.  These conditions will likely include a requirement that the utility maintain a large amount of equity and the utility-level.
+Conditions on quality of service and reliability.
+Conditions on affiliate transactions, including conditions that focus on retail competition
+Rate conditions, including a rate credit.
+
+In contrast to past OPUC merger reviews, the success of the Oregon approval process will be influenced by whether we succeed in delivering our message—i.e., that this transaction is good for Oregon.  In any event we can expect  significant focus on the post-transaction financial condition/capital structure of NNG and PGE.  
+
+As discussed above, we see a distribution rate freeze as the most likely way to keep the synergies of this transaction.  A modest rate credit will likely be necessary to conclude the proceeding.  
+
+WUTC
+
+Under separate cover Tonkon Torp will send a memorandum analyzing:  (1) the legal standards associated with WUTC review of the transaction; and (2) the conditions tha may be applied to NNG during WUTC review.
+
+Legal Standards.   We expect that the WUTC will take jurisdiction over the transaction.  The legal standard applied to the WUTC’s review is a public interest (“no harm”) standard.  The WUTC will look at four factors as follows:
+
+Would the transaction harm customers by raising rates or posing service quality or reliability risks?
+Does the transaction strike a balance between the public, shareholders and ratepayers?
+Does the transaction distort or impair the development of competitive markets?
+Is the transaction consistent with the WUTC’s responsibility to protect utility ratepayers?
+
+The key to success in Washington will be to limit the WUTC’s inquiries to the impact of the transaction on NNG.  To the extent that we are successful, we should be able to satisfy each of the factors identified above.  As indicated above, NNG’s customer base in Washington is relatively small and PGE does not serve in Washington State.   We can expect the WUTC to focus on NNG’s financial health and capital structure.   
+
+If we are unsuccessful in keeping the WUTC’s inquiry limited, we can expect the WUTC to, at a minimum, examine Enron’s continuing role in HoldCo, affiliated transactions between PGE, NNG and HoldCo, and gas/electric  retail convergence—although PGE does not serve in Washington State.    In the Scottish Power acquisition of PacifiCorp, the WUTC imposed conditions on the acquisition.  The conditions have not been applied in all cases, but they are instructive:
+
+The Scottish Power conditions generally fall into the following categories:
+
+Service and network performance standards;
+Access to books and records;
+Environmental conditions;
+Low-income programs;
+Conditions relating to employees/labor;
+Merger cost-savings pass-through.  (In the case of Scottish Power, the credit was $12 million over four years).
+Financial conditions, e.g., keeping separate ratings, keep unregulated and regulated activities separate.
+Affiliated transactions and accounting, such as annual reporting and pricing limits.
+
+
+^^^
+
+Please contact  Paul Kaufman with any questions concerning this memorandum.  
+
+ 
+
+ 
+

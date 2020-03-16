@@ -1,0 +1,14 @@
+﻿From:           Tana Jones </o=cw-test/ou=first administrative group/cn=recipients/cn=tana.jones>
+Sent:           Mon Jul 31 2000 15:04:00 GMT
+To:             Bob Bowen </o=cw-test/ou=first administrative group/cn=recipients/cn=bob.bowen>;Jefferson Sorenson </o=cw-test/ou=first administrative group/cn=recipients/cn=jefferson.sorenson>;Laurel Adams </o=cw-test/ou=first administrative group/cn=recipients/cn=laurel.adams>;Andrea Guillen </o=cw-test/ou=first administrative group/cn=recipients/cn=andrea.guillen>;Willie Harrell </o=cw-test/ou=first administrative group/cn=recipients/cn=willie.harrell>;Larry Hunter </o=cw-test/ou=first administrative group/cn=recipients/cn=larry.hunter>;Melba Lozano </o=cw-test/ou=first administrative group/cn=recipients/cn=melba.lozano>;Chris Walker </o=cw-test/ou=first administrative group/cn=recipients/cn=chris.walker>;David Dupre <david.dupre@cw-test.com>;Pamela Sonnier </o=cw-test/ou=first administrative group/cn=recipients/cn=pamela.sonnier>;Jarrod Cyprow </o=cw-test/ou=first administrative group/cn=recipients/cn=jarrod.cyprow>;Sheetal Patel </o=cw-test/ou=first administrative group/cn=recipients/cn=sheetal.patel>;Gordon Heaney </o=cw-test/ou=first administrative group/cn=recipients/cn=gordon.heaney>;Souad Mahmassani </o=cw-test/ou=first administrative group/cn=recipients/cn=souad.mahmassani>
+CC:             Mary Cook </o=cw-test/ou=first administrative group/cn=recipients/cn=mary.cook>
+Subject:        CMS  Field Services, Inc. Load two
+Attachments:    
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+We have received comments from the referenced counterparty with respect to 
+comments to an Annex A to a Confirmation.  Mary Cook, a new attorney in our 
+Group, will be working on this.

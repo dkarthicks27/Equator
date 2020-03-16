@@ -1,0 +1,228 @@
+UPDATE REPORT FOR MONTH OF AUGUST 1999
+Steven Raab
+Mark A. Keeter
+2
+Microsoft Word 8.0
+7/9/2000 22:35:00
+7/9/2000 22:35:00
+1
+5107
+29110
+0
+The Insource Group, Inc.
+242
+58
+35749
+no
+no
+7/9/2000 15:35:00
+7/9/2000 15:35:00
+
+
+FINAL S.L.A.M. SOW REPORT SEPTEMBER 1999
+
+EXECUTIVE SUMMARY:
+
+
+	This Report is the summary of the efforts of searching the Internet for a COTS product or a research project likely to yield a solution compatible with EIN’s SLA Monitoring requirements.  There are literally thousands of articles and publications on this subject available on the Internet, and all of the sites and articles cannot be reviewed in a reasonable time; therefore, the sites and sources most likely to reveal a COTS product or research project have been thoroughly searched.
+
+	The search revealed numerous SLA Monitoring products, and QoS products that monitored similar parameters.  None of these products were compatible with the needs and requirements of EIN’s SLA Monitoring.
+
+Most of the SLA products are software base products that use SNMP to gather data and generate reports that track with traditional SLAs.  These systems include Quallaby.  The types of reports are designed to allow the user to compare Promised Monthly Performance Parameters like Availability, Latency, and Jitter with the actual Monthly Performance.  These Systems are not capable of producing viewable data or generating reports on data relating to Application Level Performance.
+
+There are several reasons why the SLA Monitoring Products reviewed were not acceptable.  Two flaws common to all the products: (1) these products monitored the data from a monthly performance perspective, and (2) the mechanisms chosen for reporting of this data were not real-time.  The other flaws like GUI presented data poorly, lack of API for interfacing to other applications, etc. are not necessarily fatal flaws, and may have had work arounds.  The two flaws mention, however, are fatal.
+
+	There are signs that the Industry has started to focus on Application Level Services; therefore, it is reasonable to surmise that SLA will start to demand Application Level Guarantees.  
+
+	Recently, the promises of companies like IPHighway, and other QoS vendors have been evaluated.  Companies like Cabletron and IP Highway, Inc. are promising QoS products capable of Monitoring and Controlling IP Networks at the Application Level.  Any Cabletron feature, of course, only works for their Routers and Switches.  IP Highway, Inc. claims to offer their system for mixed vendor networks.  
+
+The QoS Control products reviewed also failed to meet the needs of EIN.  The QoS Control products were primarily “Policy Management Systems”.  Policy based management products are primarily bandwidth management systems that route, and discard packets based upon parameters defined by a NMS Administrator.  Consequently, these products suffered from three primary shortcomings, and several less critical defects.  The first primary shortcoming is that a NMS Administrator sets the policies.  In the case of EIN, the objective is the transfer of control over the application to the Customer, and not a NMS Administrator.  The second primary shortcoming is the inability to manage bandwidth of trading partners.  The third primary shortcoming is the inability of most of these systems to actually control QoS on an application level basis.  These systems manage groups of similar packets.
+
+Most of the QoS systems use protocols the RSVP and Diffserv protocol.  Diffserv groups like packets based on the TOS byte that Diffserv renames to the DS byte.  Diffserv then manages those packets as a group.  It does not provide the ability to treat similar applications differently in the very area where such treatment is critical, the LAN/WAN boundary.  “At the LAN/WAN boundary, they're classified into aggregate flows; Diffserv ensures they maintain the hop-to-hop markings (see "Diffserv and MPLS: A Quality Choice," November 21, 1998)”
+
+Finally, the very goal of application specific bandwidth allocation and priority routing as defined by the Customer is sacrificed on the alter of Network Level efficiency.  “… since similarly prioritized packets are grouped into flows across the WAN, major bandwidth set-asides are not needed.”  See “Going the Distance with QoS”; By Mick Seaman and Bob Klessig, 3Com Corp.; DataCommunications, CMP’s Tech Web, February 1999.
+
+Neither QoS products nor SLA Monitoring products are currently capable of meeting EIN Requirements.
+
+
+Detailed Report:
+
+	There are two primary groups of products, and a sundry of proprietary products purporting to Monitor SLA compliance or monitor the parameters defining the SLA via QoS Monitoring.  
+
+QoS Monitoring & Control Products:
+
+	QoS products are both Monitoring and Control product.  QoS Products attempt to improve Quality of Service by discarding packets from “lower priority” applications to leave more bandwidth for higher priority applications once congestion develops.  At first glance, the fact that there is an effort to correct congestion in real-time leads one to believe that these systems must at least offer monitoring processes that can be utilized by EIN.  Unfortunately, their measure of congestion, or other parameters, is not based upon Application Level Monitoring, but instead upon groups of applications at best.  Their control capabilities are encouraging in that they implement changes on an Application Level, but they are not proactive.  
+
+	The QoS systems are also not driven by Customer Requirements.  They are driven by policies established or set by Network Administrators.  Once the policy is defined, it is stored in Servers around the network, and shared with Routers and Switches. 
+
+Because the policies are implemented on groups, the protocols of choice seem to be Diffserv, and RSVP.  Paper after paper by Author after Author report that RSVP is not Scalable.  This Author has his doubts about Diffserv’s Scalability, and its ability to function in a large network environment with other protocols.  Diffserv, COPS, and other protocols seem to use the same TOS byte for different purposes, and treat the data differently.  At least one article gave an example of this causing a problem. This is not relevant to this investigation and requires further investigation.
+ 
+There are several reasons to believe that the approach taken by current QoS applications does not meet the requirements of EIN, and they all have Scalability problems as well.  Too, Routers tested with QoS Turned-On have substantially reduced throughput compared to running without QoS.  Thus, if QoS Enabled Routers were used in conjunction with EIN, then the bandwidth available would likely be less than presumed by EIN during the allocation process, and would likely be unpredictable.  There are other issues relating to QoS and the protocols surrounding it that require further investigation.  (Like the fact that Diffserv and several other protocols greatly limit the number and types of service to as few as 6.)  For now, the fact the QoS is viewed as a Campus or single Enterprise solution, and that it deals with groups of similar Applications instead of each specific Application is reason enough to eliminate these products from consideration.
+	
+Service Level Agreement Monitoring Products:
+
+	Previous reports did not provide complete information about the products available.  The information was accurate, just not complete; this report will fill the holes.  The SLAM products fall into four basic groups.  The First Group, and the largest group, is the NMS technology companies that include SLA Monitoring products.  The Second Group consists primarily of Networking companies like Electric Lightwave, Inc., and their proprietary products like ELI’s “Looking Glass”.  The Third Group of products come from the manufacturers of Network Elements like Cisco, and their Element based products.  The Fourth Group is the Research and Development Community.  These groups and their products are analyzed below:
+
+First Group NMS Technology Companies: 
+
+The SLA Monitoring products typically produced by NMS technology companies were developed in an effort to expand their product offering.  NMS companies have traditionally offered performance monitoring so the addition of QoS, in theory, is not a substantial addition.  However, these companies have usually taken a high level approach to management.  These Companies have seldom monitored equipment at a level adequate to provide Operations with enough information to understand the equipment’s status, and have never monitored logical circuits constructed via the monitored equipment.  
+The Network Elements provide enough data to allow for automatic dispatch of technicians with the proper tools and parts to restore networks in a single trip.  However, at the level these systems report trouble, the best for which one can hope is a flag of possible problem sites and equipment, and the tools to manually examine the equipment to determine what corrective action needs to be taken.  The data collection is neither fast enough nor detailed enough to determine either the performance in real-time or the exact source of major failure events automatically.
+
+The reason the detail reporting has not been provided is that the collection of the massive amounts of data necessary results in a very large database.  The result of creating large databases is that quick reporting of detailed level data very difficult.  This coupled with the fact that these systems providers have never understood Distributed Databases, and therefore must use Client/Server or purely Centralized Databases, makes the management of large amounts of data virtually impossible.  Adding the burden of monitoring logical circuits would slow these systems to a crawl.  (See Appendix A.)
+
+The few systems like, for example the NEC 800 NMS, that are capable of gathering a fair amount of detail data just on the Physical Elements are slowed to a crawl when detail Element data is gathered during massive network failures.  (See Appendix A for a detail discussion of NMS systems and their performance.)
+
+	NMS providers have taken a similar approach to SLA Monitoring.  They monitor only the minimum amount of data to satisfy the maximum market requirement.  Since most of the network providers commit to monthly average performance criteria, they require only monthly average performance measurements of jitter, packet loss, packet latency, and system availability.  
+
+Given the proliferation of these products, it is not possible to evaluate all the products available.  However, to meet the needs of EIN, the level of detail monitoring necessary would need to be substantially expanded.  
+
+
+The Second Group, Networking Company Products:
+
+The Second Group consists primarily of Networking companies RBOCs and ISP Network Providers like Electric Lightwave, Inc. (ELI).   Their Systems products are typically similar to ELI’s “Looking Glass” product.  Perhaps the largest NMS system ever created, and some say the largest application ever created period, the System called TIRKS (Trunk Integrated Records Keeping System) created by Bell Core in the 1960s and 1970s.  TIRKS is still the primary management system used by the Bell Companies today.  (See Appendix A for Details.)  Even so, TIRKS is only one of the hundreds or so systems in use by the RBOCs today for NMS.
+
+As a result of this history, and the fact that may Networkers hire ex-RBOC employees, Networking companies today still create their own management systems.  However, like the First Group, given the large volume of data, and the lack of understanding of true Distributed Databases, the detail data collected has been restricted to allow for reasonable response and reporting times.  In an effort to reduce the size of the databases created, simplistic tests are used.  Therefore, tests like the ping-test or similar simple router-to-router test are used to approximate the network performance data needed to report SLA compliance.  (Note, it is because of this approximation approach used by the industry today, that the short-term solution is even worth consideration.)
+
+The data reported by these systems is not only not Application Level, nor is it even a true representation of their network’s performance. Unlike the Tektronix approach, the Second Group’s typical test starts and stops at the Router.  See Electric Light, Inc.’s “Looking Glass System”, at http://www.eli.net/about/releases/APR2999_2.shtml
+
+
+The Third Group, Element Manufacturer’s Products:
+
+These products come from the manufacturers of Network Elements like Cisco, and their Element based products.  Element Designers, and not Network Designers or Network Managers, designs these systems.  They attempt to provide the same functionality offered by their competitors in the First and Second Group, and other Network Elements manufacturers.  Having worked with Element Design Companies on their EMS product design, it is clear that the EMS providers want a system that makes their product look as good as possible, and care little about, nor do they understand, the overall network management processes.  (For more detail information, see Appendix A.)
+
+	These systems match the data requirements needed for average reporting of Monthly Performance Data.  They seldom exceed it.
+
+	These systems are, however, starting to provide QoS Control features.  Still, the QoS product designed by Element Companies have the same limitations described herein of the other QoS products.
+
+
+The Fourth Group, the Research & Development Community:
+
+	The last Group, for the most part, consists of a derivative of the other three groups, with the important exception of the Universities and Government Agencies like NSF.  These exceptions groups perform research to improved network efficiency and for the sake of the knowledge research yields.  The differences in their motives frequently lead to different result. Given their lack of interest in maintaining an existing Management Product line, or highlighting the performance of any one group of products, they deserve separate consideration.
+
+	This Group has highlighted the need for Application level SLAM products.  While they did not share the perspective of selling specific services to Customers, they did focus on the need more bandwidth and lower data latency for real-time applications like supercomputer data sharing, and the need to allocate cost appropriately to different Government Agencies based on both bandwidth and the priority of the applications those Agencies were running.  
+
+	Their definition of the problem, and approach to the solution may not be directly on point, but they recognized some of the issues facing EIN.  For example, in “A Parameterizable Methodology for Internet Flow Profiling”, by Kimberly C. Claffy, Hans-Werner Braun, and George C. Polyzos, et al, Applied Network Research Group of the San Diego Supercomputing Center, San Diego, CA., page 14, the Authors recognize the need for memory and processing allocations for tracking each flow.  They see the growth of the Internet in Real-time, latency sensitive application growing.  Unfortunately, they see this as a problem in it self.  (See Mitigating the coming Internet crunch: multiple service levels via Precedence, by Roger Bohn, Univ. of California, San Diego, Hans-Werner Braun, the San Diego Supercomputing Center, San Diego, CA. and Stephen Wolff, National Science Foundation, Washington, D.C.)  It may be their perspective, or the fact that they are focused on the issues previously mentioned, or other problems, but they do not present a solution.  The best they do is present their findings, offer problem definitions (like those previously mentioned), and encourage more monitoring, and report their findings.
+
+	Still, they are on point in reporting the need, and impact, of flow monitoring.  Their investigation may offer a solution some day, but given the fact that those in the Ivory Towers see time differently than Network Providers, and they are not likely to offer a solution in a time frame acceptable to EIN.
+
+
+
+CONCLUSION:
+
+
+	There are signs that the Industry has started to focus on Application Level Services; therefore, it is reasonable to surmise that Customer defined SLAs will start to demand Application Level Guarantees.  Once the Application Level Guarantees are in place, SLA Monitoring and Control of the Guarantees will of necessity follow shortly thereafter.
+
+	In addition, companies like Cabletron and IP Highway, Inc. are promising products capable of Monitoring and Controlling IP Networks at the Application Level.  Cabletron, of course, only provides these features for their own Routers and Switches.  IP Highway, Inc. claims to offer their system for mixed vendor networks.  “
+
+	It is highly probable that things will get worse before they get better.  The IP Community seems fixated on using QoS to manage the short-term congestion problems.  Long term they seem to believe that adding more overheads via enhanced MPLS or Diffserv with RSVP will solve their problems.  The Router Performance Test that reflect the impact of QoS on Bandwidth, however, are red flags warning that the solution may be worse than the problem.  Loosing bandwidth during a congestion crisis is like pouring fuel on the fire.
+
+	Still, there are possible short-term patches that could help Enron until long-term solution can be deployed.  Cisco offers the ability to classify flows into classes of service.  EIN could classify each application as one of these classes, and then track the performance of the class.  EIN could select a QoS system’s Class Monitoring Tools to track the performance of classes that their Customers are using, for the exact time period that those applications are running.  That coupled with a rigorous EIN developed Scheduling System that restricts bandwidth to avoid congestion, could suffice in the short-term to meet Customer Needs.  In fact, the Class Monitoring via statistical methods could yield Application Level Performance Statistics with a confidence level of 95% (or whatever EIN deems appropriate).  This would not be Application Level Monitoring, only Application Level Statistical Reporting.  
+
+	If the Tektronix solution comes through, the use of QoS tools could be avoided for the short-term.  However, this Author has doubts about the long-term viability of the Tektronix Active Monitoring approach, especially as the Network grows.  For the short-term, however, the Tektronix approach may be just as good as the extrapolation of Class data. (See Appendix B for concerns about Tektronix approach.)
+
+The SLA should reflect this approach, and very few, if any, Customers are likely to complain in the short-term.  Currently most IP users don’t seem to understand the difference between Application Level Monitoring and Class Level Monitoring QoS Control.  In no way is this Author recommending that the EIN SLA promote Class Level Monitoring as Application Level Monitoring.   Just noting that the IP World is only offering Monthly Average Service Monitoring, and the chance to track Class performance during the exact time one’s Application is running, coupled with limiting Bandwidth consumption on the front-end is miles ahead of the competition.  
+
+The problem is that the competition is doing everything it can to confuse the issue, and lead their Customers to believe they have Application Level Monitoring.  
+
+In addition, there are Diffserv and MPLS Research Projects that may evolve, or may have already evolved, into a valid short-term solution.  The approaches are close.
+
+The bottom line, as they say, is that there are no known COTS solutions offering Application Level Monitoring.  Nor are there Research Projects likely to yield a solution in the near future.
+
+
+Appendix A.
+
+Previous papers have dealt with IP SLA Monitoring systems built by NMS Companies, and, in fact, products from all four groups mentioned herein.  It may be of benefits to address the limitations these systems present in general.  TDM is viewed as a well-established technology with established management solutions.  There are substantial holes in NMS period.  This Appendix highlights some of those holes.
+
+First, the management of congestion in the IP world is handled by 
+Signaling System 7 (SS7) handles QoS Processes, in the TDM world, this process.  Like NMS data in the TDM world, SS7 is Out-of-Band.  For most companies, all three systems, Switched Traffic, NMS, and SS7, have their own network.  NMS monitors the health and performance of all Network Elements. This includes Multiplexers, Fiber Optic Transmitter / Receivers, Digital Cross-Connect equipment, Switches, etc.  The NMS systems also provide the control over this equipment; however, most of the control is manual.
+
+ Some companies, like DSC, have integrated SS7 data and NMS data over the same network with disastrous consequences.  In fact, this Author was asked by DSC about transmitting SS7 data over the NMS network and advised against it.  
+
+SS7 receives request for circuits, maps the circuit, and provides end-to-end connectivity before enabling the circuit.  This is done via a network of Signal Transfer Points (STPs).  When DSC mapped the NMS and SS7 traffic over the same network, about 5 years ago, and an STP failed, the entire West Coast went down (either MCI or Pacific Bell network.)
+
+Up to this point, one might think the TDM world is controlled by two basic systems, NMS, and SS7.  The reality is there are closer to 100 systems than to two.  In fact, TDM uses easily over 100 systems to provide NMS functions, and these systems are loosely coupled or not coupled at all.
+
+The primary NMS system in the TDM world is TIRKS (Trunk Integrated Records Keeping System).  	Perhaps the largest NMS system ever created, and some say the largest application ever created period, was created by Bell Core in the 1960s and 1970s.  TIRKS is still the primary management system used by the Bell Companies.  Virtually every system is monitored by TIRKS at some level.  Unfortunately, the volume of data is so high that the detail data is virtually non-existent, and real-time data becomes almost useless.  TIRKS gathers about 64 fault states real-time per site, and no real-time performance data.  Performance Data and some fault is gathered and monitored via other systems designed for specific types of circuits, or equipment.  Voice systems monitor voice, Numerous Data systems monitor Data, Router systems monitor Routers, Switch Systems monitor Switches, etc.  In fact the division goes even lower, it becomes Vendor specific in some cases.  Even though these systems share a common backbone, and events in one system effect the other systems, there is no true network level monitoring beyond a few faults per Central Office.  In one room, US West has over 100 terminals displaying data from over 50 different systems.  Integration takes place literally via physically shared data.  
+
+The U.S. West Control room has three tiers of manned workstations, and three arenas with a large projection screen in the front of each segment of the room.  Alarm data is written on a slip of paper at the floor level, and handed to the second or third tier where operators connect directly to the equipment for detail data, or to send control commands.  In the corner of the room are people who dispatch Service Orders.  The Service Orders are tracked via a S.O. System, but manually created.
+
+Thus, Customers must call the Phone Company when there is a problem, even though the Phone Company should already know more about the problem than the Customer. 
+
+While RBOC problems are not directly related, to the EIN problems, knowledge of their mistakes could be beneficial.  Their problems handling large volumes of Data are potentially EIN’s problem.  EIN has an advantage, by delivering a purely IP solution, which could reduce the type and volume of Data, and the chance to build their network right.
+
+Smaller Networks are seldom managed by a single system.  The integration, if any, is typically created in house.  First “Tier” systems are typically NE management systems, while second “Tier” systems are created by NMS system developers or created in-house.
+
+The first reference to this Appendix revolves around the NEC 8000.  The NEC 8000 is a traditional Legacy “Tier 1” type system.  It gathers data from and about Elements via a TRE (Telemetry Remote Equipment, others use RTU, etc.), which reports to a TME (M = Master), which reports to a SAE, or first to a TSE and then the SAE.  When using a standard protocol like TBOS, the TRE gathers only 64 faults and 28 performance parameters per device.  Keep in mind that a typical MI3 mux has up to 1500 fault points to report, thus, approximately 4% of the information is reported.  The NEC 8000 is at least average or better.  
+
+Even so, these systems crawl when deployed in large Networks.  For example, ATC, once a Florida based provider, used the NEC System to monitor their Backbone through just Florida and part of Georgia.  During system failure test, the system could take up to 4 hours to report multiple system failures.  Typical network scans, or polls, takes about 20 minutes.  Thus, even if all data could be gathered in just one poll, it still took 20 to 30 minutes.  
+
+These systems gather high-level information in the first polling pass, and then gather detail data in subsequent passes.  The first pass may not event catch active faults, depending when they occur during a polling cycle; thus, an invalid picture of the network may be reported.  Remember, this is Element data only; their test did not include any application or circuit level monitoring.  Nor did the system gather all the port level performance data.  
+
+Performance data is analog data, and requires larger packet sizes.  TBOS (Telemetry Bit Oriented Serial) is one of the most efficient protocols (One byte can reflect the state of 8 discrete faults, where each analog value required 2 to 4 bytes.)  NEC’s system using either TBOS or their proprietary bit level reporting is one of the fastest, and most popular in the telephony world, and is much faster than any SNMP based system with equivalent number of elements.  The above data was a NEC 8000 system.
+
+	To understand the volumes of data in an ATM world, consider gathering only a healthy or not healthy status for each VCI/VPI.  Thus millions of states could require review at any point in time.  Even if just one group of VCIs over one virtual Path is polled, for just one indicator, it would require reporting on 65,000 states.  With traditional SNMP reporting, polling this device could take a decade.  Exception reporting is faster of course, but even with exception reporting, the states must be tracked, and the database becomes very large, and unwieldy.
+
+While some manufacturers like NEC make products like the NEC 8000 capable of monitoring other suppliers equipment using a common protocols like TL1, TBOS, SNMP, SNMPv2, CMIP, etc., most Element Manufacturers do best at monitoring their own equipment.  Manufacturers do not create proprietary data that is accessible via standard protocols, nor is it accessible via a faster back door by other systems.  Virtually all Element designers include an Element Management System (EMS).  Again, these systems do a better job than “Standards” based systems at the Element Level.  They are designed to then interface with a Managers of Managers for overall network evaluation.  These systems are still limited by the amount of Data they can manage.  Level 3 was looking into a Fujitsu Legacy system.  The obstacle for Level 3 in making the acquisition is the limitation of 1000 NEs.
+
+ 
+It would seem that the simple solution would then be to buy the Element Managers, and plug them into the Managers of Managers.  This is similar to the approach taken when LANs were limited to 256 hosts per network.  However, with the growth in the level of detail, the overall performance drops to the point of rendering these systems almost useless.  
+
+Given the potential benefit of such technology, one must wonder why more effort is not placed on solving the problem.  Too, given the limited benefit of the actual technology, one must wonder why these systems are built.  Companies like EDS give demonstrations of their NMS for all their visitors.  With most of these companies, the Control Room is kept off limits until the exact time of the demonstration.  Visitors are kept seated behind curtains, in a gallery 30 feet above the Control Room floor until time for the demo.  At the exact time of the presentation, the curtains are dramatically opened, and a room with several large screen projection systems and over 100 workstations is revealed.  There are no live equipment demonstrations given, one is simply expected to take in the scene with ah and wonder.  After one demonstration, it was revealed that there is very little live traffic managed by the demo system, but the money invested was worth every penny in dog and pony value.  (The live traffic was managed by numerous smaller systems, and a lot of manual intervention.)
+
+Because of the poor overall level of performance, groups like Bellcore are created within companies to create proprietary systems that focus on each Network Provider’s definition of what is important.  Thus, special problems are minimally managed, but true network management is seldom achieved.  These systems meet the needs of the Network Provider by keeping the network alive, but they fail terribly at providing the detail needed by the Customer.
+
+Absolutely zero systems have been found that meet EIN’s needs, or that even come close to managing Networks at the Application Level.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix B.
+
+
+There may be some problems with the use of the Poisson distribution by Tektronix.  While this Author has no idea exactly how Tektronix is emulating Application Packets with their Active Monitoring System, it is understood that they are following the approach described in the RFCs provided by Stan Hanks.  Those RFCs applied the Poisson distribution to evaluate emulated Application’s performance.  This Author is no Statistical Expert.  (In fact, I previously indicated a belief that the Poisson distribution was best used for modeling acts of nature, and I was wrong.  Poisson only reflects a normal curve -the representation of events in nature- when the product of Lambda, the number of Successes, and t, the number of events approach .8.)  
+
+However, there are other problems.  First, in order for the Poisson distribution to accurately describe any process, that process must be a Bernoulli process or trial.  (See “STATISTICAL ANALYSIS, A DECISION-MAKING APPROACH” by Robert Parsons, Harper & Row, Second Edition, 1978, pg 230.)  A Bernoulli trial meets two parameters (although it sounds more like three parameters to me.  One, the “outcome” of the trial must be one of two mutually exclusive states (i.e. Success or Failure).  Two, “the probability of success must be constant from trial to trial and (the outcome of each trial must) be totally unaffected by the outcomes of previous trials”.  (See “STATISTICAL ANALYSIS, A DECISION-MAKING APPROACH” by Robert Parsons, Harper & Row, Second Edition, 1978, pg 161.)  Second, the sample size or period must be so small as to guarantee that the probability of more than one success per sample period must be so low as to be zero for all practical purposes. (See “STATISTICAL ANALYSIS, A DECISION-MAKING APPROACH” by Robert Parsons, Harper & Row, Second Edition, 1978, pg 230.)  Third, Poisson sample periods must be random.  A random sample period when coupled with the other parameters is problematic.
+
+The conditions necessary for a Bernoulli trial are perhaps of the most concern.  A sample can be taken in a passive system that is, for practical purposes, completely independent.  This is especially true when external hardware is used, and one taps a cable via a bus type configuration.  However, the introduction of test packets will effect the sample in many ways.  First, if the network state is experiencing congestion, and the probe closely models the Application being monitored; then the probe becomes another packet in the cache, another packet the processor must monitor for SNMP MIB data or other proprietary purposes, another packet that must be placed on and taken off the network preventing the monitored application from being transmitted.  Depending on the delay between the test packets (the sampling rate) this may or may not be of import.  Since the sample, or probe, frequency is random and proprietary, it is impossible to know the level of impact, but the resulting samples are clearly not independent.
+
+The Second Bernoulli requirement of a constant probability from one trail to the next could be difficult to satisfy.  The world of IP is dynamic, and time sensitive.  This may not be true of the EIN world, but the partner’s networks may be transporting Internet traffic.  The Internet is absolutely time of day dependent, and growing exponentially.  Again, with frequent Probes, or short sample periods, the probability may absolutely be close enough to meet the Bernoulli criterion.  However, the very adjustment that satisfies this criterion increases the number of packets on what may already be a congested network.  When one thinks in terms of a single application, the packet frequency seems to be of little significance.  If the number of applications however is so high as to be pushing the system to even meet the need for Packet Tags, this becomes a significant factor.  This is especially true at the time this data becomes most critical, when the network is approaching or experiencing congestion.  
+
+The Second  Poisson requirement, that the trial periods be so small as to insure no more than one success or failure per trial, directly impacts on the number of probes necessary.  At the same time, attention to detail on the definition of a Success or a Failure event may actually be the way Tektronix keeps the number of packets to a minimum.  
+
+There are numerous ways to define a test.  This Author will not presume to define Success for Tektronix, since so little is know about the entire process, but is merely attempting to insure attention is paid to an important step.  With a simplistic, and likely obvious, selection of the parameter directly tested (as opposed to indirectly), the number of packets could climb rapidly.  With a careful definition of success, fewer probes may be required.
+
+The Third Poisson requirement, that the sample periods must be random, is difficult to achieve.  There is no such thing as a true random number generator program.  With additional hardware, the process can be improved.  The more random the number generated, the better for Poisson.  The level of error introduced at this stage will not likely be significant by itself.  When taken in total, however, with all the accumulative error, it’s worth considering.
+
+There may be no problem with the Tektronix Box.  The box could be perfect, and all these issues, and other less critical issues, may have already been considered and resolved.  The purpose of this document is to highlight possible issues for the group responsible for making it all work, the EIN group.
+
+
+THE END.
+
+

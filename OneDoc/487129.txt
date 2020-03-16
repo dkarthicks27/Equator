@@ -1,0 +1,11 @@
+﻿From:           Kevin Presto </o=cw-test/ou=first administrative group/cn=recipients/cn=kevin.presto>
+Sent:           Fri Aug 17 2001 14:55:03 GMT
+To:             Lloyd Will </o=cw-test/ou=first administrative group/cn=recipients/cn=lloyd.will>;Jason Kaniss </o=cw-test/ou=first administrative group/cn=recipients/cn=jason.kaniss>;Rika Imai </o=cw-test/ou=first administrative group/cn=recipients/cn=rika.imai>;Dana Davis <dana.davis@cw-test.com>;Fletcher Sturm </o=cw-test/ou=first administrative group/cn=recipients/cn=fletcher.sturm>;Rogers Herndon </o=cw-test/ou=first administrative group/cn=recipients/cn=rogers.herndon>;Robert Benson </o=cw-test/ou=first administrative group/cn=recipients/cn=robert.benson>;Harry Arora </o=cw-test/ou=first administrative group/cn=recipients/cn=harry.arora>;Doug Gilbert-smith </o=cw-test/ou=first administrative group/cn=recipients/cn=doug.gilbert-smith>;Kevin Presto </o=cw-test/ou=first administrative group/cn=recipients/cn=kevin.presto>
+CC:             
+Subject:        Emission Mtg. w/Desk Heads Load two
+Attachments:    
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+

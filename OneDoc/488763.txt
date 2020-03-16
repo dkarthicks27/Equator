@@ -1,0 +1,6 @@
+From: Liz Taylor [/o=teneo-test/ou=first administrative group/cn=recipients/cn=taylor_liz]
+Subject: Mgmt. Committee w/New Members
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None

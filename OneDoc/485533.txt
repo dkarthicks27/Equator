@@ -1,0 +1,231 @@
+No Slide Title
+Arthur Andersen
+Sharon Smith
+188
+Microsoft PowerPoint
+7018
+8/6/2001 23:21:52
+5/16/2000 19:45:27
+8/7/2001 13:19:44
+492
+On-screen Show
+Andersen Worldwide
+553894
+103
+12
+11
+1
+0
+no
+no
+
+
+
+Confidential
+
+Enron Americas
+
+
+
+Enron Assurance Services
+Natural Gas
+Trading Audit
+
+August 7, 2001
+
+
+
+Project Objective:
+ 
+Our review was designed to identify and test key policies, procedures, and controls related to 1) critical business processes (capture, documentation, confirmation, logistics, reporting and accounting), 2) adequate identification of key risks (i.e. valuation of transport deals, inventory/storage), 3) adequate information to support changes in portfolio valuations (i.e., curve adjustments), 4) adequate interface controls and validation checks between Sitara and other systems, 5) proper calculation and reporting of portfolio results, 6) monitoring of long-term and requirements basis deals, 7) Chicago desk review and integration, 8) EES’s integration into ENA, 9) proper accounting for portfolio under accrual or mark-to-market accounting, 10) proper involvement of legal group in creation of contracts and standard confirmation templates.
+
+
+	               AA Team Members:		             Enron Team Members:
+	Tom Bauer	Michael Schultz	Jeff Gossett		Georganne Hodges 
+	Kate Agnew	Russell Bouwhuis 	Errol McLauglin		Leslie Reeves	
+	Mark Meador 	Sean Sipko 	Darron Giron		Todd Warwick 	
+	Sharon Smith 	Bethany Denson	David Baumbach 	 	Tracy Irvin 		
+	Mark Austin		Phillip Love	 	Kim Theriot 	
+	Jennifer Staton		Jeff Hodge	 	Bob Hall
+			Anne Bike	 	Bob Supperty
+			Bill Hare 		Jay Krishnaswamy
+Natural Gas Trading
+
+
+
+
+Enron Assurance Services
+
+
+
+Natural Gas Trading
+                   Current PRM Portfolio 
+Source:
+(1)  Francis Lim, IT Technical Consultant
+(2)  Greg Whiting, Director of Accounting
+As of May 31, 2001
+NOP - (270) BCF
+YTD P&L - $394 MM
+
+1% 12% 5% 82% Annuities Forwards Options Swaps 
+Number of Transactions (1)
+Value of Portfolio * (2)
+*This value excludes amounts pertaining to annuities, transport options, basis options, and spread options 
+
+$(1,680,436,924) $1,351,834,618 $(125,833,167) Forwards Swaps Nymex Options 
+
+
+
+Tested 21 Gas Deals 
+18 EnronOnline Deals, 3 Non EnronOnline Deals
+Natural Gas Trading
+Deal Test Summary
+Summary of key deal test findings
+
+One positive confirmation was not signed by the counterparty.
+For one deal, the fax number per Global Counterparty did not equal the fax number per the deal log. 
+Two deal tickets did not include the trader’s name.
+
+
+Attributes tested 
+
+Deal Capture
+
+Deal executed by an authorized trader
+Complete deal ticket
+Deal correctly captured in ERMS and/or Sitara
+Counterparty set-up in Global Counterparty
+
+Documentation
+
+Timely confirmation procedure 
+Executed contract and/or confirmation
+Contract, confirmation and deal ticket agree
+Confirmation signed by authorized personnel
+Proper confirmation status in DCAF
+Broker confirmation agrees to deal ticket
+
+Valuation
+
+Proper curve utilized to value deal
+Proper bridge of deal terms into the valuation 	engine
+
+Deal Test Timeline
+
+Review of deals executed throughout the year. Additional testing to be performed in September/ October timeframe.
+
+Summary of Open Items
+Five curve strips and twelve forward details have not been supplied as requested for the deal test (originally requested: June 26).
+
+
+
+Natural Gas
+Trading Audit
+
+
+
+
+Enron Assurance Services
+High Priority Items
+
+
+
+Natural Gas
+Trading Audit
+	
+
+Items to be addressed Action Step Target Date Responsible Party A From December 2000 to March 2001, the Commodity Exchange receivable balance increased from $471M to $960M and the matching payable increased from $500M to $987M.  Due to the nature of these accounts, a majority of the receivable and payable balances should be netted by counterparty to properly state the net exchange balance.  In addition, activity from 1995 is included in this account.  Finally, there will be a P&L effect due to the difference in WACOG from the point of the imbalance to when it is settled.  This balance should be monitored on a monthly basis to ensure proper set-off and timely reconciliation. Enron should implement a systematic process to net imbalances as opposed to the manual process currently in place. B In 2001, the Company entered into two contracts that are intended to be cash flow hedges under SFAS 133.  As of August 1, 2001, the required documentation and effectiveness tests have not been completed. In order to comply with the provisions of SFAS 133, the documentation and hedge effectiveness tests should be completed at inception of hedge designation. 
+
+
+
+
+Enron Assurance Services
+
+
+
+Natural Gas
+Trading Audit
+	
+
+Items to be addressed Action Step Target Date Responsible Party C ·   A derivative instrument that does not qualify as a hedge is currently maintained in an accrual book and is therefore not included in daily position limits or  V@R reporting. ·   Specifically, the  Bammel monetization was restructured in 2 nd  Qtr 2001 which reduced the contractual long gas position from 80 Bcf to 55  Bcf.  In order to prevent the financial gas book from decreasing the net open position by 25  Bcf as a result of this transaction, an accrual book was created to hold a short 25  Bcf position. ·   Accrual books should only include properly designated hedges as opposed to other derivative instruments. ·   The financial gas book should reflect the reduction from 80  Bcf to 55  Bcf.  An  interbook swap should then be written between the financial and management books which would keep the total volumetric position for the financial book at 80  Bcf while creating at short 25  Bcf position in the management book.  As a result, the net position would be 55  Bcf and the value would be included in V@R. 
+
+
+
+
+Enron Assurance Services
+
+
+
+Natural Gas
+Trading Audit
+	
+
+Items to be addressed Action Step Target Date Responsible Party D Legal does not maintain  a  repository of approved confirmation templates. Legal should maintain copies of approved confirmation templates and periodically review confirmations (i.e. semi-annually or annually) sent to counterparties to ensure that the wording is current and applicable. In addition, for confirmations that require changes or additional verbiage to be added, management should determine the necessary documentation to be maintained in order to verify that legal has reviewed and approved those applicable confirmations. 
+
+
+
+
+Enron Assurance Services
+
+
+
+Natural Gas
+Trading Audit
+	
+
+
+
+
+Enron Assurance Services
+
+Items to be addressed Action Step Target Date Responsible Party E Application development has access to the production environment. The development team has limited this access to one individual responsible for migrating application changes from the test environment to the production environment.  By allowing development access to the production environment, management has limited assurance that the integrity of the data is maintained. The development team should create tools to allow the Application Migration and Change Management Group to migrate all Sitara application changes, thereby eliminating the need for developer access to the production environment. F Users are not required to change their passwords every 90 days in accordance with the Enron Minimum IT Control Standards. By not complying with access and security minimum standards, management has limited assurance that data integrity is not compromised. Password rotation should be enforced in accordance with the Enron Minimum IT Control Standards. 
+
+
+
+Natural Gas
+Trading Audit
+	
+
+
+
+
+Enron Assurance Services
+Low Priority Items
+
+
+
+Natural Gas
+Trading Audit
+	
+
+Items to be addressed Action Step A In 2001, the Company marked 2.9  Bcf of pad gas in  Napoleonville to a forward curve and then subsequently hedged the value of the pad gas.  Based on EITF 98-10, it is improper to record pad gas at forward value. The company should reverse the $3.5  M  impact of marking the Napoleonville pad gas to the forward curve. B Currently, there is not a consistent reconciliation process in place to ensure changes to long-term physical deals are input into both TAGG/ERMS and  Sitara.  As a result, changes to these deals could result in inaccurate valuation or inaccurate logistical information. A process should be developed in which change/modifications to long-term physical deals are captured in both  Tagg and Sitara. C There are no formal or consistent procedures in place to monitor minimum and maximum volumetric requirements as stated in executed contracts. Management should review the Global Contracts Database to determine if the system has the ability to capture this data and produce reports that will assist in monitoring these commitments by specific counterparty contract.  Absent appropriate monitoring controls, management is unable to assess potential counterparty penalties.  All contractual obligations should be monitored periodically if the current automated environment does not support real-time monitoring procedures. 
+
+
+
+
+Enron Assurance Services
+
+
+
+Natural Gas
+Trading Audit
+	
+
+Items to be addressed Action Step D There is not a process in place to ensure that all trading transactions are assigned to the trader that executed the trade.  As such, transactions can be entered into the system without an appropriate audit trail of the responsible party. Currently, each book in the gas portfolio is designated to one trader, however the applicable trader name is not  a required field in the deal capture system.  With the implementation of the new Risk Management Policy, each gas position shall be designated to the applicable trader or corresponding risk manager for ongoing position management.  If different traders are allowed to trade different books, then the trader name should be a required field in the deal capture system, thereby properly identifying the responsible party and staying in compliance with the Risk Management Policy. 
+
+
+
+
+Enron Assurance Services
+
+
+
+
+
+
+
+
+
+
+
+

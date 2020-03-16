@@ -1,0 +1,78 @@
+Risk Assessment Unit
+Vasant Shanbhogue
+vkamins
+34
+Microsoft PowerPoint
+1224
+4/20/2000 16:23:38
+7/20/1999 14:24:29
+4/24/2000 14:25:22
+234
+On-screen Show
+ect
+37426
+35
+5
+0
+0
+0
+no
+no
+
+
+
+
+Research Group: 
+Global Risk Markets
+April 24, 2000
+Enron Research Group
+Presentation to Dave Delainey
+
+
+
+
+Global Risk Markets Unit
+
+Guadalupe Margain Associate Political Risk Reliable Power Amitava Dhar Manager Reliable Power Modeling Clayton Vernon Manager Economic Analysis Joe Hrgovcic Manager Weather Modeling Vacant Actuarial Analysis Vasant Shanbhogue Vice President 
+
+
+
+Mission Statement
+To develop and implement cutting-edge valuation tools for risk transfer products, focusing on insurance-style products
+To develop new integrated products to take advantage of arbitrage opportunities across insurance and derivative markets
+To develop weather modeling methodologies for trading and risk analysis
+To support the development of credit analysis methodologies, both for product development and for credit trading activities
+To support e-commerce product development from the perspective of analytical tools and implementation
+
+
+
+Background
+Vasant Shanbhogue
+MBA, Analytic Finance; PhD, Computer Science
+Amitava Dhar
+PhD, Mechanical Engineering
+Prior experience: Household Credit Services, Los Alamos National Lab
+Joe Hrgovcic
+PhD, Physics
+Clayton Vernon
+MS, Economics; PhD ABD, Economics
+Prior experience: Price Waterhouse Coopers, World Health Organization, Texas Heart Institute
+Guadalupe Margain
+MA, Law and Diplomacy
+Prior experience: Ministry of Finance and Public Credit, Mexico
+
+
+
+Recent Projects
+Reliable Reserves modeling for insuring gas and oil production 
+Reliable Power modeling for price protection from outages -- analysis of data and building the modeling framework
+Reliable Tails modeling : structuring out-of-the-money gas options and comparing traders’ quotes to insurers’ quotes
+Natural Gas Supply/Demand Analysis
+Weather Swaps and Options Analysis
+Weather Data Systems and Visualization
+Political Risk Analysis -- for identifying cost/benefit tradeoffs for political risk insurance 
+EnronOnLine data analysis
+Enron Direct-Finance site development
+
+
+

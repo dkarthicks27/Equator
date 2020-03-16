@@ -1,0 +1,26 @@
+From: Marci Mansfield [/o=cw-test/ou=first administrative group/cn=recipients/cn=marci.mansfield]
+To: Jim Cashion; Larry Campbell
+Subject: RE: 8/13 Load two
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+PJM is also confirming 78 MW HE 14; I'll fix my deal - thanks....
+
+ -----Original Message-----
+From: 	Cashion, Jim  
+Sent:	Wednesday, August 15, 2001 9:13 AM
+To:	Campbell, Larry F.
+Cc:	Mansfield, Marci
+Subject:	8/13 Load two
+
+Larry........Deal 729346, NY trans id 5079112, NY is showing that HE 14 was 78 mw not 100. I made changes to enpower for deal 729346.
+
+Marci........For PJM the deal is 729345 and enpower is showing 100 mw as well for you.  Could you please check to see what amount PJM is showing for this hour.
+
+
+Jim Cashion
+Enron
+Volume Management
+713-345-2714

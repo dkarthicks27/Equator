@@ -1,0 +1,85 @@
+May 23, 2000
+dhyvl
+ECT
+2
+Microsoft Word 8.0
+7/6/2000 13:37:00
+7/6/2000 19:31:00
+7/6/2000 19:31:00
+1
+873
+4979
+0
+Enron Corp
+41
+9
+6114
+no
+no
+7/6/2000 14:31:00
+7/6/2000 14:31:00
+7/6/2000 08:37:00
+
+Great River Energy
+July 6, 2000
+Page _____________
+
+
+O:\Legal\DHYVL\DJH\2000\Ltr\2000-44crfm.doc
+
+O:\Legal\DHYVL\DJH\2000\Ltr\2000-44crfm.doc
+
+
+
+
+
+
+
+
+July 6, 2000
+
+
+
+Great River Energy
+17845 East Highway 10
+P. O. Box 800
+Elk River, Minnesota 55330-0800
+
+
+Transaction Agreement
+
+	This Transaction Agreement (this "Transaction") shall form and effectuate the proposal between Great River Energy, as "Customer", and Enron North America Corp., as "Company", regarding the firm purchase and sale of Gas under the following terms and conditions.  Customer to purchase and receive ("Buyer") and Company to sell and deliver ("Seller").  Transaction No. 1.
+
+DAILY CONTRACT QUANTITY
+ ("DCQ") in MMBtus:  	7,200 MMBtu/d during the period May 1, 2001 through September 30, 2001;
+		9,800 MMBtu/d during the period May 1, 2002 through September 30, 2002; and
+		9,800 MMBtu/d during the period May 1, 2003 through September 30, 2003.
+		The DCQ shall be zero during each period of October through April during the period of delivery and any volumes requested during such period shall only be provided on a fully interruptible basis.
+
+		The DCQ will be grossed-up to account for fuel on Northern Natural Gas Company’s FERC Gas Tariff.  Fuel is currently 1.07%.
+
+MAXIMUM DAILY QUANITY
+ (“MaxDQ”) in MMBtus:	Customer’s total natural gas requirements at the Pleasant Valley Site up to a maximum of 125,000 MMBtu/d
+
+DELIVERY POINT(S):	Mutually agreeable existing points of interconnection with Northern Natural Gas Company’s pipeline facilities.
+
+PERIOD OF DELIVERY:  	May 1, 2001 through September 30, 2003.
+
+CONTRACT PRICE (per MMBtu):	1)  For all quantities up to the DCQ: The Contract Price shall be the "Index Price" published in Inside F.E.R.C.'s Gas Market Report for Northern Natural Gas Company at Ventura as listed in the table entitled "Delivered Spot-Gas Prices" in the first-of-the-month issue of such publication for each Month during the Period of Delivery plus $0.05.
+	2)  For all quantities in excess of the DCQ up to the MaxDQ – At such time as Customer requests volumes in excess of the tolerance permitted by Northern Natural Gas Company (NNG) under the Power Pack Service agreement between NNG and Customer or at such time as Customer is required to purchase additional volumes from Company to balance its Power Pack Service account, the Contract Price shall be the "Spot Price (Common High)" at Demarc set forth in Gas Daily® (Financial Times Energy), or successor publication, in the column "Daily Price Survey" under Northern Natural Gas Company at Demarc as reported for the Gas Day of flow plus $0.05 per MMBtu; provided, if there is no price or range of prices published for such Gas Day, then the Spot Price (Common High) shall be deemed to be the Common High Price for the next Gas Day for which a Spot Price (Common High) can be determined in accordance herewith.
+	3)  For all quantities during each period of October through April – The Contract Price shall be equal to one hundred ten percent (110%) of the Spot Price (Common High) at Demarc applicable for each day of flow as reported for the Day of flow.
+
+OTHER:	1)	For the purposes of this Transaction only, Customer shall have the option with regard to any month during the Period of Delivery to reduce the DCQ to be applicable during the month provided that: (1) Customer provides notice of such requested lower DCQ to Company no later than five (5) business days prior to the beginning of the month; (2) such reduced DCQ shall be applied ratably over the entire month; and (3) Customer pays to Company a fee of $0.05 per MMBtu times the difference between the original DCQ and the requested reduced DCQ times the number of days during such month.  In the event Customer fails to comply with the above conditions or otherwise fails to purchase and receive the original DCQ during any month such failure shall constitute a default under the provisions of the Agreement and shall be settled as provided therein.
+	2)	For purposes of this Transaction only, in the event that any portion of the quantity purchased by Customer from Company remains to be redelivered to Customer by NNG as of the end of the storage period under Customer’s Power Pack Service agreement with NNG, such remaining quantity (up to a maximum quantity of 50,000 MMBtu during September and 50,000 MMBtu during October) shall be deemed to be a Default Quantity and Company shall purchase such Default Quantity from Customer at a price per MMBtu equal to the Spot Price (Common Low) at Demarc applicable for September 30 or October 31, as applicable, less $0.15 per MMBtu, as such "Spot Price (Common Low)" is set forth in Gas Daily® (Financial Times Energy), or successor publication, in the column "Daily Price Survey" under Demarc as reported for such day.
+
+	This Transaction is being provided pursuant to and in accordance with the ENFOLIO MASTER FIRM PURCHASE/SALE AGREEMENT between Customer and Company (the "Agreement") and constitutes part of and is subject to all of the provisions of such Agreement.  Capitalized terms herein used, but not defined, shall have the meanings set forth in the Agreement. 
+
+Each Party shall not disclose the Contract Price under this Transaction to a third party (other than the Party's and its affiliates' employees, lenders, counsel, accountants or prospective purchasers of any rights under any Transactions who have agreed to keep such terms confidential) except in order to comply with any applicable law, order, regulation or exchange rule; provided, each Party shall notify the other Party of any proceeding of which it is aware which may result in disclosure and use reasonable efforts to prevent or limit the disclosure.  The provisions of the Agreement other than the terms of this Transaction are not subject to this confidentiality obligation.  The Parties shall be entitled to all remedies available at law or in equity to enforce, or seek relief in connection with, this confidentiality obligation; provided, all monetary damages shall be limited as set forth in the referenced Master Agreement.
+
+GREAT RIVER ENERGY						ENRON NORTH AMERICA CORP.
+
+
+By 								By 					
+Title 								Title 					
+
+

@@ -1,0 +1,6 @@
+From: Lisa Shoemake [/o=teneo-test/ou=first administrative group/cn=recipients/cn=shoemake_lisa]
+Subject: 1/2 day Vacation per Evelyn
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None

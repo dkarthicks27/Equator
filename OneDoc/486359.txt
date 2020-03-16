@@ -1,0 +1,15 @@
+﻿From:           Carol North </o=cw-test/ou=first administrative group/cn=recipients/cn=carol.north>
+Sent:           Wed Aug 15 2001 12:55:36 GMT
+To:             Raymond Bowen </o=cw-test/ou=first administrative group/cn=recipients/cn=raymond.bowen>;William Bradford </o=cw-test/ou=first administrative group/cn=recipients/cn=william.bradford>;Rick Buy <rick.buy@cw-test.com>;Kent Castleman </o=cw-test/ou=first administrative group/cn=recipients/cn=kent.castleman>;Bob Crane </o=cw-test/ou=first administrative group/cn=recipients/cn=bob.crane>;Ken Curry </o=cw-test/ou=first administrative group/cn=recipients/cn=ken.curry>;Greg Hermans </o=cw-test/ou=first administrative group/cn=recipients/cn=greg.hermans>;Jeffrey McMahon </o=cw-test/ou=first administrative group/cn=recipients/cn=jeffrey.mcmahon>;Aparna Rajaram </o=cw-test/ou=first administrative group/cn=recipients/cn=aparna.rajaram>;Andrea Reed </o=cw-test/ou=first administrative group/cn=recipients/cn=andrea.reed>;Tanya Rohauer </o=cw-test/ou=first administrative group/cn=recipients/cn=tanya.rohauer>;Kevin Sweeney </o=cw-test/ou=first administrative group/cn=recipients/cn=kevin.sweeney>;Glenn Wright </o=cw-test/ou=first administrative group/cn=recipients/cn=glenn.wright>
+CC:             
+Subject:        Risk Pool Report
+Attachments:    b86d964798324247bd90643ea64c911742980f@nahou-msmbx01v.corp.enron.com.#1.Risk Pool Report Template081301.xls
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+Please find attached the Risk Pool Report as of 8-13-01.  I apologize for the delay in distribution.
+
+
+ 
