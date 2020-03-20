@@ -1,40 +1,62 @@
-import pandas as pd
+from sklearn.svm import SVC
 from sklearn.feature_extraction.text import TfidfVectorizer
 from glob import glob
-import mysql.connector
+import pickle
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
 
-file_names = glob(r'/home/eqt2/10 Documents/*.txt')
-tfidf = TfidfVectorizer(input='filename', stop_words='english', encoding='utf-8', decode_error='ignore',max_features=1000)
-vect = tfidf.fit_transform(file_names)
-
-
-# print(vect)
-# print(vect.toarray())
-#def convert_to_string(vector):
-    #listToStr = ' '.join([str(elem) for elem in vector])
-    #df = pd.DataFrame(listToStr)
-    # mydb1 = create_engine("mysql+mysqlconnector://root:password@localhost/python")
-    #df.to_sql(name='newTable1', con=mydb, if_exists='append')
+filepath = '/Users/karthickdurai/Equator/OneDoc/*.txt'
+file_list = glob(filepath)
+train, test = train_test_split(file_list, train_size=0.05)
 
 
-# for i in vect.toarray():
-    # convert_to_string(i)
+def savePickle():
+    array = [1, 2, 3, 4]
+    pcfile = open('picklefile', 'ab')
+    pickle.dump(array, pcfile)
+    pcfile.close()
 
-listToStr = ['  '.join([str(elem) for elem in s]) for s in vect.toarray()]
-k = pd.DataFrame(listToStr)
 
-from sqlalchemy import create_engine
+def loadPickle():
+    pcfile = open(r'picklefile', 'rb')
+    array = pickle.load(pcfile)
+    print(array)
+    print(pcfile.read())
 
-mydb = create_engine("mysql+mysqlconnector://root:password@localhost/python")
-k.to_sql(name='newTable', con=mydb, if_exists='replace')
-# print(k)
-#down = pd.read_sql('SELECT * FROM newTable;', con=mydb)
-#val = []
-#for i in range(36):
-    #val.append([float(i) for i in down.values[i][1].split()])
 
-#print(pd.DataFrame(val))
+def tfidf():
+    tfidf = TfidfVectorizer(input='filename', decode_error='ignore')
+    x = tfidf.fit_transform(train)
+    y = tfidf.transform(test)
+    label = [1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4]
+    return x, label, y
 
-#for i in vect:
-    # print(i.toarray())
-    # convert_to_string(i.toarray())
+
+def svm(vec, feature_names, test_vectors):
+    algo = SVC()
+    algo.fit(vec, feature_names)
+    x = algo.predict(test_vectors)
+    print(algo.score())
+    # predicted = algo.predict(test_vectors)
+    # print(np.mean(predicted == feature_names))
+
+
+def main():
+    tfidf_train, tfidf_features, tfidf_test = tfidf()
+    enter = input('Enter 1 for SVM, 2 for Logistic regression: ')
+    if enter == 1:
+        svm(tfidf_train, tfidf_features, tfidf_test)
+    else:
+        logisticRegression(tfidf_train, tfidf_features, tfidf_test)
+
+
+def logisticRegression(vec, feature_names, test_vectors):
+    lr = LogisticRegression(n_jobs=1)
+    lr.fit(vec, feature_names)
+    # print(lr.predict(test_vectors))
+    print(lr.score(vec, feature_names))
+
+
+if __name__ == '__main__':
+    main()
