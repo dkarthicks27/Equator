@@ -2,6 +2,7 @@ from sklearn.svm import SVC
 from sklearn.feature_extraction.text import TfidfVectorizer
 from glob import glob
 import pickle
+import pandas as pd
 from sklearn.calibration import CalibratedClassifierCV
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -48,6 +49,14 @@ def tfidf():
     # print(algo.score(x, label))
 
 
+def vectorization():
+    tfidf = TfidfVectorizer(input='filename', decode_error='ignore')
+    x = tfidf.fit_transform(train)
+    df = pd.DataFrame(x.toarray())
+    df.to_csv(r'file.csv')
+    print(df)
+
+
 def svm(vec, feature_names, test_vectors):
     algo = SVC()
     algo.fit(vec, feature_names)
@@ -75,4 +84,4 @@ def logisticRegression(vec, feature_names, test_vectors):
 
 
 if __name__ == '__main__':
-    tfidf()
+    vectorization()
