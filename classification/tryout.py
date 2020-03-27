@@ -3,6 +3,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from glob import glob
 import pickle
 import pandas as pd
+from sklearn.metrics import jaccard_similarity_score
+from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.calibration import CalibratedClassifierCV
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -25,6 +27,15 @@ def loadPickle():
     array = pickle.load(pcfile)
     print(array)
     print(pcfile.read())
+
+
+def cosineSimilarity():
+    tfidf = TfidfVectorizer(input='filename', decode_error='ignore')
+    x = tfidf.fit_transform(train)
+    y = tfidf.transform(test)
+    #  sim = jaccard_similarity_score(x, x)
+    sim = cosine_similarity(x[0:5])
+    print(sim)
 
 
 def tfidf():
@@ -84,4 +95,4 @@ def logisticRegression(vec, feature_names, test_vectors):
 
 
 if __name__ == '__main__':
-    vectorization()
+    cosineSimilarity()
