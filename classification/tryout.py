@@ -12,7 +12,7 @@ from sklearn.linear_model import LogisticRegression
 
 filepath = '/Users/karthickdurai/Equator/OneDoc/*.txt'
 file_list = glob(filepath)
-train, test = train_test_split(file_list, train_size=0.05)
+train, test = train_test_split(file_list, train_size=0.5)
 
 
 def savePickle():
@@ -29,16 +29,26 @@ def loadPickle():
     print(pcfile.read())
 
 
-def cosineSimilarity():
+def cosineSimilarity(threshold):
+    """
+    cosine similarity function here is used to find similarity between documents:
+    so we first find tfidf of all the  text files
+    then we make a pairwise similarity matrix which is then used to determine similarity between vectors
+    """
     tfidf = TfidfVectorizer(input='filename', decode_error='ignore')
-    x = tfidf.fit_transform(train)
-    y = tfidf.transform(test)
-    #  sim = jaccard_similarity_score(x, x)
-    sim = cosine_similarity(x[0:5])
-    print(sim)
+    x = tfidf.fit_transform(file_list)
+    similarity = cosine_similarity(x)
+    """
+    now here we are printing all the similar documents respect to each document according to threshold
+    """
+    for line, val in enumerate(similarity, 1):
+        for position, items in enumerate(val, 1):
+            # print("\ndocuments similar to document " + str(line) + " with: ")
+            if (line != position) and (items >= threshold):
+                print("doc " + str(position) + " is " + str(items * 100) + " similar to doc " + str(line))
 
 
-def tfidf():
+def pfidf():
     tfidf = TfidfVectorizer(input='filename', decode_error='ignore')
     x = tfidf.fit_transform(train)
     y = tfidf.transform(test)
@@ -95,4 +105,4 @@ def logisticRegression(vec, feature_names, test_vectors):
 
 
 if __name__ == '__main__':
-    cosineSimilarity()
+    cosineSimilarity(0.9)
