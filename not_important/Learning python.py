@@ -84,3 +84,50 @@ PATTERNS:
 
 """
 
+
+def classes():
+    class Customer:
+        def __init__(self, name, id, age, amount):  # constructor
+            self.name = name
+            self.id = id
+            self.age = age
+            self.amount = amount
+
+    x = Customer('karthick', 12345, 22, 10000)
+    y = Customer('Jyo', 12354, 22, 10000)
+    z = Customer('sashank', 1111, 22, 10000)
+
+    class GooglePay:
+        def __init__(self):
+            self.customers = set()
+
+        def register(self, customer):
+            self.customers.add(customer)
+            return self
+
+        def send(self, sender, receiver, cash):
+            p = {sender, receiver}
+            if isinstance(sender, Customer) and isinstance(receiver, Customer):
+                if p.issubset(self.customers):
+                    if sender.amount > cash:
+                        sender.amount = sender.amount - cash
+                        receiver.amount = receiver.amount + cash
+                        print("transaction successful")
+                        print(str(sender.name) + " current account balance is " + str(sender.amount))
+                        print(str(receiver.name) + " current account balance is " + str(receiver.amount))
+                    else:
+                        print("insufficient funds")
+                else:
+                    print("sender or receiver does not exist")
+            else:
+                print("either sender or receiver is not a real customer")
+                # if receiver in self.customers and sender in self.customers :
+
+    googlePay = GooglePay()
+    googlePay.register(x).register(y).register(z)
+    googlePay.send(x, z, 1000)
+
+
+classes()
+
+
