@@ -1,9 +1,9 @@
-from gensim.models import Word2Vec
+from GensimApproach.models import Word2Vec
 import nltk
 from nltk.cluster import KMeansClusterer
 import re
 import numpy as np
-from gensim.models import word2vec
+from GensimApproach.models import word2vec
 
 file1 = open(r'/home/eqt2/50K Text Docs/3410.txt', 'r+')
 corpus = nltk.sent_tokenize(file1.read())
