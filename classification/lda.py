@@ -1,6 +1,6 @@
 import numpy as np
-from gensim import corpora, models
-from gensim.utils import simple_preprocess
+from GensimApproach import corpora, models
+from GensimApproach.utils import simple_preprocess
 import glob
 import os
 

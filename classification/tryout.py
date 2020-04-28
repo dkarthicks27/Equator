@@ -1,40 +1,108 @@
-import pandas as pd
+from sklearn.svm import SVC
 from sklearn.feature_extraction.text import TfidfVectorizer
 from glob import glob
-import mysql.connector
+import pickle
+import pandas as pd
+from sklearn.metrics import jaccard_similarity_score
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.calibration import CalibratedClassifierCV
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
 
-file_names = glob(r'/home/eqt2/10 Documents/*.txt')
-tfidf = TfidfVectorizer(input='filename', stop_words='english', encoding='utf-8', decode_error='ignore',max_features=1000)
-vect = tfidf.fit_transform(file_names)
-
-
-# print(vect)
-# print(vect.toarray())
-#def convert_to_string(vector):
-    #listToStr = ' '.join([str(elem) for elem in vector])
-    #df = pd.DataFrame(listToStr)
-    # mydb1 = create_engine("mysql+mysqlconnector://root:password@localhost/python")
-    #df.to_sql(name='newTable1', con=mydb, if_exists='append')
+filepath = '/Users/karthickdurai/Equator/OneDoc/*.txt'
+file_list = glob(filepath)
+train, test = train_test_split(file_list, train_size=0.5)
 
 
-# for i in vect.toarray():
-    # convert_to_string(i)
+def savePickle():
+    array = [1, 2, 3, 4]
+    pcfile = open('picklefile', 'ab')
+    pickle.dump(array, pcfile)
+    pcfile.close()
 
-listToStr = ['  '.join([str(elem) for elem in s]) for s in vect.toarray()]
-k = pd.DataFrame(listToStr)
 
-from sqlalchemy import create_engine
+def loadPickle():
+    pcfile = open(r'picklefile', 'rb')
+    array = pickle.load(pcfile)
+    print(array)
+    print(pcfile.read())
 
-mydb = create_engine("mysql+mysqlconnector://root:password@localhost/python")
-k.to_sql(name='newTable', con=mydb, if_exists='replace')
-# print(k)
-#down = pd.read_sql('SELECT * FROM newTable;', con=mydb)
-#val = []
-#for i in range(36):
-    #val.append([float(i) for i in down.values[i][1].split()])
 
-#print(pd.DataFrame(val))
+def cosineSimilarity(threshold):
+    """
+    cosine similarity function here is used to find similarity between documents:
+    so we first find tfidf of all the  text files
+    then we make a pairwise similarity matrix which is then used to determine similarity between vectors
+    """
+    tfidf = TfidfVectorizer(input='filename', decode_error='ignore')
+    x = tfidf.fit_transform(file_list)
+    similarity = cosine_similarity(x)
+    """
+    now here we are printing all the similar documents respect to each document according to threshold
+    """
+    for line, val in enumerate(similarity, 1):
+        for position, items in enumerate(val, 1):
+            # print("\ndocuments similar to document " + str(line) + " with: ")
+            if (line != position) and (items >= threshold):
+                print("doc " + str(position) + " is " + str(items * 100) + " similar to doc " + str(line))
 
-#for i in vect:
-    # print(i.toarray())
-    # convert_to_string(i.toarray())
+
+def pfidf():
+    tfidf = TfidfVectorizer(input='filename', decode_error='ignore')
+    x = tfidf.fit_transform(train)
+    y = tfidf.transform(test)
+    label = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+             1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+    # return x, label, y
+    model = SVC(probability=True)
+    # here we are using SVM algorithm
+    algo = CalibratedClassifierCV(model)
+    algo.fit(x, label)
+    # here we fit it with calibrated classifier which calibrates our model to produce accurate data's
+    predict = algo.predict(x)
+    prob_distribution = algo.predict_proba(y)
+    # this is used to find relevance score, as it says how relevant each document is to the labels
+    print("below: first element is label 1 probability and label 2 probability:")
+    print('Relevance score: ')
+    for rows, i in enumerate(prob_distribution, 0):
+        print('doc no: ' + str(rows + 1) + ' ' + str(i))
+    # print(algo.score(x, label))
+
+
+def vectorization():
+    tfidf = TfidfVectorizer(input='filename', decode_error='ignore')
+    x = tfidf.fit_transform(train)
+    df = pd.DataFrame(x.toarray())
+    df.to_csv(r'file.csv')
+    print(df)
+
+
+def svm(vec, feature_names, test_vectors):
+    algo = SVC()
+    algo.fit(vec, feature_names)
+    x = algo.predict(test_vectors)
+    print("svm: ")
+    # print('svm score is: ' + str(algo.score(test_vectors, x)))
+    # predicted = algo.predict(test_vectors)
+    # print(np.mean(predicted == feature_names))
+
+
+def main():
+    tfidf()
+    enter = input('Enter 1 for SVM, 2 for Logistic regression: ')
+    # if enter == 1:
+    # svm(tfidf_train, tfidf_features, tfidf_test)
+    # else:
+    # logisticRegression(tfidf_train, tfidf_features, tfidf_test)
+
+
+def logisticRegression(vec, feature_names, test_vectors):
+    lr = LogisticRegression(n_jobs=1)
+    lr.fit(vec, feature_names)
+    # print(lr.predict(test_vectors))
+    # print(lr.score(vec, feature_names))
+
+
+if __name__ == '__main__':
+    cosineSimilarity(0.9)
