@@ -96,7 +96,9 @@ def classes():
     x = Customer('karthick', 12345, 22, 10000)
     y = Customer('Jyo', 12354, 22, 10000)
     z = Customer('sashank', 1111, 22, 10000)
-
+    print(x.id)
+    x.name = ""
+    print(x, y, z)
     class GooglePay:
         def __init__(self):
             self.customers = set()
@@ -123,9 +125,9 @@ def classes():
                 print("either sender or receiver is not a real customer")
                 # if receiver in self.customers and sender in self.customers :
 
-    # googlePay = GooglePay()
-    # googlePay.register(x).register(y).register(z)
-    # googlePay.send(x, z, 1000)
+    #googlePay = GooglePay()
+    #googlePay.register(x).register(y).register(z)
+    #googlePay.send(x, z, 1000)
 import pickle
 from sklearn.model_selection import train_test_split
 

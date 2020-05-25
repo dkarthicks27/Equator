@@ -11,7 +11,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.linear_model import LogisticRegression
 import pickle
 import pandas as pd
-import numpy as np
 import os
 from glob import glob
 from sklearn.cluster import KMeans
@@ -35,7 +34,7 @@ def delete():
         print("choosing not to delete...\n")
 
 
-def tfidf(filepath, features=1000, n_gram=(2, 4)):
+def tfidf(filepath, features=1000, n_gram=(3, 5)):
     """
     so in the above section we just made all our imports now in the below section we are going to write a method
     for finding tfidf vectors this method is called once and it returns a pickle file of the tfidf vector so we
@@ -53,7 +52,7 @@ def tfidf(filepath, features=1000, n_gram=(2, 4)):
     """
     Vectorizer = TfidfVectorizer(input='filename', max_features=features, ngram_range=n_gram,
                                  stop_words='english',
-                                 decode_error='ignore')
+                                 decode_error='ignore',preprocessor=)
     vectors = Vectorizer.fit_transform(filePath)
     # vectors = tfidfVectorizer.transform(filepath)
     with open('vectorizer.pickle', 'ab') as vec:
@@ -185,15 +184,19 @@ def conceptualSearch(query, route):
     So now let's go to conceptual search
     """
 
-    # so the query document is taken as input, it can be a sentence or a string or etc.
+    # so the LsiAndKNN document is taken as input, it can be a sentence or a string or etc.
     print("\n\n......Conceptual Search.......\n")
     if route == '1':
         tfidfVectorizer.input = "content"
-    vec1 = pickle.load(open('vectorizer.pickle', 'rb'))
-    vec1 = vec1.transform(query)
-    #vec1 = tfidfVectorizer.transform(query)
+    vectorizer = pickle.load(open('vectorizer.pickle', 'rb'))
+    vec1 = vectorizer.transform(query)
+    #print(vec1)
+    #print("\n")
+    #print(vectorizer.get_feature_names())
     y = pickle.load(open('vectors.pickle', 'rb'))
     sims = cosine_similarity(vec1, y)
+    #print(sims)
+    print(filePath)
     answer = input("To save the similarity vector or print the output\nEnter 1 for saving, 2 for printing: ")
     if answer == '1':
         with open('conceptualResult.pickle', 'ab') as concept:
@@ -201,8 +204,9 @@ def conceptualSearch(query, route):
             concept.close()
     elif answer == '2':
         # threshold = int(input("\nenter the threshold to find similarity(range: 0 to 0.99):  "))
-        for pos, element in zip(labels, sims[0]):
-            if element >= 0.017:
+        print(len(filePath), len(sims[0]))
+        for pos, element in zip(filePath, sims[0]):
+            if element >= 0.40:
                 print("doc " + str(pos) + " is " + str(element * 100) + "% similar")
 
 
@@ -212,14 +216,14 @@ def opening():
     if x == '1':
         sims = pickle.load(open('conceptualResult.pickle', 'rb'))
         lab = labels
-        lab.insert(0, 'query.txt')
+        lab.insert(0, 'LsiAndKNN.txt')
         print(sims)
         print()
         print(sims.shape)
         print()
         print(type(sims))
         for pos, element in zip(lab, sims[0]):
-            print(str(pos) + " - similarity to query by: " + str(element * 100))
+            print(str(pos) + " - similarity to LsiAndKNN by: " + str(element * 100))
 
 
 if __name__ == '__main__':
@@ -250,11 +254,11 @@ if __name__ == '__main__':
         print("\nnear Duplicate identification...")
         nearDuplicate(arr=labels)
     elif operation == '0':
-        what = input("\nIs the query a String or a path to document\nEnter 1 for string, 2 for path: ")
+        what = input("\nIs the LsiAndKNN a String or a path to document\nEnter 1 for string, 2 for path: ")
         if what == '1':
-            query = input("enter the search query: ")
+            query = input("enter the search LsiAndKNN: ")
             conceptualSearch([query], route=what)
         else:
-            conceptualSearch(['/Users/karthickdurai/Equator/OneDoc/40.txt'], route=what)
+            conceptualSearch(['/Users/karthickdurai/Equator/OneDoc/126.txt'], route=what)
     elif operation == 'x':
         opening()

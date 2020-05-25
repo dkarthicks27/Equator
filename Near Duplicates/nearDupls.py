@@ -21,11 +21,13 @@ def cosineSimilarity(threshold):
     tfidf = TfidfVectorizer(input='filename', decode_error='ignore', ngram_range=(2, 4))
     x = tfidf.fit_transform(file_list)
     similarity = cosine_similarity(x)
+    print(similarity.shape)
     """
     now here we are printing all the similar documents respect to each document according to threshold
     """
     obj = {}
     for line, val in zip(arr, similarity):
+        # print(line)
         array = []
         for position, items in zip(labels, val):
             # print("\n documents similar to document " + str(line) + " with: ")
@@ -36,12 +38,14 @@ def cosineSimilarity(threshold):
             obj[line] = array
 
     export = pd.Series(obj)
+    # print(export)
     operation = input('enter 1: to print the result and 2: to save it as csv: ')
     if operation == 1:
-        print(pd.Series(obj))
+        print(export)
     elif operation == 2:
         export.to_csv('/Users/karthickdurai/Equator/result.csv')
 
 
 if __name__ == '__main__':
-    cosineSimilarity(0.95)
+    exp = float(input("enter the threshold: "))
+    cosineSimilarity(exp)

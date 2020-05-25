@@ -1,16 +1,17 @@
-import os
 from glob import glob
-from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction import text
+from sklearn.feature_extraction.text import TfidfVectorizer
+import re
+import pandas as pd
 
 
-arr = os.listdir(r'/Users/karthickdurai/Equator/OneDoc/')
-filepath = '/Users/karthickdurai/Equator/OneDoc/*.txt'
-file_list = glob(filepath)
-x, z, y, w = train_test_split(arr, file_list, train_size=0.05)
+def preProcess(s):
+    k = re.sub('[0-9]', '', s)
+    return k
 
 
-# iterates over 3 lists and excutes
-# 2 times as len(value)= 2 which is the
-# minimum among all the three
-for (a, b) in zip(x, y):
-    print(a, b)
+filePath = glob('/Users/karthickdurai/Equator/OneDoc/*.txt')
+vectorizer = TfidfVectorizer(ngram_range=(2, 4), stop_words='english', input="filename", decode_error="ignore", preprocessor=preProcess)
+vectorizer.fit_transform(filePath)
+k = pd.DataFrame(vectorizer.get_feature_names())
+print(k)
