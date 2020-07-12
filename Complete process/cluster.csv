@@ -1,6 +1,11 @@
 top n terms,cluster id
-"teneo test, teneo test ou, teneo test ou administrative, cn recipients, recipients cn",0
-"cw test ou administrative, cw test ou, cw test, test ou, ou administrative",1
-"priority normal, importance normal, normal priority, priority normal sensitivity, normal sensitivity",2
-"enron com, natural gas, enron corp, original message, address rewrite",3
-"hou ect, ect ect, hou ect ect, cc subject, enron enron",4
+"TOTAL_LOAD_EXPORT PRICE ZONE_ID REF_ID Percentage, SumOfTOTAL_LOAD_EXPORT Percent, TRADE_HR TRADE_MIN TOTAL_LOAD_EXPORT PRICE, TRADE_HR TRADE_MIN TOTAL_LOAD_EXPORT, TRADE_HR TRADE_MIN, TRADE_HR, Sheet BUS_ASSOC_ID TRADE_INT CHG_TYP_ID STLMT_SUM_ID, Sheet BUS_ASSOC_ID TRADE_INT CHG_TYP_ID, Sheet BUS_ASSOC_ID TRADE_INT, Sheet BUS_ASSOC_ID",0
+"The, shall, Agreement, Enron, time, Energy, terms, Transaction, No, In",1
+"cw test ou, cw test ou administrative group, cw test ou administrative, cw test, cw, cw test com, test com, CC, GMT To, Attachments",2
+"Jun, Apr, Mar, Dec, Raptor, Feb, Jan, Sep, Warrants, Oct",3
+"ECT, HOU ECT, HOU, ECT ECT, HOU ECT ECT, cc, enron, cc Subject, enron com, Carol",4
+"Sent, Message From, Original Message From, Original Message, Original, Message, teneo, teneo test, teneo test ou administrative group, teneo test ou",5
+"Load Importance Normal Priority, Load Importance Normal, Load Importance Normal Priority Normal, Load Importance, Load, cw test, cw, test com Subject, cw test com Subject, cw test ou administrative group",6
+"Alias, Gerald, Nemec, com To, Gerald Nemec, To Alias, Alias Subject, To Alias Subject, test com To, cw test com To",7
+"server, SMTP, Address Rewrite, Rewrite, rewrite, virtual server, Address, virtual, SMTP virtual server, SMTP virtual",8
+"teneo test, teneo, teneo test ou administrative group, teneo test ou administrative, teneo test ou, Mtg, Subject Mtg, Valdez teneo, group cn recipients cn valdez_christina, cn recipients cn valdez_christina Subject",9

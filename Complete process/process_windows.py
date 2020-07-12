@@ -95,9 +95,10 @@ def truncate_sql_table(connection, sql_statement):
         connection.close()
 
 
+filePath = [seq[1] for seq in k]
+
 
 #####################################################################################################################
-
 
 
 def delete(d):
@@ -117,10 +118,7 @@ def delete(d):
         print("choosing not to delete...\n")
 
 
-
-
 ##################################################################################################################
-
 
 
 def preprocess(s):
@@ -166,7 +164,6 @@ def tfidf(filepath, features=1000, n_gram=(2, 4)):
         pickle.dump(vectors, pcfile)
         pcfile.close()
     return Vectorizer
-
 
 
 ####################################################################################################################
@@ -222,11 +219,7 @@ def clustering(num_cluster, top_n_terms, label):
     # print(tuple_clusterId2TopTerms)
 
 
-
-
 ####################################################################################################################
-
-
 
 
 def nearDuplicate(arr, threshold=0.9):
@@ -318,7 +311,6 @@ def classification(trainVec, test, labelTraining):
         iteration = int(input("Enter\n1 to continue once more\n2 to End: "))
 
 
-
 ###################################################################################################################
 def hierarchial_clustering():
     from sklearn.cluster import AgglomerativeClustering
@@ -386,7 +378,6 @@ def conceptualSearch(query, route):
         for pos, element in zip(labels, sims[0]):
             if element >= 0.017:
                 print("doc " + str(pos) + " is " + str(element * 100) + "% similar")
-
 
 
 ######################################################################################################################
