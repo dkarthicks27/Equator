@@ -1,3 +1,4 @@
+import logging
 import sys
 from datetime import datetime
 
@@ -8,14 +9,18 @@ now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 print("Current Time =", current_time)
 
-import gensim
 from gensim import models
 from gensim import corpora
 from gensim.similarities import Similarity
 from gensim.utils import simple_preprocess
-from smart_open import smart_open
-import os
 from glob import glob
+
+
+def main():
+    logging.basicConfig(filename='myapp1.log', level=logging.INFO)
+    logging.info('Started')
+
+    logging.info('Finished')
 
 
 def sql_connect(server="KARTHICK\SQLEXPRESS", database="EQUATOR"):
@@ -86,13 +91,13 @@ def truncate_sql_table(connection, sql_statement):
 class BoWCorpus(object):
     def __init__(self, path, dictionary):
         self.filepath = path
-        # self.files = glob(path + '*.txt')
+        self.files = glob(path + '*.txt')
         self.dictionary = dictionary
 
     def __iter__(self):
         # global mydict  # OPTIONAL, only if updating the source dictionary.
-        for file in self.filepath:
-            for line in open(file, errors="ignore"):
+        for file in self.files:
+            for line in open(file, errors="ignore", ):
                 # tokenize
                 tokenized_list = simple_preprocess(line, deacc=True)
 
@@ -106,28 +111,67 @@ class BoWCorpus(object):
                 yield bow
 
 
-
 if __name__ == '__main__':
-    sql = input("Enter the sql insert statement: ")
-    connection = sql_connect()
-    k = read_sql_input(connection, sql)
+    # sql operation
+    logging.basicConfig(filename='myapp.log', level=logging.INFO)
+    logging.info('Started')
+    # sql = input("Enter the sql insert statement: ")
+    # connection = sql_connect()
+    # k = read_sql_input(connection, sql)
+
     # Create the Dictionary
     mydict = corpora.Dictionary()
-    print("\ndictionary formation done\n")
+    print("\ndictionary initialised\n")
+
     # Create the Corpus
-    filePath = [seq[1] for seq in k]
+    filePath = "/Users/karthickdurai/Equator/OneDoc/"
+    # This is the filePath which is extracted from Tuple k = (doc_id, filePath)
+    # filePath = [seq[1] for seq in k]
     bow_corpus = BoWCorpus(path=filePath, dictionary=mydict)  # memory friendly
     print("bow corpus done\n")
 
     # form tfidf using this
     tfidf = models.TfidfModel(bow_corpus, smartirs='ntc')
     print("tfidf formation done")
-    index = Similarity(corpus=tfidf[bow_corpus],
-                       num_features=len(mydict),
-                       output_prefix='on_disk_output')
+
+    # initiating similarity object
+    similarity = Similarity(corpus=tfidf[bow_corpus], num_features=len(mydict),
+                            output_prefix='on_disk_output')
+    # p = Process(target=similarity)
+    # p.start()
+    # p.join()
+    print("\nsimilarity done\n")
+    # print(len(index))
+    print("\n\n")
+
+    # finding similar docs:
+    # The minThreshold and maxThreshold will be defined as:
+    # minThreshold = 0.9
+    # maxThreshold = 0.95
+    # array = []
+    # for i, rows in zip(range(len(similarity)), similarity):
+    #     print(rows)
+    #     print("\n\n")
+    #     for j, row in zip(range(i, len(similarity)), rows):
+    #         # print("\n$$$$\n")
+    #         if minThreshold <= row <= maxThreshold and i != j:
+    #             print(row)
+    #             array.append((i, j, row))
+    #             if len(array) == 1000:
+    #                 print(len(array))
+    #                 my_df = pd.DataFrame(array, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
+    #                 with open('file.csv', 'a+') as csv_file:
+    #                     my_df.to_csv(path_or_buf=csv_file, index=False)
+    #                 array.clear()
+    #                 my_df = my_df.iloc[0:0]
+    #
+
+    # for i in index:
+    #     print(len(i))
     this = datetime.now()
 
     later_time = this.strftime("%H:%M:%S")
     print("Current Time =", later_time)
 
     print("The time elapsed is {}".format(this - now))
+    logging.info('Finished')

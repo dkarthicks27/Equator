@@ -262,20 +262,6 @@ def conceptualSearch(query, route):
                 print("doc " + str(pos) + " is " + str(element * 100) + "% similar")
 
 
-def opening():
-    x = input("what is the operation that you want to try\nEnter 1 for printing cosine similarity result\n"
-              "or enter 2 for finding the shape of the matrix and compare it with the shape of  ")
-    if x == '1':
-        sims = pickle.load(open('conceptualResult.pickle', 'rb'))
-        lab = labels
-        lab.insert(0, 'LsiAndKNN.txt')
-        print(sims)
-        print()
-        print(sims.shape)
-        print()
-        print(type(sims))
-        for pos, element in zip(lab, sims[0]):
-            print(str(pos) + " - similarity to LsiAndKNN by: " + str(element * 100))
 
 
 if __name__ == '__main__':
@@ -312,41 +298,3 @@ if __name__ == '__main__':
             conceptualSearch([query], route=what)
         else:
             conceptualSearch(['/Users/karthickdurai/Equator/OneDoc/126.txt'], route=what)
-    elif operation == 'x':
-        start = time.time()
-        print("\nstarting time is {}".format(start))
-        minThreshold = 0.9
-        maxThreshold = 0.95
-        tfidfVectorizer = pickle.load(open('vectors.pickle', 'rb'))
-        similarity = cosine_similarity(tfidfVectorizer, dense_output=False)
-        # print(similarity)
-        # print(len(similarity))
-        """
-        Now let us finish near Duplicates
-        now here we are printing all the similar documents respect to each document according to threshold
-        """
-        array = []
-        # obj = {}
-        # print(similarity.shape)
-        print(similarity[1].shape, similarity[1].shape[0], similarity[1].shape[1])
-        for i in range(0, similarity.shape[0]):
-            for j in range(i, similarity[i].shape[1]):
-                if i != j and minThreshold <= similarity[i][j] <= maxThreshold:
-                    array.append((filePath[i], filePath[j], float(round(similarity[i][j] * 100))))
-                    if len(array) == 10000:
-                        print(len(array))
-                        my_df = pd.DataFrame(array, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
-                        with open('file1.csv', 'a+') as csv_file:
-                            my_df.to_csv(path_or_buf=csv_file, index=False)
-                        array.clear()
-                        my_df = my_df.iloc[0:0]
-
-        print(len(array))
-        if len(array) > 0:
-            my_df = pd.DataFrame(array, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
-            with open('file.csv', 'a+') as csv_file:
-                my_df.to_csv(path_or_buf=csv_file, index=False)
-                array.clear()
-                my_df = my_df.iloc[0:0]
-        end = time.time()
-        print("\ntime take is {} s".format(end - start))

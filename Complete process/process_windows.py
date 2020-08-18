@@ -95,7 +95,6 @@ def truncate_sql_table(connection, sql_statement):
         connection.close()
 
 
-filePath = [seq[1] for seq in k]
 
 
 #####################################################################################################################

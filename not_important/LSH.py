@@ -14,11 +14,13 @@
 import logging
 import sys
 from pprint import pprint
-import os
+
 import pyodbc
 from tqdm import tqdm
 from datasketch import MinHash, MinHashLSH
+import re
 import time
+import glob
 
 
 ########################################################################################################################
@@ -95,18 +97,15 @@ def truncate_sql_table(connection, sql_statement):
 # This function will help us create shingles out of our text files
 # ARGUMENTS: f - file, size- size of shingle
 # RETURN: it returns a generator which holds the shingles
-def get_shingles(fileName, size):
-    with open(fileName, errors="ignore") as f1:
-        buf = f1.read()  # read entire file
-        for y in range(0, len(buf) - size + 1):
-            yield buf[y:y + size]
-        f1.close()
+def get_shingles(f1, size):
+    buf = f1.read()  # read entire file
+    for y in range(0, len(buf) - size + 1):
+        yield buf[y:y + size]
 
 
 # Create minHash from document set and store it to the minDict dictionary
-def hashLSH(filePath, doc_id):
-    stream_set = set(get_shingles(filePath, NUM_SHINGLES))
-    minhash = MinHash(num_perm=NUM_PERMUTATION)
+def hashLSH(stream_set, doc_id):
+    minhash = MinHash(num_perm=NUM_PERMUTATION, seed=3)
     for d in stream_set:
         minhash.update(d.encode('utf8'))
     minDict[doc_id] = minhash
@@ -119,10 +118,13 @@ def create_candidate_pairs():
         bucket = lsh.query(minDict[query])
         if len(bucket) > 1:
             _a = bucket[0]
-            print(_a)
             for value in bucket[1:]:
                 _b = value
-                array.append((_b, minDict[query].jaccard(minDict[_b])))
+                with open(_a, errors="ignore") as f1, open(_b, errors="ignore") as f2:
+                    shingle1 = set(get_shingles(f1, 3))
+                    shingle2 = set(get_shingles(f2, 3))
+                    jaccard_similarity = len(shingle1.intersection(shingle2))/len(shingle1.union(shingle2))
+                array.append((_b, minDict[query].jaccard(minDict[_b]), jaccard_similarity))
         if len(array) != 0:
             similarity[_a] = array
     return similarity
@@ -138,13 +140,14 @@ if __name__ == '__main__':
     logging.info('Started')
 
     # THIS IS THE SQL CONNECTION AND QUERYING STATEMENT:
-    sql = input("Enter the sql insert statement: ")
-    connect = sql_connect()
-    k = read_sql_input(connect, sql)
-
-    new_list = [ele for ele in k if os.path.isfile(ele[1]) and ele[1].endswith('.txt')]
-
-
+    #sql = input("Enter the sql insert statement: ")
+    #connect = sql_connect()
+    #k = read_sql_input(connect, sql)
+    #
+    #document_id = [seq[0] for seq in k]
+    #fileList = [seq[1] for seq in k]
+    fileList = glob.glob(r'/Users/karthickdurai/Equator/OneDoc/*.txt')
+    fileList = fileList[:100]
 
     # SET THE NO. OF PERMUTATIONS
     NUM_PERMUTATION = 256
@@ -153,10 +156,13 @@ if __name__ == '__main__':
 
     t0 = time.time()
     # pBar = tqdm(fileList)  # just an progress meter
-
-    for file in tqdm(new_list, desc="Processing"):
-        hashLSH(filePath=file[1], doc_id=file[0])
-
+    i = 0
+    for file in tqdm(fileList, desc="Processing"):
+        with open(file, errors="ignore") as f:
+            x = set(get_shingles(f, NUM_SHINGLES))
+            hashLSH(stream_set=x, doc_id=file)
+            i += 1
+            f.close()
 
     print("\n")
     print(f'Shingle creation done processing time: {time.time() - t0} secs')
@@ -166,15 +172,12 @@ if __name__ == '__main__':
     # Now we have to create a session for bulk insert
     # here you can set threshold as desired for qualifying for comparison
     t1 = time.time()
-
-
     # FEEL FREE TO CHANGE THE VALUES OF WEIGHTS HERE THEY ARE
     # THE IMPORTANCE GIVEN TO MINIMISING FALSE POSITIVE OR FALSE NEGATIVE
     # FALSE POSITIVE: SOMETHING IS NOT POSITIVE BUT STILL INCLUDED
     # FALSE NEGATIVE: SOMETHING IS POSTIVE BUT DECLARED AS POSITIVE
     # IF WE WANT MORE PRECISION i.e. identify accurate results and not flag original doc as dup even missing some original though
     # WHILE BY SETTING FALSE NEGATIVE AS MIN AS POSSIBLE we allow duplicate values as well as non dup ones
-
     lsh = MinHashLSH(threshold=0.70, num_perm=NUM_PERMUTATION, weights=(0.5, 0.5))
     with lsh.insertion_session() as session:
         for key in tqdm(minDict.keys(), desc="LSH processing"):

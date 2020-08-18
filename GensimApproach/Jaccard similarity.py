@@ -1,8 +1,9 @@
 import glob
 import time
 import pandas as pd
+import os
 
-
+os.remove("file.csv")
 start = time.time()
 fileList = glob.glob(r'/Users/karthickdurai/Equator/OneDoc/*.txt')  #instead of glob please insert list of all file path
 # also
@@ -11,7 +12,6 @@ SHINGLE_SIZE = 3
 min_threshold = 0.90
 max_threshold = 0.95
 array = []
-print(fileList)
 
 def get_shingles(f, size):
     shingles = set()
@@ -27,7 +27,10 @@ def jaccard(set1, set2):
 
 
 for i in range(0, len(fileList)):
-    for j in range(i + 1, len(fileList)):
+# def jaccard_similarity(i):
+    # i = file.index + 1
+    # print(i)
+    for j in range(i, len(fileList)):
         with open(fileList[i], errors="ignore") as f1, open(fileList[j], errors="ignore") as f2:
             shingles1 = set(get_shingles(f1, size=SHINGLE_SIZE))
             shingles2 = set(get_shingles(f2, size=SHINGLE_SIZE))
@@ -51,6 +54,17 @@ for i in range(0, len(fileList)):
                 array.clear()
                 my_df = my_df.iloc[0:0]
 
-# print(array)
+
+# if __name__ == '__main__':
+#     import multiprocessing as mp
+#     # k = range(0, len(fileList))
+#     # from multiprocessing import Pool
+#     # p = Pool(mp.cpu_count())
+#     # p.map(jaccard_similarity, fileList)
+#     # p.close()
+#     # p.join()
+#     # print(array)
+#     for i in range(0, len(fileList)):
+#         jaccard_similarity(i)
 end = time.time()
 print("Time taken: {}".format(end-start))
