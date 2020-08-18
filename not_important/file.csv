@@ -1,15 +1,9 @@
-doc_id,duplicate_doc,similarity_percent
-/Users/karthickdurai/Equator/OneDoc/486029.txt,/Users/karthickdurai/Equator/OneDoc/486037.txt,92.0
-/Users/karthickdurai/Equator/OneDoc/117.txt,/Users/karthickdurai/Equator/OneDoc/133.txt,95.0
-/Users/karthickdurai/Equator/OneDoc/117.txt,/Users/karthickdurai/Equator/OneDoc/130.txt,94.0
-/Users/karthickdurai/Equator/OneDoc/487469.txt,/Users/karthickdurai/Equator/OneDoc/487689.txt,95.0
-/Users/karthickdurai/Equator/OneDoc/488675.txt,/Users/karthickdurai/Equator/OneDoc/488676.txt,92.0
-/Users/karthickdurai/Equator/OneDoc/488674.txt,/Users/karthickdurai/Equator/OneDoc/487154.txt,93.0
-/Users/karthickdurai/Equator/OneDoc/484897.txt,/Users/karthickdurai/Equator/OneDoc/484896.txt,95.0
-/Users/karthickdurai/Equator/OneDoc/489549.txt,/Users/karthickdurai/Equator/OneDoc/489931.txt,94.0
-/Users/karthickdurai/Equator/OneDoc/120.txt,/Users/karthickdurai/Equator/OneDoc/133.txt,95.0
-/Users/karthickdurai/Equator/OneDoc/120.txt,/Users/karthickdurai/Equator/OneDoc/130.txt,95.0
-/Users/karthickdurai/Equator/OneDoc/123.txt,/Users/karthickdurai/Equator/OneDoc/133.txt,94.0
-/Users/karthickdurai/Equator/OneDoc/123.txt,/Users/karthickdurai/Equator/OneDoc/130.txt,95.0
-/Users/karthickdurai/Equator/OneDoc/133.txt,/Users/karthickdurai/Equator/OneDoc/126.txt,95.0
-/Users/karthickdurai/Equator/OneDoc/126.txt,/Users/karthickdurai/Equator/OneDoc/130.txt,94.0
+doc_id,duplicate_doc,similarity_percent,Jaccard Similarity
+/Users/karthickdurai/Equator/OneDoc/489290.txt,/Users/karthickdurai/Equator/OneDoc/485052.txt,0.75,0.7393617021276596
+/Users/karthickdurai/Equator/OneDoc/486189.txt,/Users/karthickdurai/Equator/OneDoc/14692.txt,1.0,1.0
+/Users/karthickdurai/Equator/OneDoc/13884.txt,/Users/karthickdurai/Equator/OneDoc/14724.txt,0.8828125,0.9153705397987191
+/Users/karthickdurai/Equator/OneDoc/489290.txt,/Users/karthickdurai/Equator/OneDoc/485052.txt,1.0,0.7393617021276596
+/Users/karthickdurai/Equator/OneDoc/486371.txt,/Users/karthickdurai/Equator/OneDoc/490339.txt,1.0,0.9097605893186004
+/Users/karthickdurai/Equator/OneDoc/486189.txt,/Users/karthickdurai/Equator/OneDoc/14692.txt,1.0,1.0
+/Users/karthickdurai/Equator/OneDoc/490339.txt,/Users/karthickdurai/Equator/OneDoc/486371.txt,1.0,0.9097605893186004
+/Users/karthickdurai/Equator/OneDoc/14724.txt,/Users/karthickdurai/Equator/OneDoc/13884.txt,0.8828125,0.9153705397987191
