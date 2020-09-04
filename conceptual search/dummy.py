@@ -1,70 +1,86 @@
-import time
-import concurrent.futures
+from itertools import repeat
+from datasketch import MinHash, MinHashLSH
 from glob import glob
-import pandas as pd
-import gc
-
-t1 = time.time()
-
-#
-# def func(seconds):
-#     print(f"Sleeping {seconds} secs...")
-#     time.sleep(seconds)
-#     return "Done sleeping..."
-#     # print("Done sleeping...")
+import time
+import multiprocessing as mp
+from pandas import DataFrame as df
+from tqdm import tqdm
 
 
-# processes = []
-# for _ in range(10):
-#     p = mp.Process(target=func, args=[2])
-#     p.start()
-#     processes.append(p)
-#
-# for process in processes:
-#     process.join()
-
-filePath = glob(r'/Users/karthickdurai/Equator/OneDoc/*.txt')
-filePath = filePath[:100]
-# size = 2
-#
-#
-# def get_shingles(file):
-#     print(f"Getting shingles started...")
-#     t = time.time()
-#     time.sleep(1)
-#     with open(file=file, errors="ignore") as file:
-#         buf = file.read()  # read entire file
-#         for y in range(0, len(buf) - size + 1):
-#             pass
-#     return f"getting shingles completed in {time.time() - t} secs"
-#
-#
-# # for files in filePath:
-# #     result = get_shingles(files, 2)
-# #     print(result)
-# with concurrent.futures.ProcessPoolExecutor() as executor:
-#     f1 = executor.map(get_shingles, filePath)
-#
-# print(f"It took {round(time.time() - t1, 2)} secs to complete")
+def operation(d, f):
+    with open(f, errors="ignore") as f1:
+        buf = f1.read()  # read entire file
+    array = []
+    for y in range(0, len(buf) - size + 1):
+        array.append(buf[y:y + size])
+    stream_set = set(array)
+    minhash = MinHash(num_perm=NUM_PERMUTATION)
+    for x in stream_set:
+        minhash.update(x.encode('utf8'))
+    try:
+        d[f] = minhash
+    finally:
+        pass
 
 
 
-d = []
 
-for i, file in enumerate(filePath):
-    d.append((i, file))
-    if len(d) == 10:
-        x = pd.DataFrame(d, columns=['doc_id', 'filepath'])
-        print(x)
-        print("\n")
-        with open('dummy.csv', 'a+') as csv:
-            x.to_csv(path_or_buf=csv, index=False)
-            d.clear()
-            del x
-        print(x)
+def create_candidate_pairs(minDict):
+    similarity = []
+    for query in minDict.keys():
+        bucket = lsh.query(minDict[query])
 
-# print(d)
-# x = pd.DataFrame(d, columns=['doc_id', 'filepath'])
-# print(x)
-# del x
-# gc.collect()
+        if len(bucket) > 1:
+            _a = bucket[0]
+            for value in bucket[1:]:
+                _b = value
+                similarity.append((_a, _b, minDict[query].jaccard(minDict[_b])))
+
+        if len(similarity) == 1000:
+            my_df = df(similarity, columns=['doc_id', 'duplicate_doc', 'minhash similarity'])
+            with open('file.csv', 'a+') as csv_file:
+                my_df.to_csv(path_or_buf=csv_file, index=False)
+            similarity.clear()
+            del my_df
+
+    if len(similarity) > 0:
+        my_df = df(similarity, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
+        with open('file.csv', 'a+') as csv_file:
+            my_df.to_csv(path_or_buf=csv_file, index=False)
+        similarity.clear()
+        del my_df
+
+
+
+if __name__ == '__main__':
+    t1 = time.time()
+    print("processing starts....")
+
+    filePath = glob(r'/Users/karthickdurai/Equator/OneDoc/*.txt')
+    Dict = mp.Manager().dict()
+    NUM_PERMUTATION = 256
+    size = 3
+
+
+    iterable = zip(repeat(Dict, len(filePath)), filePath)
+    print(f'{time.time() - t1} secs taken to initiate')
+    with mp.Pool() as pool:
+        pool.starmap(operation, iterable)
+
+
+    print("Completed creating minhash\nCreating LSH......")
+
+    lsh = MinHashLSH(threshold=0.90, num_perm=NUM_PERMUTATION, weights=(0.5, 0.5))
+    with lsh.insertion_session() as session:
+        for key in tqdm(Dict.keys(), desc="LSH processing"):
+            session.insert(key=key, minhash=Dict[key])
+
+
+    print(f"total time : {time.time() - t1} secs")
+
+    print("\nfinding candidate pairs.....")
+    create_candidate_pairs(Dict)
+
+
+    print("\ncandidate pairs done")
+    print(f"total time : {time.time() - t1} secs")

@@ -122,15 +122,16 @@ def create_candidate_pairs(queryDict):
 
 if __name__ == '__main__':
     # Construct the argument parser
-    ap = argparse.ArgumentParser()
+    ap = argparse.ArgumentParser(description="python <filename.py> arg1 arg2 arg3")
 
     # Add the arguments to the parser
     ap.add_argument("-s", "--server", required=True,
-                    help="server name")
+                    help="server name", metavar='')
     ap.add_argument("-d", "--database", required=True,
-                    help="database name")
+                    help="database name", metavar='')
     ap.add_argument("-q", "--query", required=True,
-                    help="Sql query")
+                    help="Sql query", metavar='')
+    ap.add_argument("")
     args = vars(ap.parse_args())
 
     t1 = time.time()

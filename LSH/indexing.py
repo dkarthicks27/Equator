@@ -1,13 +1,12 @@
 import argparse
 from itertools import repeat
-from datasketch import MinHash, MinHashLSH
+from datasketch import MinHash
 import time
 import os
 import multiprocessing as mp
-from pandas import DataFrame as df
-from tqdm import tqdm
 import pyodbc
 import sys
+import pickle
 
 
 ########################################################################################################################
@@ -93,44 +92,16 @@ def operation(d, file, size=5):
     d[file[0]] = minhash
 
 
-def create_candidate_pairs(queryDict):
-    similarity = []
-    for query in queryDict.keys():
-        bucket = lsh.query(queryDict[query])
-
-        if len(bucket) > 1:
-            _a = bucket[0]
-            for value in bucket[1:]:
-                _b = value
-                similarity.append((_a, _b, queryDict[query].jaccard(queryDict[_b])))
-
-        if len(similarity) == 1000:
-            my_df = df(similarity, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
-            with open('file.csv', 'a+') as csv_file:
-                my_df.to_csv(path_or_buf=csv_file, index=False)
-            similarity.clear()
-            del my_df
-
-
-    if len(similarity) > 0:
-        my_df = df(similarity, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
-        with open('file.csv', 'a+') as csv_file:
-            my_df.to_csv(path_or_buf=csv_file, index=False)
-        similarity.clear()
-        del my_df
-
 
 if __name__ == '__main__':
     # Construct the argument parser
     ap = argparse.ArgumentParser()
 
     # Add the arguments to the parser
-    ap.add_argument("-s", "--server", required=True,
-                    help="server name")
-    ap.add_argument("-d", "--database", required=True,
-                    help="database name")
-    ap.add_argument("-q", "--query", required=True,
-                    help="Sql query")
+    ap.add_argument("-s", "--server", required=True, help="server name", metavar="")
+    ap.add_argument("-d", "--database", required=True, help="database name", metavar="")
+    ap.add_argument("-q", "--query", required=True, help="Sql query", metavar="")
+    ap.add_argument("o", "--output", required=True, help="Pickle output directory", metavar="")
     args = vars(ap.parse_args())
 
     t1 = time.time()
@@ -149,25 +120,17 @@ if __name__ == '__main__':
     iterable = zip(repeat(Dict, len(k)), k)
     print(f'{time.time() - t1} secs was taken to initiate\n')
 
+    t_start = time.time()
+
     print("Starting minhash + shingle creation....")
     with mp.Pool() as pool:
         pool.starmap(operation, iterable, chunksize=1000)
 
 
-    print("Completed creating minhash\nCreating LSH......")
-    t2 = time.time()
+    print(f"Completed creating and indexing minhash in {time.time() - t_start} secs\npickling the minhash.....")
+    location = os.path.join(args['output'], 'pickle.pc')
 
-    lsh = MinHashLSH(threshold=0.90, num_perm=NUM_PERMUTATION, weights=(0.5, 0.5))
-    with lsh.insertion_session() as session:
-        for key in tqdm(Dict.keys(), desc="LSH processing"):
-            session.insert(key=key, minhash=Dict[key])
+    with open(location, 'wb') as f:
+        pickle.dump(Dict, f)
 
-
-    print(f"{time.time() - t2} secs was taken to create LSH")
-
-    print("\nfinding candidate pairs.....")
-    create_candidate_pairs(dict(Dict))
-
-
-    print("\ncandidate pairs done")
-    print(f"total time : {time.time() - t1} secs")
+    print(f'pickle file saved at: {location}')

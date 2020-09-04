@@ -1,17 +1,25 @@
 <component name="ProjectDictionaryState">
   <dictionary name="karthickdurai">
     <words>
+      <w>coeffs</w>
+      <w>coefs</w>
       <w>cython</w>
+      <w>filenum</w>
       <w>getpid</w>
+      <w>hashcount</w>
       <w>howmany</w>
+      <w>igroup</w>
       <w>jaccard</w>
       <w>karthick</w>
       <w>karthickdurai</w>
+      <w>maxhash</w>
       <w>minhash</w>
       <w>occured</w>
       <w>preprocess</w>
+      <w>processfile</w>
       <w>rowonly</w>
       <w>sqlexpress</w>
+      <w>tqdm</w>
     </words>
   </dictionary>
 </component>

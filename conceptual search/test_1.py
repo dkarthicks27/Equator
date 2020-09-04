@@ -12,13 +12,18 @@
 
 # IMPORT STATEMENTS
 import logging
-import sys
 import os
+import pickle
+import sys
+from glob import glob
+from itertools import repeat
 import pyodbc
 from tqdm import tqdm
 from datasketch import MinHash, MinHashLSH
 import time
+import multiprocessing as mp
 from pandas import DataFrame as df
+import argparse
 
 
 ########################################################################################################################
@@ -92,92 +97,79 @@ def truncate_sql_table(connection, sql_statement):
 ############################################################################################################################################
 
 
-# This function will help us create shingles out of our text files
-# ARGUMENTS: f - file, size- size of shingle
-# RETURN: it returns a generator which holds the shingles
-def get_shingles(fileName, size):
-    with open(fileName, errors="ignore") as f1:
+# This function will run the shingle creation and Minhash operation
+# ARGUMENTS: f - file, d- Manager Dictionary which is shared resource
+# RETURN: None
+
+# def operation(d, f):
+#     with open(f, errors="ignore") as f1:
+#         buf = f1.read()  # read entire file
+#     array = []
+#     for y in range(0, len(buf) - 5 + 1):
+#         array.append(buf[y:y + 5])
+#     stream_set = set(array)
+#     minhash = MinHash(num_perm=NUM_PERMUTATION)
+#     for x in stream_set:
+#         minhash.update(x.encode('utf8'))
+#     try:
+#         d[f] = minhash
+#     finally:
+#         pass
+
+def operation(d, file):
+    size = 5
+    with open(file, errors="ignore") as f1:
         buf = f1.read()  # read entire file
-        for y in range(0, len(buf) - size + 1):
-            yield buf[y:y + size]
-        f1.close()
-
-
-# Create minHash from document set and store it to the minDict dictionary
-def hashLSH(filePath, doc_id):
-    stream_set = set(get_shingles(filePath, NUM_SHINGLES))
-    minhash = MinHash(num_perm=NUM_PERMUTATION)
-    for d in stream_set:
-        minhash.update(d.encode('utf8'))
-    minDict[doc_id] = minhash
-
-
-def create_candidate_pairs():
-    similarity = []
-    for query in minDict.keys():
-        bucket = lsh.query(minDict[query])
-
-        if len(bucket) > 1:
-            _a = bucket[0]
-            for value in bucket[1:]:
-                _b = value
-                similarity.append((_a, _b, minDict[query].jaccard(minDict[_b])))
-
-        if len(similarity) == 1000:
-            my_df = df(similarity, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
-            with open('file.csv', 'a+') as csv_file:
-                my_df.to_csv(path_or_buf=csv_file, index=False)
-            similarity.clear()
-            del my_df
-
-
-    if len(similarity) > 0:
-        my_df = df(similarity, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
-        with open('file.csv', 'a+') as csv_file:
-            my_df.to_csv(path_or_buf=csv_file, index=False)
-        similarity.clear()
-        del my_df
+    array = []
+    for y in range(0, len(buf) - size + 1):
+        array.append(buf[y:y + size])
+    stream_set = set(array)
+    minhash = MinHash(num_perm=256)
+    for x in stream_set:
+        minhash.update(x.encode('utf8'))
+    d[file] = minhash
 
 
 # this is the main function
 # execution starts here
 if __name__ == '__main__':
+    # Construct the argument parser
+    ap = argparse.ArgumentParser()
+
+    # Add the arguments to the parser
+    ap.add_argument("-o", "--output", required=True)
+    args = vars(ap.parse_args())
+
     # START LOGGING
     t_initial = time.time()
-
-    logging.basicConfig(filename='myapp.log', level=logging.INFO)
-    logging.info('Started')
-
-    # THIS IS THE SQL CONNECTION AND QUERYING STATEMENT:
-    sql = input("Enter the sql insert statement: ")
-    connect = sql_connect()
-    k = read_sql_input(connect, sql)
-
-    new_list = [ele for ele in k if os.path.isfile(ele[1]) and ele[1].endswith('.txt')]
-
-
-
-    # SET THE NO. OF PERMUTATIONS
+    k = glob(r'/Users/karthickdurai/Equator/OneDoc/*.txt')
+    k = k[:50]
     NUM_PERMUTATION = 256
-    NUM_SHINGLES = 5  # THIS IS THE NUMBER OF SHINGLES THE DOC NEEDS TO DIVIDED INTO
-    minDict = {}  # This is the dictionary containing all minhash key and value
 
-    t0 = time.time()
-    # pBar = tqdm(fileList)  # just an progress meter
+    # This is the shared Dictionary
+    minDict = mp.Manager().dict()
 
-    for file in tqdm(new_list, desc="Processing"):
-        hashLSH(filePath=file[1], doc_id=file[0])
+    # creating an iterable which will be used in our case
+    iterable = zip(repeat(minDict, len(k)), k)
 
+    print(f'{time.time() - t_initial} secs is taken for initialisation')
+    print("shingle processing starts....")
+    # Mapping each operation to iterable list
+
+    with mp.Pool() as pool:
+        pool.starmap(operation, iterable)
 
     print("\n")
-    print(f'Shingle creation done processing time: {time.time() - t0} secs')
-    print("\n")
+    print(f'Shingle creation and hashing done time: {time.time() - t_initial} secs')
+    print("\nInitiating LSH....")
+    location = os.path.join(args['output'], 'pickle.pc')
 
+    with open(location, 'wb') as f:
+        pickle.dump(minDict, f)
 
+    print(f'pickle file location: {location}')
     # Now we have to create a session for bulk insert
     # here you can set threshold as desired for qualifying for comparison
-    t1 = time.time()
-
 
     # FEEL FREE TO CHANGE THE VALUES OF WEIGHTS HERE THEY ARE
     # THE IMPORTANCE GIVEN TO MINIMISING FALSE POSITIVE OR FALSE NEGATIVE
@@ -186,18 +178,18 @@ if __name__ == '__main__':
     # IF WE WANT MORE PRECISION i.e. identify accurate results and not flag original doc as dup even missing some original though
     # WHILE BY SETTING FALSE NEGATIVE AS MIN AS POSSIBLE we allow duplicate values as well as non dup ones
 
-    lsh = MinHashLSH(threshold=0.90, num_perm=NUM_PERMUTATION, weights=(0.5, 0.5))
-    with lsh.insertion_session() as session:
-        for key in tqdm(minDict.keys(), desc="LSH processing"):
-            session.insert(key=key, minhash=minDict[key])
-
-    print("\n")
-    print(f'LSH processing done time taken is {time.time() - t1} secs')
-    print("\n")
-
-    print("Finding out similar items...")
-    create_candidate_pairs()
-    print("\n")
-
-    print("\n\n")
-    print(f"Total processing time is {time.time() - t_initial} secs")
+    # lsh = MinHashLSH(threshold=0.90, num_perm=NUM_PERMUTATION, weights=(0.5, 0.5))
+    # with lsh.insertion_session() as session:
+    #     for key in tqdm(minDict.keys(), desc="LSH processing"):
+    #         session.insert(key=key, minhash=minDict[key])
+    #
+    # print("\n")
+    # print(f'LSH processing done time taken is {time.time() - t_initial} secs')
+    # print("\n")
+    #
+    # print("Finding out similar items...")
+    # create_candidate_pairs(dict(minDict))
+    # print("\n")
+    #
+    # print("\n\n")
+    # print(f"Total processing time is {time.time() - t_initial} secs")
