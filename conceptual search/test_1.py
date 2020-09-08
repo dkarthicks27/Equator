@@ -130,20 +130,41 @@ def operation(d, file):
     d[file] = minhash
 
 
+def create_candidate_pairs(queryDict):
+    similarity = []
+    for query in queryDict.keys():
+        bucket = lsh.query(queryDict[query])
+
+        if len(bucket) > 1:
+            _a = bucket[0]
+            for value in bucket[1:]:
+                _b = value
+                similarity.append((_a, _b, queryDict[query].jaccard(queryDict[_b])))
+
+        if len(similarity) == 1000:
+            my_df = df(similarity, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
+            with open('file.csv', 'a+') as csv_file:
+                my_df.to_csv(path_or_buf=csv_file, index=False)
+            similarity.clear()
+            del my_df
+
+
+    if len(similarity) > 0:
+        my_df = df(similarity, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
+        with open('file.csv', 'a+') as csv_file:
+            my_df.to_csv(path_or_buf=csv_file, index=False)
+        similarity.clear()
+        del my_df
+
+
 # this is the main function
 # execution starts here
 if __name__ == '__main__':
     # Construct the argument parser
-    ap = argparse.ArgumentParser()
-
-    # Add the arguments to the parser
-    ap.add_argument("-o", "--output", required=True)
-    args = vars(ap.parse_args())
 
     # START LOGGING
     t_initial = time.time()
     k = glob(r'/Users/karthickdurai/Equator/OneDoc/*.txt')
-    k = k[:50]
     NUM_PERMUTATION = 256
 
     # This is the shared Dictionary
@@ -162,12 +183,9 @@ if __name__ == '__main__':
     print("\n")
     print(f'Shingle creation and hashing done time: {time.time() - t_initial} secs')
     print("\nInitiating LSH....")
-    location = os.path.join(args['output'], 'pickle.pc')
+    location = r'/Users/karthickdurai/Equator/conceptual search/pickle.pc'
 
-    with open(location, 'wb') as f:
-        pickle.dump(minDict, f)
 
-    print(f'pickle file location: {location}')
     # Now we have to create a session for bulk insert
     # here you can set threshold as desired for qualifying for comparison
 
@@ -178,17 +196,23 @@ if __name__ == '__main__':
     # IF WE WANT MORE PRECISION i.e. identify accurate results and not flag original doc as dup even missing some original though
     # WHILE BY SETTING FALSE NEGATIVE AS MIN AS POSSIBLE we allow duplicate values as well as non dup ones
 
-    # lsh = MinHashLSH(threshold=0.90, num_perm=NUM_PERMUTATION, weights=(0.5, 0.5))
-    # with lsh.insertion_session() as session:
-    #     for key in tqdm(minDict.keys(), desc="LSH processing"):
-    #         session.insert(key=key, minhash=minDict[key])
-    #
-    # print("\n")
-    # print(f'LSH processing done time taken is {time.time() - t_initial} secs')
-    # print("\n")
-    #
+    lsh = MinHashLSH(threshold=0.90, num_perm=NUM_PERMUTATION, weights=(0.5, 0.5))
+    with lsh.insertion_session() as session:
+        for key in tqdm(minDict.keys(), desc="LSH processing"):
+            session.insert(key=key, minhash=minDict[key])
+
+
+    with open(location, 'wb') as f:
+        pickle.dump(lsh, f)
+
+    print(f'pickle file location: {location}')
+
+    print("\n")
+    print(f'LSH processing done time taken is {time.time() - t_initial} secs')
+    print("\n")
+
     # print("Finding out similar items...")
-    # create_candidate_pairs(dict(minDict))
+    # create_candidate_pairs(minDict)
     # print("\n")
     #
     # print("\n\n")

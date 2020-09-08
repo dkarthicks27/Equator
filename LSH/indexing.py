@@ -101,36 +101,50 @@ if __name__ == '__main__':
     ap.add_argument("-s", "--server", required=True, help="server name", metavar="")
     ap.add_argument("-d", "--database", required=True, help="database name", metavar="")
     ap.add_argument("-q", "--query", required=True, help="Sql query", metavar="")
-    ap.add_argument("o", "--output", required=True, help="Pickle output directory", metavar="")
+    ap.add_argument("-o", "--output", required=True, help="Pickle output directory", metavar="")
+    ap.add_argument("-r", "--range", required=False, help="range of lsh; default: 50 to 95", metavar="", type=tuple, default=(50, 95))
+    ap.add_argument("-S", "--steps", required=False, help="step of lsh range; default: 5", metavar="", type=int, default=5)
     args = vars(ap.parse_args())
 
-    t1 = time.time()
-    print("processing starts....")
+    if args['range'] is None:
+        args['range'] = (50, 95)
+    else:
+        print(args['range'])
+        print(type(args['range']))
 
-    # THIS IS THE SQL CONNECTION AND QUERYING STATEMENT:
-    # sql = input("Enter the sql insert statement: ")
-    connect = sql_connect(args['server'], args['database'])
-    k = read_sql_input(connect, args['query'])
-    path = [element for element in k if os.path.isfile(element[1]) and element[1].endswith('.txt')]
-
-
-    Dict = mp.Manager().dict()
-    NUM_PERMUTATION = 256
-
-    iterable = zip(repeat(Dict, len(k)), k)
-    print(f'{time.time() - t1} secs was taken to initiate\n')
-
-    t_start = time.time()
-
-    print("Starting minhash + shingle creation....")
-    with mp.Pool() as pool:
-        pool.starmap(operation, iterable, chunksize=1000)
+    if args['steps'] is None:
+        args['range'] = 5
+    else:
+        print(type(args['steps']))
 
 
-    print(f"Completed creating and indexing minhash in {time.time() - t_start} secs\npickling the minhash.....")
-    location = os.path.join(args['output'], 'pickle.pc')
 
-    with open(location, 'wb') as f:
-        pickle.dump(Dict, f)
-
-    print(f'pickle file saved at: {location}')
+    # t1 = time.time()
+    # print("processing starts....")
+    #
+    # connect = sql_connect(args['server'], args['database'])
+    # k = read_sql_input(connect, args['query'])
+    # path = [element for element in k if os.path.isfile(element[1]) and element[1].endswith('.txt')]
+    #
+    #
+    # Dict = mp.Manager().dict()
+    # NUM_PERMUTATION = 256
+    #
+    # iterable = zip(repeat(Dict, len(k)), k)
+    # print(f'{time.time() - t1} secs was taken to initiate\n')
+    #
+    # t_start = time.time()
+    #
+    # print("Starting minhash + shingle creation....")
+    # with mp.Pool() as pool:
+    #     pool.starmap(operation, iterable, chunksize=1000)
+    #
+    #
+    # print(f"Completed creating and indexing minhash in {time.time() - t_start} secs\npickling the minhash.....")
+    # location = os.path.join(args['output'], 'pickle.pc')
+    #
+    # with open(location, 'wb') as f:
+    #     pickle.dump(dict(Dict), f)
+    #
+    #
+    # print(f'pickle file saved at: {location}')
