@@ -17,6 +17,8 @@ import pickle
 import sys
 from glob import glob
 from itertools import repeat
+from pprint import pprint
+
 import pyodbc
 from tqdm import tqdm
 from datasketch import MinHash, MinHashLSH
@@ -160,7 +162,6 @@ def create_candidate_pairs(queryDict):
 # this is the main function
 # execution starts here
 if __name__ == '__main__':
-    # Construct the argument parser
 
     # START LOGGING
     t_initial = time.time()
@@ -180,11 +181,23 @@ if __name__ == '__main__':
     with mp.Pool() as pool:
         pool.starmap(operation, iterable)
 
+    file_a = r'/Users/karthickdurai/Equator/OneDoc/117.txt'
+    file_b = r'/Users/karthickdurai/Equator/OneDoc/120.txt'
+    print(minDict[file_a].jaccard(minDict[file_b]))
+
     print("\n")
     print(f'Shingle creation and hashing done time: {time.time() - t_initial} secs')
     print("\nInitiating LSH....")
     location = r'/Users/karthickdurai/Equator/conceptual search/pickle.pc'
+    pickle_dict = {}
+    for key in tqdm(minDict.keys(), desc="pickling the minhash objects"):
+        pickle_dict[key] = minDict[key].hashvalues
 
+
+    with open(location, 'wb') as f:
+        pickle.dump(pickle_dict, f)
+
+    del pickle_dict
 
     # Now we have to create a session for bulk insert
     # here you can set threshold as desired for qualifying for comparison
@@ -195,17 +208,13 @@ if __name__ == '__main__':
     # FALSE NEGATIVE: SOMETHING IS POSTIVE BUT DECLARED AS POSITIVE
     # IF WE WANT MORE PRECISION i.e. identify accurate results and not flag original doc as dup even missing some original though
     # WHILE BY SETTING FALSE NEGATIVE AS MIN AS POSSIBLE we allow duplicate values as well as non dup ones
+    #
+    # lsh = MinHashLSH(threshold=0.90, num_perm=NUM_PERMUTATION, weights=(0.5, 0.5))
+    # with lsh.insertion_session() as session:
+    #     for key in tqdm(minDict.keys(), desc="LSH processing"):
+    #         session.insert(key=key, minhash=minDict[key])
 
-    lsh = MinHashLSH(threshold=0.90, num_perm=NUM_PERMUTATION, weights=(0.5, 0.5))
-    with lsh.insertion_session() as session:
-        for key in tqdm(minDict.keys(), desc="LSH processing"):
-            session.insert(key=key, minhash=minDict[key])
 
-
-    with open(location, 'wb') as f:
-        pickle.dump(lsh, f)
-
-    print(f'pickle file location: {location}')
 
     print("\n")
     print(f'LSH processing done time taken is {time.time() - t_initial} secs')

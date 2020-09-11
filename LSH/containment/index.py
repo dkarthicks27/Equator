@@ -120,7 +120,7 @@ if __name__ == '__main__':
 
     val = [(key, value[0], value[1]) for key, value in Dict.items()]
     print(val)
-    lshEn = MinHashLSHEnsemble(threshold=0.75, num_perm=NUM_PERMUTATION, num_part=32)
+    lshEn = MinHashLSHEnsemble(threshold=0.50, num_perm=NUM_PERMUTATION, num_part=32)
     lshEn.index(val)
     location = r'/Users/karthickdurai/Equator/LSH/pickle.pc'
     with open(location, 'wb') as f:

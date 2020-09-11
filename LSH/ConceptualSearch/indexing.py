@@ -110,11 +110,13 @@ if __name__ == '__main__':
     print("processing starts....")
 
 
+    # connecting to sql is done by following the below code
     connect = sql_connect(args['server'], args['database'])
     k = read_sql_input(connect, args['query'])
     path = [element for element in k if os.path.isfile(element[1]) and element[1].endswith('.txt')]
 
 
+    # So a manager dictionary is created which is a shared resource in our case
     Dict = mp.Manager().dict()
     NUM_PERMUTATION = 256
 
@@ -124,12 +126,37 @@ if __name__ == '__main__':
     t_start = time.time()
 
     print("Starting minhash + shingle creation....")
+    # Let's start with the actual process of creating minhash and shingles
     with mp.Pool() as pool:
         pool.starmap(operation, iterable, chunksize=1000)
 
 
-    print(f"Completed creating and indexing minhash in {time.time() - t_start} secs\npickling the minhash.....")
-    location = os.path.join(args['output'], 'pickle.pc')
+
+
+    # Pickling the minhash by creating a pickle dictionary
+    # this dictionary contains all the hashValues from the minhash
+    # as we cannot actually pickle object stored at some memory location
+    pickle_dict = {}
+    for key in tqdm(Dict.keys(), desc="pickling the minhash...."):
+        pickle_dict[key] = Dict[key].hashvalues
+
+
+    minhash_location = os.path.join(args['output'], 'hash_pickle.pc')
+    with open(minhash_location, 'rb') as f:
+        pickle.dump(pickle_dict, f)
+
+    del pickle_dict
+    print(f"Completed creating and indexing minhash in {time.time() - t_start} secs")
+    # the process of minhash and its pickle is completely done
+
+
+
+
+
+
+    # lsh is now initiated, we create a pickle file for it in the given directory
+    # let's start the process
+    lsh_location = os.path.join(args['output'], 'lsh_pickle.pc')
 
 
     lsh = MinHashLSH(threshold=0.50, num_perm=NUM_PERMUTATION, weights=(0.5, 0.5))
@@ -137,6 +164,9 @@ if __name__ == '__main__':
         for key in tqdm(Dict.keys(), desc="LSH processing"):
             session.insert(key=key, minhash=Dict[key])
 
-    with open(location) as f:
+    with open(lsh_location, 'wb') as f:
         pickle.dump(lsh, f)
-    print(f'pickle file saved at: {location}')
+
+    # so created and dumped the lsh file too
+
+    print(f'pickle file saved at: {lsh_location}')

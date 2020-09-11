@@ -5,6 +5,9 @@ import os
 import pyodbc
 import sys
 import pickle
+from pandas import DataFrame as df
+import numpy as np
+
 
 
 ########################################################################################################################
@@ -87,44 +90,85 @@ def operation(qry, size=5):
     return minhash
 
 
+def jaccard(a, b):
+    if len(a) != len(b):
+        raise ValueError("Cannot compute Jaccard given MinHash with\
+                        different numbers of permutation functions")
+    return np.float(np.count_nonzero(a == b)) / np.float(len(a))
+
+
+
+def similarItems(minhash, threshold):
+    similarity = []
+    bucket = lsh.query(minhash)
+    if len(bucket) > 1:
+        for value in bucket[1:]:
+            sim = jaccard(minhash.hashvalues, Dict[value])
+            if sim >= threshold:
+                similarity.append((value, sim))
+
+
+        my_df = df(similarity, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
+        with open('file.csv', 'a+') as csv_file:
+            my_df.to_csv(path_or_buf=csv_file, index=False)
+            similarity.clear()
+        del my_df
+
+    else:
+        print("No similar items found related to the query for the given threshold")
+
+
+
 
 if __name__ == '__main__':
     # Construct the argument parser
     ap = argparse.ArgumentParser()
 
+
     # Add the arguments to the parser
     ap.add_argument("-f", "--filepath", required=True, help="pickled directory file path", metavar="")
     ap.add_argument("-q", "--query", required=True, help="conceptual search query as string", metavar="", nargs='*')
-    ap.add_argument("-t", "--thresholdRange", required=True, help="threshold for conceptual search", metavar="", nargs=2, type=int)
+    ap.add_argument("-t", "--threshold", required=True, help="threshold for conceptual search", metavar="", nargs=1, type=int)
     args = vars(ap.parse_args())
 
     t1 = time.time()
 
 
-
+    # so assigning variables for the input arguments
     pickle_file_directory = args['filepath']
     query = ' '.join(args['query'])
-    lowerRange, upperRange = args['thresholdRange']
+    threshold = args['threshold']
+
+
+    # variable containing minhash and lsh pickle files
+    minhash_location = os.path.join(pickle_file_directory, 'hash_pickle.pc')
+    lsh_location = os.path.join(pickle_file_directory, 'lsh_pickle.pc')
 
 
 
-
+    # checking if both these files are available and are present
     if not os.path.isdir(pickle_file_directory):
         raise ModuleNotFoundError("The input directory does not exist")
 
-    pickle_file = os.path.join(pickle_file_directory, 'pickle.pc')
-    if not os.path.isfile(pickle_file):
+
+    if not os.path.isfile(minhash_location):
         raise FileNotFoundError("No file exist, Enter a valid filepath, or run indexing program with given file location")
 
-    lsh = pickle.load(open(pickle_file, 'rb'))
+
+    if not os.path.isfile(lsh_location):
+        raise FileNotFoundError("No file exist, Enter a valid filepath, or run indexing program with given file location")
 
 
 
-    with open(query, errors="ignore") as q:
-        buf = q.read()
-        mHash = operation(buf)
 
-    similarItems = lsh.query(mHash)
-    print(similarItems)
+
+    # loading the Dictionary of minHash Values (not minhash objects) and lsh object
+    Dict = pickle.load(open(minhash_location, 'rb'))
+    lsh = pickle.load(open(lsh_location, 'rb'))
+
+
+    # getting minhash of the query
+    minhash = operation(query)
+    similarItems(minhash=minhash, threshold=threshold)  # finding similar documents to the query
 
     print(f'time taken {time.time() - t1}')
