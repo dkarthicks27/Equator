@@ -8,7 +8,6 @@ import pyodbc
 import sys
 import pickle
 
-
 ########################################################################################################################
 # this section includes all the basic sql functions
 from tqdm import tqdm
@@ -77,6 +76,7 @@ def truncate_sql_table(connection, sql_statement):
     finally:
         connection.close()
 
+
 #####################################################################################################
 
 
@@ -94,6 +94,7 @@ def operation(d, file, size=5):
 
 
 
+
 if __name__ == '__main__':
     # Construct the argument parser
     ap = argparse.ArgumentParser()
@@ -105,15 +106,13 @@ if __name__ == '__main__':
     ap.add_argument("-o", "--output", required=True, help="Pickle output directory", metavar="")
     args = vars(ap.parse_args())
 
-
     t1 = time.time()
     print("processing starts....")
-
 
     # connecting to sql is done by following the below code
     connect = sql_connect(args['server'], args['database'])
     k = read_sql_input(connect, args['query'])
-    path = [element for element in k if os.path.isfile(element[1]) and element[1].endswith('.txt')]
+    k = [element for element in k if os.path.isfile(element[1]) and element[1].endswith('.txt')]
 
 
     # So a manager dictionary is created which is a shared resource in our case
@@ -130,9 +129,6 @@ if __name__ == '__main__':
     with mp.Pool() as pool:
         pool.starmap(operation, iterable, chunksize=1000)
 
-
-
-
     # Pickling the minhash by creating a pickle dictionary
     # this dictionary contains all the hashValues from the minhash
     # as we cannot actually pickle object stored at some memory location
@@ -140,24 +136,17 @@ if __name__ == '__main__':
     for key in tqdm(Dict.keys(), desc="pickling the minhash...."):
         pickle_dict[key] = Dict[key].hashvalues
 
-
     minhash_location = os.path.join(args['output'], 'hash_pickle.pc')
-    with open(minhash_location, 'rb') as f:
+    with open(minhash_location, 'wb') as f:
         pickle.dump(pickle_dict, f)
 
     del pickle_dict
     print(f"Completed creating and indexing minhash in {time.time() - t_start} secs")
     # the process of minhash and its pickle is completely done
 
-
-
-
-
-
     # lsh is now initiated, we create a pickle file for it in the given directory
     # let's start the process
     lsh_location = os.path.join(args['output'], 'lsh_pickle.pc')
-
 
     lsh = MinHashLSH(threshold=0.50, num_perm=NUM_PERMUTATION, weights=(0.5, 0.5))
     with lsh.insertion_session() as session:

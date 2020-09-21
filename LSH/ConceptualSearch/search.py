@@ -108,7 +108,7 @@ def similarItems(minhash, threshold):
                 similarity.append((value, sim))
 
 
-        my_df = df(similarity, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
+        my_df = df(similarity, columns=['duplicate_doc', 'similarity_percent'])
         with open('file.csv', 'a+') as csv_file:
             my_df.to_csv(path_or_buf=csv_file, index=False)
             similarity.clear()
@@ -138,7 +138,6 @@ if __name__ == '__main__':
     pickle_file_directory = args['filepath']
     query = ' '.join(args['query'])
     threshold = args['threshold']
-
 
     # variable containing minhash and lsh pickle files
     minhash_location = os.path.join(pickle_file_directory, 'hash_pickle.pc')

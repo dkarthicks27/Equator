@@ -1,6 +1,7 @@
+import os
 from datasketch import MinHash
 import time
-
+import argparse
 import pyodbc
 import sys
 import pickle
@@ -73,12 +74,14 @@ def truncate_sql_table(connection, sql_statement):
     finally:
         connection.close()
 
+
 #####################################################################################################
 
 def operation(qry, size=5):
-    array = []
-    for y in range(0, len(qry) - size + 1):
-        array.append(qry[y:y + size])
+    # array = []
+    # for y in range(0, len(qry) - size + 1):
+    #     array.append(qry[y:y + size])
+    array = qry.split()
     stream_set = set(array)
     minhash = MinHash(num_perm=256)
     for x in stream_set:
@@ -86,24 +89,36 @@ def operation(qry, size=5):
     return minhash, len(stream_set)
 
 
-
 if __name__ == '__main__':
+    # ap = argparse.ArgumentParser()
+    #
+    # # Add the arguments to the parser
+    # ap.add_argument("-q", "--query", required=True, help="search query", metavar="", nargs='*')
+    # args = vars(ap.parse_args())
+    # buf = ''.join(args['query'])
+    buf = '''
+E-mail transmission cannot be guaranteed to be secure or error-free
+as information could be intercepted, corrupted, lost, destroyed,
+arrive late or incomplete, or contain viruses.  The sender therefore
+does not accept liability for any errors or omissions in the contents
+of this message which arise as a result of e-mail transmission.  If
+verification is required please request a hard-copy version.  This
+message is provided for informational purposes and should not be
+construed as a solicitation or offer to buy or sell any securities or
+related financial instruments.'''
 
     # this program uses minhash Ensemble for querying
     t1 = time.time()
+    minhash_location = os.path.join(r'/Users/karthickdurai/Equator/LSH/containment/', 'hash_pickle.pc')
 
-    pickle_file_directory = r'/LSH/pickle.pc'
+    lsh_ensemble_location = r'/Users/karthickdurai/Equator/LSH/containment/lsh_ensemble.pc'
 
-    query = r'/Users/karthickdurai/Equator/OneDoc/hello.txt'
+    Dict = pickle.load(open(minhash_location, 'rb'))
+    lshEnsemble = pickle.load(open(lsh_ensemble_location, 'rb'))
 
-
-    lshEnsemble = pickle.load(open(pickle_file_directory, 'rb'))
-
-    with open(query, errors="ignore") as q:
-        buf = q.read()
-        mHash, size = operation(buf)
+    mHash, size = operation(buf)
     similarItems = lshEnsemble.query(mHash, size)
     for i in similarItems:
-        print(i)
+        print(i, mHash.jaccard(MinHash(hashvalues=Dict[i])))
 
     print(f'time taken {time.time() - t1}')

@@ -1,5 +1,16 @@
 import pickle
+from datasketch import MinHash
 import numpy as np
+
+def operation(qry, size=5):
+    array = []
+    for y in range(0, len(qry) - size + 1):
+        array.append(qry[y:y + size])
+    stream_set = set(array)
+    minhash = MinHash(num_perm=256)
+    for x in stream_set:
+        minhash.update(x.encode('utf8'))
+    return minhash
 
 
 def jaccard(a, b):
@@ -9,18 +20,25 @@ def jaccard(a, b):
     return np.float(np.count_nonzero(a == b)) / np.float(len(a))
 
 
+f = pickle.load(open('pickle_dict.pc', 'rb'))
+query = '''From: Laurel Adams [/o=cw-test/ou=first administrative group/cn=recipients/cn=laurel.adams]
+To: Sara Shackleton
+Subject: TR Bond Swap Confirmation
 
-location = r'/Users/karthickdurai/Equator/conceptual search/pickle.pc'
-pickle_directory = pickle.load(open(location, 'rb'))
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
 
-
-file_a = r'/Users/karthickdurai/Equator/OneDoc/117.txt'
-file_b = r'/Users/karthickdurai/Equator/OneDoc/120.txt'
-
-
-jac = jaccard(pickle_directory[file_a], pickle_directory[file_b])
-print(jac)
-
+Sara,'''
 
 
 
+mHash = operation(query)
+
+result = []
+for key in f.keys():
+    jc = jaccard(mHash, f[key])
+    if jc > 0.40:
+        result.append((key, jc))
+
+print(result)

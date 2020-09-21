@@ -1,3 +1,4 @@
+import os
 from itertools import repeat
 from datasketch import MinHash, MinHashLSHEnsemble
 import time
@@ -6,11 +7,11 @@ import pyodbc
 import sys
 import glob
 import pickle
+from tqdm import tqdm
 
 
 ########################################################################################################################
 # this section includes all the basic sql functions
-from tqdm import tqdm
 
 
 def sql_connect(server, database):
@@ -82,9 +83,11 @@ def truncate_sql_table(connection, sql_statement):
 def operation(d, file, size=5):
     with open(file, errors="ignore") as f1:
         buf = f1.read()  # read entire file
-    array = []
-    for y in range(0, len(buf) - size + 1):
-        array.append(buf[y:y + size])
+    # array = []
+    # for y in range(0, len(buf) - size + 1):
+    #     array.append(buf[y:y + size])
+    # print(array)
+    array = buf.split()
     stream_set = set(array)
     minhash = MinHash(num_perm=256)
     for x in stream_set:
@@ -100,7 +103,8 @@ if __name__ == '__main__':
     print("processing starts....")
 
 
-    k = glob.glob(r'/Users/karthickdurai/Equator/OneDoc/*.txt')
+    m = glob.glob(r'/Users/karthickdurai/Equator/OneDoc/*.txt')
+    k = m
 
 
     Dict = mp.Manager().dict()
@@ -116,13 +120,24 @@ if __name__ == '__main__':
         pool.starmap(operation, iterable, chunksize=1000)
 
 
+    # Pickling the minhash by creating a pickle dictionary
+    # this dictionary contains all the hashValues from the minhash
+    # as we cannot actually pickle object stored at some memory location
+    pickle_dict = {}
+    for key in tqdm(Dict.keys(), desc="pickling the minhash...."):
+        pickle_dict[key] = Dict[key][0].hashvalues
+
+    minhash_location = os.path.join(r'/Users/karthickdurai/Equator/LSH/containment/', 'hash_pickle.pc')
+    with open(minhash_location, 'wb') as f:
+        pickle.dump(pickle_dict, f)
+
+    del pickle_dict
     print(f"Completed creating and indexing minhash in {time.time() - t_start} secs\npickling the minhash.....")
 
     val = [(key, value[0], value[1]) for key, value in Dict.items()]
-    print(val)
     lshEn = MinHashLSHEnsemble(threshold=0.50, num_perm=NUM_PERMUTATION, num_part=32)
     lshEn.index(val)
-    location = r'/Users/karthickdurai/Equator/LSH/pickle.pc'
+    location = r'/Users/karthickdurai/Equator/LSH/containment/lsh_ensemble.pc'
     with open(location, 'wb') as f:
         pickle.dump(lshEn, f)
     print(f'pickle file saved at: {location}')
