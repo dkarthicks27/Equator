@@ -116,6 +116,7 @@ related financial instruments.'''
     Dict = pickle.load(open(minhash_location, 'rb'))
     lshEnsemble = pickle.load(open(lsh_ensemble_location, 'rb'))
 
+    for i in
     mHash, size = operation(buf)
     similarItems = lshEnsemble.query(mHash, size)
     for i in similarItems:

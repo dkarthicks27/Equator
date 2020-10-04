@@ -1,4 +1,3 @@
-import numpy as np
 from GensimApproach import corpora, models
 from GensimApproach.utils import simple_preprocess
 import glob
@@ -41,7 +40,7 @@ class BoWCorpus(object):
                 yield bow
 
 
-file_path = '/home/eqt2/OneDoc/'
+file_path = r'/Users/karthickdurai/Equator/OneDoc/'
 docs = glob.glob(path)
 dic = corpora.Dictionary(ReadTextFiles(file_path))
 bowCorpus = BoWCorpus(file_path, dic)
@@ -50,6 +49,7 @@ tfidf = models.TfidfModel(bowCorpus)
 corpus_tfidf = tfidf[bowCorpus]
 # for doc in tfidf[bowCorpus]:
 # print([[dic[id], np.around(freq, decimals=2)] for id, freq in doc])
+
 
 
 lda_model = models.LdaMulticore(corpus_tfidf, id2word=dic, num_topics=5, passes=2, workers=2)

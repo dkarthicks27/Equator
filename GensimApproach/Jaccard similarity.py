@@ -1,70 +1,88 @@
-import glob
-import time
-import pandas as pd
-import os
+from gensim import corpora
+from gensim import similarities
+from glob import glob
+from nltk.corpus import stopwords
+from gensim.models import TfidfModel
+from gensim import models
 
-os.remove("file.csv")
-start = time.time()
-fileList = glob.glob(r'/Users/karthickdurai/Equator/OneDoc/*.txt')  #instead of glob please insert list of all file path
-# also
-# doc_id = {list of document id}
-SHINGLE_SIZE = 3
-min_threshold = 0.90
-max_threshold = 0.95
-array = []
-
-def get_shingles(f, size):
-    shingles = set()
-    buf = f.read()  # read entire file
-    for i in range(0, len(buf) - size + 1):
-        yield buf[i:i + size]
+stop_words = stopwords.words('english')
 
 
-def jaccard(set1, set2):
-    x = len(set1.intersection(set2))
-    y = len(set1.union(set2))
-    return x / float(y)
+class BoWCorpus(object):
+    def __init__(self, path, dictionary):
+        self.filepath = path
+        self.dictionary = dictionary
+
+    def __iter__(self):
+        # global mydict  # OPTIONAL, only if updating the source dictionary.
+
+        for file in self.filepath:
+            with open(file, errors='ignore') as f:
+                buf = f.read()
+
+            buf = [word for word in buf.lower().split() if word not in stop_words]
+            bow = self.dictionary.doc2bow(buf, allow_update=True)
+            yield bow
 
 
-for i in range(0, len(fileList)):
-# def jaccard_similarity(i):
-    # i = file.index + 1
-    # print(i)
-    for j in range(i, len(fileList)):
-        with open(fileList[i], errors="ignore") as f1, open(fileList[j], errors="ignore") as f2:
-            shingles1 = set(get_shingles(f1, size=SHINGLE_SIZE))
-            shingles2 = set(get_shingles(f2, size=SHINGLE_SIZE))
-        similarity = jaccard(shingles1, shingles2)
-        if min_threshold <= similarity <= max_threshold:
-            array.append((fileList[i], fileList[j], similarity))  # here instead of fileList[i] and fileList[j]
-            # insert doc_id[i] and doc_id[j]
-        if len(array) == 10000:
-            # print(len(array))
-            my_df = pd.DataFrame(array, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
-            with open('file.csv', 'a+') as csv_file:
-                my_df.to_csv(path_or_buf=csv_file, index=False)
-                array.clear()
-                my_df = my_df.iloc[0:0]
+# Create the Dictionary
+mydict = corpora.Dictionary()
 
-        # print(len(array))
-        if len(array) > 0:
-            my_df = pd.DataFrame(array, columns=['doc_id', 'duplicate_doc', 'similarity_percent'])
-            with open('file.csv', 'a+') as csv_file:
-                my_df.to_csv(path_or_buf=csv_file, index=False)
-                array.clear()
-                my_df = my_df.iloc[0:0]
+fileList = glob(r'/Users/karthickdurai/Equator/OneDoc/*.txt')
+fileList = fileList[:50]
+# Create the Corpus
+bow_corpus = BoWCorpus(fileList, dictionary=mydict)  # memory friendly
+# tfidf = TfidfModel(bow_corpus, dictionary=mydict, smartirs='ntc')
+lsi_model = models.LsiModel(corpus=bow_corpus)
+# lsi = lsi_model[tfidf[bow_corpus]]
+# for i in lsi:
+#     print(i)
+# index = similarities.SparseMatrixSimilarity(corpus=tfidf[bow_corpus])
+
+query = '''From: William Bradford [/o=cw-test/ou=first administrative group/cn=recipients/cn=william.bradford]
+To: Paul Radous
+CC: Sara Shackleton
+Subject: Margin leverage and Enron Guarantee
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+Paul,
+
+Can you work with Sara on this?
+
+Bill
+
+---------------------- Forwarded by William S Bradford/HOU/ECT on 07/28/2000 
+07:31 PM ---------------------------
+   
+	
+	
+	From:  Sheila Glover                           07/28/2000 01:23 PM
+	
+
+To: William S Bradford/HOU/ECT@ECT, Sara Shackleton/HOU/ECT@ECT
+cc: Jeff Kinneman/HOU/ECT@ECT, John Greene/HOU/ECT@ECT, Gary 
+Hickerson/HOU/ECT@ECT 
+Subject: Margin leverage and Enron Guarantee'''
+
+index = similarities.Similarity(corpus=lsi_model[bow_corpus], num_features=lsi_model.num_topics, output_prefix='output')
 
 
-# if __name__ == '__main__':
-#     import multiprocessing as mp
-#     # k = range(0, len(fileList))
-#     # from multiprocessing import Pool
-#     # p = Pool(mp.cpu_count())
-#     # p.map(jaccard_similarity, fileList)
-#     # p.close()
-#     # p.join()
-#     # print(array)
-#     for i in range(0, len(fileList)):
-#         jaccard_similarity(i)
-end = time.time()
-print("Time taken: {}".format(end-start))
+query_doc = [word for word in query.lower().split() if word not in stop_words]
+query_bow = mydict.doc2bow(query_doc, allow_update=True)
+
+
+# query_lsi = lsi_model[query_bow]
+
+sims = index[lsi_model[query_bow]]
+
+sims = sorted(enumerate(sims), key=lambda item: -item[1])
+
+for i, s in enumerate(sims):
+    print(s, fileList[i])
+
+# Print the token_id and count for each line.
+# for line in bow_corpus:
+#     print(line)

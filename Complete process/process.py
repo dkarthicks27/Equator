@@ -238,9 +238,10 @@ def conceptualSearch(query, route):
 
     # so the LsiAndKNN document is taken as input, it can be a sentence or a string or etc.
     print("\n\n......Conceptual Search.......\n")
-    if route == '1':
-        tfidfVectorizer.input = "content"
     vectorizer = pickle.load(open('vectorizer.pickle', 'rb'))
+    if route == '1':
+        vectorizer.input = "content"
+    # vectorizer = pickle.load(open('vectorizer.pickle', 'rb'))
     vec1 = vectorizer.transform(query)
     #print(vec1)
     #print("\n")
@@ -294,7 +295,20 @@ if __name__ == '__main__':
     elif operation == '0':
         what = input("\nIs the LsiAndKNN a String or a path to document\nEnter 1 for string, 2 for path: ")
         if what == '1':
-            query = input("enter the search LsiAndKNN: ")
+            query = '''From: Laurel Adams [/o=cw-test/ou=first administrative group/cn=recipients/cn=laurel.adams]
+To: Sara Shackleton
+Subject: TR Bond Swap Confirmation
+
+Importance:     Normal
+Priority:       Normal
+Sensitivity:    None
+
+Sara,
+
+Paul wants to know if we have any objections to the attached form of 
+confirmation.  Please let me know if you have any concerns.  Thank you!  
+---------------------- Forwarded by Laurel Adams/HOU/ECT on 07/31/2000 05:00 
+PM ---------------------------'''
             conceptualSearch([query], route=what)
         else:
             conceptualSearch(['/Users/karthickdurai/Equator/OneDoc/126.txt'], route=what)
