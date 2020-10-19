@@ -39,7 +39,13 @@ def findHash(string):
     :param string: str
     :return: set of hexadecimals
     """
-    stream_set = set(string)
+    array = []
+    stream_set = set()
+
+    for i in string.lower().split():
+        if i not in stream_set and i not in stopWords:
+            stream_set.add(i)
+            array.append(i)
     final = set()
     for word in stream_set:
         m = hashlib.sha256()
@@ -90,7 +96,7 @@ if __name__ == '__main__':
 
     # preparing the query
     # cleaning the query and hashing the query
-    buf = [word for word in buf.lower().split() if word not in stopWords]
+
     if len(buf) == 0:
         raise ValueError('The length of the input query after removing stopwords is 0\
                          length of the string must be at least one')
