@@ -1,5 +1,5 @@
 """
-In this file we have all the methods : clustering, classification, near duplicate identification, conceptual search
+In this file we have all the methods : clustering, trial_code, near duplicate identification, conceptual search
 So our aim is to have a common tfidf method which can serialise and deserialize it.
 Then individual methods for each operation, with their parameters
 below is the import section:
@@ -265,7 +265,7 @@ def nearDuplicate(arr, threshold=0.9):
 
 def classification(trainVec, test, labelTraining):
     """
-    Now below let us finish classification problem:
+    Now below let us finish trial_code problem:
     """
     iteration = 1
     x = pickle.load(open('vectors.pickle', 'rb'))
@@ -397,14 +397,14 @@ if __name__ == '__main__':
     else:
         print("\ngoing to use already pickled tfidf vectorizer...)")
     print("\nnow the vectors are created, Choose the operation which you want to perform")
-    operation = input("\n0 for conceptual search\n1 for clustering\n2 for classification\n3 for near "
+    operation = input("\n0 for conceptual search\n1 for clustering\n2 for trial_code\n3 for near "
                       "Duplicate identification\n4 for heirarchial clustering: ")
     if operation == '1':
         print("\nclustering performing...")
         clustering(num_cluster=5, top_n_terms=3, label=filePath)
 
     elif operation == '2':
-        print("\nclassification performing...")
+        print("\ntrial_code performing...")
         classification(trainData, testData, trainLabels)
 
     elif operation == '3':

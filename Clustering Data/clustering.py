@@ -78,7 +78,7 @@ tuple_clusterId2TopTerms = list(clusterToTopTerms.itertuples(index=False, name=N
 # print(tuple_clusterId2TopTerms)
 
 ##############################################################################################################
-# below is the syntax for classification
+# below is the syntax for trial_code
 # Y = tfid_vectorizer.transform(["why do i need to send a mail"])
 # prediction = km.predict(Y)
 # print(prediction)
